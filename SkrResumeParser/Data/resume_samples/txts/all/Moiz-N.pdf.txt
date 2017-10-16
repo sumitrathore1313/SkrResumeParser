@@ -1,0 +1,239 @@
+<ba>
+Moiz N
+
+Android Developer
+
+Fort Lauderdale, FL - Email me on Indeed: indeed.com/r/Moiz-N/83fbdaf1faf678fc
+<su>
+• Over 71/2 years of android applications development experience for phone and tablets devices.
+• Experience in Mobile development using Google Android platforms.
+• Expertise in developing application for Android Operating System using Eclipse IDE, Java and Android SDK.
+• Strong knowledge of Android basic components i.e. Activity, Fragment, Service, Broadcast Receiver and
+Content Provider.
+• Experience in software engineering and development, agile development methodologies and test/behavior
+driven development.
+•  Extensive  experience  in  building  mobile  applications  using  Android  framework  APIs  (Sqlite  Database,
+Camera, Animations, Maps).
+• Worked with Android adapter views like List view, Grid view and Gallery.
+• Experience developing in Unix/Linux environment.
+• Experience in front and back-end Application development.
+• Proficient in writing Test plans, Test cases and Test scripts.
+• Experience with an SCRUM Agile & RAD software development methodology.
+• Experience in building apps, which consume REST and SOAP web services using JSON & XML parsing.
+• Experienced in using a web-based application used for managing tests scenarios and defect tracking and
+management.
+• Working experience in Android Connectivity components like Bluetooth, Wi-Fi and Location Based Services
+along with Google Maps API v2.
+• Involved in different phases of Software Development Life Cycle [SDLC] requirement gathering, analysis,
+Designing, Implementation and Testing.
+• Excellent conceptual and logical thinking & ability to grasp and master new technologies.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Allin Interactive Inc  -  Fort Lauderdale, FL - September 2016 to January 2017
+
+Description: Allin interactive is a service provider company to many huge corporations which are basically into
+hotel services and cruises. Their apps are mostly for great cruise experience for companies like Norwegian
+Cruise Line, Royal Caribbean. The NCL app is one such great experience app which connects you to all the
+activities on board cruise and helps you to connect to fellow cruise members.
+Link: https://play.google.com/store/apps/details?id=digiMobile.MainMenu.NCL&hl=en
+Responsibilities:
+• Followed Scrum and Agile methodologies in project implementation.
+• Developed the Proof of concept for implementation of social media in the app.
+• Implemented the OAuth login for Facebook and Twitter from the app.
+• Implemented the Sharing proof of concept from the App.
+• Integrated the sharing functionality for the whole app with the social media websites of Facebook and Twitter.
+• Interpreted the wireframes to create the Layouts.
+• Used web views, list views & populated lists.
+• Used Facebook and Twitter API's to get the desired data for the user.
+• Developed the activities and UI layers.
+• Used GIT for code repository and maintaining current and historical versions of the source code.
+
+• Used Android SDK for development.
+• Worked on debugging the application using Log cat, DDMS.
+• Worked in an agile environment delivering in short turn-around times.
+Environment: Android Studio, Source Tree, Jira.
+
+Senior Android Developer
+Caremark  -  Lincolnshire, IL - June 2015 to August 2016
+
+Description: The CVS/Caremark app lets you refill or request new mail service prescriptions, track order status,
+view prescription history and more. We need to have CVS/Caremark prescription benefits to use the app.
+Link: https://play.google.com/store/apps/details?id=com.caremark.caremark&hl=en
+Responsibilities:
+• Followed the Agile and Scrum methodologies in the project implementation.
+• Interpreted the wireframes and created layouts and functionality according to it.
+• Implemented Async task and Handlers to get the server response.
+• Developed the Splash screen and Navigation Drawer with ImageView and ListView.
+• Implemented REST services, getting JSON response and parsing them to get the required information.
+• Worked on Password and Email validation.
+• Implemented the required GUI by making modifications to the xml files.
+• Used web views, list views & populated lists from database using simple adapters.
+• Developed the activities and UI layers.
+• Used Android SDK and Eclipse IDE for development.
+• Writing PL/SQL Queries to get schedule of policy payment and defaults.
+• Worked on the Camera feature to capture Gift cards and Loyalty cards.
+• Integrated APIs in Settings Menu for itemized display of the user's preference.
+• Used GIT for code repository and maintaining current and historical versions of the source code.
+• Participated in all the phases of SDLC from design, development through testing, porting and support of
+application.
+Environment: Android SDK 4.4, Android Studio, Eclipse IDE 4.3, Agile Methodology, JSON.
+
+Senior Android Developer
+United Health Care  -  Minneapolis, MN - March 2014 to May 2015
+
+Link: https://play.google.com/store/apps/details?id=com.uhg.mobile.health4me&hl=en
+Description:  The  United  Healthcare  Health4Me  mobile  application  is  designed  to  help  find  the  answers
+Customer  need.  Whether  to  find  physicians  or  pharmacies  near,  check  the  status  of  a  claim,  manage
+prescriptions or estimate health care costs, Health4Me is go-to resource for everything related to health.
+Responsibilities:
+• Developed user-friendly user-interfaces using widgets like Menus, Dialogs, different Layouts, Buttons, Edit
+boxes and Selection widgets like List View and Scroll View as per client need.
+• Populated spinner data from SQLite database by using simple spinner, which allows selecting an item from
+a drop down menus and to store user and app data into SQLite database.
+• Added search functionality to list view items will filter the list data with a matching string.
+• Integrated Google Maps into the application using Google Android location-based APIs to display addresses
+and locations.
+• Added a feature to app to detect internet connection status before making any HTTP Requests.
+• Experienced in developing app handling XML data using efficient parsing technique such as DOM/JSON
+parsers.
+• Implemented the event reminder feature into the app using services, async tasks and alert notification API.
+• Used Android content providers for implementing features like sending E-mails, SMS, etc., from the app.
+
+• Applied knowledge of SQLite and data persistence to develop an offline feature that allows the user to access
+app without network connection.
+• Designed the app to take pictures with a camera at any time to collect images.
+• Used RESTFUL web services to consume a web service.
+• Used CVS for project management and version control.
+• Worked on debugging the application using Log cat, DDMS.
+• Worked in an agile environment delivering in short turn-around times.
+Environment: Linux, Android SDK 4, SQLite 3.6, Eclipse IDE 3.5, Android API's, JDK 1.6, XML, JSON, GPS.
+
+Android Developer
+Huntington Bank  -  Columbus, OH - January 2013 to February 2014
+
+Link: https://play.google.com/store/apps/details?id=com.huntington.m&hl=en
+Description:  This  Application  allows  the  customer  to  view  account  balances  and  history,  deposit  checks,
+transfer funds, pay bills, locate office branches, find ATMs, and contact a representative. That's not all - as
+new features are rolled out, you'll be able to update the app so you always have the latest-and-greatest online
+banking tools right at your fingertips.
+Responsibilities:
+• CMX Mobile SDK integration with client application using Simulated CISCO server.
+• Node.js setup to work with simulated server for meeting setups using virtual routers.
+• Discuss with designer's team new features to be added to the application and implementing them.
+• Build quick prototypes to have a preview of the user interaction design and user interface.
+• Improve application performance based on quality assurance rounds feedback.
+• Work on bug fixing and improving application compatibility with most android versions, hardware and screen
+formats.
+• Experience parsing XML and JSON files for web server communication.
+• Triggered up notification at time of user interaction at scheduled meeting place through virtual routers.
+• Using CMX mobile sdk, draw up navigation path on the user screen as user move according the draw path.
+• GCM notification implementation to send notification on user device at time of entering in meeting place.
+• Setting screen to connect with the simulated server address and disconnect after reached at meeting place.
+• Used SVN to keep track of various changes to the code on both server and client side.
+Environment: Linux, Java, Android 2.2 +, Android SDK, CMX-CISCO Mobile SDK, Simulated CISCO server,
+Eclipse IDE, GCM notification, Node.js platform, SVN, Agile Methodology, Broadcast Receiver.
+
+Android Developer
+Sallie Mae  -  Wilmington, DE - October 2011 to December 2012
+
+Link: https://play.google.com/store/apps/details?id=com.salliemae.android&hl=en
+Description:  This  application  allows  users  to  manage  their  Loan  Account  profile,  Transactions,  Account
+Management  and  Funds  Transfer  functions.  The  customer  by  selecting  each  account  can  pay  bills  for
+respective account and can transfer funds from one account to another account.
+Responsibilities:
+• Had been part of sprint planning and communicate with other management, engineers, product managers
+and support specialists on product issues.
+• Worked in different phases of the project cycle like design, development and testing.
+• Responsible for embedding GPS functionality to quickly find location and for navigating the directions to the
+nearest ATM.
+• Wrote scripts to build and pack the apk, with options for debugging, change version number, enable/disable
+modules, just changing some flags also implemented in the code.
+• Extensively used web views, list views & populated lists to display the lists.
+
+• Responsible for implementing the REST services, getting XML, JSON response and parsing them to get the
+required information.
+• Responsible for enabling the application to use the Camera feature to scan a document and upload the check
+using SQLite.
+•  Tested  the  app  across  different  versions  of  Android  and  different  android  phones  to  assure  quality  and
+performance.
+• Developed user-friendly user-interfaces using widgets like Menus, Dialogs, different Layouts, Buttons, Edit
+boxes and Selection widgets like List View and Scroll View as per client need.
+• Populated spinner data from SQLite database by using simple spinner, which allows selecting an item from
+a drop down menus and to store user and app data into SQLite database.
+• Worked closely with the web application development team to ensure proper integration between Mobile
+application and Web application.
+• Worked on debugging the application using Logcat, DDMS.
+Environment: Android SDK 2.2, SQLite3.7.9-3.7.14, Eclipse IDE 3.7, JDK 6.0, 7.0, XML 1.0, JSON, HTML,
+CSS, GPS, Log cat, Windows 7.
+
+Android Developer
+Smarbuzz Inc - July 2010 to September 2011
+
+Description: EOS is the smart solution for a leading restaurant to score big in customer satisfaction. App that
+gives space for the five-hospitality traits- Excellency, Adequacy, Delicacy, Quality and Speed. The app catches
+the food lovers with as now they get the tablet instead of menu card to order their food. It has changed the
+whole meaning of hospitality. App manages the whole steps from take order to billing for any food in restaurant.
+Waiter books the table for customer and start taking order. On order confirmed, waiter sends it to Kitchen to
+prepare order. When user have to pay for the order, using credit card swipe or pay by cash option available
+for user. Cashier Cash In and Cashout the order bill. Using app, Manager manage the structured functionality
+of the hotel and can view the every day report and can update, delete or add any new product in any category.
+Owner has the all right to access the application to use any feature related to waiter, manager or cashier.
+Responsibilities:
+• Designed User Interface to support landscape orientation only using Activity.
+• Parsed XML data, which is fetching by SOAP web service for validating of license expiry date.
+• Application has different access on basis of login type for owner, manager, cashier and waiter.
+• Google in-App billing support to pay for fixed price bills by enter credit card details.
+• IprintSDK used to print the order and bill with HP printer connectivity.
+• SQLite database CRUD operations for order taking, updating, view and delete.
+Environment:  Window,  Java,  Android  2.2  +,  Android  SDK,  Eclipse  IDE,  SOAP  Webservice  (XML),  SQLite
+Database, iPrint Sdk.
+
+Android Developer
+Opusing LLC - January 2009 to July 2010
+
+Description: Delicious recipes and group of apps related recipes featuring 1150+ complete recipes each with a
+style concept and suggestion covering across cuisines, themes and occasions. One for every day of the week.
+The App combines the beautiful aesthetic, vetted recipes, and expertise that are salient features. Cooking any
+dish means user have to know all the ingredients and condiments that are required for preparing them. More
+importantly user have to know the exact amount of the condiments and the spices required for cooking them.
+Perfect mixture of spices and ingredients will help user to create the right magic regarding the dish. All recipes
+use simple ingredients that are easily available and inexpensive.
+Responsibilities:
+• Designed User Interface to support phone and tablet using Activity.
+• Parsed JSON data, which is pulled by using REST APIs.
+
+• Recipes data save after fetch into SQLite database and related images saved as bitmap into database.
+• User can make list of favorite dishes.
+• User can search recipes by title name for any kind of recipe.
+• User could take picture and share with friends on facebook.
+• Project management and client interaction through online tool PM tool.
+• Used GIT with Github cloude support to keep track of various changes to the code.
+Environment: Window, Java, Android 2.3 +, Android SDK, Eclipse IDE, REST API (JSON), SQLite Database,
+GIT, PM Tool, Facebook SDK and Google AdMob.
+<sk>
+SKILLS
+
+ANDROID (8 years), ANDROID SDK (8 years), ECLIPSE (7 years), JAVA (3 years), API (2 years)
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.caremark.caremark&hl=en
+
+https://play.google.com/store/apps/details?id=digiMobile.MainMenu.NCL&hl=en
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+Programming C, C++, Java, Objective-C
+Tools
+Android  SDK  2.X/3.X/4.X,  Android  studio,  Eclipse  IDE  4.4,  MS  Office  2013,  Adobe  Dreamweaver  CC,
+Photoshop, SVN 1.8.7, EGIT 3.4.1, and Maven 3.2.1
+
+Operating Systems Windows XP/Vista/7/8, Linux, Mac OS X
+Development API Android SDK API, Core Java API
+Development Eclipse, Visual Studio, Android Studio
+Testing Manual Unit Testing
+
+

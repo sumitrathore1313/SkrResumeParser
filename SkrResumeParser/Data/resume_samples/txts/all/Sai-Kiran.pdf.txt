@@ -1,0 +1,206 @@
+<ba>
+Sai Kiran
+
+Android Developer - Discover Financial Services, River Woods
+
+Riverwoods, IL - Email me on Indeed: indeed.com/r/Sai-Kiran/d79c5565ba400331
+<su>
+• Around 7 Years of experience in analysis, design, development, implementation and testing client, server
+and enterprise applications using Android.
+• Extensive experience in Android application development.
+• Good understanding in Android OS, interactive application development and memory management.
+• Proficient with common Android Framework API's (Location, Camera, Notifications, Maps.
+• Experience in implementing native libraries in application by using Android NDK.
+• Experience in using Fragments, Activity workflow, Action Bar Navigation, Menu designs and view controls,
+and Loaders.
+• Designed GUI and interfaces with services for mobile applications.
+•  Asynchronous  Programming  in  Android  (such  as  Thread  pool,  Tasks  and  services).  Implemented  the
+monetization of apps, which has capabilities to do in-app purchases.
+• Good mobile and web design skills using Activities (android), HTML 5, Java Script, AJAX and XML.
+•  Good  experience  in  Object  Oriented  Design  (OOD),  analysis  (OOA),  modeling  (OOM)  based  on  Unified
+Modeling Language (UML).
+• Worked on with AndroidAPI's (SMS, Content Provider, Google Maps, API SQLite, and WebView).
+• Worked on GUI applications using Java SWING and AWT, Java Native Interface (JNI).
+• Experience with source code control management like subversion (SVN) and GIT, good at using the markup
+languages like JSON and REST
+• Expert in writing client side validations using validation framework, Java Script.
+• Knowledge in working with audio and video codec's like .3GPP, MPEG-4.
+• Experienced in programming skills in Java including Plug-in Architecture, HTML, CSS and XML.
+• Designing and implementation of User Interfaces and Navigation elements.
+• Excellent debugging and problem-solving skills with Eclipse, IDEA, Android Studio and RAD.
+• Experience in various methodologies like of SDLC like Agile development and waterfall development.
+• Extensive experience in requirement analysis, functional analysis, excellent conceptual and logical thinking.
+• Ability to grasp and master new technologies, excellent analytical and problem solving skills.
+• Able to take initiative; work independently and also as a team player.
+Willing to relocate: Anywhere
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Discover Financial Services, River Woods - December 2014 to Present
+
+Discover Mobile App
+
+Description: We can manage the Discover account conveniently from anywhere, using Discover's Mobile App
+for Android. Check our balance, view our account info, make and edit payments, manage our rewards, and
+more - all from our mobile device. Log in quickly with a 4-digit Passcode, enable Quick View to view account
+information without logging in. See FICO® Credit Score terms at Discover.com/FICO. Activate a new card or
+report a current card as lost, stolen or misplaced. View and search transaction activity, make payments and
+edit or cancel pending payments, redeem rewards for statement credit or direct deposit in any amount. Get
+great offers for being a card member with Discover Deals, the one-stop-shop where we can access instant
+
+savings at checkout, additional rewards, or statement credits for purchases with popular brands (for eligible
+Card members), Sign up to receive alerts about our account.
+
+Responsibilities:
+• I am a part of sprint planning and communicate with other management, engineers, product managers and
+support specialists on product issues.
+• Worked in different phases of the project cycle like design, development and testing.
+• Extensively used web views, list views & populated lists to display the lists.
+• Responsible for implementing the REST services, getting XML, JSON response and parsing them to get the
+required information.
+• Responsible for enabling the application to use the Camera feature to scan a document and upload the check
+using SQLite.
+•  Tested  the  app  across  different  versions  of  Android  and  different  android  phones  to  assure  quality  and
+performance.
+• Worked closely with the web application development team to ensure proper integration between Mobile
+application and Web application.
+• Worked on debugging the application using Logcat, DDMS.
+
+Environment: Android SDK 2.2, SQLite3.7.9-3.7.14, Eclipse IDE 3.7, JDK 6.0, 7.0, XML 1.0, JSON, HTML,
+CSS, GPS, Log cat, Windows 7
+
+Android Developer
+Mayo Clinic  -  Rochester, MN - August 2013 to November 2014
+
+Description: The Mayo Clinic Patient app, which is available to everyone, allows access to the latest news,
+publications, and health information from Mayo Clinic. Mayo Clinic patients also have access to their personal
+medical record, appointment schedule and other services using their Patient Online Services account. The
+Mayo Clinic Patient app is an easy-to-use tool for navigating your visit while at a Mayo Clinic campus. The app
+also provides community information, including directions to local restaurants, entertainment, and much more.
+
+Responsibilities:
+• Worked with the Android SDK, and implemented Android Bluetooth and Location Connectivity components.
+• Used SQLite to cache the data received from the RESTful web services.
+• Constructing HTTP requests, fetching server response and parsing feeds wherever required.
+• Analysis of mobile application code for re-engineering.
+• Involved in requirement gathering and designing of the application.
+• Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+• Implemented Google Maps API v2 with forward and reverse geo-location.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Implemented unique design for portrait and landscape mode.
+• Handling XML data using efficient parsing techniques such as DOM parser.
+• Used GIT-HUB as our project version controller, where used to commit and push the developed, working
+code
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+• Tested the application on various Android devices.
+• Used Crashlytics, while testing the application, so as to verify the proper free-flow working of the application
+
+Environment: Android SDK 4.4, Eclipse IDE, JSON, REST Web Services, XML, Crashlytics , Trello-board ,
+Action-Bar and GIT-HUB.
+
+Android Developer
+DowChemical Company  -  Midland, MI - January 2012 to July 2013
+
+Description: Dow Snowglobe is an interactive snow globe. We can choose from different scene backgrounds
+and choose your own picture to resize and fit inside of the globe. Application allows you to shake or use your
+finger to swirl the snow around.
+
+Responsibilities:
+• As a team member, I was involved in the design and implementation of the UI, classes, architecture and
+activities of the mobile application
+• Used Frame Layout method to show background images of the app.
+• Involved in implementing Async task for the background operations.
+• Developed the app to adapt to different orientations (Landscape/Portrait) and various resolutions (ldpi/mdpi/
+hdpi) based on the device
+• Implemented MotionEvent method to swirl the snow around with a shake.
+• Implemented TouchEvent method to swirl the snow around with the use of finger
+• Developed analytics for the application so as to keep a track of the app on which device and in which places
+it has been used.
+• Designed and developed the request and response data to and from gallery.
+• Participated in all the phases of SDLC from design, development through testing, porting and support of
+application.
+
+Environment: SDK 4.4, Eclipse IDE, FrameLayouts, DDMS console and User Interface Design.
+
+Android Developer
+Applids Software Solutions  -  Hyderabad, Andhra Pradesh - March 2011 to December 2011
+
+Greenboard Product (Available in Playstore)
+
+Description: Greenboard is used to view notices of your organization and stay updated. Minimalist and fat
+free interface. Why waste your time surfing websites? Download Greenboard now, browse notices and send
+instant feedback to your organization on each notice
+
+Responsibilities:
+• Volley library to handle request queues, parse network responses, Cache management etc.
+
+• User voice library for user feedback and issue handling
+
+• Google analytics for analyzing screen crashes and analytics
+
+Environment: Android SDK 4.1, 4.3, SQLite 3.7.13-3.8, Eclipse IDE 3.8, 4.2, JDK 7.0, XML 1.0, GPS, ADT
+Plug-in, Logcat, DDMS console.
+
+Android Developer
+Criticalys  -  Hyderabad, Andhra Pradesh - January 2009 to February 2011
+
+WhatAMovie Android Application:
+This is an Android application development for a service project related to movies.
+
+Responsibilities:
+• Developed POC that includes autosuggest search bar, inapp browser, on fly widget addition etc.
+
+• Created reusable UI templates for various layouts.
+
+• Integrated analytics and feedback system
+
+• Created swipe views using carousel, tabs
+
+• Debugged UI using Hierarchy Viewer android
+
+CallGate Android Application (Product at Criticalys)
+Role: Developer
+Responsibilities:
+
+• Developed android applications that help manage sound profiles for various calls.
+
+• Three modes of calls - block mode, ring mode and silent mode for specific numbers are implemented.
+
+Libraries used: Google analytics, Uservoice, ViewPagerIndicator, Android support library app compat V7
+
+Technology: Android, SQLLite
+<ed>
+EDUCATION
+
+Bachelor's in Technology
+Amrita University  -  Bangalore, Karnataka
+<ba>
+LINKS
+
+http://Discover.com/FICO
+
+ADDITIONAL INFORMATION
+<sk>
+Technical Skills:
+
+Programming Languages Java
+Databases SQLite3, SQL Server 2012, MS Access 2012, DBMS, IBM-DB2, Oracle 10g, MySQL.
+Web Technologies XML, ASP.NET, HTML5&4.01, CSS3, JavaScript, JSON.
+JavaScript Libraries JQuery Mobile, jQuery, Bootstrap, AngularJS, Modernizer, NodeJS, Handlebars.
+Development Tools
+Xcode  4&5,  Android  Studio,  Eclipse,  Interface  Builder,  Instruments,  Microsoft  Visual  Studio  2010  &  2012,
+NetBeans, IntelliJ Idea Community Edition 13, Adobe Dreamweaver CS 6.
+
+Frameworks
+Android  SDK,  Google  Maps  Android  API  v2,  UIKit,  MessageUI,  MapKit,  CoreLocation,  CoreData,  SQLite,
+CoreAudio, AVFoundation, ASP.NET MVC, Entity.
+
+Version Control Github, SVN.
+
+Operating Systems Android OS, Windows Vista/7/8, UNIX, Ubuntu 14.04.
+Web Service Frameworks SOAP, REST
+
+

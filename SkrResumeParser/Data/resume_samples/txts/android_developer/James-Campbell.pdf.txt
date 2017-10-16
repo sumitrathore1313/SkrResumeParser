@@ -1,0 +1,107 @@
+<ba>
+James Campbell
+
+Android Developer
+
+Fort Lauderdale, FL - Email me on Indeed: indeed.com/r/James-Campbell/d02c4f363dda0edb
+<su>
+● Experienced Developer offers expertise in Mobile Application Development. Known as a resourceful
+team player who excels in uncovering needs, providing solutions, and handling obstacles while
+demonstrating the ability to successfully complete projects on time and within budget constraints.
+Willing to relocate to: San Francisco Bay Area, CA
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Televisa Internacional  -  Miami, FL - 2016 to 2017
+
+Blim / Blim TVx - As a member of the Android team, developed and maintained both mobile and TV apps for
+the second-largest video-streaming service provider in Latin America. Blim, initially
+seeded  by  Televisa  programming  content,  now  provides  the  most  popular  video  content  and  latest  movie
+releases available to over 300K active monthly subscribers at a 99.8%
+crash-free-session rate and has been downloaded from the Google Play Store more than
+1-Million times.
+
+Freelance Project
+Cooper City, FL - 2015 to 2015
+
+Android Development:
+● Retail Catalog Kiosk - Implemented in brick-and-mortar kiosk devices purposed with serving as a catalog
+for retail patrons. The application propagates product information by utilizing a set of
+user-defined spreadsheet files which live on the physical device, allowing the retail proprietor with very limited
+technical knowledge, to modify the product information as necessary.
+
+Software Engineer
+IC Realtime LLC  -  Pompano Beach, FL - 2013 to 2015
+
+ICRealDealer - Developed an Android Dealer Tool for company dealers to assistant with their
+project management. The app provides tools such as live video monitoring, lens calculators,
+storage calculators, product catalog, and project tracking.
+● ICRemote - Developed an Android based Remote Control application for proprietary hardware
+using a proprietary SDK for networked control TCP commands and live video monitoring. The
+app empowered the end user with remote control of their security surveillance system.
+● ICResponse - Developed a Customer Resource Management (C# .Net) software suite which allowed the
+Customer Support technicians to easily log and update client support tickets and
+profile records. The CRM is integrated with the VOIP routing system, automating many critical
+functions concerning call tracking statistics (Call time, First Call Resolution, etc) and stores all
+records in a MySQL database.
+
+Engineer Internship
+RoboLabs Inc  -  Pompano Beach, FL - 2012 to 2012
+
+Engineered a robotics motion control system for an embedded system utilizing an AVR
+microcontroller.
+
+● Engineered a capacitive touch robotics safety system to detect human interaction.
+● Engineered a GPS guidance and tracking system for autonomous robotics.
+
+Android Development Teaching Assistant
+Florida Atlantic University  -  Boca Raton, FL - 2010 to 2011
+
+WordHacker - Developed a simple Android game with the purpose of demonstrating the early
+Android Bluetooth stack to students.
+● Instructed FAU Engineering students and Partner Seminar attendees on Android application
+development.
+<ed>
+EDUCATION
+
+Bachelor of Science, Computer Engineering in Android Application Development
+Florida Atlantic University  -  Boca Raton, FL
+
+Associate of Arts in Introductory Computer Programming
+Broward College  -  Fort Lauderdale, FL
+
+Chaminade Madonna High School  -  Hollywood, FL
+<sk>
+SKILLS
+
+Android (6 years), Android SDK (Less than 1 year), Architecture (Less than 1 year), Debug (Less than 1
+year), deployment (Less than 1 year)
+<ba>
+LINKS
+
+http://sites.google.com/view/idevdroidapps
+<sk>
+ADDITIONAL INFORMATION
+
+SKILLS
+● Native Android Development, Java, XML
+● RESTful Networking: Retrofit, OKHttp, GSON, JSON
+● Butterknife, Calligraphy, Glide, Picasso
+● Reactivex: RXJava, RXAndroid
+● Material Design, Leanback Design
+● Java Design Patterns, Android Design Patterns
+● Android Studio
+● Android Framework, Android SDK, Android TV Leanback
+● Android Debug Bridge (ADB), JUnit Testing, Instrumented Testing (Espresso)
+● Object Oriented Programming (OOP)
+● Gradle configurations, Jenkins automated build and deployment
+● Fabric Crashlytics
+● Agile Development
+● Mobile memory management
+● GIT, GITHub, Atlassian Bitbucket, Jira, Confluence
+● Asynchronous Processes
+● Model-View-Presenter Architecture
+
+

@@ -1,0 +1,203 @@
+<ba>
+Bindu Madhavi
+
+Android Developer - Motorola
+
+Alpharetta, GA - Email me on Indeed: indeed.com/r/Bindu-Madhavi/83d790d3d27edc96
+<su>
+• Around 7 years of experience as Software Developer with 4 years on Designing and Development of Android
+Applications for smartphone and tablet and around 3 years on Java based applications.
+
+• Very good understanding of Android Back-end and UI guidelines.
+
+• Expertise in developing apps using SQLite, Java, XML, Google Maps API and GPS Location Data.
+
+• Excellent knowledge and working experience in Android SDK, Eclipse IDE, Application Stack and Android
+Architecture. Focused on synchronous and asynchronous concurrency models, background processing with
+AsyncTasks  and  Services,  IPC,  AIDL,  Storage  and  retrieval  of  structured  data,  fragments  and  broadcast
+receivers.
+
+• Expertise in working with public APIs, such as Twitter, Facebook, Google, YouTube.
+
+• Extensively worked on memory leaks, push notifications, content providers, multiple screen support, data
+offline usage, accounts and sync on Android.
+
+• Experience in Bluetooth.
+
+•  Experience  in  Architecture  Design,  Development  and  Implementation,  Troubleshooting  and  Debugging,
+Testing of Software Applications.
+
+• Working knowledge of graphic design, audio and video features and handling various kinds of media using
+Photoshop, Flash.
+
+• Have worked extensively on various stages of application development, viz., collecting requirements, and
+providing guidelines for design, creating application architecture, implementation that includes various stages
+in development, QA, code signing and releasing to Market.
+
+• Have interacted with customers regularly during development of the mobile applications.
+
+• Dedicated team player, quick learner, self-starter, excellent analytical, design and problem solving skills.
+
+• Always curious to learn new skill or a new technology.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Motorola  -  Sunnyvale, CA - November 2012 to Present
+
+Google Play Link: https://play.google.com/store/apps/details?id=com.motorola.genie&hl=en
+
+Description:
+
+Motorola Help lets you view FAQs, tutorials and tips about your device. Also, you can get direct access to
+Motorola Customer Care when you need more assistance with your phone.
+
+Responsibilities:
+• Designed screens related to categories and detail pages for this application.
+• Developed quick search functionalities in this application.
+• Involved in requirement gathering and designing of the application.
+• Responsible for consuming the REST services, getting a JSON response and parsing them to get the required
+information.
+• Implemented the Dashboard, Action Bar, Quick action UI Design Pattern and Draw-9 Patch Images.
+• Worked on local data storage using SQLite.
+• Worked on the Android AsyncTask service to update List View Screen.
+• Implemented the Android animation style & gesture events to flip the Screen/Layout.
+• Implemented in Android App for persisting java objects to SQLite Database.
+• Involved in developer testing by porting the app on multiple devices with various screen sizes.
+• Worked with design/UX team to create user-friendly, aesthetically pleasing, and full functional UI.
+• Followed the agile methodology for implementing the project.
+• Had to closely work with QA team while fixing bugs.
+
+Environment: Android SDK, Android API's, Eclipse IDE, XML, HTML5, SQLite and JSON
+
+Android Developer
+Sapient  -  Atlanta, GA - June 2011 to September 2012
+
+Google Play Link:
+https://play.google.com/store/apps/details?id=air.com.sapientnitro.sapientwsc&hl=en
+
+Description:
+Sapient's  FlySmart  makes  gives  you  the  power  to  know  everything  the  airport  knows  in  the  palm  of  your
+hand. Combining real-time flight data and push notifications with concessions listings and airport venue maps
+powered by BingTM, FlySmart makes it easy to travel with confidence every time you fly.
+
+Responsibilities:
+• Worked with the Android SDK, and implemented Android Bluetooth and Location Connectivity components.
+• Used SQLite to cache the data received from the RESTful web services.
+• Constructing HTTP requests, fetching server response and parsing feeds wherever required.
+• Analysis of mobile application code for re-engineering.
+• Involved in requirement gathering and designing of the application.
+• Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+• Implemented Google Maps API v2 with forward and reverse geo-location.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Implemented unique design for portrait and landscape mode.
+• Handling XML data using efficient parsing techniques such as DOM parser.
+• Used GIT-HUB as our project version controller, where used to commit and push the developed, working
+code
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integrations  between  mobile
+application and web application.
+• Tested the application on various Android devices.
+• Used Crashlytics, while testing the application, so as to verify the proper free-flow working of the application
+
+Environment:  Android  SDK  4.4,  Eclipse  IDE,  JSON,  REST  Web  Services,  XML,  Crashlytics,  Trello-board,
+Action-Bar and GIT-HUB.
+
+Android Developer
+SARASOTA County Schools, Florida Virtual School - October 2010 to May 2011
+
+Google Play Link: https://play.google.com/store/apps/details?id=com.app.emantras
+
+Description:
+Mobile learning application that supports a dynamic, unstructured way of learning. Mobl21 is a product for
+Greater  content  capacity  to  implement  school,  university  or  district  wide  initiatives.  Accessibility  multiple
+devices and environments like Mobile devices, PC & Online in distracted learning. This can divide into three
+major parts one is Study-guide, second is Flashcard and third one is Quiz. The study material and flash card
+and Quiz which may contain content, image, audio, video and HTML5 Interaction format. The end user can
+access and download into Android smart phones, Android Tablet's and play back through Android device store
+in SQLite.
+
+Responsibilities:
+• Requirement Analysis, Module level designing, UI design, Development and Deployment in the marketplace.
+• Implemented unique UI design for portrait and landscape mode.
+• Implemented custom List View UI Design, list view drag and drop features to rearrange the list view.
+• Implemented the Search functionality against with list view.
+• Worked on local data storage using SQLite.
+• To develop the HTML5 Course Interaction using HTML5, Js, JQuery & CSS.
+• Worked on an Android service to download and upload content from back end web server via REST API.
+• Worked on an Android Service to implement the Push Notification.
+• Implemented Pagination concept, Custom Video & audio Player.
+• Worked with android components such as activities, intents, services, and custom UI components such as
+Text View, List View, customized List View, layouts, Tab Layouts, Web view, gestures events and menus.
+•  Implemented  Custom  UI  design  for  Small  screen  and  large  screen  Mobile  Devices,  Development  and
+Implementation.
+• Work with design/UX team to create user-friendly, aesthetically pleasing, and full functional UI.
+• Developing mobile apps that fit into their CPU, memory and battery constraints, while making sure the code
+is efficient, maintainable, reusable, and extensible
+• Implemented the web view component to run the locally downloaded course Material (Js, Jquery & HTML5
+pages)
+• To track the HTML5 Course User information usage report.
+• Analyze Mobile application code for reengineering.
+
+Environment: Android SDK, Java, REST API (XML), SQLite, PHP, MySQL, HTML5, JavaScript, JQuery, CSS
+& Eclipse IDE
+
+Java programmer
+Cyber-NY, USA - April 2009 to September 2010
+
+Description:
+REED  helps  publishers  create  and  manage  content  cost  effectively,  rapidly  and  without  depending  on  a
+technology team. REED allows publishers to take advantage of true XML tagged content and use carious
+commercial options that current digital technologies provide. It is also a tool to create a learning environment.
+
+Responsibilities:
+• Gathering, analysis & module level designing and development.
+• Implementing security framework to avoid cross site scripting.
+• Gathered user requirements followed by analysis and design. Evaluated various technologies for the Client.
+• Developed HTML and JSP to present Client side GUI.
+• Designed the HTML based web pages for displaying the various platforms.
+• Designed and developed the presentation layer using JSP, servlets, HTML and SiteMesh framework.
+• Developed Java classes and JSP files.
+• Extensively used XML documents to translate the content into HTML to present to GUI.
+• Developed dynamic content of presentation layer using JSP.
+• Develop user-defined tags using XML.
+• Fixing the bugs identified in test phase.
+
+Java Programmer
+NDS Pay TV services  -  Bangalore, Karnataka - August 2007 to December 2008
+
+Description:
+Stock application for Astro STB application enables the user to get current information on the stock market.
+The stocks can be viewed alphabetically or by the order of their codes. Also, the user can mark their favorite
+stocks and view their status on their favorite's page. The updates are real time based on the market statistics.
+
+Responsibilities:
+• Designed and developed the UI to be viewed on the STB.
+• Implemented the favorite's page where the user can bookmark their favorite stocks.
+• Implemented an alert function when there is a significant change in their favorites.
+• Integrated Ads for this application.
+• Responsible for general maintenance of application library and debugging.
+• Developed business logic layer and data access layer.
+• Designed the layout of user interface.
+• Wrote global methods for FAQs/support, help, contact, general information pages which displays in the same
+page with hiding/visible sections for better performance of site.
+• Retrieved dynamic content data for all content pages.
+• Tested application with unit testing, manual testing and writing test classes.
+
+ADDITIONAL INFORMATION
+<sk>
+SKILLS
+
+Operating System: Windows 7/Vista/XP, Mac OSX, Android, Ubuntu
+Languages: JAVA, C, C++, JSON
+Scripting Language: JavaScript 1.0/1.5
+Databases: SQL, SQLite, MySQL
+Web Designing: HTML5, CSS, XML, UML, Web Logic 6
+Version Control Tools: CVS, SVN
+Web/Application Servers: Tomcat, IBM WebSphere
+Framework: STRUTS, spring, Junit, AJAX
+Android Skills: Android SDK (1.5 to 4.2) Tablets/Smartphone, ADT
+
+Other Skills: Dreamweaver, Photoshop, Flash
+
+

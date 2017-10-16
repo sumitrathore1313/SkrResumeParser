@@ -1,0 +1,64 @@
+<ba>
+Bryan Wisniewski
+
+Android Developer - Tap Tracker
+
+Westchester, IL - Email me on Indeed: indeed.com/r/Bryan-Wisniewski/6d04c3391341bcd9
+<su>
+Software  Developer  dedicated  to  teamwork  and  efficiency.  Passionate  about  object-oriented  design  and
+Android application development.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+PERSONAL PROJECT - Tap Tracker
+
+Programmed an Android application which is the software companion to the kegerator. Tracks keg levels and
+daily pour statistics. Downloadable on the Google Play store.
+• Used Android SQLite database to save data and statistics locally, and NFC technology to uniquely identify
+users
+•  Became  familiarized  with  latest  Android  Studio  development  environment  and  associated  tools:  Gradle,
+Version Control
+• Saved time and frustration through application of Android libraries like Butterknife and Stetho debug bridge
+
+Android Developer
+CLASS PROJECT - University of Illinois at Urbana-Champaign
+
+Collaborated  with  a  team  of  six  students  to  design  an  Android  app  for  organizing  apartment  duties  and
+expenses between roommates.
+• Practiced Agile development process throughout project, including bi-weekly mock customer meetings
+• Continually improved user interface design and function through refactoring and unit testing via continuous
+integration
+•  Implemented  communication  with  Google  App  Engine,  allowing  for  cloud  data  storage  and  server-side
+calculations
+
+Android Developer
+CLASS PROJECT - ChirpTemp
+
+Course: Android App Development Parkland College
+Created an Android app for calculating the outside temperature based on the frequency of a cricket's chirps.
+• Gained foundational knowledge in Android app development: GUI, Event Handling, Activity Lifecycle, and
+Iconography
+• Participated in weekly discussion forums and effectively used fellow student's feedback to improve design
+• Produced a clean and intuitive final product that the professor encouraged be published on Google Play
+<ed>
+EDUCATION
+
+Bachelor of Science in Computer Science in Computer Science
+University of Illinois at Urbana-Champaign  -  Champaign, IL
+August 2015
+
+Computer Science and Information Technology
+Parkland College  -  Champaign, IL
+<sk>
+SKILLS
+
+Java (Less than 1 year), OOP (Less than 1 year), Android (Less than 1 year), IoT (Less than 1 year)
+<ba>
+LINKS
+
+http://github.com/OmicronElement
+
+http://linkedin.com/in/wisniewskibryan
+
+

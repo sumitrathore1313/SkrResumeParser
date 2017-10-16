@@ -1,0 +1,112 @@
+Shah Sweta
+
+Assistant Professor
+
+Vadodara, Gujarat - Email me on Indeed: indeed.com/r/Shah-Sweta/76582c479a57d6db
+
+Seeking a position to utilize my skills and abilities in Information Technology that
+offers professional growth while being resourceful, innovative and flexible.
+
+WORK EXPERIENCE
+
+Assistant Professor
+The Maharaja Sayajirao University  -  Vadodara, Gujarat - July 2015 to May 2016
+
+Of Baroda,
+http://www.msubaroda.ac.in/, Baroda, Gujarat
+
+- Contributed in Curriculum design, Assignments and Exam-Paper setting
+- Conducted lectures and practical labs for PG students (MCA and M.Tech.)
+- Managed administrative and Assessment tasks as well
+
+ASSISTANTSHIP
+GATE Qualified Stipendiary T .A. at Nirma University - July 2013 to May 2015
+
+96.40 %ile in GATE '13)
+
+Developer, Project Trainee
+GATE Qualified Stipendiary T .A. at Nirma University  -  Ahmedabad, Gujarat - July 2014 to April 2015
+
+ISRO),
+Ahmedabad
+
+EDUCATION
+
+B.E. in Computer Science
+The M.S University, Faculty Of Technology and Engineer  -  Gujarat, IN
+July 2009 to April 2013
+
+SKILLS
+
+.NET (Less than 1 year), ACCESS (Less than 1 year), ADOBE PHOTOSHOP (Less than 1 year), AJAX
+(Less than 1 year), ALGORITHM (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+SKILLS
+Technical
+- Primary skills: C, C++, Java, SQL, PL/SQL, CI
+- Secondary skills: C# and ASP .NET, HTML, Shell-Script
+- Database: Oracle, MySQL, MS Access
+- Operating Systems: Windows- XP 7, Fedora, Backtrack
+- IDEs: Eclipse, Netbeans, Visual studio
+
+- Tools: Network Simulator, WireShark, Cisco Packet Tracer, Putty, MS Office,
+EDraw, Adobe Photoshop, Latex
+
+PROJECTS
+7/2014 - 4/2015 Design and Development of Technique and Software for Vision Based Landmark
+Detection and Matching, Organization for Indian Space Research Organization,
+Ahmedabad
+Scope: It enables real time position estimation for the descent lander to land
+precisely on scientifically promising but hazardous site. The software localize the
+lander by recognizing landmark (craters) in the landing area and match them
+positively with the pre-existing landmark database while lander is descending.
+Once landmarks are matched with the database, then the position of space-
+craft referenced from safe landing site is calculated. According to that position
+information spacecraft is navigated to the predetermined landing site.
+
+Work/Responsibilities:
+- Literature survey on past missions on lunar landings and used technology for
+spacecraft landing
+- designed algorithm for crater detection and crater matching
+- developed a software based on that algorithms
+- tested the software on the different imaging condition
+Technology: C++, CImg Library, Netbeans, LaTex
+12/2012 - 6/2013 TarGATE Solutions, Web-based solution for competitive exam-preparation with
+test series and discussion-forum for B.E Final Year Project
+Scope: The system was developed as a part of the final year project in the B.E.
+This is basically a platform for the aspirants to prepare for
+the competitive exams, take quizzes and tests, discuss the queries in forum, etc.
+The students can also view the results in graphical format.
+
+Work/Responsibilities:
+- Prepared the design level documents (data-flow diagrams, use-case dia-
+grams) for the system
+- Prepared the database design and table structures for storing the data, along
+with the team.
+- Designed and developed the module for quizzes and tests completely.
+- Took active participation in developing and testing the other modules of the
+system as well.
+- Prepared and gave the presentations for the project.
+Tools & technologies: Asp.net 4.0, MySql 5.5, Visual studio 2010, AJAX controls
+RECOMMENDATIONS
+Mr. K Suresh Scientist, Indian Space Research Organization, Ahmedabad
+As a Project Trainee, she did an excellent research and development work, She
+is very quick in grasping the topic and implementing the same. She has shown
+dedication and sincerity in her work.
+
+Prof Sharada Valiveti Department of Computer Science and Engineering Institute of Technology Nirma
+University
+As a Coordinator of the P .G. Program - M.Tech. In Computer Science and being
+a Senior Associate Professor, I feel confident in recommending Sweta's service as
+
+a professional. She is not only thorough, but also reliable, dedicated and easy to
+work with.
+
+PERSONAL
+Father's Name Ashokbhai B. Darji
+
+to Anant Shah ( IT Analyst, TATA Consultancy Services, Gandhinagar )
+
+

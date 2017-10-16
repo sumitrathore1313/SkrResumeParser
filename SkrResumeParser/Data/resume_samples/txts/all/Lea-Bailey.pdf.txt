@@ -1,0 +1,113 @@
+<ba>
+Lea Bailey
+
+Web Developer at Pragmatics/ OCC, DC
+
+Rosedale, MD - Email me on Indeed: indeed.com/r/Lea-Bailey/bfa48ae2af90164d
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Pragmatics/ OCC, DC - 2011 to Present
+
+• Work closely with the web publishing team to ensure that they are performing their publishing tasks.
+• Validate the web publishing team code and confirming that the pages are XHTML compliant.
+• Edit and/or create JavaScript applications for the OCC Intranet.
+• Maintain and/or Update various content within the Rythmyx Content Management System.
+• Maintain various ASP.net pages on the OCC Intranet
+
+Web Developer
+Kennedy Center, DC - 2007 to Present
+
+• Being able to complete front-end web design and HTML/CSS coding.
+• Build HTML / ColdFusion web pages, rich media content, website text edits and banner updates.
+• Adhere to design standards that are set forth by management.
+• Design and built HTML emails for various departments.
+• Design and built the Suzanne Farrel Portal [http://www.kennedy-center.org/programs/ballet/farrell/ ]
+• Design and built the KC Honors Page [http://www.kennedy-center.org/programs/specialevents/honors/ ]
+
+Web and Application Support Specialist
+Kennedy Center, DC - 2010 to 2011
+
+• Web page maintenance and design of various home / content page(s).
+• Created various email templates to be used by the client for their internal or external emails.
+• Assist the client with navigating through the DDC Content Manage application. Create small banners to be
+used within the clients email blasts.
+• Actively participates in the testing and implementation of new web sites.
+
+System Administrator
+Hewlett-Packard - 2009 to 2010
+
+• Assist in the planning, design, documentation, and implementation of various systems to include desktop
+PC's, servers, network equipment, and software applications.
+• Monitors and maintains the use of the library's photocopiers and printers.
+• Develops, maintains, and monitors procedures for all server backups. Monitors, plans, and coordinates the
+distribution of client/server software and service packs.
+• Makes recommendations for new equipment and services to purchase and works with various vendors for
+procurement. Perform on-site and remote technical support.
+
+Hewlett-Packard, Alexandria, VA 2004-2010
+
+Account Support Supervisor
+Kennedy Center, DC - 2007 to 2009
+
+•  Provide  technical  direction  relating  to  system  performance,  telecommunications,  hardware,  software,
+operating systems and utilities for 49 employees.
+
+• Interface with multiple EDS groups to resolve customer problems.
+• Facilitate inter-team communications between application developers and support teams to obtain, document,
+and implement new or existing requirements for the helpdesk.
+• Interact with various levels of EDS and Government management to establish and gather requirements for
+the helpdesk.
+• Analyze daily and monthly metrics to identify staffing, individual/team performance, and training needs, and
+ensure  that  these  are  addressed.  Assign,  direct,  track  and  aid  in  planning  the  work  of  support  personnel.
+Assisted in establishing the TRICARE Next Generation helpdesk, which supports the implementation of over
+25 military medical applications that impact more than 23 million DoD civilian and military personnel.
+• Help to establish and improve helpdesk processes and procedures to increase productivity, enhance overall
+helpdesk  performance,  decrease  customer  wait  time,  and  improve  the  efficiency  and  proficiency  of  the
+helpdesk personnel. Responsible for obtaining technical and business-related training for helpdesk personnel.
+
+Hewlett-Packard, Alexandria, VA 2004-2010
+
+Knowledg Base Manager
+Hewlett-Packard - 2005 to 2009
+
+• Managing the knowledge base core review team, the development of the knowledge base tools, processes,
+and workflows.Interface with multiple EDS groups to resolve customer problems.
+• Lead KB core review team meetings to help create, review, modify, and publish articles to be stored in a
+database and posted on the internal Knowledge Base sites.
+• Create policies and procedures to ensure quality of content. Worked closely with DSC Leadership team on
+feedback loops, content for new releases, and updates of existing content.
+• Work closely with Tier 1 and Tier 2 agents to understand common questions, the challenges faced by our
+customers, and receive KB suggestions. Work with the Product Release Teams, Client Services Team and the
+Technical Support Team to ensure product information, usage instructions, procedural instructions, release
+notes, and associated product information is available in the Knowledge Base system.
+• Mentor and coach various teams on proper Knowledge Base articles, and usage.
+</we>
+<sk>
+SYSTEM PROFICIENCY
+Hardware
+HP Blade, IBM, Dell, Compaq, Toshiba, Macs, Wireless/Wired Routers, LCD Displays, PCI and PCI-E cards
+
+Programming Languages
+HTML, CSS, Coldfusion (Intermediate), PHP (Beginner), Java (Entry Level), JavaScript
+
+Systems
+Windows  95/98/2000/NT/XP/Vista/7,  MS/DOS,  Snow  Leopard,  Server  2003/2008,  Exchange  2003/2010,
+Active Directory, MAC OSX
+
+PC Software
+Microsoft Office Suite, CA Unicenter, Real-Time Automated Personnel Identification System (RAPIDS), CISCO
+Call Manager, Adobe Collection Suite CS4 / CS5, Partition Magic, ERD, CISCO VPN, WSUS, CA ArcServe,
+Symantec Ghost, Microsoft Exchange / AD, VMWare, Microsoft TFS, Autotask, FTP, Joomla, MySQL, MAMP,
+Microsoft VS, SQL, MySQL
+</sk>
+<ed>
+EDUCATION
+
+Associates in Computer Networking
+
+GIBBS College  -  Vienna, VA
+</ed>
+

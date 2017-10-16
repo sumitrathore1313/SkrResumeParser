@@ -1,0 +1,106 @@
+<ba>
+Mahmoud alsrouji
+
+Web developer - Freelancing
+
+US - Email me on Indeed: indeed.com/r/Mahmoud-alsrouji/9bdae31bf6b4db41
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web developer
+Freelancing - 2009 to Present
+
+I have developed many websites using PHP/MySQL with some Ajax technology.
+
+Programmer / Web
+Freelancing  -  Damascus - 2010 to 2013
+
+RUNNET is one of the biggest ISPs (Internet Service Providers) in Syria, I have served as web developer for
+about 3 years, which I improved my skills there.
+
+Responsibilities:
+• Full life cycle of the web applications development. 
+• Analyzing, designing, coding and debugging web applications using PHP & MySQL.
+• Testing and validating work produced as part of the development process.
+• Manage the development and training of the Content Management Systems. 
+• Perform maintenance programming and correction of identified defects. 
+• Integrate software with existing systems. 
+• Monitoring website technical performance.
+• SMS services management.
+• Working with a multi-disciplinary team to convert business needs into technical specifications.
+• Working with designers, Front End and project management staff to capture requirements for the functional
+elements of website projects.
+• Integrating websites with social networks (Facebook – Twitter …)
+</we>
+<pr>
+Projects
+• ERP system which consists of:
+- Local management system.
+- ADSL customer management (Internal web application to manage ISP customers, reducing the paper work
+and automating the ADSL order process).
+- Reporting system.
+- Ticketing system.
+- Users and permissions management system (role and user level).
+• Websites:
+http://www.runnet.sy
+http://standsworld.com/
+http://hseworld.net 
+http://www.consultationteam.net
+http://tareksaada.com/
+http://fallouh.net/
+http://latakiacc.org
+
+• Web application to manage GSM modem and other web services.
+</pr>
+<sk>
+Key skills and competencies
+• Ability to multi-task, react quickly to shifting priorities and meet deadlines.
+• Proactive, confident and with a positive "can-do" attitude.
+• Able to clearly communicate technical data to non-technical colleagues and clients.
+• Continuously monitoring technologies and standards.
+• Excellent attention to detail both front and back end.
+•  Solid  web  development  experience  using  OOP,  PHP,  AJAX  especially  with  the  help  of  jQuery,  MySQL,
+JavaScript, XML, HTML and CSS, Drupal CMS, Drupal eCommerce.
+</sk>
+<ed>
+EDUCATION
+
+Bachelor in Information Technology
+Syrian Virtual University  -  Damascus
+2010 to 2013
+
+Diploma in Software Engineering
+Damascus University  -  Damascus
+2007 to 2009
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+IT Skills
+Web development and design, Programming:
+- PHP, MySQL (Expert).
+- HTML5 and Cascading Style Sheet (CSS) (Expert), Javascript, jQuery, PSD to HTML.
+- Codeigniter framework (Expert) , Drupal CMS, Drupal commerce, Zend framework.
+- Involved in C#.NET, VB.NET, CSS3, Apache server, Perl.
+- I have good knowledge about Magento eCommerce platform, ASP.NET, C++, Java, Oracle, Microsoft SQL
+server.
+
+Operating system:
+- Microsoft Windows XP.
+- Microsoft Windows Vista.
+- Microsoft Windows 7.
+- Linux.
+
+Microsoft Office:
+- Office 2003 – 2010
+
+Software maintenance:
+- Troubleshooting.
+- Installation.
+
+Language
+Arabic Native
+English Good
+</sk>
+

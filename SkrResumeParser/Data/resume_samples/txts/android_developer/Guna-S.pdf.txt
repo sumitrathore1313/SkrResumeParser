@@ -1,0 +1,264 @@
+<ba>
+Guna S
+
+Android Developer - Verizon Communications. INC
+
+Dallas, TX - Email me on Indeed: indeed.com/r/Guna-S/0de350e85f5ccd4d
+<su>
+• Over 8 plus years of Software Design and Development Experience in Java based applications.
+• Over 4 years of experience on smartphone and tablet development experience. Developed various Android
+applications across versions, with a good understanding of Android Back-end and UIguidelines.
+• Experience in web service protocols such as JSON, HTTP, and XML.
+• Expertise in developing apps using SQLite, java, JavaScript, XML and HTML5.
+• Extensively worked on memory leaks, push notifications, content providers, multiple screen support, data
+offline usage, accounts and sync on Android.
+• Have developed applications in such a way that device adaptability (Android device forms and SDK levels)
+is default architecture imperative.
+• Experience in testing framework - Genymotion,Espressoand Robotium.
+• Experience in Object Oriented Architecture, Design and Programming from design to implementation.
+• Experience in developing applications using Java, J2EE, Struts, spring and JSP.
+• Experience in architecture design, development, Bootstrap and implementation of software applications and
+testing.
+• Experience in various JAVA/J2EE technologies such as J2EE […] JRE […] JDBC 3.0, JSP 1.2/2.0, Servlets
+2.3/2.4,Json,Struts 1.2 and RESTFUL Web Services.
+• Proficient in Android applications development involving User Interface development, Shared Preferences,
+Notifications, Adapters, Content Provider, Services, XML Parsing, SQLite and Telephony Manager, HttpClient,
+Google Maps, AsyncTasks, Libraries.
+• Exposure in cloud integration like Google Drive, Dropbox with android application.
+• Experienced of working on Android platformand customizing it as per requirements.
+
+• Dedicated team player, quick learner, self-starter, excellent analytical, design and problem solving skills.
+
+• Knowledge on designed platform abstraction layer (PAL) over android HAL framework to interface the tightly
+coupled proprietary platform from native architecture.
+
+• Experience on Android HAL customization.
+
+• Knowledge on Native code.
+
+• Good exposure in troubleshooting and debugging android applications.
+• Hands on experience in deployment & publish android application on Google Play market
+• Well-versed in developing GUI using Interface design principles for Android mobile and tablet devices.
+• Ability to multi-task in a complex production environment.
+• Ability to work independently and as part of a team in a fast-paced environment in order to drive a task
+through to completion.
+• Excellent communication and interpersonal skills.
+• Always curious to learn new skill or a new technology.
+• Worked withReact Nativeframework on IOS for building native applications.
+Willing to relocate: Anywhere
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Verizon Communications. INC  -  Dallas, TX - November 2015 to Present
+
+App: Cimcon Lighting
+Description: Verizon Communications, Inc. is an American broadband and telecommunication company, the
+largest U.S. wireless communications service provider as of September 2014, and a corporate component of
+the Dow Jones Industrial Average.
+
+Responsibilities:
+• Used GPS provider to quickly find location and navigates the directions to the nearest Store locations.
+• Developed the activities and fragments for impressive user friendly UI.
+• Used web views, list views and populated lists to display the lists.
+• Maintaining high performance, reusable, and reliable Android applications.
+• Responsible for consuming the REST services, getting XML, JSON response and parsing them to get the
+required information.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Worked with different types of maps: Gmaps, Map quest, ArcGis
+• Used Android SDK and Eclipse IDE for development.
+• Used SQLite to cache the data received from the RESTful web services.
+• Started working on React Native frameworkfor new applications.
+• Tested applications on various android devices and maintained quality code.
+• Participated in code reviews and peer reviews.
+• Worked with QA team for testing the applications with the test cases.
+
+Environment:  Android  Studio,  Android5.0  API  (API  level  21),  React  Native(Xcode),  GitHub,  XML,  JSON,
+HTML5.
+
+Android Developer
+Daimler Trucks North America, LLC  -  Portland, OR - September 2014 to October 2015
+
+Description:Daimler Trucks North America is also a leading provider of heavy-and medium-duty diesel engines
+and other components. The company's strategic partners in the North American commercial vehicles market
+include Daimler Truck Financial, TravelCenters of America and Petro Truck Centers
+
+Responsibilities:
+• Worked with the Android SDK, and implemented Android Bluetooth and Location Connectivity components.
+• Used SQLite to cache the data received from the RESTful web services.
+• Constructing HTTP requests, fetching server response and parsing feeds wherever required.
+• Analysis of mobile application code for re-engineering.
+• Involved in requirement gathering and designing of the application.
+• Followed the AGILE methodology to implement the project.
+• Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+• Implemented Google Maps API v2 with forward and reverse geo-location.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Implemented unique design for portrait and landscape mode.
+• Handling XML data using efficient parsing techniques such as DOM parser.
+• Used GIT-HUB as our project version controller, where used to commit and push the developed, working
+code
+
+• Working closely with the web application development team to ensure proper integration between the mobile
+application and the web application.
+• Using Crashlytics, while testing the application, to verify proper free-flow working of the application.
+• Testing the application on various Android devices
+• Worked closely with the web application development team to ensure proper integration between mobile
+application and web application.
+• Tested the application on various Android devices.
+• Identifying issues and fixing bugs.
+• Help to maintain quality code.
+• Used Crashlytics, while testing the application, so as to verify the proper free-flow working of the application.
+Environment: Android Studio, Android 4.2 API (API level 17), IntelliJ IDEA, GitHub, XML, HTML5.
+
+Android Developer
+Microsoft  -  Redmond, WA - July 2013 to August 2014
+
+Description:Microsoft  Corporation  is  an  American  multinational  technology  company  headquartered  in
+Redmond,  Washington,  that  develops,  manufactures,  licenses,  supports  and  sells  computer  software,
+consumer electronics and personal computers and services.
+
+Responsibilities:
+• Worked in different phases of the project cycle like design, development and testing.
+• Used GPS provider to quickly find location and navigates the directions to the nearest Store locations.
+• Developed the activities and UI layers.
+• Used web views, list views & populated lists to display the lists.
+• Maintaining high performance, reusable, and reliable Android applications.
+• Responsible for consuming the REST services, getting XML, JSON response and parsing them to get the
+required information.
+• Integrated location based services using Google Maps API to display locations of the nearest stores and
+service centers.
+• Enabled the application to use the Camera feature to scan a document and upload the check using SQLite.
+• Used Android SDK, Android NDK and Eclipse IDE for development.
+•  Tested  the  app  across  different  versions  of  Android  and  different  android  phones  to  assure  quality  and
+performance.
+• Worked closely with another mobile app developer, leading the other platform development.
+• Implemented customized web view component to load an SWF file and HTML data.
+• Implemented the required GUI by making modifications to the XML files.
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  Mobile
+application and Web application.
+Environment: Android Studio, Android 4.1 API (API level 16), IntelliJ IDEA, GitHub, XML, HTML5.
+
+Android Developer
+Twicular Inc  -  Silicon Valley, CA - November 2011 to June 2013
+
+Description: This is a high traffic mobile application where the user can view a list of grocery stores, and the
+app points you toward weekly specials from stores such as Walgreens, CVS, Target, Walmart, Family Dollar,
+Publix and so on.
+
+Responsibilities:
+• As a team member, I was involved in the design and implementation of the UI, classes, architecture and
+activities of the mobile application
+• Used Frame Layout method to show background images of the app.
+
+• Involved in implementing Async task for the background operations.
+• Developed the app to adapt to different orientations (Landscape/Portrait) and various resolutions (xxhdpi/
+xhdpi/mdpi/hdpi) based on the device
+• Added a feature to app to detect internet connection status before making any HTTP Requests.
+• Experienced in developing app handling XML data using efficient parsing technique such as DOM/JSON
+parsers.
+• Worked on Generic Grids and Custom List Views to list the XML feeds.
+•  Developed  the  application  to  enable  it  to  adapt  to  different  orientations  (landscape/portrait),  and  various
+resolutions (ldpi/mdpi/hdpi) based on the device.
+• Utilized web-services (HTTP based, XML, SOAP, JSON), in order to tie our applications to critical server-
+side APIs.
+• Implemented the XML Parser class to parse the XML feed from the URL.
+• Implemented the event reminder feature into the app using services, async tasks and alert notification API.
+• Deep knowledge of AngularJS practices and commonly used modules based on extensive work experience.
+• Analyzed data to identify issues in technical processes.
+• Used Android content providers for implementing features like sending E-mails, SMS, etc., from the app.
+• Applied knowledge of SQLite and data persistence to develop an offline feature that allows the user to access
+app without network connection.
+• Designed the app to take pictures with a camera at any time to collect images.
+• Used RESTFUL web services to consume a web service.
+• Used CVS for project management and version control.
+• Worked on debugging the application using Log cat, DDMS.
+• Worked on Cordova Geolocation, Connection and Storage.
+• Testing of Android applications for T-Mobile/ATT/Verizon carrier.
+• Running manual test cases to verify everyday sanity build.
+Environment:Android SDK 3.x, Eclipse IDE 3.6, JDK 1.6, XML, Java, JRules, J2EE, JSON,
+
+Web Developer
+Catalyst It Services, Baltimore, MDSept - 2010 to October 2011
+
+Description: The gaming portal enables the user to launch a game subscribed by them. The application also
+gives the user a summary of the various games available and information for subscription and their game
+status. New game updates are added on the launch of the application.
+
+Responsibilities:
+• Developed front-end screens using JSP, Custom tags, Java Script and Tag Libraries
+• Designed and developed components under J2EE architecture using Servlets, JSP's and EJB
+• Modeling and generation of code snippets for whole project using Master Craft & Rational Rose.
+• Involved in detailed business analysis, flowcharts, preparation technical specifications,
+• Developed the functionality of the game portal.
+• Implemented 'update on launch' feature.
+• Developed the navigation through various UIs.
+• Worked closely with the design team in implementing an engaging visual experience for the users.
+• Involved in the detail system design and implementation of the specification.
+• Worked on enhancement features for the list up loader and mailer modules and also fixed code defects.
+• Created large database and various stored procedures and triggers.
+• Developed Front-End user interface using JavaScript.
+• Business logic is implemented using Spring MVC, spring security, Java, JSON.
+• Hibernate is used as Object Relational Mapping (ORM) tool.
+• Created session beans and involved in Hibernate transaction management.
+
+• Created Test Plans and developed Test scripts for each class using JUnit and deployed successfully.
+Environment: Java, J2EE, Web Services, Hibernate, Struts2, spring (spring core, Spring AOP, spring security,
+spring web services).
+
+Client: Trident Software, India
+Role:Java developerMarch2008toAug2010
+Description: The project is updating of existing web application of Vodafone customers to view and pay their
+bills  over  the  Internet.  This  framework  has  different  modules,  like  Enrollment  for  Online  Billing,  Payment
+Options, Payment Schedule Options, Payment Delivery Options, Payment History, E-mail Notifications and
+Integration to the SSO Framework (Single Sign-on).
+
+Responsibilities:
+• Worked with SDLC process like water fall model, AGILE methodology.
+• Extensively used Core Spring Framework for Dependency Injections of components.
+• Implemented the MVC architecture using Apache Struts Framework.
+• Designed the Front-end screens using JSF, HTML, and CSS.
+•  Developed  web  Components  using  JSP,  Servlets  and  Server  side  components  using  EJB  under  J2EE
+Environment.
+• Designed and Developed persistence layer with Hibernate, jQuery.
+• Created new tables in (DB) database.
+• Worked on JDBC to select and update the data from the MySQL database.
+• Used TOAD for all database query testing and optimizations.
+• Scheduled jobs, Alerts using SQL Server Agent.
+• Design and Developed using Web Service using Apache Axis.
+• Developed Web Services using WSDL and XML.
+• Used NetBeans for development and WebLogic Application Server for deploying the web application.
+• Hands on experience in object oriented designing such as Encapsulation, abstraction and Polymorphism.
+• Developed ANT scripts to build and deploy the application in the JBOSS Application Server.
+• Created automated test cases using Selenium.
+• Developed the Servlets for processing the data on the server.
+• Designed the front end using Swing.
+• Developed an application in Java using Oracle ADF framework.
+• Design & Development of the User Interfaces using HTML, CSS and JSP.
+• Designed the UML diagrams based on the OOAD principles.
+
+Environment:  Java  Servlets,  JSP,  Java  Script,  XML,  HTML,  UML,  Apache  Tomcat,  JDBC,  Oracle,  SQL,
+Windows.
+<ed>
+EDUCATION
+
+Bachelors ofTechnology in ofTechnology
+Vaagdevi Engineering College  -  Warangal, Andhra Pradesh
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills:
+Operating Systems Windows 7/Vista/XP, Mac OSX, Android.
+Languages JAVA, Objective-C, JavaScript, PHP
+Markup Language HTML/CSS, HTML5, XML
+
+Development tools Eclipse Galileo-Kepler, NetBeans 5.x, MS Visual Studio
+Databases SQL, SQLite, MS-Access
+Frameworks JDK, Android SDK, Hibernate3.0 & Spring2.0x, Phone gap, React Native
+Web Servers Tomcat 6.0 & Apache HTTP Server, WAMP
+Mainframes IBM z/VM
+Other Tools/Software
+Eclipse, Visual Studio 2010, Dreamweaver CS5, Photoshop CS5, Fireworks CS5, Illustrator CS5, Flex Builder
+CS5, Microsoft Office 2013, NetBeans, Notepad++, WordPress.
+
+

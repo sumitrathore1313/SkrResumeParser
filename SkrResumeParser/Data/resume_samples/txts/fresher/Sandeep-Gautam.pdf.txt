@@ -1,0 +1,69 @@
+<ba>
+Sandeep Gautam
+
+Lucknow, Uttar Pradesh - Email me on Indeed: indeed.com/r/Sandeep-Gautam/4388f5c0063b5190
+<su>
+➢ To start my career as a software engineer in an organization where my skills find ample opportunities for
+up-gradation of my knowledge and growth of my career along with that organization.
+Willing to relocate: Anywhere
+<we>
+WORK EXPERIENCE
+
+Fresher
+NA  -  NA
+<ed>
+EDUCATION
+
+B. Tech in Computer Science
+ABES Institute of Technology  -  Ghaziabad, Uttar Pradesh
+August 2013 to July 2017
+<sk>
+SKILLS
+
+Java,Html ,MS office,digital marketing (Less than 1 year)
+<ba>
+LINKS
+
+http://www.linkedin.com/in/sandeep-gautam-650492b6
+<ca>
+CERTIFICATIONS/LICENSES
+
+Java
+June 2016 to Present
+Java is a programming language and a platform.
+
+Java is a high level, robust, secured and object-oriented programming language.
+
+Platform: Any hardware or software environment in which a program runs, is known as a platform. Since Java
+has its own runtime environment (JRE) and API, it is called platform.
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Languages: C, Java
+Operating System: Windows
+IDE: Net Beans, Eclipse
+Designing Tool: HTML, CSS
+<pr>
+PROJECT Criminal Face Identification System (B. Tech - 7th Sem)
+
+Project Details
+
+: This software generally contains personal information about particular person along with photograph. To
+identify  any  Criminal  we  need  some  identification  regarding  person,  which  are  given  by  eyewitness.  To
+overcome this sort of problem we are developing software.
+Tools & Technology: Java (Java Swing, AWT), Oracle 10g
+Team Size: 2 Members
+Responsibility: Developer (Back-end coding)
+
+STRENGTHS
+
+➢ Quick learner, adaptive
+➢ Self-motivating & positive attitude
+➢ Punctuality
+➢ Good analytical & logical skills
+➢ Like to work in a team
+➢ Responsible, dedicated & hard working
+
+

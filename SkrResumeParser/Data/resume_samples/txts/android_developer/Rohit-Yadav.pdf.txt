@@ -1,0 +1,236 @@
+<ba>
+Rohit Yadav
+
+Android Developer - CVS Caremark
+
+Detroit, MI - Email me on Indeed: indeed.com/r/Rohit-Yadav/7754235eaa80b868
+<su>
+life  cycle 
+
+like  requirements  gathering,
+
+in  each  phase  of  software  development 
+
+• 7+ years of Software Design, Development and Maintenance of mobile applications using Android SDK and
+web applications using Java/J2EE.
+•  Experience 
+analysis,design,development,testing,deployment and maintenance of Software Applications.
+• Strong Knowledge in Waterfall, Agile/Scrum software development models.
+• 5+ years of Experience in Design and Development of Android Applications using Android SDK, Eclipse IDE,
+Android Studio, SQL, SQLite, Java, XML, JSON. Published Several Android Applications in Google Play Store.
+• Tested Several Android Applications using real devices, Geny Motion and Android Virtual Device.
+• Hands-on experience on memory leaks, push notifications, multiple screen support, data offline usage, audio
+features, video features, graphic design and animation.
+• Proficient in Working with different Android frameworks(Bluetooth, Location, Camera, Notifications, Maps).
+• Expertize in Android UI toolkit (basic/picker/list views, adapters, dialogs, menus) and Layout Managers.
+• Expertize in web service protocols such as JSON, HTTP, XML and Hybrid-app using Phonegap.
+• Implemented Several Android Applications using Google Maps API, Geocoder API.
+•  Proficient  in  Internet  Application  Programming  using  technologies  like  Core  Java,  Struts,  Spring,  Web
+Services, Hibernate, EJB,JSP, Servlets, JDBC, RMI, JNDI,SOAP.
+• Good Exposure with HTTP GET and POST Requests and parsing different types of responses.
+• Hands on Experience in developing web based GUI using Java Applet, Servlets, JSP, AJAX, JavaScript,
+HTML and CSS3.
+•  Solid  Understanding  in  Core  Java  concepts  like  Collections,  Multi-Threading,  Socket-Programming  and
+Exception handling.
+• In-depth Knowledge on Android basic components i.e. Activity, Fragment, Service, Broadcast Receiver and
+Content Provider.
+• Good Exposure in working with Async task, Threads and Services in android.
+• Experience in localizing the application to support multiple languages.
+• Good Knowledge in version control systems like SVN and GIT.
+• Knowledge of scripting in UNIX/LINUX,XML, XSLT, XML Schema.
+• Built different Applications using databases like Oracle, SQLite and MySQL.
+• Excellent communication, analytical and problem solving skills.
+• Passionate to learn new skills and technologies.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+CVS Caremark  -  Detroit, MI - January 2015 to Present
+
+Description:
+The myGMC App is designed to provide convenient, mobile access to practical and functional features a car
+owner would want at the touch of a button. myGMC also offers one touch access to OnStar Remote Link,
+where you can remotely lock or unlock vehicle doors, or get important vehicle information.
+
+Link:https://play.google.com/store/apps/details?id=com.gm.gmc.nomad.ownership&hl=en
+
+Responsibilities:
+• Involved in Analysis, Design, Development, Deployment and Testing of applications.
+• Participated in ongoing initiatives to improve processes and establish best practices.
+• Implemented full life cycle development of new web applications and modification of existing applications to
+add new components and features emphasizing maintainability, reliability, scalability and performance.
+•  Worked  on  innovative  background  reflecting  the  user  account  status  that  changes  according  to  user's
+account.
+• Designed screens related to Categories and Detail description for Tablet for both 7 inch and 10-inch devices
+by customizing views as per mockup. Created Master-Detail Interface for tablet implementation.
+• Worked on UI and base Android framework issues during OS upgradation.
+• Used version control GIT.
+• Used MVC pattern to encapsulate client/server interactions helps to illustrate software-pattern roles as well as
+developer roles by separating object, components, and services into multi-tiers with well-defined boundaries.
+• Testing included emulator and device testing with multiple versions and sizes with the help of ADB.
+• Involved in design and developing re-usable web services using SOAP, XML, WSDL, XML Schemas and
+XSL.
+• Used web views, list views & populated lists to display the lists from database using simple adapters.
+• Used Android content providers for implementing features like sending E-mails, SMS, etc., from the app and
+designed suitable GUI for these applications.
+• Used Services, Async tasks and Alert Notification API to implement event reminder feature into the mobile
+app.
+• Embedded Google Maps API, GPS Location Data into app with zooming controls.
+• Involved in working with Location Manager and Restful Web service with JSON.
+• Tested the application on various Android devices.
+
+Environment:
+Android  SDK  5.0,  SQLite  3.6,  Eclipse  IDE  3.5,  Android  API's,  RESTFUL  Web  service,  DOM  Parser,  JDK
+1.6, XML, JSON, HTML, CSS, GPS service, Log cat, Windows 7, ADT Plug-in, GIT (version control), DDMS
+console, ADB server, emulator and Base device (G1, HTC EVO).
+
+Android Developer
+General Motors  -  Scottsdale, AZ - May 2013 to December 2014
+
+Description:
+The  CVS/Caremark  app  lets  you  refill  or  request  new  mail  service  prescriptions,  track  order  status,  view
+prescription history and more. Features include Refilling mail orders, checking order status, checking drug
+costs and average etc.
+
+Link:https://play.google.com/store/apps/details?id=com.caremark.caremark
+
+Responsibilities:
+• Contributed to application requirement analysis for achieving the specifications
+provided by the client.
+• Involved in developing the UI for the app using TextViews, Buttons, Check boxes, Alert dialogs, Actionbar
+and spinners for various layouts.
+•  Worked  on  wide  use  of  application  framework  like  content  providers,  content  resolver,  AsyncTask,
+AlertDialog.
+• Involved in working on Restful Web service with JSON.
+• Worked on AJAX with JSON for web page dynamic refreshing.
+
+•  Handling  XML  data  using  efficient  parsing  techniques  such  as  JSON  Parser,  XMLPullParser  and  DOM
+parser.
+•  Contributed  in  backend  of  the  application  that  interacts  with  the  database  to  form  the  JSON  structure
+requiredfor Restful JSON response.
+• Extensively used Web Views to display web components and parent.
+• Utilized social networking and analytics APIs such as Facebook, Google Analytics.
+• Integrated the Cache support to manage and retain the messages on device to provide offline capability
+within the app.
+• JSON parsing to get information from inside the files.
+• Used Crashlytics to detect and fix bugs.
+
+Environment:
+Java, Android SDK 4.4, XML, JSON, Ajax, JQuery, Genymotion, Postman (REST Client), Stash, JIRA, Android
+SDK, Web Services
+
+Android Developer
+MACYS  -  Natick, MA - February 2012 to April 2013
+
+Description:
+The project was an upgrade of the current Macys mobile application, whereby enhancing a more lucrative user
+authentication, improving page performance and providing customers with a richer, interactive navigational
+experience.
+
+Link:https://play.google.com/store/apps/details?id=com.macys.android
+
+Responsibilities:
+• Responsible for designing mode for different android devices.
+• Responsible for designing all the GUI elements by making required modifications to the XML.
+• Responsible for working on Custom UI widgets for summary.
+• Used Multi-threading to implement parallel processing.
+• Implemented client side RESTful call to receive JSON based response and parsed using GSON.
+• Utilized a retention fragment technique to avoid losing the AsyncTask.
+• Participated in the quality assurance of the app including, testing of the User Interface and testing the app
+on different mobile devices.
+• Developed update patches, modules and components to fix bugs, adhere compliance & mitigate security
+risks.
+• Configured security of the app with HTTP and SSL connection.
+• Developed connection with server using Open Source libraries, Asynchronous Http Client for Android.
+• Contributed in production release deployment, certifying release features, monitoring production logs and
+fixing production issues on demand.
+• Involved in designing user-friendly tool to be used by deployment team on verifying content managementin
+Production/Lower environments.
+
+Environment:
+Android SDK 4.0, Java, XML, RESTful, JSON, Android Studio, Git, GSON, Fragments, Action Bar, Custom
+Dialog Boxes.
+
+Android Developer
+Audible Inc  -  Boston, MA - October 2010 to January 2012
+
+Description:
+
+Worked on a small team inside the large Audible (and even larger Amazon) structure to develop new features,
+provide enhancements, and fix bugs for the next release of the Immersion Reading plugin. The plugin is partof
+the Kindle Reader app for the Fire Tablets and other Android devices indirectly, which consume the tablet
+code as the basis for a separate app.
+
+Link:https://play.google.com/store/apps/details?id=com.audible.application
+
+Responsibilities:
+• Delivered Functional Requirements document after detailed Requirements gathering sessions with Business.
+• Assisted in designing the User Interface (UI/UX) and overall look and feel of the app.
+• Implemented Fragments to make the app usable on both Smart phone and tablets.
+• Developed the app to adapt to different orientations and various resolutions (Ldpi/Mdpi/Hdpi) based on the
+device.
+•  Regularly  followed  up  with  Development  Team  to  discuss  discrepancies  identified  during  testing  and
+performance tuning.
+• Supported the design, development, testing and implementation of new business and support applications.
+• Worked with the Android SDK, and implemented Android Bluetooth and Location Connectivity components.
+• Used logcat, DDMS (Dalvik Debug Monitor Server) and trace viewfor debugging and detecting memory leaks.
+• Implemented unique design for portrait and landscape mode.
+• Handling XML data using efficient parsing techniques such as DOM parser.
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+• Used GIT for project management and version control.
+• Used JSON to fetch data from the server using RESTful web services.
+• Implemented list views for displaying new releases.
+• Provided subsequent releases which included feature changes, enhancements and bug fixes.
+
+Environment:
+AndroidSDK,  EclipseIDE,  AndroidAPIs,  JDK,  RESTWebservice,  GIT,  WebLogic,  JQuery,  Ant,  XML,  CSS,
+JSON, SQLite, Log cat.
+
+JAVA Developer
+Pro-Soft Technology Group Inc  -  Hyderabad, Andhra Pradesh - June 2008 to September 2010
+
+Description:
+Metro  PCS  Communications,  Inc.  is  a  provider  of  wireless  communications  services.  The  project  involves
+developing  web  based  Performance  Driven  Compensation  System,  that  helps  system  administrator,
+managers, team leaders and other employees of the company to track salary and increases.
+Responsibilities:
+• Client-side Java application development and server-side Java API development.
+• Created Servlets and Java Server Pages (JSPs) to facilitate user management.
+• Designed and Developed xml schema to represent the data model objects in an xml.
+• Developed Parsers using SAX and DOM, implemented System oriented Architecture methodologies.
+• Development & enhancement of Business Components for order processing application.
+• Developed Servlets and Java classes to communicate with the Database using JDBC.
+• Retrieved dynamic content data for all content pages.
+• Tested application with unit testing, manual testing and writing test classes.
+• Created database including tables, views, functions, constraints etc.
+• Used Tomcat as App server and Oracle as the database to develop and deploy the application.
+
+• Used agile methodology (used Scrum) for development and was present in daily stand up meetings and
+weekly team meeting. Also attended bi-weekly planning meetings.
+• Effectively participated in communication with Business Analysts and architects.
+
+Environment:
+Java, Servlets, JDBC, Windows, JavaScript, HTML, CSS, SQL, J2EE, JSP and Rational Application Developer
+7.0.
+
+ADDITIONAL INFORMATION
+<sk>
+TECHNICAL SKILLS:
+
+Programming/Scripting Languages: C, C++, Java, J2EE, JDBC, HTML, XML,XSL, XSLT, JavaScript, JSP,
+Java Servlets, C#.net, Perl, Python,PHP,Android Application Development
+Web Services: SOAP, REST, JSON, XML
+Operating Systems: Windows, Linux, UNIX, Mac OSX, Android
+Office Tools: Microsoft PowerPoint, Microsoft Excel, Microsoft Word, Microsoft Outlook
+Database technologies: MySQL, PL/SQL, Oracle, SQLite
+IDE's Used: NetBeans, Android Eclipse IDE (with ADT), Eclipse and their Debuggers, Android Studio, IntelliJ
+Tools: Jenkins, ANT, ADT, Maven, IBM Rational Rose
+Version Control Tools: CVS, Git, SVN, Bit Bucket
+Web/Application Servers:Apache TOMCAT
+Frameworks: AJAX, Spring, Junit, STRUTS
+Methodologies: Agile/ SCRUM, Waterfall.
+
+

@@ -1,0 +1,141 @@
+<ba>
+Alexander Apriamashvili
+
+Senior iOS Developer
+
+Los Angeles, CA - Email me on Indeed: indeed.com/r/Alexander-Apriamashvili/574b8c8be6cae22e
+</ba>
+<su>
+Sr. Developer with five years experience in full life-cycle development,
+including analysis, design, development, deployment, testing,
+documentation, implementation, and maintenance of application software
+in mobile- and web-based environment.
+
+Experience in implementing Design Patterns;
+
+Solid knowledge of Apple MVC;
+
+Experience in MVVM and VIPER;
+
+Experience in TDD;
+
+Solid understanding in REST-ful API technologies;
+
+Excellent analytical, problem solving, communication, and team skills;
+
+Dedicated to keeping up with new technologies and applying them to solve
+business needs.
+Willing to relocate: Anywhere
+Sponsorship required to work in the US
+</su>
+<we>
+WORK EXPERIENCE
+
+HEAD OF DEVELOPMENT
+SBERBANK TECHNOLOGY - 2016 to Present
+
+Lead iOS Development team which contains of 3 developers.
+
+Collaborate directly with the Product Owner.
+
+Administrate Enterprise Apple Development Program.
+Successfully developed and delivered an iPad application for SBERBANK investors.
+
+- The architecture of the application has been partially changed to VIPER;
+
+- New VIPER module called "Investor Portfolio" has been added;
+
+- Swift version has been upgraded from Swift 2.2 to Swift 3.0
+
+- Test coverage of the new module is about 60%
+
+- Total test coverage of the whole application has been increased to 30%.
+
+- The application is currently available in the App Store.
+
+Currently working on the iPhone version of this Application.
+
+Maintaining Mobile Banking Applications for European subsidiaries of the SBERBANK.
+
+CHIEF ENGINEER
+SBERBANK TECHNOLOGY - 2016 to 2016
+
+late 2016
+Developed Mobile Banking Applications for European subsidiaries of the SBERBANK of
+Russia.
+
+- Implemented a most of functionalities and application core-components;
+
+- Implemented whole App-Server interaction logic;
+
+- Covered code with Unit-tests and UI Tests;
+
+- Successfully shipped apps for User Acceptance Testing which consists of more than
+500 people. As a result few minor bugs in a feedback;
+
+- Acted as a supervisor for an iOS Development team;
+
+- Serving as a technical consultant for Business- and System-analysts.
+
+LEAD ENGINEER
+SBERBANK TECHNOLOGY - 2015 to 2016
+
+Started to work on Mobile Banking Applications for subsidiaries of the SBERBANK of
+Russia.
+
+iOS DEVELOPER
+KRIKDESIGN - 2013 to 2015
+
+Developed an iPhone Application for personal finances monitoring and analysis called
+MoneyFix. Successfully shipped the application to the App Store.
+
+- Learned basics of the iOS Development;
+
+- Used native CoreData Framework for data persistence;
+
+- Learned much about CoreAnimation and CoreGraphics;
+
+- Added a number of brand new features for that moment. Such as TouchID for data
+protection and Yandex.SpeechKit for voice control;
+
+Developed an iPhone Application called SAVVA for Savvino Starozhevskiy Monastery.
+Successfully shipped the application to the App Store.
+
+- Worked a lot with CoreAnimation and CoreGraphics;
+
+- Developed a custom map-view on UIScrollView basis, which represents the Monastery
+scheme;
+
+- Integrated the Application with third-party billing service;
+
+- Implemented in-app language switching.
+
+WEB DEVELOPER
+KRIKDESIGN - 2013 to 2013
+
+late 2013
+Developed a number of backend applications via PHP on Symphony 1.3 Framework
+basis.
+
+-  Implemented  backend  engine  for  IKEA  stock  sites  such  as  http://ikeacover.ru/2014/  and  http://
+ikeacover.ru/2015/;
+
+- Maintained Volkswagen Service sites for Volkswagen Russia.
+
+JUNIOR WEB DEVELOPER
+AKMOSOFT - 2011 to 2013
+
+Web applications development (PHP, HTML, CSS, JavaScript)
+</we>
+<ed>
+EDUCATION
+
+Specialist's
+Moscow Technological University  -  Москва
+</ed>
+<sk>
+SKILLS
+
+IOS (3 years), Swift (1 year), Objective-C (3 years), XCode (3 years), TDD (1 year)
+</sk>
+

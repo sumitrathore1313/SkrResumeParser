@@ -1,0 +1,102 @@
+<ba>
+Edward Giese
+
+Senior Web/Backend Developer
+
+Fredericksburg, TX - Email me on Indeed: indeed.com/r/Edward-Giese/ff260a848bf1faa2
+</ba>
+<su>
+Full time or Contract position that allows me to use my current skills, and develop my newer ones, in a dynamic,
+results-oriented team. I’ve worked for all sized companies, but lean toward the smaller ones. Local positions
+in San Antonio or Austin strongly preferred, but willing to work remotely if necessary.
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+WP Engine  -  Austin, TX - February 2015 to March 2017
+
+WP Engine hosts high end WordPress sites. Worked in three different areas:
+Data Team:
+● (Spark/Scala) Scanned customer sources to support massive version upgrades
+● (Spark/Scala) Garbage collection software for the custom S3 backup platform -- 3.8 PBytes
+● (Spark/Java) Performed major error recovery on saved customer access logs
+● (Spark/Java) Monitored success rate of 0.8 TBytes/day of access log uploads
+● (Java) Developed a live mysql-binary-log to Kafka connector
+● (Java) Developed a tool to harmonize Salesforce with all internal data sources
+● (Python/Google BigQuery) Worked on a team to retool customer traffic summaries
+Platform Team:
+● (PHP) Made improvements and shepherded the process to do multiple WordPress Upgrades
+● (PHP) Shepherded several major WP-CLI releases, keeping security concerns foremost
+● (PHP) Paid down considerable technical debt in platform
+Business Systems:
+● (Python) Developed a fraud detection microservice
+
+Wrote specs, managed customer work, did billings and administration, and sales
+Cloudy Hills et. al  -  Fredericksburg, TX - 2008 to 2015
+
+Fredericksburg, Texas • 2008 - 2015
+Freelanced on teams of 2-5 programmers at small contracting companies, and briefly, on my own.
+● Wrote specs, managed customer work, did billings and administration, and sales
+● (PHP/AngularJS) Created a custom LMS for the VA including an integrated chat system
+● (PHP) Developed an API for parkingmobility.com
+● (PHP) Developed a Learning Management system for the Texas Restaurant Association
+● (PHP) Improved by 10x a background file-management subsystem for industrial printing
+● (Apex) Developed a data connector from a website to third-party salesforce accounts (Apex)
+● (PHP/Laravel) Piecewise improvements for a web-driven delivery service
+● (Salesforce/Apex) Refactored backend logistics system for a material donations website
+● (Symfony/JS) Reworked UI for an experimental system reducing criminal recidivism
+● (PHP) Developed the backend management system for email marketing vendor
+● (WordPress, Joomla, Magento, custom) Created 18 websites of varying complexities
+
+C/Assembler
+Chemical Engineering (Exxon) - 2008 to 2008
+
+then CAD software development, contract software, and the Ministry
+● (C/Windows) Developed and maintained user interface software for 401(k) recordkeeping
+● (C/Windows) Worked with a startup making a presentation graphics system
+● (C/Assembler) Various consulting jobs with industrial control systems
+● Managed teams of 3-5 software engineers in a dynamic project-based environment
+● (C/Windows) Developed a full-featured word processor for Windows
+● Oversaw the administration of two church-run daycare centers (total children watched was about 150) and
+brought one that was chronically losing money to a break-even
+● Taught adults extensively, and wrote over 500 pages of educational material.
+● Taught undergraduate courses for the extension service of Concordia University (Austin,
+Texas)
+</we>
+<ed>
+EDUCATION
+
+Master of Divinities
+Concordia Theological Seminary  -  Fort Wayne, IN
+1998
+
+BS, BA in Chemical Engineering, Plan II
+University of Texas at Austin  -  Austin, TX
+September 1976 to May 1980
+</ed>
+<ba>
+LINKS
+
+http://github.com/edgiese
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+SKILLSETS Current Expertise Up and Coming or Old Friends
+
+Languages PHP, Scala, SQL, Java
+Python, JS, Salesforce Apex, C/C++
+
+Platforms Apache Spark, LAMP/LEMP, AngularJS, React, Centos, Salesforce, Laravel,
+WordPress, Ubuntu CodeIgniter, Symfony, Windows Desktop
+
+Tools Jira, git, vim, sbt, PHPUnit, mysql, bash, pytest, Jenkins, maven, ansible, bind,
+postgres, kafka postfix, make, ANT
+
+Techniques Agile, Object Oriented Continuous Integration, Test Driven
+Programming, Functional Development
+Programming, Unit Testing
+</sk>
+

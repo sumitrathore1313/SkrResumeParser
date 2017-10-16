@@ -1,0 +1,126 @@
+Ankur Sachdeva
+
+Software Engineer - Celigo India Pvt. Ltd
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Ankur-Sachdeva/729e2458a59c03bf
+
+To  become  a  professional  by  providing  service  by  hard  work  &  dedication  in  an  organization  rendering
+challenging tasks and human
+environment.
+
+Educational Qualifications/Professional Certifications
+
+UNIVERSITY/BOAR
+
+WORK EXPERIENCE
+
+Software Engineer
+Celigo India Pvt. Ltd - August 2016 to Present
+
+Till
+
+About this company - This company is US based MNC which having it's own product whose
+dealing with data integration with different application.
+
+Senior Software Engineer
+Chetu India Pvt. Ltd - 2014 to August 2016
+
+About this company - This company is US based MNC which deals with projects based on US
+market and provide outsourcing.
+
+Project Undertaken:
+● Magento Extension:
+Working on creating and modifying magento plugin for FSM(Free Style
+Merchandising plugin) Attraqt. In this plugin, we are managing category pages,
+search pages and recommendations blocks from FSM API and display in magento.
+Technologies Used: PHP(Magento).
+Database: MySql.
+
+● Web Services using ROR application:
+Worked on creating Web Services using Activemerchant gem in Ruby on Rails
+application. i have created API for Braintree, BluePay, Merchant Warrior,
+Spreedly and Stripe payment gateway. All Response and Request in XML format.
+Technologies Used: Ruby on Rails.
+Database: Postgres.
+
+● CACHE.COM:
+Updated and maintained this international shopping website of Women's
+Apearals. My role is to take care of cron processing and fix bugs in this website.
+This website was built on Megento Enterprise Edition.
+Technologies Used: PHP(Magento), JQuery and CSS.
+Database: MYSQL.
+
+Web Developer
+Chetu India Pvt. Ltd - April 2014 to September 2014
+
+About this company - This company works to make education more fun and effective by applying
+technology and putting together the best environment for learning.
+My Role is working on their website( www.myteamexplore.com ) Design(html, css and jquery),
+Development(PHP and mysql) and maintenance.
+
+Web Developer
+MidlandWebNet Technology - September 2012 to April 2014
+
+Projects Undertaken:
+● FYNE.IN:
+Updated and worked on this website Fyne, as a Site for a One Stop Shop for your bathroom
+ideas. My role was to update website functionality on client's requirement.
+Technologies Used: PHP(Magento), JQuery and CSS.
+Database: MYSQL.
+
+● BIBA.IN:
+Updated and worked on this website Biba Apparels Private Limited ("Biba"), the indian fashion
+giant. My role was to update website functionality on client's requirement.
+Technologies Used: PHP(Magento), JQuery and CSS.
+Database: MYSQL.
+
+● Kaaryah.COM:
+Created and worked on this website - KAARYAH Lifestyle Solutions is an unmatched apparel
+brand. My role was to update website functionality on client's requirement.
+Technologies Used: PHP(Magento), JQuery and CSS.
+Database: MYSQL.
+
+● CYBERSHALA.COM:
+Updated and maintained this website of Online Learning System. Works hand to hand with Adobe Connect
+for various features such as Video Classes and
+Presentation Also used PayPal for Registration Procedure.
+Technologies Used: Core PHP, HTML, JavaScript, CSS, Web Services and Ajax.
+Database: MYSQL.
+● FRACTIONALEXCHANGE.COM:
+Updated and maintained this website - FractionalExchange.com is an online, ownertoowner
+network of property owners.
+Technologies Used: PHP(Codeigniter), JQuery and CSS.
+
+● WORDPRESS PLUGINS.
+Worked on three softwares:
+1. Standalone Dating Software.
+2. Wordpress Dating Plugin.
+3. Fully Managed Dating Software.
+
+ATTITUDINAL SKILLS
+
+● Innovative problem solving skills.
+● Ability to meet tight deadlines.
+
+ADDITIONAL INFORMATION
+
+OPERATING SYSTEMS Windows, Ubuntu, CentOs.
+DATABASES MYSQL, SQL Server 2008, Postgres
+
+OTHER SKILLS Web Hosting
+
+Strengths
+
+Patience, Helping Nature, Continuous Learner (open to new ideas and always ready to learn new things),
+Good and
+Dedicated Team Worker.
+
+Additional Details
+
+Father's Name: Sh. Amrit Pal Sachdeva
+
+Religion: Hindu.
+
+Linguistic Ability: English, Hindi, Punjabi
+
+

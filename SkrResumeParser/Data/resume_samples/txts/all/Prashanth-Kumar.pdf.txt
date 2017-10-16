@@ -1,0 +1,199 @@
+<ba>
+Prashanth Kumar
+
+Android Developer
+
+- Email me on Indeed: indeed.com/r/Prashanth-Kumar/fc7efda6d05b349d
+<su>
+➢  Over  5  Years  of  Professional  Experience  in  analysis,  design,  development,  customization  testing  and
+production support of various enterprise mobile applications in Banking, retail.
+➢ Proficient in Android architecture, design guidelines and Material Design.
+➢ Experience in using Fragments, Activity workflow, Action Bar Navigation, Menu designs, custom views and
+Loaders.
+➢  Well  versed  in  REST  apis  and  handling  back-end  services.  Strong  Trouble-shooting,  Problem  solving,
+Analytical & Design Skills.
+➢ Experience in developing mobile apps using modern architectures like MVVM and MVP.
+➢ Developed mobile apps using Bluetooth/ Bluetooth LE APIs.
+➢ Experience with Reactive (RxAndroid) and dependency injection (Dagger 2) frameworks.
+➢ Implemented various 3rd party libraries that are available in the market for improving the performance of
+the application. Libraries like Picasso, GSON, Retrofit, Buterknife, LeakCanary, Mixpanel & Apptentive.
+➢ Experience in performance optimization of Android applications and exposure to tools such as Trace-
+➢ View, Lint, and Hierarchy Viewer
+➢ Experience in integration of Android based mobile applications with Restful web services.
+➢ Developed Mobile Device Management (MDM) product, enabling BYOD for enterprise.
+➢ Participated in design reviews, code reviews and functional demos
+➢ Unit-testing code for robustness, including edge cases, usability, and general reliability.
+➢ Collaborated with cross functional teams (Product, UX/UI) to define, design and ship new features.
+➢ Contributed to architectural design, automated testing and continuous integration
+➢ Proficient in analyzing and translating business requirements to technical requirements and architecture
+➢ Strong troubleshooting, Problem solving, Analytical & Design Skills
+➢ Efficient in all phases of the SDLC (Agile Methodology) including System Testing, User Acceptance Testing
+& Prod Support and exposure to Software Quality Assurance process
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Wells Fargo Bank, NC - May 2016 to January 2017
+
+Link: https://play.google.com/store/apps/details?id=com.wf.wellsfargomobile&hl=en
+
+Description: The mobile banking app for Android Devices with Wells Fargo Bank offers a secured login system
+to the existing Wells Fargo customers for personal account management. The application mechanism involves
+retrieval of user account information from the secure internal database API's to view and perform transactions.
+Customer may also utilize features such as view check and deposit images, pay bills, transfer funds, send and
+receive money by email address or mobile number, explore detailed account activity and get quick access to
+single sign on screen. The app also allows the use of Google map API to find nearby branches and ATMs.
+
+Responsibilities:
+➢ Discussed the requirements with the client and documented the requirements.
+➢ Prepare the prototype based on the client requirement and share to client manager.
+➢ Involved in designing the interface along with the Design and UX team for better usability and handling
+across Android and maintain their relative nativity (phones and tablets).
+
+➢ Developed user-friendly user-interfaces using widgets like Menus, Dialogs, Different Layouts, Buttons, Edit
+boxes.
+➢ Use frameworks and libraries such as RxJava for event-bussing, and Dagger 2 for
+dependency injection.
+➢ Created Selection widgets like List View using Array Adapters and Scroll View as per client need.
+➢ Involved in "send text" and numbers to the handset using the PC keyboard using SMS Manager.
+➢ Versatile to identify the root cause of an application issues while working on Android devices.
+➢ Making the Restful Service Calls using Retrofit Library at the various stages in the app development cycle
+and parsing the responses back from the web servers according to the application requirement.
+➢ Used GPS provider to quickly find location using Location Manager and navigates the directions to the
+nearest bank or ATM.
+➢ Designed the Custom Dialog using the Fragment Activity.
+➢ Designed the Custom Action bar, Custom Progress bar while making service calls.
+Consumed restful web services to fetch user profile and daily transaction details report data.
+➢ Worked closely with another mobile app developer, leading the other platform development.
+➢ Used Dalvik Debugging Monitoring Service (DDMS) for monitoring log activity, threads, network connectivity,
+errors, and memory allocation.
+➢ Identifying Critical/Crash/Hidden defects in applications using mobile apps and Ability to give suggestions
+for a quick fix by analyzing logs.
+➢ Tested the app across different versions of Android and different android phones to assure quality and
+performance.
+➢ Worked with Android Espresso for unit testing and instrumentation testing.
+➢ Proficient in creating test data for Business users, Personal users, Commercial users and used to unit test
+and requirement validation purpose.
+➢ Working in agile methodology, working as team player and participating in daily stand-up meetings and
+involved with scrum project estimation meeting on bi-weekly.
+Environment: Android Studio, Android 4.0 and up versions, Android SDK 4.1, Java 1.6, SQLite 3.0, Junit,
+DDMS
+
+Android Developer
+Rapid Value Solutions - November 2015 to May 2016
+
+Link: https://play.google.com/store/apps/details?id=com.hs.helloscheduling&hl=en
+Description: Dash Board is an employee leaves approval management. This app will support different event of
+life cycle data management. The main objective of this app is to show Access Info, Status (Apply, Forwarding
+and Granting) of leaves and permissions.
+Responsibilities:
+➢ Understanding the client requirements and collecting information about the project.
+➢ Developing the MVC and MVP architecture.
+➢ Integrated Android SDK using eclipse IDE and Android Studio.
+➢ Worked closely with the web application development team to ensure proper integration between mobile
+application and web application.
+➢ Implementing complex custom layout designs for the applications without any memory leaks.
+➢ Use of open source libraries/tools including RXJava.
+➢ Integrating lessons from the internal server and made application flexible to update changes at any point
+of time using SVN.
+➢ Implementing application to support different screen sizes.
+➢ Developing screens using XML, 9-patch and integrated them in to the application.
+➢ Handled JSON and Rest Client web services to get and send data.
+➢ Integrating GCM Notifications and handled app without any memory leaks.
+
+➢ Debugging and Root cause analysis of Development issues
+➢ Tested the application on various Android devices.
+Environment: Android SDK, Eclipse IDE, Android API's, PhoneGap, Node.js, JDK, XML, JSON, SQLite, Log
+cat, Windows 7.
+
+Android Developer
+United Wills, CA - November 2014 to October 2015
+
+Link: https://play.google.com/store/apps/details?id=com.ebestiot.smartrewards&hl=en
+
+Description: The Coca-Cola MCR application provides a way to manage Coca-Cola rewards, point balances,
+offers based on location and user profile.
+Responsibilities:
+➢ Involved in requirement gathering and designing of the application.
+➢ Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+➢ Implemented unique design for portrait and landscape mode.
+➢ Implemented SQLite database.
+➢  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+➢ Debugging and Root cause analysis of production issues.
+➢ Tested the application on various Android devices
+
+Environment: Android SDK 2.2, Eclipse IDE 3.5, ADT Plug in, JDK 1.6, XML, JSON, HTML, CSS, SQLite,
+Web Services, Trace View, Log cat, Windows 7.
+
+Android Developer
+Global IT Solutions - January 2014 to October 2014
+
+Link: https://play.google.com/store/apps/details?id=com.healthtap.userhtexpress&hl=en
+
+Description: Health Tap is a mobile application developed for HealthTap.com. It is created to provide and share
+information among the social network of community members. The members can report symptoms, conditions,
+actions, and the results of the actions they are taking to live happier, healthier lives. Experts can post their
+answers and suggestions to the user's questions.
+
+Responsibilities
+➢ Developed the User Interface layers and the web modules for the activities including Home Screen, Sign
+In, Profile, Settings, and Questions.
+➢ Used Android SDK 2.0 and Eclipse IDE for development.
+➢ Used multi-threading to implement parallel processing.
+➢ Utilized web-services (HTTP based, XML, SOAP, JSON or other services), in order to tie our applications
+to critical server-side APIs.
+➢ Developed necessary DAOs (Data Access Objects) for client.
+➢ Researched technical issues and provided recommendations.
+
+Environment: Java, Android SDK, Eclipse 3.4/3.5, JSON, SOAP, DAO, Image Downloader.
+
+Java Developer
+Flasto IT Solutions - June 2012 to December 2013
+
+Project Description
+
+Responsibilities:
+➢ Used Eclipse as an IDE for coding the whole application.
+➢ Responsible for implementing the whole application in MVC Design pattern.
+➢ Designed the user interface pages in JSP using HTML.
+➢ Developed server side programming using Java Servlets and EJB.
+➢ Responsible for client side validation using JavaScript.
+➢ Involved as a team member in developing J2EE Module.
+➢ Performed Unit and Functionality testing.
+➢ Involved in Exception handling.
+➢ Developed Java classes to update, retrieval and inserting records to oracle database using
+Oracle
+Environment: Core Java, J2EE, XML, Servlets, Java Script, JSP, HTML, JDBC, SOAP, Eclipse3.2 with My
+Eclipse, SQL, Oracle, Junit, EJB.
+<sk>
+SKILLS
+
+ECLIPSE (3 years), XML (3 years), JAVA (3 years), ANDROID (3 years), ANDROID SDK (3 years)
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.wf.wellsfargomobile&hl=en
+<sk>
+ADDITIONAL INFORMATION
+
+Technologies
+Java JDK […] (JSP 1.2/2.0, Servlets 2.3/2.4, EJB 2.0), Android SDK 2.2, Spring 2.1, Spring 3.0, Hibernate,
+JDBC 3.0, JavaScript 1.8.x,CSS3, JSON, Web Services.
+
+Android App
+Mobile Development
+
+SDK 2.x, 3.x, 4.0,4.2 Android, API - Activities, ListViews, Adapters, SQLite, Horizontal scrolling, Notification
+Manager, Contact Content Provider, DDMS, Location, Map, HTTP Client, JSON based Web Services, Camera
+API, Facebook API.
+
+Debugging and Testing Tools JUnit, DDMS, Logcat
+Markup Languages HTML 4.0.1, HTML5 and XML 1.0.
+Application Servers JBoss […] Tomcat […] WebSphere 6.0
+IDE Eclipse 3.x, NetBeans 5.x/6.x/7.x, […] Oracle J Developer 10g/11g, Microsoft Visio 2007.
+Data bases SQLite 3.6, Oracle 9i/10g, MySQL […] MS-SQL Server […]
+OS Windows (2000/XP Professional, Windows 7, Windows 8, Ubuntu, Fedora, Macintosh
+
+

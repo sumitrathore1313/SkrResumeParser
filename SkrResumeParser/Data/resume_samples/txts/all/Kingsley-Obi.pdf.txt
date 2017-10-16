@@ -1,0 +1,68 @@
+<ba>
+Kingsley Obi
+
+- Email me on Indeed: indeed.com/r/Kingsley-Obi/e793872a2b4530c5
+</ba>
+<su>
+Exceptionally creative and dependable entry web developer with a stellar customer service record and superb
+work ethic. Knowledgeable in a wide variety of computer languages as well as the principles and techniques
+of web development and maintenance. Highly adept at conveying complex technical information in a clear and
+concise way. I am looking to apply my abilities to the position of web developer at Zipped.
+</su>
+<we>
+WORK EXPERIENCE
+
+WEB DEVELOPER
+- 2013 to Present
+
+FREELANCE
+• Design and build websites, landing promotional pages and microsites
+• Work to ensure designs are technologically sound
+• Optimize websites to ensure they render consistently in cross-browser environments
+• Build & maintain WordPress themes optimized for mobile and tablet devices.
+• Customize WordPress-based themes
+• Document processes and code in a clear, comprehensive and organized manner
+• Provide input to help improve site usability, interface design, architecture, layout & content
+• Conduct layout design and construction for variety of websites assigned
+• Provide support for ongoing maintenance of existing websites
+
+MICRO-COMPUTER SPECIALIST (INTERN)
+ADMINISTRATION FOR CHILDREN SERVICES - 2011 to 2013
+
+• Provide on-site and telephone support for users of computer hardware and software.
+• Install computer hardware systems and software including upgrades and enhancements.
+• Conduct training for use of computer hardware and software.
+• Coordinate and conduct user group meetings; record and distribute meeting minutes.
+• Test new software programs and update existing programs prior to installation.
+• Evaluate needs of user departments and recommend hardware and software solutions.
+• Maintain password security for authorized access to computers and local area networks.
+• Develop and maintain data base files.
+• Maintain secure backup of master software files; maintain periodic backup of user software and data.
+</we>
+<ed>
+EDUCATION
+
+BACHELOR OF ENGINEERING in Computer Engineering
+GROVE SCHOOL OF ENGINEERING
+2011 to 2016
+</ed>
+<ba>
+LINKS
+
+http://www.linkedin.com/in/kingsleyobi
+</ba>
+ADDITIONAL INFORMATION
+<sk>
+SKILLS
+WORK
+HTML
+CSS
+BOOTSTRAP
+JAVASCRIPT
+JQUERY
+
+PERSONAL
+AUTODESK GRAPHIC
+JUSTINMIND
+</sk>
+

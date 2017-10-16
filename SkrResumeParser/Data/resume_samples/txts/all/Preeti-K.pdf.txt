@@ -1,0 +1,70 @@
+<ba>
+Preeti K
+
+Android Developer
+
+Dublin, CA - Email me on Indeed: indeed.com/r/Preeti-K/8db08cd659744209
+<we>
+WORK EXPERIENCE
+
+Android Developer
+FoodNearU  -  Dublin, CA - January 2015 to July 2015
+
+Used Views and Layouts for user-friendly interaction.
+• Developed the UI layers and the web modules for activities.
+• Used multi-threading to implement parallel processing.
+• Utilized web-services (XML, SOAP, JSON), in order to tie our applications to critical server-side APIs.
+• Designed the user interface of the application by utilizing XML, custom layouts (Linear Layout, Grid Layout),
+Custom ListView and adapter, fragments, MapView with Google Maps API.
+• Integrated SQLite Mobile Database to store the order information.
+• Used GitHub as Version Control and JUnit for unit testing cases.
+
+Environment: J2EE, Android SDK 4.0 and up, Eclipse 3.5, JSON, Restful API, SQLite.
+
+Android Developer
+Conscient InfoTech Pvt. Ltd - August 2012 to September 2014
+
+Roles and Responsibilities:
+✓ Used Views and Layouts for user-friendly interaction.
+✓ Used Android SDK 2.0 and Eclipse IDE for development.
+• Developed the UI layers and the web modules for activities.
+• Used multi-threading to implement parallel processing.
+• Utilized web-services (XML, SOAP, JSON), in order to tie our applications to critical server-side APIs.
+• Developed Restful web services using the RestEasy API.
+
+Environment: Android SDK 1.5 and up, Tab layout, REST, XML, Java, Eclipse 3.5, Multi-threading, SQLite3.
+
+• INTERNSHIP AND TRAINING
+
+Project Title: HOSPITAL MANAGEMENT SYSTEM
+Company: Daffodil software Ltd.
+
+Language /Back-end: JAVA, MS ACCESS
+Team Size: 4
+
+Time Duration: 6 months (January to June 2012)
+
+Project Description: This project aims at human resource management department, provides the information
+regarding the employees in the company. The system has been to facilitate good Interaction/communication
+facilities between the employees and HR Administration.
+
+• Coded Java backend, JSP, Struts, JavaScript.
+<ed>
+EDUCATION
+
+Masters in Computer Applications
+Northern India Engineering College
+
+Bachelors in Computer Applications
+Beri Institute of Technology
+
+ADDITIONAL INFORMATION
+
+✓ TECHNICAL EXPERTISE
+Languages: Java, C, C++.
+Framework: Android SDK, Java Development Kit (JDK), C standard Library.
+Software: Eclipse, Android Studio, Microsoft Suite (Word, Excel, PowerPoint, Access).
+Databases: Oracle, MySQL, Database SQL command, SQLite.
+Web Technologies: JavaScript, HTML5, CSS, XML.
+
+

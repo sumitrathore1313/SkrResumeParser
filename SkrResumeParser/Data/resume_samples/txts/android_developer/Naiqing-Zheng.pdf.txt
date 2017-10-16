@@ -1,0 +1,81 @@
+<ba>
+Naiqing Zheng
+
+Android Developer
+
+Fairfield, IA - Email me on Indeed: indeed.com/r/Naiqing-Zheng/3718b5228d6c3d38
+<we>
+WORK EXPERIENCE
+
+Android Developer
+BEIJING ZHONGCHUAN SHIYOU MEDIA & TECHNOLOGY, Beijing, China • 2016 - January 2016 to
+August 2016
+
+Mobile internet platform with video networking, and over 100 staff.
+
+Android Developer
+Redesigned live stream, web-cast, and playback pages, implementing coded functionality and animations with
+increased accuracy. Developed update patches, integrated new components, and investigated and repaired
+bugs, greatly improving application performance. Wrote technical specifications, documentation, and reports.
+
+• Increased speed of development life cycle through scaling internal processes.
+• Implemented video functionality, animations, social networks, and server-side integrations.
+• Wrote clean code which is readable, efficient, well-tested, and maintainable.
+• Technologies Used: Java, Android Studio, Windows
+
+Android Developer
+DEZHOU WANZHENG SCIENCE & TECHNOLOGY  -  Dezhou, CN - 2015 to 2016
+
+Dezhou, China • 2015-2016
+Information technology company creating driving and teaching software; 100 employees.
+
+Android Developer
+Built complete software applications and core functionality, including modules for student management, lighting
+orders, and marketing campaigns. Integrated APIs and existing modules, and added functionality including
+video recording and uploading. Tested and debugged applications to improve performance, and wrote final
+technical specifications and documentation.
+641-919-7221 • naiqing.zheng@hotmail.com • https://www.linkedin.com/in/naiqing-zheng
+
+• Maintained long-term Android connection through back-end socket manipulation.
+• Ensured content met or exceeded project requirements.
+• Technologies Used: Java, SQLite, GreenDao, Eclipse, SVN, Windows, Android
+
+Android Developer
+Dezhou, CN - 2013 to 2015
+
+DEZHOU WITMOON SOFTWARE DEVELOPMENT, Dezhou, China • 2013-2015
+Entrepreneurial software development company focusing on e-commerce and financial trading.
+
+Android Developer
+
+Gathered  and  analyzed  project  requirements,  and  created  plan  for  software  architecture  and  division  of
+labor. Designed and developed core modules and components, as well as website. Performed testing and
+troubleshooting, and optimized interfaces.
+
+• Technologies Used: Java, Eclipse, Windows
+<ed>
+EDUCATION
+
+Master of Science in Computer Science
+Maharishi University of Management  -  Fairfield, IA
+June 2019
+
+Bachelor of Science in Material Modeling & Control Engineering
+QingDao University of Science & Technology  -  Qingdao, CN
+2012
+
+planning
+MUM
+
+management
+MUM
+<sk>
+SKILLS
+
+android development (4 years), Java (4 years)
+<ba>
+LINKS
+
+https://www.linkedin.com/in/naiqing-zheng
+
+

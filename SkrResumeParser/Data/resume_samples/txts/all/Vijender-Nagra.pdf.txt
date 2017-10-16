@@ -1,0 +1,79 @@
+<ba>
+Vijender Nagra
+
+Android Developer - Eidyias Inc
+
+Fremont, CA - Email me on Indeed: indeed.com/r/Vijender-Nagra/0a170889d9ba8c30
+<su>
+Seeking  a  developer  position  in  an  organization  where  I  can  utilize  my  existing  skills  and  knowledge  and
+develop new skills to contribute in the accomplishment of project goals.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Eidyias Inc  -  Fremont, CA - January 2014 to Present
+
+Developed an android fitness application to display the calories burnt using the GPS data. Application uses
+the Location Manager and Location Listener provided by android SDK to find the exact location changes of
+the device. Primary purpose of this app is to calculate the distance traveled and calculate the calories burnt
+based on the distance travelled.
+❸  Contributed  to  the  full  mobile  application  development  lifecycle  from  planning,  requirement  gathering,
+development, testing and launching on Google play store for beta testing.
+❸ Responsible for development of all application components and UI resources
+❸ Integrated Google play services and Google Maps API V2
+❸ Performed testing on Physical device and the android emulator.
+❸ Built compatibility with android version 2.2 (API 8) to present (API 19).
+❸ Implemented Location Listener to show exact location on Google Maps.
+❸ Used Polylines to draw path on Google Maps with accurate GPS location changes.
+❸ Published and updated the application on the Google play store as Calorie Burnt.
+
+Android Developer
+Basic Launcher - July 2013 to Present
+
+Developed and application which is a customized, performance driven - home screen replacement for Android
+Devices. Application's primary use is for adult's unfamiliar with the smart-phone interface or anyone upgrading
+from a simple phone. It is made to serve people with disabilities and senior's to find their way around the phone
+by providing features like - easy access to navigation, phone contacts, simple easy to use voice commands.
+❸  Contributed  to  the  full  mobile  application  development  lifecycle  from  planning,  requirement  gathering,
+development, testing and code maintenance and enhancement.
+❸ Built various UI components using the android SDK and Eclipse android plug-in.
+❸ Performed speech reorganization tasks by utilizing TextToSpeech and recognizer Intent.
+❸ Added support for reminder setting and status bar notification using pending intent and alarm manager.
+❸ Integrated Android Google Maps V2 to locate current location and show specific address on map from user
+input
+❸  Other  features:  Open  phone  dialer,  open  default  browser,  browse  contacts,  browser  incoming  SMS
+messages.
+
+Android Developer
+Twitter Trends - January 2013 to July 2013
+
+The application implemented a geographic visualization of twitter data across USA. The map displayed the
+people's discussion trends.
+
+❸  Implemented  a  feature  to  aggregate  the  tweets  by  state  with  the  closest  geographic  center,  and  color
+encoded each state according to the aggregate "sentiment".
+❸ Implemented word extraction methods that took a string input and returned tuple of words contained in the
+string.
+❸ Performed a lot of debugging activity by making custom doctest dictionary to validate and analyze the twitter
+"sentiments" about a topic.
+
+Skills
+Programming Languages: Core Java, Python 2/3, C, C++, JavaScript
+
+Android - SDK 2.2 +, Emulator, ADB, DDMS, SQLite Database, Loader,
+Notifications services, Location based Services, Android Google Maps v2 API,
+Mobile Technologies: Content Providers, Alarm Manager, Broadcast Receiver & Services, XML, AsyncTask,
+Fragments and ActionBar.
+Support multiple screen sizes, Support different languages, 2D, OpenGL
+<ed>
+EDUCATION
+
+Electrical Engineering & Computer Sciences
+University of California  -  Berkeley, CA
+August 2011 to August 2013
+
+Computer Science & Engineering
+Ohlone College  -  Fremont, CA
+August 2009 to May 2011
+
+

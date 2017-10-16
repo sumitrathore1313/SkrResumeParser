@@ -1,0 +1,69 @@
+<ba>
+Romina Rivadeneira
+
+WEB DEVELOPER
+
+Runnells, IA - Email me on Indeed: indeed.com/r/Romina-Rivadeneira/cabbabc3a9571e69
+</ba>
+<su>
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+WEB DEVELOPER
+Iowa State University - International Students and Scholars Office - July 2016 to May 2017
+
+•Migrated content from original website to a new environment using theDrupal framework
+•Restructured  the  new  ISSO  website  to  improve  experience  and  interactive  content  as  well  as  assessing
+technical issues
+•Collaborated with all ISSO departments to arrangeweekly communications strategies
+•Utilized HTML, JavaScript, PHP and remote server access with WINSCP
+
+Cyclon Life Blogger
+Iowa State University  -  Ames, IA - March 2012 to May 2017
+
+•Introduced ideas to attract prospective Iowa State students
+•Represented opportunities for involvement within theCyclone community and wrote weekly posts
+•Increased engagement on Iowa State Admissions' social media and electronic communication
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Computer Engineering in Computer Engineering
+Iowa State University
+August 2017
+</ed>
+<sk>
+SKILLS
+
+Android (Less than 1 year), Assembly (Less than 1 year), HTML (Less than 1 year), JavaScript (Less than 1
+year), PHP (Less than 1 year)
+</sk>
+<ba>
+LINKS
+
+http://www.github.com/rrivaden03
+
+http://www.rrivaden.weebly.com
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+COMPUTER SKILLS
+C, Java, Python, HTML, JavaScript, PHP, Embedded C, Mobile Development (Android), Assembly & Database
+Management
+
+PERSONAL SKILLS
+
+Self-motivated
+Resourceful, creative and innovative
+Determined and dependable
+Analytical problem solver
+Video production experience
+
+OPERATING  SYSTEMS  Windows,  Linux  (UNIX  and  Red  Hat),  Android  LANGUAGES  English  (Fluent),
+Spanish(Fluent) and German (Basic Conversational)
+</sk>
+

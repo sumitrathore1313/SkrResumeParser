@@ -1,0 +1,75 @@
+<ba>
+Charles Harrison
+
+WEB DEVELOPER
+
+Charlotte, NC - Email me on Indeed: indeed.com/r/Charles-Harrison/88cf774ee62557d6
+</ba>
+<su>
+Graham Harrison is a right-brain left-brain web developer located in Charlotte NC. As a recent college graduate
+he has already distinguished himself from other developers with his ability to learn new technologies on the
+fly, interact with end customers, and view his role from the perspective of the entire business. It is this ability
+to match soft interpersonal skills with hard technical experience that makes Graham a double threat within
+the IT Industry.
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+ASSOCIATE WEB DEVELOPER
+Jacobsen, A Textron Company - 2016 to 2017
+
+Engineered large scale Web Applications using PHP MVC frameworks, JQuery, HTML5, CSS3, and Bootstrap.
+Developed Templates for various Content Management Systems including SilverStripe and WordPress. Built
+Relational Databases in MySQL using phpMyAdmin. Utilized Adobe Photoshop and Illustrator to create custom
+graphics for the web.
+• Managed end user development process determining team objectives and documenting requirements for
+development. Managed IT Projects through entire SDLC.
+• Developed supply quality system that saves the company £2,000 a month
+
+WEB DEVELOPMENT INTERN
+- 2015 to 2015
+
+Analyzed  Jacobsen's  competitor  websites.  Measured  Jacobsen's  web  presence  using  Google  Analytics.
+Modified existing Dot Net Nuke templates and SEO effectiveness for Jacobsen West and Jacobsen Great
+Lakes sites.
+• Learned responsive design best practices and advanced template customization and CSS.
+• Managed WordPress, Bootstrap Excel and SEO projects.
+• Organized meetings and delivered presentations to Executive level staff.
+
+GRAPHIC DESIGN INTERN
+Night Kitchen Interactive  -  Philadelphia, PA - 2011 to 2012
+
+Philadelphia Pa 2011 to 2012
+Team  of  experienced  professionals  in  the  areas  of  digital  strategy,  marketing,  interactive  design,  and
+development.
+GRAPHIC DESIGN INTERN Developed content for Smithsonian National Museum of American History, the
+Chemical Heritage Foundation and SFMOMA. QA tested projects for clients such as the Smithsonian National
+Air and Space Museum, SFMOMA, and the College of Physicians of Philadelphia.
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Computer Science
+Marist College  -  Poughkeepsie, NY
+</ed>
+<sk>
+SKILLS
+
+Bootstrap. (2 years), HTML5 (1 year), Illustrator (1 year), JQuery (1 year), PHP (1 year), MySQL (1 year)
+</sk>
+<ba>
+LINKS
+
+https://www.linkedin.com/in/graham-harrison-b2795271
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills
+Database: MySQL, phpMyAdmin,
+Software: Photoshop, Illustrator, Excel, Visual Studio
+Development Tools: PHP, JQuery, HTML5, CSS3, and Bootstrap
+Content Platforms: WordPress, SilverStripe
+</sk>
+

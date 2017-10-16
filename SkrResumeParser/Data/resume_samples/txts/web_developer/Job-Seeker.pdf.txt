@@ -1,0 +1,99 @@
+<ba>
+Job Seeker
+
+Web Developer - A Company
+
+- Email me on Indeed: indeed.com/r/a6f3baf2192697b7
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+A Company  -  Plano, TX - October 2012 to Present
+
+Developer  in  the  IT  department,  which  produces  internal  and  client-facing  applications  to  support  the
+company's business. Provides critical contributions in all aspects of the software development lifecycle from
+within the Agile environment.
+
+• Project 1 (C# / MVC 4 / JavaScript / jQuery / AJAX / JSON / OData / LINQ / Web API / CSS ) MVC web
+application that utilizes an ASP.NET Web API to interface with the database. This project allows clients to
+purchase and manage items via a mobile friendly website. It also gives administrative privileges to employees.
+• Project 2 (C# / MVC 4 / JavaScript / jQuery / AJAX / JSON / OData / LINQ / CSS) Sole developer of the internal
+MVC application for colleagues to add/edit/delete custom records in the database using the OData protocol.
+
+Applications Developer
+HNTB Corporation  -  Plano, TX - July 2006 to September 2012
+
+Developer in HNTB's Incubation Center, a group of technology professionals who develop innovative solutions
+for  the  firm's  design  and  engineering  practices.  Focuses  on  creating  applications  using  the  Microsoft.NET
+and  Azure  platforms,  as  well  as  mobile  application  development,  utilizing  the  Agile  software  development
+methodology.
+
+•  SiteAdvise(TM)  (Windows  Azure  /  C#  /  Mobile  /  SQL  Server  2008  R2  /SharePoint  Server  2010/SSRS  /
+WCF REST) - HNTB's SiteAdvise(TM) solution provides secure, web-based tools for managing and making
+decisions regarding assets and structures on a construction site. Designed and created administrative editing
+capabilities of the iPad application via a SharePoint interface using a SharePoint sandboxed solution and full-
+trust proxy. Created SQL Database Servers, Storage Accounts, SQL Reporting Servers, and Hosted Services
+on the Azure Portal. Designed and created SSRS Reports and WCF services that were deployed and hosted
+in Windows Azure.
+• trumpit® (Android OS / SQLite / Java / Eclipse IDE / Mobile) - Designed and developed the Android (3.0)
+version of trumpit®, HNTB's first smartphone application. The trumpit® application provides a communication
+platform between agencies and end users for traffic alerts via existing 511 systems. Also assisted with the end
+user application for the iPhone and conducted Windows Phone research.
+•  Texas  Department  of  Rural  Affairs  (TDRA)  Disaster  Recovery  Program  (DotNetNuke  /  Bing  Maps  AJAX
+Control / MOSS / ASP.NET / C# / CSS) Created the public website using the DotNetNuke 5.0 framework.
+Administrator for the TDRA Microsoft Office SharePoint Server dashboard. Developed a custom interactive
+map utilizing the Bing Maps Ajax control API. Created a custom ASP.NET web user control for the dashboard
+for managing project contacts formerly stored in an Access database.
+•  Submerged  Roads  Program  (Virtual  Earth  /  C#  /  LINQ  /  MOSS  /  XML  /  SQL  Server)  Making  ongoing
+enhancements to the Microsoft Office SharePoint Server dashboard - Created component to write out GeoRSS
+XML, utilizing LINQ to query and split data. GeoRSS source was used to create a pushpin layer to display
+project information on the Virtual Earth map.
+
+Software Developer
+
+Bureau Veritas  -  Plano, TX - July 2004 to July 2006
+
+One of the three developers in the Information Systems business unit, which produced and maintains the
+Bureau Veritas Application Suite (BVAS), the company's web-based system for construction projects. Primarily
+worked on the development of Task Management System (TMS), the application in the BVAS that manages
+projects in the construction inspection industry. Provided critical contributions in all aspects of the software
+development lifecycle.
+
+• Quality Assurance page (C# / ASP.NET / ADO.NET / CSS / XML / JavaScript) Web form to allow builder
+executives to view their residential construction projects. Based on which subdivision is selected, the page
+dynamically generates a table containing housing information, a table containing inspection information, and
+a table containing photos of the house and the inspection items.
+•  Plan  Review  Submission  and  Report  (C#  /  ASP.NET  /  ADO.NET  /  Crystal  Reports  )  The  Add/Edit  Plan
+Submission page allows plan reviewers to enter information regarding the plan submission. The Commercial
+Plan Review Comments report, in PDF format is generated utilizing Crystal Reports.
+• Designed and developed ASP.NET web forms.
+• Designed and developed reports using Excel templates and Crystal Reports.
+• Created Data Access and User Interface Architectural Design documents as part of the design process for
+each new component in TMS.
+
+PRIVATE
+
+Intern /Associate Software Developer
+Addison, TX - August 2002 to March 2004
+
+Developer  of  three  trading  applications  in  C#  to  interface  with  different  financial  exchange  APIs.  Updated
+software in C++ for four API version upgrades. Made important contributions in all aspects of the software
+development lifecycle.
+
+PRIVATE Languages/
+</we>
+<ed>
+EDUCATION
+
+B.S. in Computer Science
+The University of Texas at Dallas Richardson  -  Richardson, TX
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+Technologies
+Microsoft C#.NET, Microsoft ASP.NET, Microsoft MVC 4, Microsoft SQL Server 2008, Android OS, Windows
+Azure, Java, Windows Phone, Silverlight, CSS, Microsoft SharePoint, Microsoft Visual Studio 2012, jQuery
+</sk>
+

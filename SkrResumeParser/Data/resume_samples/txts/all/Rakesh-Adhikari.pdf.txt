@@ -1,0 +1,153 @@
+<ba>
+Rakesh Adhikari
+
+Plano, TX - Email me on Indeed: indeed.com/r/Rakesh-Adhikari/4b174b497c60e809
+<su>
+9 plus years of experience in the field of Android Smartphone and Feature phone development. 3 plus years
+of dedicated experience in Android Application Analysis, Design, Development, Integration, deployment and
+Maintenance/Support for Standalone, and Client-Server based Android Applications.
+• 3 Apps published in the Google Play Store.
+• Strong knowledge and experience of Android Application development.
+• Experience with offline storage, threading, and performance tuning.
+• Experience in monetizing apps using Ad Networks.
+• Experience in Google Analytics, cloud message APIs and push notifications.
+• Experience with RESTful APIs to connect Android applications to backend services.
+• Good Experience with third-party libraries and APIs.
+• Good understanding of material design.
+• Familiar with Android versions up to Android 7.
+• Worked with various code versioning tools including Git.
+• Good work exposure in software development with responsibilities as Software developer, Project Leader,
+Team Leader, Team Member, and Onsite Coordinator.
+• Worked at Samsung headquarters, South Korea for 1 year for the development, coordination with Indian
+teams for different GSM mobiles phone projects.
+• Always Ensured code quality, performance and schedule compliance of the assigned module.
+• Excellent Android application debugging skills.
+• Good experience of team handling and Mentoring new team members.
+• Excellent analytical, problem solving, technical and communication skills.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+FIELDAWARE  -  Plano, TX - March 2015 to Present
+
+Description:  Fieldaware  has  a  product  named  "FieldLocate"  which  is  field  service  management  software
+developed with a specific focus on the needs of key service industries including HVAC, plumbing, electrical,
+pest control and other residential services.
+FieldLocate is specifically designed to improve the efficiency of these types of business with features that
+include appointment scheduling, automated timesheets, job location mapping, robust reporting and price book
+functionality.
+
+Responsibilities:
+• Working on Mobile /Android application development part of FieldLocate.
+• Implemented flexible application layout using fragments.
+• Used AsyncTasks hosted in Fragments to handle network call and device rotation.
+• Used SQLite database to generate local caching of price book for faster access.
+• Wrote code to interact with the RESTful service server.
+• Implemented Java POJO classes.
+• Configured a Service to create notifications in order to remind the user that he is clocked in.
+• Implemented push notifications in application.
+• Integrated Retrofit Network library in code to improve application network performance.
+• Implemented location based tracking of technician using Android Location API and Maps.
+
+• Debugged code to fix defects in the application.
+• Used JIRA to manage issues for a better control.
+• Prepared root cause analysis report for defects fixed.
+• Responsible for updated application submission on Google Play store.
+
+Environment: Android Studio, RESTful Web Services, SQLite, Core Java, Collection framework, Android OS.
+
+Android Developer
+SAMSUNG ELECTRONICS - July 2007 to February 2015
+
+Description: As a part of Samsung core research and development team I was associated with different Mobile/
+Android development projects and worked on both Wi-Fi and Bluetooth technologies.
+
+• Worked with feature phones in Bluetooth technology, and was responsible for Bluetooth module development
+in  Samsung  feature  phones.  Worked  extensively  on  Various  Samsung  feature  phone  for  Bluetooth  chip
+integration. Integrated Samsung middleware with Bluetooth stack provided by driver vendor. Worked with Wi-
+Fi technology, and I have integrated STE Wi-Fi drivers on RTK based different baseband chip (STE PNX6807,
+STE PNX4868) in Samsung feature phones.
+
+• Worked on Android Smartphone Wi-Fi development. Samsung provides customized Android smartphones
+to different mobile network operator according to their specifications, and as a part of Android Smartphone
+team customized Wi-Fi Module as per the specifications provided for operators like - Verizon Wireless, sprint,
+T-Mobile, AT&T Mobility.
+• Extensively used Core Java and Android framework knowledge to implement new features, customize mobile
+phone user interface according to customer need for Wi-Fi module in Samsung smartphones.
+
+Responsibilities:
+• Customization of mobile user interface according to customer specification.
+• Android OS version upgrade.
+• Wi-Fi bring up in android phones after version upgrade.
+• Development and bug fixing from UI (User Interface) to middleware.
+• Co-work with Wi-Fi driver engineer to fix issues.
+• Responsible for Integration of Wi-Fi driver, and resolving all issues reported on UI and middleware.
+• Implementation of test mode.
+• Implementing the AT Command interface for hardware test. It includes commands for test firmware download,
+Continuous Rx, Tx, Access SSID etc.
+• Debugging and resolving issues in the AT command interface and normal Wi-Fi functionality. Issues are
+related to out of memory, High sleep current consumption, Firmware download fail etc.
+• Set GPIO configuration for BT chip according to the hardware schematic.
+• Co-work with third party driver vendors to bring-up BT chip.
+• Fixing issues in basic functionality and other issue reported by QA.
+• New feature implementation.
+• Test case development related to Bluetooth.
+• Registered 2 applications on Samsung apps store.
+• Added an entire new menu related to Muslim holidays in Islamic calendar application.
+• Porting of MEA specific features.
+• Fixing bugs reported in each binary release.
+• Creation of menu tree.
+• Preparation of release notes and binary release.
+• Responsible to handle a team of eight engineers.
+
+• Responsible to attend daily status meeting with higher management, and to provide daily project status.
+
+Environment: Android Studio, Core Java, Multithreaded Programming, collection framework, Object Oriented
+Programming concepts, Android Framework, C, C++, Wlan (802.11) protocol, Bluetooth protocol stack, source
+code customization.
+
+Other Independent Projects:
+Description:
+I have developed two android applications that are currently available in Google play store.
+
+# Address Book: This application allows a user to import phone contacts into Address Book, take backup
+of Address Book contacts in SD card, share contacts over WhatsApp, Gmail, Email, etc., remove duplicate
+contacts, Allows to save phone number, email id, postal Address and note, and to navigate from user's current
+location to their contact's location.
+Link: https://play.google.com/store/apps/details?id=com.rakesh.addressbook
+
+# Fighter Test: This application allows a user to check colour blindness through 15 plate Ishihara test (A world-
+famous test for colour blindness).
+Link: https://play.google.com/store/apps/details?id=com.rakesh.fightertest
+
+Responsibilities:
+• Involved in application design from scratch.
+• Code implementation to implement designed features.
+• Testing after implementation.
+• Fixing all issues found after testing.
+• Release final application to Google play store after fixing all issues.
+
+Environment: Android Studio, Content providers, SQLite, Core Java, Collection framework, Android OS.
+
+EDUCATION
+
+B. Tech in Electronics Engineering
+IIT BHU  -  Varanasi, Uttar Pradesh
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+Language: Core Java, C.
+Databases: SQLite.
+Platform: WIN 98/XP/Vista/7/8.
+Internet Tools: HTML.
+Model: Agile, Waterfall.
+Mobile Platforms: Android, NXP (SGP), BADA (Samsung's smart phone platform).
+Development Tools: Android Studio, Eclipse, Wireshark packet analyzer,
+Ramdumper, Lauterbach Debugging Tool - TRACE32.
+Source Control: GIT, Perforce.
+Project Tool: PLM (Samsung tool for Project Management).
+Web Technologies: REST, SOAP.
+Protocol Knowledge: Wi-Fi […] GSM and GPRS.
+
+

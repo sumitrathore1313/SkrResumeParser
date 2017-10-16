@@ -1,0 +1,128 @@
+<ba>
+Fatemeh Elmi
+
+Web Developer II - Fluke Corporation
+
+Bothell, WA - Email me on Indeed: indeed.com/r/Fatemeh-Elmi/252fdf830aeb0cbc
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer II
+Fluke Corporation  -  Everett, WA - October 2011 to December 2012
+
+• Developed, designed, managed and maintained company/product information and customer interactions on
+a variety of media including and through internet/intranet applications. 
+•  Developed  and/or  gathered  ideas,  data,  content  and  concepts  using  business  process  analysis  and
+storyboarding, which were then converted and implemented into various media in support of a specific function
+(e.g., customer support, training, and marketing).
+• Provided technical assistance and recommendations to users on implementation of content and tracked bugs
+and resolved them. 
+•  Managed  site  usage  data  and  assured  quality  of  customer  interaction  experiences  from  a  technical
+perspective as well as business perspective
+• Educated and facilitated efforts of users or content developers. 
+• Looked after most of the tasks I have been doing as a Web Marketing Associate at Fluke.
+
+Web Marketing Associate
+Fluke Corporation  -  Everett, WA - October 2010 to October 2011
+
+• Worked with the Content Editor, Business Units and Field Marketing organizations to update all content for
+the organization’s online presence. 
+•  Edited,  and  proofread  site  content,  working  closely  with  the  Marketing,  Business  units,  Marketing
+Communication, Graphics, and Information technology teams to maintain appropriate & relevant content
+• Enforced site standards with regard to new content development 
+• Managed content for organization’s web presence (required working with content management software) 
+• Coordinated web projects across departments & countries where required
+• Maintained a consistent look and feel throughout all web properties based on company standards
+• Worked with a cross-departmental team, maintained and developed the master content calendar for all web
+properties 
+• Operated cooperatively with key team members, clients and vendors
+• Validated technical designs created by IT developers against functional specifications. 
+• Worked with QA team to design test plan and test cases for User Acceptance Testing (UAT). 
+• Investigated, analyzed and documented requirements (RFC) for system enhancements as well as system
+errors while working with IT to accomplish the required modifications.
+i. Documented the issue background and the desired changes
+ii. Prepared use cases to facilitate testing
+
+Web Developer
+Taproot Foundation  -  Seattle, WA - May 2009 to September 2010
+
+• Volunteered as a pro-bono IT Consultant for the Taproot Foundation, which provided variety of skilled service
+grants to Seattle area Non-profit organizations. The Taproot Foundation is a NPO which is a national leader in
+integrating pro bono work into the careers of business professionals and the fabric of companies, organizations,
+and professional services firms.
+
+• Developed the new website for CARES of Washington, an employment and life skills NPO serving the tri-
+county area.
+• Transferred the finalized site and trained the staff to make updates to the website using Dreamweaver
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Management of Information Systems
+New Jersey Institute of Technology
+2003 to 2007
+</ed>
+<pr>
+ADDITIONAL INFORMATION
+
+SUMMARY OF QUALIFICATIONS
+• Databases, and Client/Server Applications Expertise (MySQL, MS SQL and Access)
+• Advanced education in Software and Hardware
+•  Excellent  communication,  analytical,  interpersonal,  and  presentation  skills;  expert  at  managing  multiple
+projects simultaneously.
+• Designed front-end, back-end and middle tier applications
+• Extensive experience working with survey packages (SPSS)
+• In-depth knowledge of Rational Unified Process (RUP); risk engineering; data modeling and mapping; and
+design using UML, and Visio
+• Strong knowledge in the Internet Technology and E-commerce
+• Knowledge in programming: HTML, Java/JSP, C/C++, Visual Basic.Net, JavaScript, PHP, ASP.Net, ASP
+and CSS
+
+ANALYTICAL/ORGANIZATION/RESEARCH
+
+• Researched, compiled, prepared and presented reports, business requirements and other relevant material
+to groups and individuals
+• Interfaced with business users to prepare and update Business Process Requirements (BPR) and Software
+System Requirements (SSR). Created test cases and test scripts.
+• Conducted System design and development required for business process 
+• Assimilated and analyzed complex issues and concepts in order to dissect, simplify and resolve problems,
+both in hands-on and simulated scenarios
+• Applied change requests, versions, and addendums.
+
+COMMUNICATION/PRESENTATION/PUBLIC RELATIONS
+
+• Communicated with all levels of authority on matters related to technical and non-technical issues through
+the effective use of interpersonal, written and verbal communication skills
+• Prepared and delivered numerous speeches in front of large number of delegates
+• Organized and coordinated social events and club activities between other clubs while in the position of Lead
+Mentor
+• Communicated verbally and in writing with different departments.
+
+TECHNICAL CAPABILITIES
+Databases and Data Modeling
+• Developed back-end databases for web applications (MS SQL) 
+• Modeled project prioritization data and helped to develop databases
+
+• Developed tools to automate the storage and presentation of environmental data, as well as to provide for
+data entry and reporting. These were client-server applications of PC desktop tools that used data from remote
+servers. (Microsoft Access, Excel, MS SQL on Windows) 
+•  Managed  data,  including  data  entry  oversight,  statement  of  work  preparation,  data  modeling,  report
+development 
+Web Development
+• Assorted web development projects mostly involving PHP access to a MySQL database, with considerable
+HTML design and JavaScript enhancement
+• Developed an e-commerce site - both back-end administration pages and customer interfaces using ASP.Net,
+MS SQL, and VB.Net
+•  Applied  graphic  design  principles  to  produce  innovative  print  documents  and  Websites  (Macromedia
+Freehand, Fireworks, and Dreamweaver)
+• Designed layouts for web interfaces using a combination of web technologies including Macromedia Flash
+Programming
+• Object-Oriented Programming, Data Abstraction and Problem Solving with Java 
+•  Distinguished  theoretical  and  practical  knowledge  of  Object-Oriented  methodologies,  Object-Oriented
+Analysis and Design, UML, Use-Case-driven development, the Unified Software Development Process, and
+the full Software Development Life Cycle (SDLC)
+• Created system architecture and design using the UML Analysis Model and Design Model
+• Developed business applications with data-entry operations and other design perspectives using VB.Net
+</pr>
+

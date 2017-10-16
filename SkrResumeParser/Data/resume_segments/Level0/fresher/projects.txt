@@ -1,0 +1,244 @@
+Major project: Hybrid cloud approach for data secure authorised deduplication.
+Team Size: 2
+Platform: J2EE, Java script, JSP
+
+Mini project
+Title: Company information tracking system
+Team Size: 2
+Platform: J2EE, Java script, JSP
+TRANNING & TECHNICAL SKILL
+• Attended Workshop on WEB DESIGNING By ERUDITE IT SOLUTION in Aryabhata Institute of Technology
+& Science.
+• I Attended the project work of government of telangana.CENSES & ADDHAR LINK WITH VOTER ID
+Main Project (M Tech):
+
+Title: DATA ALLOCATION ON WIRELESS CHANNEL USING KEYWORDS
+Environment: core java.
+
+Description:
+
+The  rapid  development  of  wireless  network  and  powerful  portable  computer  technologies  has  accelerated
+the development of mobile computing technologies and wireless information systems, thus resulting in the
+increased and widespread use of mobile computing devices. A large number of mobile users carrying portable
+devices will be able to access the information from anywhere and at any time. Energy-and latency-efficiency
+are two critical issues in wireless data broadcast system. Two basic performance metrics namely access time
+and tuning time are used to measure energy-and latency-Efficiencies. In Wireless Environment broadcasting
+is an effective and scalable technique to disseminate information to large number of mobile clients. Several
+Indexing  techniques  are  there  for  accessing  data  items  on  Broadcast  channel,  It  reduces  the  tuning  time.
+Previously indexing methods were proposed for full text searches they are targeted for data in disk storage.
+For text searches in wireless broadcast channel, index scheme using keyword search will be implemented with
+the help of inverted list index method and full-text search algorithm. And analysis of index scheme performance
+will be done with respect to latency and energy usage. Index scheme will be implemented by using IEEE
+802.11.g as communication media.
+Solution Provided:
+In Wireless environments data broadcasting is widely used for information delivery services due to its beneficial
+characteristics such as bandwidth efficiency, energy efficiency and scalability. This project a novel indexing
+scheme which is and latency efficient for text retrieval queries on the wireless broadcast data stream has been
+implemented. The Text retrieval on the disk storage is different from wireless one.
+
+First, a simple, inverted list-style index method is constructed. In order to reduce the tuning time overhead (i.e.
+Energy waste) caused by the sequential scan of the inverted list, an additional level of index structure, which
+is the index tree for the inverted list is added. For both methods, their extended versions have been devised,
+wherein the inverted list and the index tree are replicated: (1, α) and (1, α (1, β)) methods.
+Calculations of access time and Tuning time will be done in both the methods and results shows that Tuning
+time of (1, α (1, β)) method is less compare to Tuning time of (1, α) method. Therefore by using two level
+index structure (inverted index list and tree index) Full Text search operation can be done faster compare to
+single level index structure (inverted index list)
+
+Main Project (B Tech):
+
+Title: Two Way Messaging
+Environment: Asp.Net, C#.Net, SQL Server 2005.
+
+Description:
+
+Two  Way  Messaging  platform  which  allows  you  to  receive  SMS,  besides  sending  SMS.  This  allows  you
+complete  flexibility  in  managing  your  incoming  message.  You  can  modify/alter  or  delete  these  received
+messages  as  per  your  need.  The  Two-Way  SMS  feature  works  using  a  'KEYWORD'  as  identifier  of  your
+messages. The keyword should be greater than 4 characters. When an SMS message is received, the gateway
+will evaluate the content of the message, and can either execute a program, or connect to an HTTP URL,
+based upon the content of the message.
+The  decision  of  how  to  process  a  received  message  is  based  upon  the  first  "word"  of  the  received  SMS
+message. In the terminology of gateway, this first word of the received message is called the "SMS Command
+Prefix". Based upon this "SMS Command Prefix", the gateway will execute a command associated with the
+prefix.
+
+Solution Provided:
+So many websites which gives information is not up to "user satisfaction". There is a lot of information resources
+on internet but nothing can be communicated through cell phones. There is no possibility to send reply to
+source. So, we are having ability to send information to users directly to their cell phones which is the most
+effective way of advertising. It is also used for institutes, social welfare groups etc. It is satisfactory in security
+concerns by building Admin and Gateway modules.
+
+The whole process of the Two Way Messaging application is basically divided in three main modules.
+
+1. Advertiser module
+1. Admin module and
+2. Gateway module
+PROJECT DETAILS
+• Online Railway Reservation System using Oracle at the backend & VB at the frontend.
+• Student Placement Management System using php as the primary scripting language & MySQL Database
+for backend support & Notepad++ IDE for development and design.
+Project 1:-
+
+Project Title: cyber security management
+Duration: 1 1 year
+Front end: PHP
+Back end: MY SQL
+Responsibility: analyzing, designing programming and testing
+
+Project 2:-
+
+Project Title: digital F.I.R
+Duration: 1 year
+Front end: Android+PHP
+Back end: MY SQL
+Responsibility: analyzing, designing programming and testing
+PROJECT:
+Title: Universal pizza management, Medical store
+
+DESCRIPTION:
+This Universal pizza management project can be used by different peoples who worked at pizza centers and
+who are booking pizza which keeps a detail computerized of all customers and products has been supplied.
+
+PROJECTS UNDERTAKEN
+
+PROJECT TITLE E-logistics for Warehouse Management
+
+TECHNOLOGY Jsp, Mysql
+
+DESCRIPTION
+The aim of the project is warehouse management of goods for enabling
+Customer satisfaction there by achieving firms objectives
+Language of implementation: C++
+Operating system: Windows 98/XP/07
+Description: This Supermarket Billing System will handle all the activities of super market.I have
+learned from this project is to convert the existing manual system to automated sales process system.With
+this project salesperson can manage data automatically.
+Project name: E-GURU
+Language of implementation: PHP
+Operating system: Windows 98/XP/07
+Description: The purpose of this E-Learning Management System project is to develop a back-end
+application for e-learning applications and queries using graphical user interface It allows for flexible data
+format and delivery of its data so that each analysis application can receive only the information it needs
+and in the format required.
+1. B.Sc. (Computer Science) Project:
+Project Title: Service Center
+Duration: 3 Months
+Technologies used: Front End - PHP, Back End-MySQL
+Description: This system is developed for Service Center to properly maintain the records in Service Center.
+It maintains information about Customer Details, Billing details, Available Services, Maintainance.
+Role: System Designer, Developer
+Team Size: 2
+
+2. M.C.A (Management) Projects (Internship):
+Project Title: Goddhod
+Duration: 4 Months
+Technologies used: PHP, HTML
+Description: This project is an e-commerce website related to all sweets and dry fruits .It contains informational
+pages like OTP (one time password), Create Account, Shopping Cart and Invoice. The Home page gives
+information of all the products.
+Team Size: 1
+Academic Project:
+➢ Project Title: Request Dispatching for Cloud Data Centers
+
+➢ Duration: 4 Months
+
+➢ Web Application: JSP, JavaScript, HTML
+
+➢ Database: SQL Server 2000
+
+➢ Team size: Single
+Project Details:-
+Online Examination System
+Role Programmer
+Technology Asp.NET, C#.NET, SQL SERVER 2012
+Team Size 4
+Key Features Used in Project: Stored procedure, Trigger, Cursor, AJAX Control Tool kit, DB Constraints
+Description
+The computer based solutions are being developed as per the requirements of our day to day jobs. Earlier the
+ONLINE EXAMINATIONs had to face so many problems during worked manually in ONLINE EXAMINATIONs
+that's why Staffs were also facing the same problems.
+But now with the help of this software we can open any type of Student detail like:- Name, Address, date of
+birth, Contact number, Student registration number, Exams Paper etc.
+Beside  all  of  these  this  software  also  stores  the  information  about  all  Examiners  of  the  ONLINE
+EXAMINATIONs.  Such  as-  Examiner  Name,  Specialty,  Address,  Examiner  registration  number,  Contact
+number etc.
+PROJECT DETAILS
+• Online Railway Reservation System using Oracle at the backend & VB at the frontend.
+• Student Placement Management System using php as the primary scripting language & MySQL Database
+for backend support & Notepad++ IDE for development and design.
+B.E Project:
+
+• Title: WiFi Enable Indoor Position System.
+• Description: The application finds the indoor position of client using WiFi like GPRS in perticular building.
+• Technology Used:Android.
+
+T.E Projects:
+
+➢ Project 1
+• Title: Attendance Management System.
+• Technology Used: Front-End:-Vb.net, Back-End: - Oracle 10g.
+
+➢ Project 2
+• Title:Result Analysis System.
+• Technology Used: Front-End:- Asp.net, Back-End: - Oracle 10g.
+
+Mini-Project: Online Voting System - Organizational basis Duration: 90 days
+Team Size: 3
+Language used: HTML, PHP, JavaScript
+Database: MySQLi
+A web-based application that enables an organizational level online voting system which provides security in
+the sense that voter 's token number is confirmed before the vote is accepted in the main database confirming
+his/her vote goes to correct candidate.
+
+Main Project: Open Road Tolling by Pattern Recognition - Toll Automation Duration: 90 days
+Team Size: 4
+Language used: HTML, Java, JavaScript, Android, Swing
+Database: MySQL Workbench 6.3 CE
+A  web-based  application,  mobile  application  and  a  swing  application  for  admin,  user  and  booth  operator
+respectively enables to keep an eye on the vehicles passing through a booth, if applicable pull in details from
+Motor Vehicle Department, and have a QR-code scanned for the toll payment; which means people can go
+cash-free help save time, avoids fuel loss and monitors the traffic, and as a future enhancement can add in
+theft-alert.
+PROJECT Criminal Face Identification System (B. Tech - 7th Sem)
+
+Project Details
+
+: This software generally contains personal information about particular person along with photograph. To
+identify  any  Criminal  we  need  some  identification  regarding  person,  which  are  given  by  eyewitness.  To
+overcome this sort of problem we are developing software.
+Tools & Technology: Java (Java Swing, AWT), Oracle 10g
+Team Size: 2 Members
+Responsibility: Developer (Back-end coding)
+
+STRENGTHS
+
+➢ Quick learner, adaptive
+➢ Self-motivating & positive attitude
+➢ Punctuality
+➢ Good analytical & logical skills
+➢ Like to work in a team
+➢ Responsible, dedicated & hard working
+
+Projects
+Online Mobile Billing and Customer care system in PHP
+Minor Project: Online Student Attendance System
+Team Size: 3 members
+Duration: 2 months
+Description: Online website based student attendance system capable of taking student's attendance of a
+particular class, branch and semester. Project has 2 user domains faculty domain and student domain.
+
+Industrial Training:
+Company/ Organization: Ducat
+Project Name: Warehouse
+Technology Used: Salesforce
+Project Title "Petrol Pump Inventory System "
+Technologies Used Java, JSP, Javascript, CSS, MYSQL 5.6
+Software Used Eclipse
+Duration 6 Months
+Team Size 2
+Responsibilities Requirement Analysis, Designing, , Development, Documentation, Testing
+Project Details
+The project gives the detail inventory about Petrol pump. System are stored using MYSQL. .The inventory
+reports are generated daily.It also keep record of employee attendance.

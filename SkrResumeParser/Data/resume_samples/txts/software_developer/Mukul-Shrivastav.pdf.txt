@@ -1,0 +1,139 @@
+Mukul Shrivastav
+
+Software Engineer - AKGSOFT INFOTECH
+
+Noida, Uttar Pradesh - Email me on Indeed: indeed.com/r/Mukul-Shrivastav/707b5c397932d18b
+
+WORK EXPERIENCE
+
+Software Engineer
+AKGSOFT INFOTECH  -  Ghaziabad, Uttar Pradesh - September 2012 to Present
+
+HTML, C#, ASP.NET, ADO.NET, Web Services, JavaScript, SQL)
+
+Project handled
+The details of the project handled are listed here:
+
+1 ADM Logistic
+
+Web Developer
+Akg  -  Ghaziabad, Uttar Pradesh - September 2012 to Present
+
+1 ADM Logistic
+Tools Visual Studio 2008
+
+Description: Client can generate multiple reports (Challan, Bill, GR etc.) on the basis of various invoices and
+track driver route on the basis of road permit. Consignor sends material to consignee with the help of logistic
+transport company who provide transportation facility.
+
+Role: Team Member
+• Enhancement and maintaining the server side components.
+• Requirement understanding and designing
+• Construction, Debugging and testing.
+• Interaction with the client (and users) to help them understand the business process as it goes in the system.
+
+2 AKGSOFT INFOTECH
+Company AKG
+Technology C#, ASP.NET, ADO.NET, JavaScript, HTML, CSS
+Database SQL Server 2008
+Tools Visual Studio 2008, 10
+
+Role: Team Member
+• Enhancement and maintaining the server side components.
+• Requirement understanding and designing
+• Construction, Debugging and testing.
+• Interaction with the client (and users) to help them understand the business process as it goes in the system.
+
+3 Email Management System
+
+Web Developer
+Akg Soft Infotech  -  Ghaziabad, Uttar Pradesh - September 2012 to Present
+
+here i have done 4 projects and currently i am working in job portal,and have many ideas to launch different
+portals in globally way...
+
+Software Engineer
+Ducat - March 2011 to September 2012
+
+HTML, C#, ASP.NET, ADO.NET, Web Services, JavaScript, SQL)
+
+Project handled
+The details of the project handled are listed here:
+
+4 Online Shopping Management System
+Center Ducat
+Technology ASP.NET, ADO.NET, Web services, JavaScript, HTML, CSS, HTML and AJAX.
+Tools Visual Studio 2008
+
+Description:  Online  Shopping  Management  System  application  is  web  based  application  having  2-tier
+architecture. Online Shopping Management system gives user a UI to purchase online with add to cart option.
+This application gives a Real Time Environment for multiple users to purchase online.
+
+Role: Team Member
+• Analysis and Requirement Understanding
+• Created estimations, design documentations, SRS for new developments.
+• Designing and coding.
+• Involved in Defect Fixing.
+• Created Stored Procedure for applying the business logic in SQL Server 2005.
+• Involved in test review and execution provided by QA team.
+
+PERSONAL DETAIL
+Languages Known English, Hindi and Punjabi.
+Sex and Marital Status Male and Single.
+
+Web Developer
+Akg Soft Infotech  -  Ghaziabad, Uttar Pradesh - 2008 to 2008
+
+1 ADM Logistic
+Tools Visual Studio 2008
+
+Description: Email Management System (EMS) is an Web application which keeps Emails of particular users.
+It helps to send mails to different employees in daily schedule. To reduce the time and efforts in communication
+of different employees and integrates them in a single portal.
+
+Role: Team Member
+• Enhancement and maintaining the server side components.
+• Application designer.
+• Interaction with the client (and users) to help them understand the business process as it goes in the system.
+• Construction, Debugging and testing.
+
+EDUCATION
+
+B.Tech in Cse
+
+Kurukshetra University  -  Kurukshetra, HARYANA, IN
+2007 to 2011
+
+B.tech in Computer Science
+SRM Global  -  Ambala, Haryana
+2007 to 2011
+
+SKILLS
+
+Website Development
+
+LINKS
+
+http://mekool36@gmail.com
+
+ADDITIONAL INFORMATION
+
+AREAS OF EXPERTISE
+Technical skills
+
+Operating Systems Windows 98/XP/7
+Programming tools Visual Studio 2008, 2010
+Web Technologies
+Microsoft Technologies
+C#, ASP.Net, WPF, MVC, Web-Services etc.
+
+Others:
+HTML, XML, Java Script, AJAX, CSS
+
+Databases SQL Server […]
+Concepts OOP's, COM, Software Engineering (SDLC), Web services.
+Domain Logistic & Online Shopping Management System
+
+ACADEMIA
+
+

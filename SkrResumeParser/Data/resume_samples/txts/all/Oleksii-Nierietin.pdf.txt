@@ -1,0 +1,43 @@
+<ba>
+Oleksii Nierietin
+
+Plano, TX - Email me on Indeed: indeed.com/r/Oleksii-Nierietin/e6ef5c91ee37a73f
+</ba>
+<su>
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+risesoft  -  khmelnitsky - December 2015 to May 2016
+
+Manual QA Tester
+Avivi.com.ua  -  Khmelnitsky - March 2015 to November 2015
+</we>
+<ed>
+EDUCATION
+
+Bachelor's in Computer Science
+Khmelnitsky National University  -  Khmelnitsky
+2012 to 2016
+
+secondary,last in Economic
+Zhytomyr city lyceum  -  Житомир
+2001 to 2012
+</ed>
+<sk>
+SKILLS
+
+HTML 5 (3 years), CSS3 (3 years), JQuery (1 year), Javascript (Less than 1 year), QA (Less than 1 year)
+</sk>
+<ba>
+LINKS
+
+https://www.codecademy.com/dataSolver69283
+
+https://www.facebook.com/alexey.neretin
+
+https://www.linkedin.com/in/alexey-neretin-954aa610b?trk=nav_responsive_tab_profile
+</ba>
+

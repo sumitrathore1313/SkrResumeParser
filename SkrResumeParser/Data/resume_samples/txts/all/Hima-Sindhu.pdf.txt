@@ -1,0 +1,174 @@
+<ba>
+Hima Sindhu
+
+Android Developer
+
+Atlanta, GA - Email me on Indeed: indeed.com/r/Hima-Sindhu/b9f77589d976ede8
+<su>
+• Over 7 years of overall IT experience in software design and development.
+• Proficiency in developing and design of mobile and embedded technologies on mobile platform, Android
+version from 2.3 to 5.1 and also application development in Android SDK.
+• Good exposure in troubleshooting, debugging and testing android applications.
+•  Extensive  experience  in  building  mobile  applications  using  Android  framework  APIs  (Location,  Camera,
+Maps).
+• Complete mobile life cycle experience from design, development to deployment of mobile applications.
+• Proficient in working with asynctask, threads and services in android.
+• Worked on JUnit testing framework and data interchange in Java and few databases like SQLite, MySQL.
+• Used SCRUM-Agile software development method for managing application developments
+• Experience with GIT and Stash to handle large projects.
+• Experience in building enterprise mobile applications using existing infrastructure Java/J2EE platform.
+•  Hands  on  experience  in  object  oriented  designing  such  as  Encapsulation,  abstraction,  Polymorphism,
+Cohesion and Coupling.
+• Experience in design and development of Rich Mobile Applications using JavaScript, XML, CSS, and HTML.
+• Experience with profiling, tuning, and optimizing Java and Android applications.
+• Exposure to other mobile platforms like iOS.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+UCLA Health  -  Los Angeles, CA - April 2014 to Present
+
+store 
+
+link:https://play.google.com/store/apps/details?
+
+Play 
+id=com.soln.SF1282CE7A04ABB248FECC8CCB17339BB&hl=en
+Description: The application allows the users to search for a UCLA Health provider, get directions and maps
+to clinic and hospital locations, take virtual tour of facilities, set up appointments, access health record through
+secure server and find information on ailments using UCLA Health's extensive library. In addition, the app
+allows physicians to get information on various departments, contact them and even provide referrals.
+Responsibilities:
+• Developed using Eclipse for API 19 and above.
+• Extensively utilized fragments to contain list views to dynamically generate list views using adapters from
+APIs.
+• Utilized Java, Restful Web Services, SQLite, Async Tasks.
+• Environment configuration using hybrid tools and JavaScript.
+• Integrated Volley Library to implement smooth Restful web service calls.
+• Contributed in backend of the application that interacts with the database to form the JSON structure required
+for Restful JSON response.
+• Used Location services and Google map API to locate and provide directions to nearest hospitals and clinics.
+• Incorporated informative video and audio streaming modules.
+• Extensively used Web Views to display web components and parent.
+• Utilized social networking and analytics APIs such as Facebook, Google Analytics,
+
+• Integrated the Cache support to manage and retain the messages on device to provide offline capability
+within the app.
+• JSON parsing to get information from inside the files.
+• Used Crashlytics to detect and fix bugs.
+
+Environment: Eclipse IDE, Genymotion, Postman (REST Client), Stash, JIRA, Android SDK, Web Services.
+
+Android Developer
+Time Inc  -  New York, NY - September 2012 to March 2014
+
+Play store link: https://play.google.com/store/apps/details?id=com.timeinc.people.celebfood
+Description: People CelebFood is an app where users can browse for recipes and cocktails, get cooking tips
+and watch how-to videos. This app from PEOPLE magazine brings the users closer to theircelebrities as they
+share their personal recipes, cocktails and the stories behind them.
+Responsibilities:
+• Worked on the new CelebFood Android app for the PEOPLE brand at Time, Inc.
+• Worked in an Agile software development environment.
+• Integrated sharing with the Facebook SDK, Twitter, and other social networking platforms.
+• Designed the app to work on Android 4.3 (API Level 18) - for handsets AND tablets.
+• Involved in writing the application logic using ADT plug-in for Android.
+• Integrated the app with the Time, Inc. SDK and altering the SDK as needed.
+• Used 9-Patch images where necessary to preserve image aspect ratio integrity.
+• Adhered to MVC design patterns to architect application components.
+• Supported 2.3.x with the Android support library, ActionBarSherlock, & other libraries.
+• Worked with the design team to deliver a visually appealing, user-friendly application.
+
+Environment: Java, Eclipse, Android SDK, Android Emulator, JSON, SQLite
+
+Android Developer
+Chapel Hill, NCDec - 2011 to August 2012
+
+Play Store Link:https://play.google.com/store/apps/details?id=cm.aroundcampus.demo&hl=en
+Description: Around Campus is an app for students to get and redeem coupons to access local deals from
+nearby business locations. A student can register by choosing the university from a list of universities and
+colleges displayed upon launch. The students can share the coupons through Facebook, Twitter or through
+email. The location can be viewed on the map view and the user can also make a call to the place of interest
+through the app itself.
+Responsibilities:
+•  Worked  with  the  design  and  development  team  to  define  the  user  interface  (UI)  requirements  for  the
+application and to develop the wireframes.
+• Worked with frontend components such as Activities, Layouts, List Views, Custom List Views, Buttons, Edit
+Text and Text View.
+• Implemented backend components including Intents, AsyncTask, Services and Web Services.
+• Integrated location services into the application using Google map API.
+• Integrated Facebook and Twitter API using JSON to share coupons among friends.
+• Demonstrated toasts and dialog notifications.
+• Participated in testing of the application in various devices.
+• Practiced agile and scrum methodologies in the project implementation.
+
+Environment: Eclipse ADT, Custom Widgets, GIT, Web Services.
+
+Android Developer
+
+INRIX  -  Kirkland, WA - September 2010 to November 2011
+
+Play store Link: https://play.google.com/store/apps/details?id=inrix.android.ui&hl=en
+Description:Inrix Traffic Maps&Alerts Is the most accurate traffic, routing and road alert app that gives you
+control of your commute. Choose your fastest route, decide the best time to leave, know your arrival time in
+advance and share it with friends and family.
+Responsibilities:
+• Implemented/developed new screen GUI widgets, layouts, custom lists, custom layouts, custom adapters.
+• Integrated Maps in the Mobile along with GPS location based implementation
+•  Implemented  Network  layer  to  manage  network  requests  and  Web  Services  parsers  to  handle  server
+responses.
+• Enabled Landscape mode and alert notifications.
+• Created mechanism to show map Pins and traffic layer on the map based on data gathered in response to
+the web requests.
+• Developed and managed 15+ Activities/Screens in the Android.
+• Integrated SYNC in Ford Destinations Apps along with remote start feature using Bluetooth to enable voice
+base interaction.
+• Involved in code reviews with peers.
+• Worked on debugging the application using Logcat, DDMS
+
+Environment: SDK 3.2, JSON, Eclipse IDE, Java DK 1.6, XML, DDMS, Logcat.
+
+Java Developer
+Symmetric Solutions  -  Hyderabad, Andhra Pradesh - March 2008 to August 2010
+
+Description:  Developed  an  online  Order  Management  Process  System.  This  system  is  used  to  track  and
+manage order requests. This system also monitors if the orders are processed on time and detects delays.
+This delay information is passed onto another component which takes the necessary actions.
+Responsibilities:
+• Part of the technical team in the development of MVC Model architecture to handle configuration, database
+connectivity, and template management allowing the developer to focus on application-specific business logic.
+• Created a Reporting tool using JSP and Servlets that calculates the amount of state and federal taxes.
+• Involved in the development of a web authentication module using Java Servlets, JSP, to authenticate a user
+based on a dynamically created token by a web authentication software.
+• Developed EJB component to implement Business Logic using Session Facade Pattern
+• Developed session EJBs for encapsulating the business logic.
+• Developed a Java Bean to notify confirmation orders to back office.
+• Handle Session Time-outs with HTTPSessionListenerinterface.
+• Performed XML parsing using DOM parser.
+• Tracked software errors with Bugzilla and coordinated with help desk staff in resolving bug.
+• Maintained version control using CVS.
+• Developed test cases to ensure that application meets the requirements.
+• Unit testing the application using JUnit.
+Environment:WAS 3.5, WSAD 4.0, Servlets 2.2, JSP 1.1, XML, HTML, JavaScript, Bugzilla and Windows NT
+<ed>
+EDUCATION
+
+Bachelors in Computer Science
+GITAM University
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+Operating System: Windows Xp/200/NT/Professional, MAC OS X, Android 1.5 to 5.1
+Languages: Core Java, J2EE, JDBC, JSP (JDK 1.5-1.7), C, C++, JQuery
+Scripting Language: JavaScript 1.0/1.5
+Databases: SQLite, MySQL, Oracle […] DB2
+Web Designing: HTML5, CSS, XML, UML
+Version Control Tools: CVS, SVN
+Web/Application Servers: Tomcat, IBM WebSphere
+Android Skills: Android SDK (1.5 to 5.1) Tablets/Smartphone
+IDE: Eclipse, NetBeans, MyEclipse, InteliJ, Android Studio
+
+

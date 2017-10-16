@@ -1,0 +1,32 @@
+<ba>
+Prateek Maurya
+
+Mumbai, Maharashtra - Email me on Indeed: indeed.com/r/Prateek-Maurya/b9629d03f79b9124
+
+<we>
+WORK EXPERIENCE
+
+Fresher
+<ed>
+Graduated B.tech with aggregate 79%.
+<sk>
+Have completed Java professional training.
+Have good knowledge of spring framework and hibernate.
+<ed>
+EDUCATION
+
+B.Tech in Computer Science
+Punjab Technical University  -  Chandigarh, Chandigarh
+August 2013 to June 2017
+<sk>
+SKILLS
+
+Core Java (Less than 1 year), C++ (Less than 1 year), J2Ee (Less than 1 year), Spring (Less than 1 year),
+hibernate (Less than 1 year), android (Less than 1 year)
+<ca>
+CERTIFICATIONS/LICENSES
+
+java professional certification
+November 2016 to Present
+
+

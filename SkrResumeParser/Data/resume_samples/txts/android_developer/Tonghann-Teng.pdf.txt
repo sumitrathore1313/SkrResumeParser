@@ -1,0 +1,178 @@
+<ba>
+Tonghann Teng
+
+Android Developer
+
+Austin, TX - Email me on Indeed: indeed.com/r/Tonghann-Teng/b140f9a836bce4cb
+<su>
+Proactive and dynamic IT professional in Android Development with 4 years of experience producing widely
+used mobile apps that connect businesses with new customers. Demonstrated expertise across complete
+software  development  lifecycle  (SDLC).  Exceptional  analytic,  technical  and  problem-solving  skills.  Proven
+ability to work independently and collaborate effectively in teams. Track record of delivering world-class user
+experiences. Established success in deploying Android applications to Google Play Store and achieving strong
+ratings. Award-winning performances in academic and professional settings.
+<ex>
+Feature Application in Play Store
+All Deal: All Deal let user discover great promotions in Cambodia such as favorite coffee shop, restaurant, spa
+and massage, and other fun activities. Get the coupons with just a few click.
+Play Store: https://play.google.com/store/apps/details?id=com.abitech.AllDeal&hl=en
+Chatime Cambodia: The easiest way to find a Chatime outlet, collect points, promotion, outlet locators and get
+in touch with social media channel Facebook, Instagram and YouTube to explore daily activities from Chatime.
+Play Store: https://play.google.com/store/apps/details?id=com.khsoftengineer.chatime&hl=en
+<sk>
+Technical Skills:
+Language: Java, C++
+Third Party Library: RxJava, Retrofit, OkHttp, Gson, ButterKnife, Picasso, Volley, Glide
+Design  Patterns:  Singleton,  Adapter,  Factory  Method,  Iterator,  Dependency  Injection,  Builder,  Strategy,
+Façade, Template, MVP
+Algorithms / Data Structures: Big O, Sort, Search, Linked List, Stack, Queue
+Android Technologies: GCM, Android Firebase, Push Notifications, Google AdMob
+Web Technologies: RESTful Web Services, HTML, CSS, JavaScript
+Application Servers: Glassfish, Tomcat
+Databases: MySQL, SQLite, Realm, MongoDB
+IDE / Utilities: Android Studio, Eclipse, ADT, IntelliJ IDEA, Xcode, MS Visual Studio, Sublime
+Operation Systems: Windows Server, Linux, MacOS
+Application Servers: Glassfish, Tomcat
+Source Control Tools: Git, SourceTree
+Methodologies: Agile-Scrum
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+ABI-TECHNOLOGIES  -  Phnom Penh - January 2015 to January 2016
+
+Information technology and consulting company with expert team of iOS and Android SDK developers
+Role: Android Developer Responsibilities:
+• Refactoring application (implemented Dagger 2, Rx, Database, MVP).
+• Managed database persistence, caching and memory management functionality.
+• Developed the user interface (Gallery, Gridview, Listview, Tabwiget, and Webview), category searching.
+• Working on user authentication and authorization management for whole application lifecycle.
+
+• Developed update patches, modules and components to mitigate security risks.
+
+• Wrote technical specifications and maintained all reports pertaining to application development process.
+• Worked in debugging the application using Logcat.
+•  Wrote  unit  tests  and  debugged  critical  problem  application  issues  such  as  crashed,  memory  leak,
+concurrency
+problems, and improve the performance of application.
+• Tested the application on multiple Android devices and fixed the issues.
+Key Achievements:
+• Embedded Google Maps API, GPS Location into app with zooming controls.
+• Implemented Realm database and SharedPreferences in application data management.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Implemented OkHttps to increase the app performance during consuming the RESTful web service.
+Major Project:
+• Produced Cambodian news aggregation app called “Mekong” for both Android and iOS. Deployed to Google
+Play
+Store: https://play.google.com/store/apps/details?id=com.abitech.mekongjournal
+• Engineered “All Deal” app enabling businesses in Phnom Penh to boost in-store traffic by offering exclusive,
+easy-to-
+use mobile discount coupons. Deployed to Google Play Store and generated 5-star rating:
+https://play.google.com/store/apps/details?id=com.abitech.AllDeal
+Technical Environment: Java, Retrofit, Realm, Google Maps, Facebook SDK, Android Studio, GitHub, Design
+Patterns: Singleton, Template Method, Factory, Adapter, MVP
+
+Android
+ISSARAH  -  Bangkok, TH - April 2014 to January 2015
+
+International business marketing and design company with strong presence in digital sphere
+April 2014 – January 2015
+Role: Android Developer Responsibilities:
+• Conceptualized, designed, developed and deployed mobile applications.
+• Mastered technical complexities of mobile application development lifecycle.
+• Used RESTful Web Services with JSON to parse the data.
+• Fixed bugs and improved application performance.
+• Collaborated with fellow team members on integration and unit testing of the application.
+• Used Agile (SCRUM) methodology for Software Development.
+• Published the application to Play Store and published updates after every sprint release.
+Key Achievements:
+• Contributed to development and maintenance of one of the most popular mobile apps in Thailand.
+• Implemented Facebook/ Google SDK to sign in to the app.
+• Integrated Push Notifications with (GCM) Google Cloud Messaging.
+Major Project:
+• Enhanced visibility and ratings of “CLIPCARD” app by targeting Thai users in Google Play Store deployment:
+https://play.google.com/store/apps/details?id=com.clipcard.android&hl=th
+Technical Environment: Java, Google Maps, Volley, JSON, Gson, FileZilla, MS Visual Studio, Git (Bitbucket /
+Source Tree, Design Patterns: Singleton, Factory, Template Method, Façade
+
+Android Developer
+AROY INNOVATION  -  Phnom Penh - May 2012 to April 2014
+
+US company specialized in mobile app development with 3 branch offices in USA, Cambodia and Hong Kong
+
+Role: Android Developer Responsibilities:
+• Developed and maintained mobile applications for Android devices.
+• Worked with marketing and key executives to develop two cutting edge applications, which mobilized routine
+banking functions and enticed new customers, without jeopardizing data privacy or security.
+•  Established  a  formal  review  process  to  assess  the  viability,  development  and  ROI  of  each  project  and
+presented those
+that offered the best return to the CIO. Employed proven methodologies and testing techniques.
+• Developed update patches, modules and components to mitigate security risks.
+• Researched application acceptance and solicited feedback from users to boost adoption rates.
+• Implement new feature and maintenance the application to make it compatible with variety of Android OS.
+• Communicated effectively with stakeholders to manage expectations.
+Key Achievements:
+• Gained commendations from the project manager for developing and testing fully functional features.
+• Delivered a fully functional Android application platform.
+• Optimized query run time for reporting by using MySQL to write store procedure.
+Technical Environment: Java, Android SDK, REST Web service, SQLite, HTML, Bootstrap, GitHub
+<ed>
+EDUCATION
+
+Master's in Computer Science
+Maharishi University of Management  -  Fairfield, IA
+January 2016 to December 2018
+
+Bachelor's in Computer Science
+Mahasarakham University  -  Mahasarakham
+2011 to 2013
+<sk>
+SKILLS
+
+Android (4 years), Algorithms (3 years), Java (3 years), C++ (1 year), SQLite (1 year), Glassfish (1 year),
+JSON (2 years), RESTful Web Services, (2 years), Agile-Scrum (2 years), Design Patterns (1 year), Data
+Structures (3 years), Third Party Library (3 years), Volley (2 years), Realm (1 year), Google Maps (2 years),
+Glide (1 year), Picasso (1 year), ButterKnife (1 year), Retrofit (1 year), OkHttp (1 year)
+<ba>
+LINKS
+
+https://github.com/tonghannteng
+
+https://www.linkedin.com/in/tonghannteng
+<ca>
+AWARDS
+
+Full Scholarship to Attend Mahasarakham University, Royal Patronage of HRH Princess
+Sirindorn
+
+Special  Prize  for  Fastest  Solution,  ACM-ICPC  Thailand  Northeastern  Programming
+Contest
+2013
+
+1st Place Team, ACM-ICPC Thailand Programming Contest, Mahasarakham University,
+2013
+2013
+
+Member of Google Code Jam Thailand
+2012
+
+Member of Asia-Pacific Mathematics Olympiad
+2009
+
+Cambodian  Student  Mathematics  Representative,  6th  Nanfang  Cup  International
+Mathematics Competition
+2009
+
+CERTIFICATIONS/LICENSES
+
+Software Development Fundamentals (Microsoft Certificate)
+
+Database Administration Fundamentals (Microsoft Certificate)
+
+Object Oriented Programming in Java (Coursera Online Course)
+
+Algorithmic Toolbox (Coursera Online Course)
+
+

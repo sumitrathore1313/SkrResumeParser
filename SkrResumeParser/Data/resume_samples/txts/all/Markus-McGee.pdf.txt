@@ -1,0 +1,45 @@
+<ba>
+Markus McGee
+
+Chicago, IL - Email me on Indeed: indeed.com/r/Markus-McGee/8dbfa8ece8a03fe9
+
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+LifeFitness  -  Franklin Park, IL - October 2015 to Present
+
+Building new UI features based on Android for LifeFitness cross platform consoles. New UI will be featured
+in upcoming IHRSA 2016 conference event. LifeFitness UI architecture based on MVC design pattern with
+dependency injection.
+
+Android Developer
+American Hospital Association  -  Chicago, IL - April 2015 to July 2015
+
+AHA Action Center Application
+Originally hired to port the existing AHA 2015 Annual conference app from iOS over to Android for the 2015
+American Hospital Association event kick off conference and season.
+
+HPOE Magazine Application
+Designed  and  developed  current  AHA  HPOE  (Hospitals  in  Pursuit  of  Excellence)  for  Android.  Application
+contains bookmarking of articles as well as video playback and PDF viewing/caching.
+
+Both applications make use of dependency injection using Dagger, Otto and Picasso from Square. AHA Action
+Center is currently in the app store with HPOE Magazine soon to follow.
+<ed>
+EDUCATION
+
+Software Engineering
+DePaul University  -  Chicago, IL
+2002 to 2005
+
+BS in Mathematics
+Jackson State University  -  Jackson, MS
+1992 to 1997
+<sk>
+SKILLS
+
+Android Programming (6 years)
+
+

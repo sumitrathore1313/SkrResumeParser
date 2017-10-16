@@ -1,0 +1,223 @@
+<b>
+Venkata Gopaluni
+
+Senior UI developer - Delta Dental Insurance Company
+
+San Francisco, CA - Email me on Indeed: indeed.com/r/Venkata-Gopaluni/cc664335b4ba470b
+</ba>
+<we>
+
+WORK EXPERIENCE
+
+Senior UI developer
+Delta Dental Insurance Company  -  San Francisco, CA - February 2016 to Present
+
+Project Description:
+Delta  Dental  Access  Management  Tool  is  a  legacy  web  application  to  create  and  manage  the  employer
+accounts, users and their access. Delta dental ESA administrators use this internal application to create a
+new account (for corporations and small businesses). Once the account is created, it will be reviewed and
+approved by PSA administrators.
+
+I  was  part  of  the  UI  development  team  to  redesign  this  legacy  application  using  latest  technologies  and
+improved customer experience with easy to use single page application. We have used Angular JS with UI-
+
+Router. Initially, I have also created multiple POCs with different designs of navigation and UI components for
+selection of plans, groups, applications and divisions.
+
+Responsibilities:
+• Gathered and analyzed the requirements from the client and developed POC screens.
+• Worked on re-platforming the legacy application built using JSP to HTML, Angular JS and Bootstrap.
+• Created custom filters and services to reuse them throughout the application.
+• Re-platforming of web design includes HTML, CSS, JSON, JavaScript, Angular JS, JQuery, UI Bootstrap,
+WinScp, Putty and maven.
+• Created a mock API, which includes all the JSON data in that. There were mock services and controllers
+written both on the client and server side to dynamically populate the content to the Angular templates from
+the backend API's.
+• Each element on the page is created as templates in order to maintain the modularity and make it reusable
+for other fields in different states.
+• Maintained the consistency with other teams by getting our code reviewed by the other team tech leads.
+• Built client side validations before submitting it to backend.
+• Extensively used (Angular Bootstrap) for animations and pagination on the page, and UI components.
+• Worked on Cross-Browser compatibility and fixed bugs for several browsers.
+• Worked on Cross-origin resource sharing.
+• Worked on creating responsive website for smart devices using Bootstrap.
+• Created Images, Logos and Icons that are used across the web pages using Adobe Flash and Photoshop
+• Compiled a system design procedure proposal that meets every requirement and follows agile methodology.
+• Developed a single page, mobile-first, cross-device/cross-browser web application for UI Bootstrap, Angular
+JS.
+• Written test cases using Karma JS and Jasmine framework for test case scenarios.
+• Excellent problem solving skills and the ability to work independently.
+• Work in cross-functional team to develop timely changes to page content and meet the design requirements.
+
+Environment:
+HTML/HTML5,  CSS,  SASS,  JavaScript,  Angular  JS,  JQuery,  JSON,  Bootstrap,  NPM,  Restful  APIs,  SVN,
+Photoshop, Adobe Dreamweaver CS3, Eclipse, Maven, Apache Tomcat, WinScp, Putty, Chrome developer
+tools, Firebug.
+
+Sr. Java UI Developer
+Znalytics  -  Atlanta, GA - March 2015 to January 2016
+
+Project Description:
+ZNalytics is a IT services company. I'm part of a developing team where we developed and maintain transaction
+and  sales  application  for  billing.  This  application  was  designed  and  enforced  with  team-based  branching
+strategy, and implemented the full stack continuous integration (application build server, artifact store and
+development) process including database deployments and is currently working towards the implementation
+of ZNalytics environment in Microsoft Azure cloud.
+
+Responsibilities:
+• Worked on presentation layer, developed dynamic UI modules using Canvas, Angular, JSP/JS pages along
+with JQuery (AJAX) calls. All the modules are roles/permissions driven.
+• Used SOAP UI for testing web services and verifying the request and response XML.
+• Experience in working on GIT, UI Development using React JS and Bootstrap on HTML5.
+• Developed Mock applications using Angular JS with powerful code.
+• Implemented marshalling and un-marshalling XML to HTML and HTML to XML.
+
+• Used Rational Clear Case for version control.
+• Designated and developed the application using Agile Scrum methodology by breaking down the project to
+several sprints.
+• Developed front-end UI using Angular JS, HTML5, CSS3, Bootstrap, JavaScript, SASS, JQuery and AJAX.
+• Used bootstrap to make our webpages responsive.
+• Used Maven as a building tool for creating WAR files.
+• Implemented SOA architecture with Web services using SOAP, WSDL, Local Storage, UDDI and XML.
+• Used Rest Web Services.
+•  Custom  node.js  proxy  used  to  simulate  API  responses  before  client  implementation  was  complete  and
+deployed in local Express JS server, and to proxy requests to finished client APIs, handling authentication,
+custom headers, virtual application root, etc.
+• Developed generalized script functions written in JavaScript which are used throughout the application.
+• Used Karma and Jasmine for writing test cases to produce a high level code.
+• Used JIRA service desk for communication with the associates and tracking the progress of the application.
+• Involved in Application Support during the initial deployment of the application in production environment.
+
+Environment: Angular JS, Bootstrap, Gulp JS, EXT JS 4.0, HTML5, SASS, LESS, HTML5 API's, Node JS,
+Express JS, AJAX, SVN, Maven, JavaScript, JQuery, JSON, Karma JS, Jasmine.
+
+Java UI Developer
+Cricket Communications  -  Greenwood Village, CO - September 2014 to February 2015
+
+Project Description:
+Cricket network had been migrating its existing web application for stores as well as its user facing Applications
+from existing legacy to a Single Page Applications. I have worked mainly on Phone and Accessories listing
+pages. I have implemented the listing, sorting and layout for these two use cases. We have a service layer to
+get the data from Adobe AEM content management system.
+
+• Participated in designing the user interface for the application using HTML, DHTM.
+• Developed screens using Bootstrap, JavaScript, and HTML.
+• Interacted with the clients to get site-specific requirements and perform analysis and design for client specific
+requirements.
+• Developed new features and customized existing modules for the web application product using CSS, HTML,
+and JavaScript.
+• Used Bootstrap to build responsive UI Design.
+• Handled Twitter Bootstrap framework i.e., the concept of Grids, making use of advance components like
+Navs, Navbar's, Pagination, Alerts, Progress bars etc.
+• Designed and implemented the User Interface using OO JavaScript, HTML4, XHTML, XML, CSS3, JSP,
+and AJAX.
+• Application backend implemented as node.js express application server.
+• Implemented Angular Service calls using Angular Factory.
+• Used AJAX to update a portion of a web page thus reducing bandwidth usage and load time and add modal
+dialog in web pages to get user input and requests.
+• Developed web presentation layer using HTML and CSS according to internal standards and guidelines.
+• Development the whole application module using technologies such as JavaScript, jQuery and more.
+• Wrote a combination of jQuery plugins, as well as completely custom JavaScript to build a bleeding-edge,
+AJAX-driven user interface.
+• Involved in writing application level code to interact with APIs, Web Services using AJAX, JSON and XML.
+• Designed and developed intranet web applications using JavaScript and CSS.
+• Worked with teams where requirements are constantly being implemented, tested and improved.
+
+Environment: HTML, DHTML, JavaScript, Node JS, Express JS, JSP, JSF, Java/J2EE, Gulp JS, Web Services,
+Eclipse, SOAP, XML, Windows XP.
+
+Web developer
+Bank of the West  -  San Ramon, CA - October 2012 to August 2014
+
+Project Description:
+Bank of the West redesigned their online banking application to provide rich and consistent user experience
+across multiple devices and browsers. I was involved in the design and development of Accounts Summary
+and Account details modules in the core banking application
+
+Responsibilities:
+• Design and Develop Menu component for Online Banking application which will be used across multiple
+applications  for  consistent  user  experience  to  navigate  across  various  features  and  modules  in  the  online
+banking
+•  Design  and  Develop  Account  Summary  and  Account  Detail  modules.  Working  with  UX  designers  and
+Business  partners  to  understand  the  requirements  and  implement  pages  for  various  account  types  like
+Checking, Credit, Loans , Lines, Brokerage etc.,
+• Develop Jade templates and Less Styles and use gulp.js to preprocess them to HTML and Less for build
+and deployment
+•  Develop  common  core  components  -  Calendar,  Global  Menu,  Modal  Windows,  Disclosures,  Critical
+Messaging, Hot Tasks
+• Implemented and tested the code by creating manual test cases
+• Develop and maintain express.js application for development and testing
+
+Environment: HTML5, CSS3, Less, JQuery, AJAX, SVN, Maven, JSON
+
+Java Developer
+Axis IT&T  -  Hyderabad, Andhra Pradesh - August 2008 to June 2012
+
+Hyderabad, India
+Project Description: Axis IT&T Limited has grown stronger, extending its services beyond Mechanical and
+Manufacturing Engineering to include Electrical and Electronics, Aviation, Media, and Entertainment. Axis has
+a strong force of more than 1000 Engineers located over the globe, serving diverse industries, with specialized
+teams that work on-site or offshore to cater to the specific requirements of clients.
+I have been one of the UI development crew and as being a junior developer this platform gave me a great lift
+to my career. Developed many UI pages for integrating the development of Axis IT&T.
+
+Responsibilities:
+• Analysis and Implementation of the New Change Requests generated by Client.
+• Designed and implemented new services and plans added to the products of SFR which involved designing
+interactive web pages and developed the web services.
+• Responsible for designing maquettes (mock pages) for all enhancements.
+•  Proactive  involvement  in  the  local  environment  set  up  where  entire  application  is  emulated  on  the  local
+desktop including installation of application server, database etc.
+• Design and developed the Web pages using JSP, HTML, JavaScript and CSS.
+• Gained good experience of Creating (While creating stubs for the Suivi Web service) and consuming web
+services for tracking various Telecom services like fixed-line, internet, and mobile services.
+• Used J2EE Technologies with Struts Framework.
+• Used
+
+• Implemented persistence classes and XML mapping files for Hibernate.
+• Implemented action classes, form beans, helper classes.
+• Involved in design, development of Restful and SOAP web services
+• Developed Mock web pages (Maquettes) for all the Change Requests in the application using JavaScript,
+HTML, and CSS.
+• Unit Testing and Integration testing is done with Junit Test Cases.
+• Deployed the application on WebLogic application server.
+• Maintained all developed source code on SVN.
+• Prepared Functional, Interface and Technical design documents.
+• Developed SQL batches for creating, inserting, and updating data in the database tables.
+• Used SQL Developer for database interaction.
+• Oracle 10g was used as the back end Database and Eclipse as IDE.
+
+Environment: Java (1.5), Struts, JSP, Servlets, JavaScript, CSS, HTML, Ajax, Java Beans, Web Services,
+SOAP UI, WSDL, Hibernate, JMS, Eclipse, SQL Developer, Oracle 10g, WebLogic 8.1.
+</we>
+<ed>
+EDUCATION
+
+Bachelor's in Computer Science
+Jawaharlal Nehru Technological University
+2008
+</ed>
+<ba>
+LINKS
+
+https://github.com/sukhesh035
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Programming Languages Java, JavaScript
+Web Technologies HTML 5, CSS3, JavaScript, AJAX, XML, XHTML, JSON
+JavaScript Libraries and Frameworks JQuery, Bootstrap, AngularJS 2, Node JS, Express JS, Gulp JS
+IDE & Tools Sublime Text, Brackets, Eclipse, IntelliJ IDEA, Notepad++
+Database My SQL 5.1, Mongo DB
+
+Operating Systems Windows(7,8,10), Mac 10.12, Linux, Unix
+Methodologies Agile, Scrum, Waterfall
+Workflow and Delivery Responsive Web Design, Single Page Applications
+Version Control SVN(tortoiseSVN), GitHub
+Project Build/Project, Management Tools Grunt, Maven, Bower, Jira, Gulp.
+Designing Tools Adobe Photoshop CS6, Adobe Lightroom
+</sk>
+

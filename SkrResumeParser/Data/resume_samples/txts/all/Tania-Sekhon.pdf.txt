@@ -1,0 +1,148 @@
+<ba>
+Tania Sekhon
+
+Android Developer - Cloudeeva, NJ
+
+New York, NY - Email me on Indeed: indeed.com/r/Tania-Sekhon/d69872df22c5c330
+<su>
+➢ Over 5 years of experience in IT sector in design, development, analysis, and implementation and for testing
+high-end enterprise level Java, Windows and Web based applications. This included 3 years of tablet and
+smartphone development experience which had an Android operating system.
+➢ Proficient with common Android framework API's.
+➢ Extensively worked with Android SDK version […] and Eclipse IDE while using an Android ADT plug-in.
+➢ Excellent knowledge of e-commerce, health care and the banking domain and was able to incorporate this
+knowledge in order to implement monetization of apps with capabilities to do in-app purchases.
+➢ Experience in using Storage options in Android such as Shared Preferences.
+➢  Sizeable  amount  of  work  has  been  done  on  memory  management,  push  notifications,  multiple  screen
+support, data offline usage, content providers and sync on Android.
+➢ Expertize in using Fragments, Activity workflow, Menu Designs, Action Bar Navigation and view controls.
+➢ Good exposure in developing GUI while using Interface design principles for Android tablet and mobile
+devices.
+➢ Strong skills in creating interfaces with services for mobile applications.
+➢ Good mobile and web designing skills while utilizing Activities (Android), HTML 5, Java Script and XML.
+Experience in applying web service protocols such as REST, SOAP and HTTP.
+➢ Experience in using markup languages in web services such as JSON, HTML and XML.
+➢  Worked  extensively  in  developing  mobile-based  and  advanced  web-based  applications  while  utilizing
+JAVA, Servlets, JSP, HTML, XHTML, JavaScript and Oracle. Expert level skills in SQL and database query
+optimization techniques.
+➢ Have hands-on experience in complete project life cycle with domain knowledge in e-learning and web as
+well as mobile application development.
+➢ Working knowledge of graphic design and handling various kinds of media using Photoshop, Illustrator and
+flash.
+➢ Strong analytical and problem solving skills, excellent communication and presentation skills as well as
+efficient decision making skills and excellent team player.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Cloudeeva, NJ - July 2012 to Present
+
+Cloudeeva enables execution and provides support to its clients in order to solve their complex problems or
+help in dealing with unforeseen challenges. Cloudeeva also provides cloudsourcing solutions to their clients
+(procuring of entire IT infrastructure from a cloud) which integrates with any platform without the need of an
+overhead management.
+MyBI 06/2013 - Present
+MyBI is a mobile app which enables users to get access to executive reports and dashboards in a secure
+environment by interfacing with Enterprise Business Intelligence systems. This application is integrated with
+SAP Business Objects Enterprise, Salesforce, Microsoft SharePoint, Dropbox and Google Drive.
+
+Responsibilities:
+➢ Used standard android components, activities, services, database, various UI widgets types, etc. as well
+as created custom views for the application.
+
+➢ Created and incorporated SQLite database manager for local data persistence of audit files on the device.
+➢ Implemented integration with Google Drive and Dropbox for uploading and downloading audit files, creating
+folders on Google Drive and listing out the folder content.
+➢ Implemented UI designs foe Microsoft Sharepoint and Salesforce.
+➢ Integrated Sharepoint and Saleforce with the application.
+➢ Designed UI using views provided by android and created custom views when required.
+➢ Coded using Java programming methodologies and debugging was done using eclipse.
+➢ Implemented custom classes for web services (JSON) to acquire data from the server.
+➢ Used GIT as source control systems for code base management.
+➢ Instrumental in the implementation of Import and Merge functionality within the app.
+➢ Conducted product integration and testing on various android devices.
+➢ Deployed prototypes of the app for hands on user testing.
+➢ Identified and fixed any bugs reported during the testing phase of the project.
+Environment: Android (4.3 and 4.4), Java, Android SDK, ADT 21.1.0, JSON, REST API (XML), MySQL, Eclipse
+4.3, XML, SQlite3.
+
+Cloudeeva management
+Cloudeeva, NJ - July 2012 to May 2013
+
+to keep tabs on their sales team in terms of their location, expenditure and miles travelled as they travel around
+the country for various projects and client interaction ventures.
+Responsibilities:
+➢  Formulated  a  course  of  action  including  a  concept  of  the  app  and  setting  a  timeline  for  completing  the
+assigned project.
+➢ Division of the various tasks that would be required in order to make the project successful.
+➢ Used google play library in order to utilize google maps.
+➢ Incorporation of various permissions from the eclipse library as well as making our own permissions was
+understood and implemented.
+➢ Utilization of GPS within programming was assimilated within the code for displaying and providing the exact
+location of users within a map at real time.
+➢ Designed the navigation of the application using eclipse in order to assimilate the direction the app was
+heading.
+➢ Designed the UI's using views and ensured they were compatible with various android devices.
+➢ Ensured that the source code for the divided modules were kept in a central unit in order for the other team
+members to access the said code easily.
+➢ The process of blending of codes written by various team members in order to provide the application as
+a single process was done.
+➢ Testing of the application on an android device in order to ensure its successful functionality.
+➢ Deployed prototypes of the application in order for it to be utilized for user training.
+Environment: JAVA, Android SDK, Android Emulator, Eclipse version 4.2
+
+Android Developer
+NBC Universal  -  Los Angeles, CA - April 2011 to June 2012
+
+App: https://play.google.com/store/apps/details?id=com.nbcuni.nbc
+This is a high traffic mobile ticketing application where the user can view a theater and movie listings on their
+phone. The app syncs the purchases to the user device from the cloud. The user can view trailers, and submit
+reviews.
+Responsibilities:
+➢ Implemented scanning of QR code by using third party libraries. The users could scan a code for recording
+a series.
+
+➢ Developed new screen GUI widgets, layouts, custom lists, custom layouts and custom adapters.
+➢ Responsible for building UI's using view groups for different layouts like tabular and linear architectures.
+➢ Integrated the mobile app with cloud based services.
+➢ Implemented the app security using third party and open source security frame works.
+➢ Socialized the app by integrating it with facebook and twitter.
+➢ Provided production support for the application after it was released in the market.
+➢ Developed UI's for Honeycomb devices specific to tablets.
+➢ Developed unit test cases using Junit.
+Environment: Android 2.3, Honey comb 3.0, ADT, JAVA, Junit, REST API's.
+
+C/C++ Programmer
+Networks In Motion, Orange County - January 2010 to March 2011
+
+Networks in Motion is a telecom company and a pioneer in Mobile and GPS enabled Navigation products.
+The goal of the project was to extend the Navigation functionality of consumers so that they can use public
+transit systems. With growing demand for a multi modal reliable system especially in urban areas, the plan
+was to use open source GTFS data.
+Responsibilities:
+➢  Created  feature  requirement  document  and  participated  in  reviews  with  user  experience  team  and
+brainstormed on different usage scenarios.
+➢ Understood the GTFS data and studied how effectively it can be integrated to the existing "Points of Interest"
+table that is obtained from NAVTEQ.
+➢ Created SDS documents for the requirements and provided database schemes which were developed in
+SQLite.
+➢ Designed and implemented a spatial search table inside SQLite to enable public transit stops to be searched
+spatially.
+➢ Designed and Implemented a feeds system using Python that would automatically download data from
+various GTFS sources and keep the database synchronized with the current schedule.
+➢ Worked with a team of 8 engineers and helped them come up to speed on the design and implementation
+of various components.
+➢ Helped in coordinating with the offshore development and testing team in Russia and China and participated
+in code-reviews and QA test plans.
+Environment: C++, Python 2.4, Red Hat LINUX, SQLite, Socket Programming, Multithreading, POSTGRESQL.
+<sk>
+ADDITIONAL INFORMATION
+
+Skill Set:
+Java, Eclipse, Android SDK's version 2.3-4.2, SQL server 2005 and 2008, VLSI design, C++, SQL (Oracle
+based systems), SQLite, Python, Network Simulation, Matlab, HTML, Javascript, and Linux based systems,
+Microsoft visual basic, Microsoft VISIO, Microsoft office, IOS based systems.
+
+Projects Summay:
+
+

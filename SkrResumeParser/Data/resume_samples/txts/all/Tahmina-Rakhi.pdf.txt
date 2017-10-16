@@ -1,0 +1,183 @@
+<ba>
+Tahmina Rakhi
+
+Web Developer
+
+Houston, TX - Email me on Indeed: indeed.com/r/Tahmina-Rakhi/b41016854c66f257
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+AIG  -  Houston, TX - January 2015 to August 2016
+
+Responsibilities:
+
+• Involved in Design, Development, and Support phases of Software Development Life Cycle (SDLC).
+• Used agile software development methodology to develop project plans.
+• Involved in developing UML Use case diagrams, Class diagrams, and Sequence diagrams using Rational
+Rose.
+• Developed GUI with HTML, DHTML, XML, XSLT, CSS and JavaScript.
+• Used server side spring framework and Hibernate for Object Relational Mapping of the database structure
+created in SQL server.
+•  Involved  in  design  and  development  of  web  interface  using  JSP,  Servlets,  JavaScript  and  JDBC  for
+administering and managing users and clients.
+• Handled long running calls to XML web services and SQL Server stored procedures using multi-threads.
+• Installed configured and deployed the applications on WebSphere Portal and Application Server.
+• Experienced with SOAP/WSDL and have designed as well as developed SOAP interfaces in Java.
+• Used IBM MQ Queuing mechanism to send messages to clients and interact with other systems.
+• Wrote complex SQL queries using joins, subqueries, and inline views to retrieve data from the database.
+• Involved in producing and consuming annotations of SOAP web services using JAX-WS.
+•  Responsible  for  developing  the  full  stack  (front-end  development,  application  logic,  services,  data
+persistence) as well as server setup and maintenance.
+• Performed unit testing using JUnit and Mockito. Used RSA integrated SVN Repository to maintain version
+controlled source code.
+•  Implemented  Cross-cutting  concerns  like  logging  and  declarative  transaction  management  using  Spring
+AOP.
+• Developed custom tags to simplify JSP code.
+• Designed UI screens using JSP 2.0, CSS, XML, and HTML.
+• Built AngularJS framework including MVC architectures, different modules, specific controllers, templates,
+custom directives and custom filters.
+• Extensively used AngularJS (Angular Bootstrap) for ng-grid, and UI components. Custom node.js proxy used
+to simulate API responses before client implementation was complete, and to proxy requests to finished client
+APIs, handling authentication, custom headers, virtual application root, etc.
+• Used SQL server as the backend database.
+• Involved in design of the database schema and development of stored procedures.
+• Used IBM WebSphere as an application server.
+ENVIRONMENT:  Java,  J2EE,  HTML5,  CSS3,  JavaScript,  JDK  1.5/1.6,  SOAP,  Servlets,  JMS  1.2,  Spring
+3.2.3, Hibernate 4.3.0, Maven 2, SVN, JavaBeans, IBM mq, Eclipse 3.4, Web-Services, AWS, SQL, PL/SQL,
+Microsoft SQL server 2005, XQuery, Linux, Unix, Angular JS, Node.js, JQuery, IBM Web sphere Application
+Server.
+
+Web Developer
+Delta Airline  -  Houston, TX - August 2013 to December 2014
+
+Responsibilities:
+
+• Participated in requirements gathering, analysis, Conceptual Design, and Details.
+•  Involved  in  development  and  finalization  of  the  initial  design  of  the  application  and  worked  with  content
+managers, copywriters and designers to resolve the issues.
+• Implemented the editor component with spell-check using AJAX, JSON.Integrated jQuery Grid View for all
+Data View for the product.
+• Created cross-browser UI components using various jQuery. Integrally designed and implemented the entire
+Security Administration UI that has 15 screens which are a major attraction of the product.
+• Implemented the presentation layer with HTML, DHTML, jQuery, Ajax, and CSS. Displayed on demand data
+to the user using Ajax.
+
+• Extensively used jQuery plug-ins like Image Lightbox, Ajax Queue, Auto Populating select-box, Search plugin,
+calendar plug-in, AJAX-queue plug-in, and Auto-populating multiple select boxes.
+• Written and implemented CSS throughout the site, both as in-line and imported files.
+• Written and implemented Object Oriented JavaScript throughout the site, both as in-line and imported files.
+• Created role-based DHTML navigation menu, menu items change dynamically, derived from the database.
+• Timely delivery of the assigned projects.
+• Worked on multiple projects simultaneously.
+
+Environment:  JavaScript,  jQuery,  Core  Java,  Require-js  CSS,  AJAX,  JSON,  HTML,  DHTML,  XML,  DOM,
+Photoshop 5, PHP, MySQL and Eclipse IDE.
+
+Front End Developer
+Wells Fargo  -  Houston, TX - June 2012 to July 2013
+
+Responsibilities:
+
+• Involved in developing the UI pages using HTML, DHTML, CSS, JavaScript, Node-js, JSON, jQuery and Ajax.
+• We have followed with Agile and Scrum development methodologies.
+• Used jQuery core library functions for the logical implementation part at client side for all the application.
+• Debug the application using Firebug to traverse the documents and manipulated the Nodes using DOM and
+DOM Functions using Firefox and IE Developer Toolbar for IE.
+• Involved in developing HTML and JavaScript for client-side presentation and, data validation on the client
+side within the forms.
+• Involved in writing SQL Queries, Stored Procedures.
+• Developed Page layouts, Navigation and presented designs and concepts to the clients and the management
+to review.
+• Implemented the Drag and Drop functionality using the jQuery framework.
+• Used jQuery plugins for Drag-and-Drop, Widgets, Menus, User Interface, and Forms.
+• Involved in writing SQL Queries, Stored Procedures.
+• Monitor site for any UI inconsistencies and fix all the UI bugs reported in the test track.
+• Developed web presentation layer using HTML and CSS according to internal standards and guidelines.
+• Involved in writing application level code to interact with APIs, Web Services using AJAX, JSON, and XML.
+• Responsible for checking cross browser compatibility and hence worked on different browsers like safari,
+Internet explorer, Firefox and Google chrome.
+• Designed the table fewer web applications using CSS and with the help of and tags as per W3C standards.
+
+Environment: HTML 4.x, CSS2.x, JavaScript, JQUERY, AJAX, JSON, XML, Node-js, TOMCAT APACHE.
+
+Junior Front End Developer
+Wells Fargo  -  Houston, TX - August 2010 to June 2012
+
+Responsibilities:
+
+•  Web  design  and  development,  application  development  using  Photoshop,  HTML,  JavaScript  and
+Dreamweaver.
+•  Designed  dynamic  and  multi-browser  compatible  pages  using  HTML,  CSS,  Jquery,  Angular  JS,  JSP's,
+Require-js, Node-js, and JavaScript.
+•  Designed  and  implemented  the  user  interface  using  HTML5,  XHTML,  XML,  CSS3,  JAVASCRIPT  and
+ANGULAR JS.
+• Responsible for creating the screens with table-less designs meeting W3C standards.
+• Applied J-Query scripts for basic animation and end user screen customization purposes.
+
+• Used AJAX and JSON to make asynchronous calls to the project server to fetch data on the fly.
+• Developed the User Interface using HTML 5, CSS, JavaScript, Jquery, and AJAX.
+• Designed flash plugins for including different functionalities and content.
+•  Designed  XML  files  for  maintaining  contents  like  video,  images,  and  audio  and  display  them  in  flash
+application.
+• Involved with bug fixing on functionality, performance and designing issues with JavaScript and Jquery.
+• Created web pages using HTML, CSS, Jquery, and JavaScript.
+• Creating and implementing Master Classes in Action script 3.0 (based on MVC) for the application.
+• Developing XML classes for loading the data from XML files deployed at the server.
+• Responsible for checking cross browser compatibility and hence worked on different browsers like safari,
+• Internet explorer, Firefox and Google chrome.
+• Designed 10 Unique themes with rich and flexible to accommodate different scenarios in which the user
+might want to display the data.
+
+Environment: HTML4/HTML5, CSS/CSS3, JavaScript, JQuery, AJAX, GIT, Angular-js, Require-js, Bootstrap,
+Photoshop, Dreamweaver, Illustrator, Information Architecture, Selenium IDE, Flash, SQL and Tomcat.
+
+UI Intern Developer
+JP Morgan Chase  -  Houston, TX - May 2010 to June 2010
+
+Responsibilities:
+
+• Web design and development, application development using Photoshop, HTML, JavaScript and
+Dreamweaver.
+•  Designed  dynamic  and  multi-browser  compatible  pages  using  HTML,  CSS,  Jquery,  Angular  JS,  JSP's,
+Require-js, Node-js, and JavaScript.
+•  Designed  and  implemented  the  user  interface  using  HTML  5,  X  HTML,  XML,  CSS3,  JAVASCRIPT  and
+ANGULAR Js.
+• Responsible for creating the screens with table-less designs meeting W3C standards.
+• Applied J-Query scripts for basic animation and end user screen customization purposes.
+• Used AJAX and JSON to make asynchronous calls to the project server to fetch data on the fly.
+• Developed the User Interface using HTML 5, CSS, JavaScript, Jquery, and AJAX.
+• Designed flash plugins for including different functionalities and content.
+•  Designed  XML  files  for  maintaining  contents  like  video,  images,  and  audio  and  display  them  in  flash
+application.
+• Involved with bug fixing on functionality, performance and designing issues with JavaScript and Jquery.
+• Created web pages using HTML, CSS, Jquery, and JavaScript.
+• Creating and implementing Master Classes in Action script 3.0 (based on MVC) for the application.
+• Developing XML classes for loading the data from XML files deployed at the server.
+• Designed 10 Unique themes with rich and flexible to accommodate different scenarios in which the user
+might want to display the data.
+
+Environment: HTML4/HTML5, CSS/CSS3, JavaScript, JQuery, AJAX, GIT, Angular-js, Require-js, Bootstrap,
+Photoshop, Dreamweaver, Illustrator, Information Architecture, Selenium IDE, Flash, SQL and Tomcat.
+</we>
+<ed>
+EDUCATION
+
+B.S in Computer Information System
+University of Houston Downtown  -  Houston, TX
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+Languages: PHP5, Perl, JavaScript, Shell Scripting, Python, ASP, JSP 
+Web Technologies: ASP.NET, ADO.NET, Asp, Apache, HTML5, XSL, HTML5, CSS3, AJAX, JSON, DHTML,
+REST 
+Data Management: MySQL, Oracle, SQL Server, Sybase, MS Access 
+Frameworks: jQuery, AngularJS, Modernizer, Bootstrap 
+CMS: Silver Stripe, WordPress, Cascade, Vbulletin, Drupal, Bitrix, OpenX 
+Tools:  Akamai,  Jira,  Asana,  Slack,  Google  Tag  Manager,  Google  Analytics,  Perforce,  SVN,  Basecamp,
+Jenkins, Akamai, AppNeta, Photoshop, 
+MySQL Workbench, PhpMyAdmin, MySQL Workbench
+</sk>
+

@@ -1,0 +1,83 @@
+<ba>
+Matthew Laguardia
+
+Front End Developer
+
+San Francisco, CA - Email me on Indeed: indeed.com/r/Matthew-Laguardia/670ce9f4e9e9be23
+</ba>
+<su>
+A storyteller who writes in code and a tinkerer of APIs. Passionate about open source projects and making
+all things web. A maker of scripts, emojis, and games. Hackathon participant who is interested in changing
+the world with technology.
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer (Part Time)
+Post Carbon Institute  -  Santa Rosa, CA - November 2016 to Present
+
+Working on non-profit's websites / landing pages / and blogs
+Front-end work on wordpress platform
+
+Developer | Instructor Associate
+General Assembly  -  San Francisco, CA - May 2016 to November 2016
+
+Worked as a mentor to junior developers at a web development immersive bootcamp
+Worked with different teams developing real world applications in one-week sprints
+Helped teach, and develop front-end technology lessons, JavaScript, CSS, HTML
+Experience with user stories, mobile first design, agile environments, ERDs, Scrum, web design, open source
+projects and libraries
+Worked with object oriented languages and emerging front-end languages / technologies
+
+Web Designer
+DevNetwork  -  San Francisco, CA - July 2015 to May 2016
+
+Front-end website experience: HTML, CSS, JavaScript, Wordpress
+Management  of 
+sites:  www.devnetwork.com,
+www.developerweek.com, www.mobileweek.co www.apiworld.co, www.ctotalks.com, www.integratecon.com
+Produced  Hackathons  and  Conferences,  helping  companies  market  to  our  developer-centric  community  ~
+30,000 subscribers
+
+conference  and  hackathon 
+
+company’s  main, 
+
+Operations Coordinator
+Wash.io  -  San Francisco, CA - January 2015 to September 2015
+
+Day-to-day operations of an on-demand logistics start-up
+Zendesk experience and customer success experience
+Helped with production of field marketing, customer service and growth initiatives
+Managed 70+ couriers - provided on-site training and hiring of couriers
+</we>
+<ed>
+EDUCATION
+
+International Relations and Economics
+SAN FRANCISCO STATE UNIVERSITY
+2012 to 2014
+
+Economics
+
+SACRAMENTO CITY COLLEGE
+2008 to 2011
+</ed>
+<ba>
+LINKS
+
+http://github.com/mattlaguardia
+
+http://mattlaguardia.github.io/portfolio
+
+http://www.linkedin.com/in/matthewlaguardia
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+SKILLS & LANGUAGES
+JavaScript, Node, jQuery, MongoDB, Mongoose, HTML, CSS, Ruby, Rails, Express, Angular, Sass,
+Bootstrap, Skeleton, D3, GitHub, Webpack, Mocha, Pry, Heroku, Firebase, Wordpress, Adobe Suite
+</sk>
+

@@ -1,0 +1,150 @@
+<ba>
+Teja Android ( Teja.Android@yahoo.com ;
+[…] )
+
+Android Developer - id=com.att.opusMobile&hl=en
+
+Atlanta, GA - Email me on Indeed: indeed.com/r/f61cf624a043d9ca
+<su>
+• Around 7+ years of Software Design and Development Experience in Java based applications.
+• Extensively worked on every stage of application development right from collecting requirements, providing
+guidelines  for  design,  creating  application  architecture,  implementation  that  includes  various  stages  in
+development, QA, code signing and releasing to Market.
+• Expertise in Android App development with Android SDK using Eclipse IDE and Android Studio.
+• Experienced in Agile Development process for diverse requirements
+• Experienced with front-end technologies HTML/CSS, HTML 5 and JavaScript.
+• Experienced with web services (RESTful and SOAP).
+• Experienced with GitHub and other source control management.
+• Experienced with Oracle/SQL/MYSQL/SQLite databases.
+• Extensively worked on memory leaks, push notifications, content providers, multiple screen support, data
+offline usage, accounts and sync on Android.
+• Experience with audio features, video features, graphics design, interactive design and animation.
+• Have developed applications in such a way that device adaptability (Android device forms and SDK levels)
+is default architecture imperative.
+• Expertise in Object Oriented Architecture, Design and Programming from design to implementation.
+• Expertise in developing applications using Java, J2EE, Struts, Spring, Hibernate, EJB and JSP.
+• Experience in architecture design, development and implementation of software applications and testing.
+•  Have  hands-on  experience  in  complete  project  life  cycle,  with  domain  knowledge  in  Mobile  Application
+Development and Web application development.
+• Experienced with Hybrid App development tools such as PhoneGap
+• Experienced in web service protocols such as JSON, HTTP and XML.
+• Experience on JavaScript and PHP client-server side development.
+• Knowledge of Objective-C for IOS Application development.
+• Working knowledge of graphic design and handling various kinds of media using Photoshop, Illustrator, and
+Dreamweaver.
+• Good communication skills: I have interacted with customers regularly during development of the mobile
+applications.
+• Ability to coordinate with various team members involved in the project.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+id=com.att.opusMobile&hl=en  -  Atlanta, GA - February 2013 to Present
+
+Link: https://play.google.com/store/apps/details?id=com.att.opusMobile&hl=en
+
+The One Point Universal System (OPUS) is a Cingular Wireless system that enables store customer service
+employees to effectively activate phones, assist customers with their mobile phone accounts, and perform
+Point-of-Sale (POS) activities. The Mobile App is primarily used in Cingular Wireless retail stores. Within the
+application, Reps can perform the following functions: Customer Service, Activations, Point of Sale, Inventory
+functions, Administration, Link to other applications and Web sites.
+
+Responsibilities:
+• Documented the requirements and there by analyzed and involved in design, code.
+• Worked with the Android SDK, and implemented Android Bluetooth and Location Connectivity components.
+•  Handling  XML  data  using  efficient  parsing  techniques  such  as  JSON  Parser,  XMLPullParser  and  DOM
+parser.
+• Used SQLite to save user details, their plans and eligible devices for upgrade.
+• Used Android content providers for implementing features like sending E-mails, SMS, etc. from the app and
+designed GUIs for these applications.
+• Constructing http requests, fetching server response and parsing feeds wherever required.
+• Analysis of mobile application code for re-engineering.
+• Involved in development and enhancements of features to restrict the usage based on Authorization and
+Authentication tokens.
+• Provided subsequent releases which included feature changes, enhancements and bug fixes.
+• Responsible for design of user interface using various custom layouts, buttons, dialog boxes, alert boxes
+and different form of widgets.
+• Inserted suitable code to capture the various button and text field events and implemented the desired action
+for each of the widgets.
+• Used web views, list views & populated lists to display the lists from database using simple adapters.
+• Used services, Async tasks and Alert Notification API to implement event reminder feature into the mobile
+app.
+• Used sync adapters to load changed data from server and to send modified data to server from app.
+• Embedded Google Maps API, GPS Location Data into app with zooming controls.
+• Involved in working with Location Manager and Restful Web service with JSON.
+• Used Node.js to install phoneGap and used HTML5, CSS, Javascript to develop hybrid apps.
+• Used PhoneGap APIs like Notification, Camera, Media, Vibration to develop hybrid Apps.
+• Used PhoneGap Device Object to access information about a device and application running a phonegap
+application.
+• Worked on implementing the barcode scanner to add items in store.
+• Analysis of mobile application code for re-engineering.
+• Implemented unique design for portrait and landscape mode.
+•  Also  worked  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+• Developing EJB classes and also corresponding session bean classes.
+• Configured JMS and Datasources on weblogic 10.1 Server and provided appropriate JNDI names for them.
+• Developed complex queries, PL/SQL and stored procedures for data retrieval & updating.
+• Used IBM Rational Clearcase for Version Controlling.
+• Performed Unit Testing and interacted with QA for testing.
+• Worked on signature capture device Ingenico isc6580, developed new icg forms for sigcap devices.
+Environment: Android SDK 2.2, SQLite 3.6, Eclipse IDE 3.5, Android API's, RESTFUL Web service, DOM
+Parser, JDK 1.6, XML, JSON, HTML, CSS, GPS service, Log cat, Windows 7, ADT Plug-in, GIT (version
+control), DDMS console, ADB server, PhoneGap 3.0, node.js emulator and Base device (G1, HTC EVO).
+
+Android Developer
+Macys  -  Atlanta, GA - April 2012 to February 2013
+
+Link: https://play.google.com/store/apps/detail?id=com.macys.bloomingdales&hl=en
+
+ClientelingBconnected is a mobile application developed by Macys for Bloomingdales Associates working in
+Macys/Bloomingdales Store. This App is used by Bloomingdales Employees in different roles such as Sales
+
+Professionals, Sales Managers, General Managers etc to keep track of their contacts, Create Todos for their
+contact, Group their contacts in to Lists, get Details of any specific Customer in Customer Profile Page etc.
+
+Responsibilities:
+• Documented the requirements and there by analyzed and involved in design, code.
+• Involved in the full life cycle of the project including planning, design, development, testing and deployment.
+• Worked with the Android SDK, and implemented Android Bluetooth and Location Connectivity components.
+• Used SQLite to cache the data received from the RESTful web services.
+• Constructing http requests, fetching server response and parsing feeds wherever required.
+• Worked on implementing the barcode scanner to add items in store.
+• Analysis of mobile application code for re-engineering.
+• Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Implemented unique design for portrait and landscape mode.
+•  Handling  XML  data  using  efficient  parsing  techniques  such  as  JSON  Parser,  XMLPullParser  and  DOM
+parser.
+•  Used  Broadcast  Receivers  to  receive  notification  messages  if  server  side  data  changes  and  using  sync
+adapters updated the data into SQLite DB.
+• Used different view layouts and wrote event listeners on widgets.
+• Used Fragments to support both phones and tablets.
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+• Tested the application on various Android devices.
+
+Environment: Android SDK 2.3, Eclipse IDE 3.5, Android Emulator, Android Debug Bridge, Log cat, DDMS,
+Android API's, JDK 1.6, SQLite 3.6, Eclipse IDE 3.5, Android API's, RESTFUL Web service, DOM Parser,
+JDK 1.6, XML, JSON, HTML, CSS, GPS service, Log cat, Windows 7, ADT Plug-in, GIT (version control),
+DDMS console, ADB server.
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILL:
+
+Web related/Languages
+Java, Swing, Servlets, JPA, Spring, Hibernate, JDBC, RMI, C++, HTML, XSL, JavaScript, JSP, Developer […]
+SQL, PL/SQL, SQL*Plus, AJAX, XML.
+
+Operating Systems Android OS, UNIX (AIX, Sun Solaris, HP-UX), Linux and Windows […]
+Databases Oracle 8i/9i/10g, SQL Server, MySQL Sybase, and MS-Access, SQLite and IBM DB2
+GUI / Tools MS Frontpage2000, TOAD, Oracle Forms, Reports, Discoverer
+Application Servers Web Sphere 5x/6x, Web Logic 8x/9x and JBOSS 4x/5
+Networking/Protocols TCP/IP, FTP, HTTP, UDP, SMTP, RCP, Rlogin, and SSH2.
+IDE RAD 7/7.5,NetBeans 5x/6x,Eclipse 3x,Intelliji
+Design Tools Rational Rose
+Frame Works JakartaStruts 1.0,2.0, ANT, JUnit, MVC, Spring and Hibernate
+Version Control IBM Team Server, CVS, PVCS, and Visual Source Safe, Clear case
+
+

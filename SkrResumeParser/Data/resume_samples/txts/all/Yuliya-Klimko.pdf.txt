@@ -1,0 +1,96 @@
+<ba>
+Yuliya Klimko
+
+Android Developer
+
+Austin, TX - Email me on Indeed: indeed.com/r/Yuliya-Klimko/4278e5d98b186d43
+<su>
+Android Developer with 4 years of experience Software Development, Application Maintenance & Support.
+Experienced  in  full  cycle  mobile  applications  development  (application  design,  development,  testing  and
+delivering) including creation Android applications, based on similar one for iOS.
+In-depth knowledge of analyzing information system needs, design and evaluating end-user requirements,
+testing and development of mobile applications for phone and tablet devices from scratch.
+Experienced in working with clients, business manager and technical team for executing concurrent projects.
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Freelance
+
+Responsibilities
+Worked  with  customer  from  Upwork.com  freelance  platform,  communicated  and  scoped  requirements,
+analyzed architecture and developed native android applications.
+
+Accomplishments
+●  Developed  Llingo  and  VocLab,  native  android  applications  for  learning  different  languages,  that  were
+installed over 500,000 times, (https://goo.gl/5fTiw5).
+● Created package of apps Phrasepack (https://goo.gl/usj7n1) for learning and constructing phrases; added
+a quiz for memorization of vocabulary words.
+● Used Google In-app Billing service and SQlite database to improve performance of apps and increase count
+of downloads.
+
+Android Developer
+EffectiveSoft - August 2014 to November 2015
+
+Responsibilities
+Developed and supported multiple applications for Android OS; communicated with engineers, QAs, users
+and management in order to satisfy customer requirements.
+
+Accomplishments
+● Worked on the Calculator Plus, top android calculator in google play with over 30’000’000 installations,
+and  CALCU  Stylish  Calculator  that  has  over  4’000’000  installations  (https://goo.gl/9e69bk,  https://goo.gl/
+OQAdSA):
+○ Integrated new and improved existing in-app advertisement networks to increase revenue.
+○ Developed new features, i.e. editing evaluations and inserting evaluations from history.
+○ Implemented and supported multi-window mode for Samsung devices.
+○ Participated in testing, debugging and bug fixing processes.
+● Developed an app for tracking work order for Belron company.
+○ Created application UI based on mock ups and used native android tools.
+○ Implemented UI screens that can be dynamically configured on the server.
+○ Coded interactions with web services, databases, push notification and printing SDK.
+
+Android Developer
+Itransition - August 2012 to August 2014
+
+Responsibilities
+Developed  android  applications  based  on  customer  requirements.  Was  involved  with  entire  software
+development  cycle  for  multiple  projects:  requirement  specification,  design,  implementation,  testing  and
+maintenance.
+
+Accomplishments
+●  Created  Wardflex  Jobsite  Assistant  (https://goo.gl/osl8bB),  GlobalMoney  (https://goo.gl/vOkqRV),
+LuckyText(https://goo.gl/ThkxXC) and more.
+○ Worked with geo location, JSON/XML parsing, asynchronous tasks, custom adapters, custom views, canvas
+and bitmap manipulation, fragments. 
+○ Transformed specification documents into a functioning app.
+○ Supported the entire mobile application through its lifecycle.
+
+Junior Android Developer
+HBB LLC - February 2012 to June 2012
+<ed>
+EDUCATION
+
+Bachelor's in Industrial Electronics Technology
+Belarusian State University of Informatics and Radioelectronics  -  Minsk
+2009 to 2014
+<sk>
+SKILLS
+
+Java (4 years), Android (4 years)
+<ba>
+LINKS
+
+https://www.linkedin.com/in/yuliya-klimko-5a65556b
+<sk>
+ADDITIONAL INFORMATION
+
+• Specialties: Application development, Android SDK, Android Development Tools, Mobile platform
+• Programming Languages: Java, SQL, XML, HTML
+• IDE: Eclipse, Intelij IDEA, Android Studio
+• RDBMS: SQLite
+• OS: MS Windows, Linux
+• VCS: SVN, GIT
+• Bug tracking systems: JIRA, Trello, Redmine, Youtrack
+
+

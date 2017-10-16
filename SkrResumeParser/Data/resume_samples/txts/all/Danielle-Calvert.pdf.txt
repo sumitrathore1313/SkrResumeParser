@@ -1,0 +1,81 @@
+<ba>
+Danielle Calvert
+
+Web Developer
+
+Avon, IN - Email me on Indeed: indeed.com/r/Danielle-Calvert/bb06e8b6127bca7c
+</ba>
+<su>
+Willing to relocate to: Tampa, FL
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Indiana University - March 2013 to October 2016
+
+Graphic Designer
+Flanner House of Indianapolis, Inc  -  Indianapolis, IN - February 2012 to April 2016
+
+I graphically designed and created all of the flyers and promotional events. I also helped with the electronic
+communications using Constant Contacts.
+
+Computer Service Technician
+Discount Web Tech  -  Indianapolis, IN - 2005 to 2015
+
+Website Designer/Graphic Designer
+Austin Windshield Service  -  Austin, TX - 2010 to 2014
+</we>
+<ed>
+EDUCATION
+
+Bachelor's in Computer Science
+Purdue  -  Indianapolis, IN
+January 2011 to June 2013
+
+AAS in Computer Security
+Ivy Tech Community College  -  Indianapolis, IN
+2011
+</ed>
+<ca>
+Certificate
+IUPUI  -  Indianapolis, IN
+2011
+</ca>
+<sk>
+SKILLS
+
+GRAPHIC DESIGN (4 years), ACCESS (Less than 1 year), ACCESS CONTROL (Less than 1 year),
+ADOBE PHOTOSHOP (Less than 1 year), ASP (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Key Skills
+Network Administration
+Support Analyst
+Hardware/Software Installation
+
+Authentication & Access Control
+System Monitoring
+Back-up/Restoration
+System Integration Planning
+Graphic Design
+Website Development
+Firewalls/Routers
+Hardware/Software Configuration
+Remote Assistance
+
+INFORMATION TECHNOLOGY SPECIALIST
+Specializing Web Design, Graphic Design, Computer Repair, and Networking.
+My  qualifications  include  a  degree  in  computer  science;  detailed  knowledge  of  Adobe  Photoshop  CS5,
+Dreamweaver and PC troubleshooting and repair. Ten years of experience in building and repairing systems.
+Five  years  of  experience  in  graphic  design  and  flash  website  creation  and  deployment.  Three  years  of
+experience in network implementation and design, firewalls, routers, and LAN's.
+
+Systems: Windows (all); Unix-Based Systems (Linux)
+Networking: LANs, WANs, VPNs, Routers, Firewalls, TCP/IP
+Software: Microsoft - Office, Visio, Frontpage Creative Suite 5.5 - Photoshop, Flash, Dreamweaver
+Programming: Java, JavaScript, SQL+, MySQL, PHP, ASP.NET, C# HTML5, CSS3
+</sk>
+

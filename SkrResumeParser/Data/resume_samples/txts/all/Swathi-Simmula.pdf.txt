@@ -1,0 +1,195 @@
+<ba>
+Swathi Simmula
+
+Android Developer - Motorola
+
+- Email me on Indeed: indeed.com/r/Swathi-Simmula/77cab9f640c69fb8
+<su>
+• Over 3 years of experience in Android Development.
+• Experienced Mobile / Android Developer who designed and developed commercial consumer applications
+for Android mobile devices with extensive user interface development.
+•  Experience  in  Android  UI  toolkit  and  Layout  Managers.  Proficient  in  Android  application  framework.
+Experienced with Android SDK tools.
+• Proficient in Android applications development involving User Interface development, Notifications, Adapters,
+Content Provider, Services, XML Parsing and Telephony Manager.
+• Experience in working with SQLite Database, Google Maps API, GPS Location Data and Push Notifications.
+• Expertise in developing applications for android operating system using Eclipse IDE, SQLite 3.6, Java1.6,
+XML, Android SDK 2.2 and ADT plugin.
+• Expertise in unit testing using JUnit.
+• Hands on experience in integrating third party API's into Android app viz. Gmail, Yahoo Microsoft Exchange
+- IMAP accounts (Skyedex App)
+• Experienced in Bluetooth.
+• Well versed with best practices and all phases of software product lifecycle and management.
+• Proficient in writing Test plans, Test cases and Test scripts.
+• Experienced in using a web based application used for managing tests scenarios and defect tracking and
+management.
+• Expertise in building of source code, troubleshooting build/configuration/integration issues, communicating
+and resolving source code related issues between various teams of the project.
+• Extensively used tools for logging the bugs, defects, tracking defects.
+• Involved in preparing Documentationto meet the SLAs.
+• Experience using Quality Center and QTP as well as experience using open source performance monitoring
+tools.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Motorola  -  San Diego, CA - January 2012 to Present
+
+Droidlight LED Flashlight App:
+Droid Light is the perfect tool for finding your keys in the dark. The app uses the super bright camera LED, and
+it works great on the Motorola Droid, DroidX, Droid2, DroidX2, Droid Razr, Droid Bionic, Atrix and Milestone.
+
+Responsibilities:
+• Designing and developing user interfaces using Android XML
+• Developed business logic of the application.
+• Used LED camera flashlight to emit bright light.
+• It includes one screenwidget and one kind of bulb.
+• When you touch the bulb, the flashlight is activated. When you touch it again and when your screen goes
+to blank, it turns off.
+• Added ability to move App to SD card(Froyo and above only).
+• Restored Background light functionality for Droid X, Droid 2 and Droid 2 Global.
+• Tested Functionality of the application.
+
+GPS Airtime App:
+When Airplane mode is on, and a GPS location is requested, the app passively monitors satellite status. If
+no satellite signal is received after a certain number of seconds, the app temporarily turns off Airplane mode
+until the GPS starts properly.
+
+Responsibilities:
+• Designing and developing user interfaces using Android XML
+• Developed business logic of the application.
+• Used GPS provider to access location data.
+• Used Airplane Mode to save battery life from searching a signal.
+• When Airplane Mode is on, the GPS location is requested, and the app passively monitors satellite status.If
+no satellite signal is received after a certain number of seconds, the app temporarily turns off Airplane Mode
+until the GPS starts properly. This process is done automatically.
+• Tested Functionality of the application.
+• Worked closely with another mobile app developer leading the other platform development.
+
+Environment:Android SDK 2.3, Eclipse IDE 3.5, Android Emulator, Android Debug Bridge, Android API's, JDK
+1.6.
+
+Android Developer
+EBay  -  San Francisco, CA - 2011 to December 2011
+
+This project enable user to view the commodities of ebay, checks prices, view sales offers, buy online, after
+login using their user name, and password, or creating new account if they don't have one, it is also locate
+store through Google map, also there is list view for the pharmacy, which includes some options, such as refill
+prescriptions, view prescription history, or finding the ebay pharmacies.
+
+Responsibilities:
+• As a team member, I was involved in designs and implements UI, classes, and activities
+• Designed and developed the request and response data to and from database.
+• Developed server side components to implement business logic.
+• Involved in creating XML configuration.
+• Testing using different testing strategy to meet the system requirements.
+
+Environment:Android SDK 2.3, Eclipse IDE 3.5, Android Emulator, Android Debug Bridge, Android API's, JDK
+1.6.
+
+Android Developer
+Decision Research Corporation  -  Honolulu, HI - October 2010 to May 2011
+
+Description:  Decision  Research  Corporation  (DRC)is  a  software  development  and  information  technology
+company.  DRC  provides  policy  administration  software  solutions  to  the  Property  &  Casualty  insurance
+industry.
+
+Responsibilities:
+•  Developed  user-friendly  user-interfacesusingwidgets  like  Menus,  Dialogs,  differentLayouts,  Buttons,  Edit
+boxes and Selection widgets like List View and Scroll View as per client need.
+• Populated spinner data from SQLite database by using simple spinner which allows selecting an item from
+a drop down menus and to store user and app data into SQLite database.
+• Added search functionality to list view items will filter the list data with a matching string.
+
+• Integrated Google Maps into the application using Google Android location-based APIs to display addresses
+and locations.
+• Added a feature to app to detect internet connection status before making any HTTP Requests.
+• Experienced in developing app handling XML data using efficient parsing technique such as DOM/JSON
+parsers.
+• Implemented the event reminder feature into the app using services, async tasks and alert notification API.
+• Used Android content providers for implementing features like sending E-mails, SMS, etc., from the app.
+• Applied knowledge of SQLite and data persistence to develop an offline feature that allows the user to access
+app without network connection.
+• Designed the app to take pictures with a camera at any time to collect images.
+• Used RESTFUL web services to consume a web service.
+• Used CVS for project management and version control.
+• Worked on debugging the application using Logcat, DDMS.
+• Worked in an Agile environment delivering in short turn-around times.
+
+Environment: Android SDK 2.2, SQLite 3.6, Eclipse IDE 3.5, Android API's, JDK 1.6, XML, JSON, GPS, ADT
+Plug-in, CVS (version control), Logcat, DDMS console
+
+Android Developer
+iTriage  -  Denver, CO - 2010 to September 2010
+
+Description: iTriage LLC is a global health care technology company founded in 2008. Itwill help you find the
+most appropriate treatment, facility, doctor, find nearest hospitals with average wait time. It provides check in
+from your mobile to select Hospital Emergency rooms and urgent care facility.
+
+Responsibilities:
+• Designed and developed mobile health application for Android mobile deviceswith extensive user interface
+development. Responsible for design ofuser interface using various custom layouts, buttons, dialog boxes,
+alert boxes and edit boxes.
+• Inserted suitable code to capture the various button and text field events and implemented the desired action
+for each of the applications.
+• Used web views, list views & populated lists from database using simple adapters.
+• Used Android content providers for implementing features like sending E-mails, SMS, etc., from the app and
+designed suitable GUI for these applications.
+• Used services, Async tasks and Alert Notification API to implement event reminder feature into the mobile
+app.
+• EmbeddedGoogle Maps API, GPSLocation Data into app with zooming controls.
+• Saved data such as personal healthcare facilities, doctors, diseases, medications, insurance information,
+and health plans in the SQLite database.
+• Designed downloading files and images by showing Progress Bar Activities.
+• Experience in developing apps handling XML data using efficient parsing techniques such as DOM parser.
+•  Modified  Android  manifest  XML  file  to  include  all  use  permissions  such  as  GPS,  SMS  READ  /SEND  /
+RECEIVE.
+• Implemented the required GUI by making modifications to the xml files.
+• Experience with REST and SOAP web services.
+• Worked on debugging the application using Logcat, DDMS
+• Used CVS for project management and version control.
+• Participated in all the phases of SDLC from design, development through testing, porting and support of
+application.
+
+Environment: Android SDK 2.2, SQLite 3.6, Eclipse IDE 3.5, Android API's, JDK 1.6, XML, JSON, GPS, ADT
+Plug-in, CVS (version control), Logcat, DDMS console.
+
+Android Developer
+Virtusa  -  Hyderabad, Andhra Pradesh - October 2009 to February 2010
+
+AOTD is a web based application that manages order information from pickup to delivery. The admin has the
+capability to track the driver's location.
+
+Responsibilities:
+• Integrated Google Map's API
+• Used SQLite for databases
+• Integrated barcode feature and also made a provision for typing a barcode
+• Designed three tabs viz. past, present and future that display the delivery status by fetching the correct data
+from the database
+• Developed electronic signature page to confirm delivery
+• The app determines the exact coordinates of a driver that are fed to the web server to keep track on the bus
+•  Implementation  of  this  software  was  achieved  using  extensive  design  principles,  robust  algorithms,  road
+networks, map services, SQLite knowledge and Java programming.
+• Worked with web services, web views and populated list from databases using simple adaptors and cursor
+adapters.
+• Worked with testing team to resolve the bugs.
+
+Environment: Android SDK 2.3, Eclipse IDE 3.5, Android Emulator, Android Debug Bridge, Android API's, JDK
+1.6.
+
+ADDITIONAL INFORMATION
+<sk>
+TECHNICAL SKILLS:
+
+OS Windows XP, LINUX and Android
+Languages java (JDK 1.6), C, C++, XML, SQL
+IDE Eclipse 3.x ,Visual Studio
+Protocols Bluetooth, CDMA, UMTS, Http , ftp
+Other Software HTML, DHTML, Oracle,
+Database Oracle, SQLite3 , MySQL
+Scripting Language shell scripts, Perl, Python
+Modeling language UML, OOPS
+Tools putty , adb , ddms,dmtracedump
+Debugging Tools GDB, DDMS
+
+

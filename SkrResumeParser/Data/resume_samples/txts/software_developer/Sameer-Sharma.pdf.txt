@@ -1,0 +1,88 @@
+Sameer Sharma
+
+Software Developer - Campus Labs pvt ltd
+
+Subzi Mandi, Delhi - Email me on Indeed: indeed.com/r/Sameer-Sharma/716150c1c53fc9bf
+
+WORK EXPERIENCE
+
+Software Developer
+Campus Labs pvt ltd - January 2017 to Present
+
+Project Name: Campus Management System
+Details: Campus Labs is a product based company and they have an ERP that organize, manage and unify
+Universities / Colleges / Schools. Multiple clients are handled by this product. Some of them are
+IIITD, BHU, AUD, ITM and many more. Every client website has a different user interface and database, but
+structure is similar. With features like student management, employee management,
+payroll management, notice, alerts and many more are provided by this product.
+Key Responsibilities:
+• Enhancement/Upgradation of product UI.
+• Adding new features to the product like Quartz Scheduler.
+• Maintenance and product support activities.
+• Responsible for database handling.
+• Played a vital role in group discussions
+
+Software Developer Intern
+Crisp Analytics pvt ltd - July 2016 to November 2016
+
+Project Name: Search Engine
+Details: Semantic search seeks to improve search accuracy by understanding the searcher's intent and the
+contextual meaning of terms as they appear in the searchable data space to generate more relevant results.
+To match your search query with the best candidates, semantic search combines advanced analytics with
+real-world knowledge of occupations in many industries. It parse unstructured resume and extracts important
+information, index it and fetch the most relevant results when user enters a query.
+Key Responsibilities:
+• Designed and developed a search engine which uses semantic techniques for searching resumes.
+• Resume parsing, converting unstructured file into structured file.
+• Used various machine learning algorithms for classification of text data.
+• Worked on APACHE SOLR for storing and indexing all the documents.
+• Used NLP for various task..
+
+Software Developer
+- June 2014 to December 2014
+
+Project Name: JTally
+Details: JTally is a business management program that allows business managers to handle all of their
+business transactions from a centralized application and from any location. The program allows users to handle
+accounting, Billing, Sales and profit analysis, Banking, Inventory and Taxation.
+Key Responsibilities:
+• Skilled in designing applications, user interfaces (UI).
+• Created dynamic UI for multiple views.
+• Generate reports in pdf and excel using apache POI, ITEXT api.
+• Skills used are java (SWINGS), MySQL. Netbeans.
+
+Web Developer Intern
+Ragon System pvt ltd  -  Noida, Uttar Pradesh - January 2013 to April 2013
+
+Project Name: Intramail system
+Details:  Intra  Mailing  System  is  the  system  which  is  used  to  establish  online  communication  among  the
+employees of an organization at different branches and within the organization between the departments.
+Key Responsibilities:
+• Developed and maintained internal and external web sites.
+• Skills used are HTML, CSS, Java server pages.
+
+EDUCATION
+
+M.Tech in Computer Science
+Jaypee Institute of Information  -  Noida, Uttar Pradesh
+2017
+
+B. Tech in Computer Science
+Dronacharya College Of Engg  -  Gurgaon, Haryana
+2013
+
+Senior Secondary- Ramjas Public School  -  New Delhi, Delhi
+2009
+
+Ramjas Public School  -  New Delhi, Delhi
+2007
+
+ADDITIONAL INFORMATION
+
+• Strong Communication and Interpersonal skills.
+• Quick learner and willing to work under minimal supervision.
+• Active Participant in knowledge sharing.
+• Comprehensive analytical skills.
+• Self motivated and good Team player.
+
+

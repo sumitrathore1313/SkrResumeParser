@@ -1,0 +1,109 @@
+<ba>
+James Hendricks
+
+Software/Web Developer
+
+Monroe, LA - Email me on Indeed: indeed.com/r/James-Hendricks/6fc1642782ab28d5
+</ba>
+<su>
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+TRACE CYBER SOLUTIONS(TRACECYBERSOLUTIONS.COM)  -  Rochester, NY - 2015 to Present
+
+Principally  tasked  with  overhauling  and  modernizing  company  website  from  its  original  design.  Regularly
+update
+company news, testimonials, accreditation lists, feeds, etcetera to keep site current and engaging. Ancillary
+responsibilities include compiling notes from consultants' audits into reports formatted to meet ISACA
+standards.
+
+Replaced the inconsistent inline styling used in the original design with CSS to create a more uniform
+appearance throughout the site.
+
+Integrated bootstrap framework to improve the readability and appearance of the site on mobile devices.
+
+Software/Web Developer
+CATERTRAX.COM  -  Rochester, NY - 2010 to 2015
+
+Software as a service company which provides catering and floor stock
+management solutions for restaurants, caterers, cafeterias, hospitals, & universities.) - Rochester, NY
+
+Software/Web Developer, 2010-2015
+Web  design  and  software  development  under  waterfall,  and  later,  SCRUM  methodology.  Added  new
+functionality
+to the Catertrax SaaS platform based on requirements coordinated our sales team. Fixed bugs reported by
+phone support staff or tracked down from error logs. Assisted our Quality Assurance team with regression
+testing using SmartBear's TestComplete software and scripting languages.
+
+Augmented ordering platform by automating timezone settings. This was done by using an API to geocode
+the customer's address, then passing it to a timezone API to calculate the offset from GMT. The settings had
+previously been entered manually by support staff and were often inaccurate. My improvement increased the
+timeliness of deliveries and eliminated the need for semi-annual updates of timezone offsets, potentially saving
+hundreds of man hours.
+
+Created a web service to simulate transmittal of cXML responses from a clients chosen eProcurement
+provider. The EP providers' security policy didn't permit outside developers to have test accounts. We were
+originally expected to test the interface we were developing by e-mailing or phoning a their contact who would
+attempt an order, then notify us of the outcome. Taking the initiative to create the simulator markedly reduced
+development time for the entire team and allowed us to deliver ahead of schedule.
+
+Developed an application which retrieved .csv files from a SFTP locations, then performed database updates
+
+as needed. Records could be altered, (soft) deleted or inserted in any specified table depending on settings in a
+unique configuration file. It typically ran weekly for clients utilizing site wide "single sign on" logins where up-to-
+date employee records are particularly crucial for maintaining security.
+
+Internet Technician
+FRONTIER COMMUNICATIONS CORP  -  Rochester, NY - 2008 to 2010
+
+Responsible for supporting end-users with certain hardware performance or internet connectivity issues related
+to Frontier High-Speed ADSL or FiOS service
+
+Wrote scripts and batch files, and small applications to maximize hardware performance. Used VNC software
+to  remotely  repair  poor  performance  issues  and  remove  malware  and  ransomware  infections  from  user
+equipment.
+Instructed customers on using file transfer protocol to upload assets to server space included with higher-level
+service plans.
+Performed  contract  maintenance  on  business  level  routers  and  provided  remote  assistance  to  on-site
+technicians without router access.
+
+Assisted customers with wireless and wired network setup.
+
+Advised customers on ADSL and FiOS connectivity issues, scheduled field technicians to investigate any
+unresolved problems with service.
+</we>
+<ed>
+EDUCATION
+
+AS in Computer Information Systems in Computer Information Systems
+MONROE COMMUNITY COLLEGE  -  Rochester, NY
+
+BS in COMPUTER INFORMATION SYSTEMS
+EMPIRE STATE COLLEGE  -  Rochester, NY
+</ed>
+<sk>
+SKILLS
+
+CSS (2 years), Quality Assurance (6 years), scripting (6 years), testing (6 years), Web design (6 years)
+
+ADDITIONAL INFORMATION
+
+SKILLS
+Back End Web Development Front End/Graphic Web Design (CSS, HTML5)
+
+Console Application Development Stored Procedure Implementation ("Sproc")
+
+Quality Assurance/Testing Web Service Development (SOAP)
+
+Scripting for Data Driven Testing (CS Script, J Script) Software Documentation (Technical)
+
+Version Control Administration (Tortoise SVN, GIT, Payment/Credit Card Gateway Development
+Microsoft Team Foundation )
+E-Procurement Platform Development (Coupa,
+Data Structures SciQuest)
+</sk>
+

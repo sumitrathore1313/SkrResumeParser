@@ -1,0 +1,74 @@
+N. Rakesh
+
+Assistant Professor
+
+Maddurnagar, Andhra Pradesh - Email me on Indeed: indeed.com/r/N-Rakesh/9e4f881e74da6fba
+
+To pursue a challenging career that will allow the growth and give a chance to enhance my skills by virtue
+of my sincerity and dedication.
+
+WORK EXPERIENCE
+
+Assistant Professor
+GITAM University  -  Bangalore, Karnataka - August 2014 to June 2017
+
+Assistant Professor
+AVR&SVR Engineering College  -  Kurnool, ANDHRA PRADESH, IN - July 2012 to September 2013
+
+TECHNICAL SKILLS
+Languages: C, C++
+Database: SQL
+
+SUBJECTS TAUGHT
+➢ Artificial intelligence and machine learning
+➢ Formal Languages and automata theory
+➢ Compiler Design
+➢ Programming with C
+➢ Data Structures
+➢ Database Management System
+
+ACHIEVEMENTS
+➢ Qualified in Gate 2012 and Secured 92 Percentile.
+➢ Qualified in Gate 2010 and Secured 88 Percentile.
+➢ Secured 6.5 score in IELTS 2016.
+➢ Qualified in APSET (State Level Eligibility Test) for Assistant Professor, October 2016.
+
+EDUCATION
+
+M Tech in Computer Science
+Birla Institute of Technology
+2012
+
+Science & Engineering
+G. Pulla Reddy Engineering College  -  Kurnool, Andhra Pradesh, IN
+2009
+
+Intermediate
+Narayana Junior College  -  Kurnool, Andhra Pradesh, IN
+2005
+
+SSC
+Sri Manik High School  -  Kurnool, Andhra Pradesh, IN
+
+2002
+
+SKILLS
+
+algorithm (Less than 1 year), C (1 year), sensor (Less than 1 year), sensors (Less than 1 year), Wireless
+(Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Technologies C++
+
+Summary of Thesis in brief:
+In  Wireless  sensor  networks,  the  sensed  data  is  collected  and  transmitted  to  the  base  station  in  the  form
+of Data Gathering tree. If the number of Data Gathering Trees created for each cycle is more, it affects the
+performance of the entire network. Here only one data gathering tree for each cycle is constructed in order
+to optimize the network performance. Power Optimality is achieved by considering heterogeneous sensors
+i.e., activating high energy sensors at last reporting round of each reporting cycle. This causes merging of 3
+DGT's into one-substantially reducing the total message overhead and this data gathering tree is constructed
+using proposed algorithm which is a modification of Efficient Data Gathering (EDGE) protocol. It conserves
+the limited resources of the sensors and avoids both flooding and periodic updating of routing packets.
+
+

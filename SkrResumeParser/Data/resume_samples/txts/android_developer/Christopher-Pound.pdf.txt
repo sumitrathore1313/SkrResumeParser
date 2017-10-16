@@ -1,0 +1,86 @@
+<ba>
+Christopher Pound
+
+Austin, TX - Email me on Indeed: indeed.com/r/Christopher-Pound/61cba09046a8eb56
+<su>
+Willing to relocate to: Seattle, WA - Boston, MA - Washington, DC
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Volusion  -  Austin, TX - October 2014 to Present
+
+Developed and designed the material update for the volusion application. This was a complete redesign and ui
+update for the mobile application. It added the ability to create a new products, edit existing products and push
+product changes to the user's online store.
+● Added tablet support and design for the Volusion app. Implemented tablet functionality to the Volusion app.
+Designed with material, the tablet version of the app has all the features of the mobile version with additional
+support for multi-pane views.
+● Created an Android widget for the Volusion mobile app that showed users up to date information on the
+number of sales, revenue, and top products for the day, the last 7 days, and the last 90 days. A user would
+be able to to change
+what information was displayed and how often the widget was kept up to date.
+● Created the Android Wear app for the Volusion platform that allowed users to gain quick insights into the
+status of their store. When opening the app a user is able to view their stores current revenue, number of
+orders, top selling
+products and different order statuses for the day. Built as an extension to the current Volusion app users are
+now
+able to receive notifications about new orders and when a product's inventory is low right to their wrist.
+● Built a configurable Shopper App powered by Mozu that is capable of being reskinned and configured for any
+existing Mozu client. This app has the capabilities to search and filter through products, add products to cart,
+checkout, manage user accounts and payments, and receive push notifications. Now, with most of the code
+shareable between clients, creating a new app, with all of these features is now a matter of days and minimal
+developer time.
+●  Updated  and  maintained  the  Sales  Assist  Tablet  app  with  a  fresh  new  material  update  and  additional
+features
+including, creating orders, accepting payments, and fulfilling orders. This app offers all the functionality needed
+for a
+Mozu client to manage their store.
+
+Android Developer
+H-E-B Grocery - June 2013 to October 2014
+
+Developed the user interface and integrated with a 3rd party mobile wallet technology to allow users to use their
+devices for in-store payments and viewing purchase history.
+● Implemented a custom Array Adapter to create a ListView that would have dynamic headers and lazy loading
+for the customer's purchase history.
+● Created mobile pharmacy user interface and server integration that allowed users to quickly and easily refill
+prescriptions, check the status of a refill, transfer prescriptions, submit new prescriptions, see a history of
+prescriptions, and sign up for automated refills.
+
+● Implemented multiple Dex file loading to solve the project surpassing Android's method reference limit.
+Nearing the end of the development, the application surpassed the Dalvik Compiler's 64k method limit. The
+team solved this
+issue by implementing proguard and multiple dex files.
+<ed>
+EDUCATION
+
+Bachelor of Science in Computer Science
+Sam Houston State University  -  Huntsville, TX
+December 2011
+<ba>
+LINKS
+
+https://github.com/sirchip
+
+https://play.google.com/store/apps/details?id=com.volusion.merchant
+<ca>
+CERTIFICATIONS/LICENSES
+
+Udacity Android Nanodegree
+June 2015 to Present
+For intermediate Java developers pursuing Android specialization, this program teaches the tools, principles,
+and patterns that underlie all Android development. All projects required to complete this application can be
+viewed on my github page.
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Languages: Java, JavaScript
+
+Frameworks/Libraries: Android, Retrofit, Volley, RxJava, RxAndroid, Picasso, Butterknife
+Other: Git/GitHub, Android Studio, GIMP
+
+

@@ -1,0 +1,107 @@
+Job Seeker
+
+Toronto, Canada - Email me on Indeed: indeed.com/r/5bc112e369bb5cff
+
+Willing to relocate to: Toronto - Missisauga - Brampton
+
+WORK EXPERIENCE
+
+Assistant Professor
+Information Technology Department, University Institute of Engineering & Technology, Panjab Univerisity
+-  Chandigarh, Chandigarh - October 2012 to Present
+
+Job Roles and Responsibilities
+•  Teaching  undergraduate  students  and  conducting  laboratory  sessions  every  semester  according  to
+workload.
+• Preparing and delivering teaching materials such as presentations, notes, course files, lecture plan, laboratory
+course files for students 
+• Updating/designing curriculum of subjects taught by faculty according to new trends and demands of the
+Industries.
+•  Preparing  assignments,  tutorial  sheets,  laboratory  assignments,  assessment  tests  and  papers  to  assess
+students’ progress.
+• Mentoring students on career decisions and academic matters and providing extra classes to academically
+weak students, if required.
+•  Supervising  undergraduate  (i.e.  Bachelors  in  Engineering,  Information  Technology)  students  on  their
+projects.
+•  Supervising  Post-Graduate  (Master  in  Engineering,  Information  Technology)  students  on  their  research
+projects and publishing papers in journals, conferences or books.
+• Organizing various Conferences, Faculty Development Programme, Workshops, Seminars, Symposium for
+Students, Research Scholars and Faculty. 
+• Serve in various Departmental Committees as Incharge/Member dealing with following matters:
+i) Time-table Committee (Incharge)
+ii) NBA related work (Coordinator)
+iii) Final Semester Seminar (Incharge)
+iv) M.E Admission (Member)
+v) Grade Examination Datesheet (Member)
+vi) Curriculum Planning (Member)
+
+Area of Interests
+•  Well  versed  with  Data  Mining  (Text  Mining),  Natural  Language  Processing,  Network  Security  and
+Cryptography, DBMS.
+• Sound knowledge about Digital Image Processing, Multimedia Systems, Computer Networks,
+Operating System, Data Structures, Dot Net (C#).
+
+EDUCATION
+
+M.E in Computer Science & Engineering
+Panjab University  -  Chandigarh
+July 2010 to August 2012
+
+B.E in Computer Science & Engineering
+
+Panjab University  -  Chandigarh, Chandigarh
+July 2006 to June 2010
+
+Pusuing Ph.D in CSE
+Panjab University  -  Chandigarh, Chandigarh
+November 2014
+
+SKILLS
+
+Microsoft Office; Microsoft Excel; C Language, C# Language, DBMS, HTML, Javascript, Matlab, WEKA,
+Basic Unix commands
+
+ADDITIONAL INFORMATION
+
+Publication Details:
+
+•  Published  paper  “Recent  Trends  in  Text  Classification  Techniques"  in  International  Journal  of  Computer
+Applications, Vol. 35, Issue 6, pp. 45-51, December 2011. Published by Foundation of Computer Science,
+New York, USA.
+• Published paper “Algorithm for Punjabi Text Classification” in International Journal of Computer Applications,
+Vol. 37, Issue 11, pp. 30-35, January 2012. Published by Foundation of Computer Science, New York, USA.
+• Published paper “Text Extraction and Recognition from the Normal Images Using MSER Feature Extraction
+and Text Segmentation Methods” in Indian Journal of Science and Technology, vol. 10, no. 17, doi: […] May
+2017, ISSN: […]
+• Published paper “Domain Based Classification of Punjabi Text Documents”, in proceedings of COLING 2012:
+Demonstration Papers, pages […] COLING 2012, Mumbai, December 2012.
+• Published paper “Domain Based Classification of Punjabi Text Documents using Ontology and Hybrid Based
+Approach”, in Proceedings of the 3rd Workshop on South and Southeast Asian Natural Language Processing
+(SANLP), pages […] COLING 2012, Mumbai, December 2012.
+•  Published  paper  “Punjabi  Text  Classification  using  Naïve  Bayes,  Centroid  and  Hybrid  Approach”,  in
+International Workshop of NLP, VOL. 2, No. 4, pp. […] 2012.
+•  Presented  and  published  paper  “Applying  Data  Mining  in  Geosciences  Data”,  at  National  Seminar  on
+“Advances in Computer Applications” in April 2011.
+•  Presented  and  published  paper  “Recent  Trends  in  Text  Mining  Techniques”,  at  National  Seminar  on
+“Emerging Trends in Computer Science and Information Technology” in November 2011.
+• Presented paper “A Survey of Sentiment Analysis Techniques” in proceedings of International Conference
+on IoT in Social, Mobile, Analytics and Cloud, 10-11 February 2017.
+• Published paper “Text extraction from images: A review” in Springer proceedings (LNNS) of International
+Conference on ICT for Sustainable Development (ICT4SD 2016)”.
+• Published paper “A Critical Review on Software Metrics in Mobile Applications” in International Journal of
+Innovative Research in Computer and Communication Engineering, Vol. 4, Issue 9, pp. […] September 2016.
+
+Book Published:
+• Domain Based Classification for Punjabi Text Documents – A Hybrid Classification Approach using Naïve
+Bayes and Ontology Techniques, ISBN: […] Lambert Academic Publishing, Germany.
+
+Projects Supervised:
+• CABGURU- Amit Gupta […] and Nitish Kumar […]
+• PICTURECIPHER- Ritika Dhaneshwar […] and Sagarika Sharma […]
+• Face Recognition and Data Retrieval- Shilpa Verma […] and Ranzin Angmo […]
+
+• Pedestrian Detection using Thermal Imaging- Chirag Taneja […] and Ankit Ambhesh […]
+
+* Project Name - Student Name ( with Roll No.)
+
+

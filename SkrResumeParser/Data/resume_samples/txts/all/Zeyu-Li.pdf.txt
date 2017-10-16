@@ -1,0 +1,52 @@
+<ba>
+Zeyu Li
+
+Bellevue, WA - Email me on Indeed: indeed.com/r/Zeyu-Li/809df2a19c41a410
+<su>
+Seeking a job in computer science especially in the areas of software development, web development. Ready
+to use academic and work experience to contribute to the success of the organization.
+Willing to relocate to: Seattle, WA
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+The Walt Disney Company  -  Seattle, WA - January 2017 to Present
+
+Working as an Android developer to design the app for Disney annual pass renewal, upgrade and sale. 
+· Implement data manager to manage data that other components can set and get data.
+· Design data models to match the JSON format which is parsed from server.
+· Deal with the communication between Android UI and data manager.
+· Implement reusable fragments.
+· Import ticket sales team’s library, provide data to it and navigate from our app to ticket sales
+review/purchase and confirmation screen.
+· Use Dagger2 for dependency injection and GitHub for source control management.
+
+Android Developer
+Zonar Systems  -  Seattle, WA - September 2016 to January 2017
+
+Working as an Android developer to develop the app for Cummins Engine. 
+· Worked with Product and UX team to improve the design flow.
+· Implemented the communication between Zonar’s tablet and Zonar’s telematics control units V3 by Zonar’s
+protocol TwoWayMessage.
+· Implemented broadcast receiver and intent service to receive messages from V3.
+· Implemented multithreading by using handler to update UI.
+· Built a flexible UI by using custom container views.
+· Used Event Bus to communicate between components like activities, fragments, and thread which can
+make code simpler, decouple event senders and receivers.
+<ed>
+EDUCATION
+
+Master of Computer Science in Computer Science
+Illinois Institute of Technology  -  Chicago, IL
+2013 to 2015
+
+Bachelor of Computer Science in Computer Science
+Xidian University
+2009 to 2013
+<sk>
+SKILLS
+
+Java (5 years), Android (2 years), PHP (4 years), Hadoop (2 years), Web Development (4 years)
+
+

@@ -1,0 +1,153 @@
+Mohammad Danish
+
+Software Engineer - HCL Technologies
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Mohammad-Danish/52aae9e0fc9922ef
+
+•  Technically  sophisticated  professionally  with  nearly  3.5  years  of  experience  in  the  areas  of  Software
+Development & Programming in .Net environment.
+• Currently Associated with HCL Technologies, Noida (Third Party Payroll) as a Software Engineer.
+• Proficient in developing web applications using .Net & SQL Server.
+• Adept in end-to-end development of software products from requirement analysis to system study, coding,
+testing, de-bugging, documentation and implementation.
+• Conversant with designing, building applications in .NET 4.0, 4.5, C# ASP.NET MVC, jQuery, SQL Server
+using variety of New technologies.
+• Strong knowledge of Asp.Net MVC 04& Entity Framework.
+• Strong knowledge of WCF Rest Services, Web API.
+• Basic knowledge of Angularjs.
+• Possess excellent interpersonal, communication and analytical skills with demonstrated abilities.
+
+WORK EXPERIENCE
+
+Software Engineer
+HCL Technologies - February 2016 to Present
+
+PROJECTS SUMMARY
+Title: CLM (Contract Life Cycle Management)
+Team Size: 8
+Environment: Asp.Net MVC 04 C#, SQL Server 2008, jQuery.
+Designation: Software Engineer - HCL Technologies.
+Description: Contract life cycle management (CLM) is a solution and process for managing the life cycle of
+contracts created and/or administered by or impacting the company. These include third-party contracts, such
+as outsourcing, procurement, sales, nondisclosure, facilities management and other licensing, and agreements
+containing contractual obligations now and in the future.
+Responsibilities:
+• Maintenance the whole project.
+• New enhancement implement in project & maintenance admin panel.
+
+Software Engineer
+Star Technomics LLP Pvt. Ltd - 2016 to January 2017
+
+PROJECTS SUMMARY
+Title: Starsamachar
+Team Size: 2
+Environment: Asp.Net C#, SQL Server 2008, jQuery & WEB API
+Designation: Software Engineer
+Description:  Starsamachar,  is  basically  a  news  channel,  I  have  created  various  module  like  Admin  panel,
+cms Panel etc where user can insert various news in this panel and shows to different section like sports,
+entertainment etc..
+Responsibilities:
+• Developed various modules &Created Web API to communicate with other platforms like android mobile /
+iOS etc.
+
+• Designing, Coding..
+
+Title: Star Insured
+Team Size: 6
+Environment: Asp.Net C#, SQL Server 2008, jQuery & WEB API
+Designation: Software Engineer
+Description: Star insured is one-stop-solution for comparing Insurance and selecting right policy plan through
+its easy-to-use features. Calculate competitive quote; compare among top insurers along with several products
+and buy policy in just a few clicks. Simple designed platform, cutting-edge technology and a supportive advisory
+team help customers in understanding what insurance is best for them.
+
+Responsibilities:
+• Developed various modules &Created Web API to communicate with other platforms like android mobile /
+iOS etc.
+• New enhancement implement in project.
+
+Title: StariInsurance
+Environment: MVC, C#.Net, SQL Server 2014 R2
+Designation: Software Engineer
+Description: STARiINSURANCE, a CRM (Customer Relationship Management), is a methodology used to
+handle overall company's interaction with current and potential customers. Manage entire business, customers,
+sales, inventory, accounting, staff etc. with a central single solution. Easy and efficient to manage business.
+Tools include Marketing automation, Sales Force automation, contact center automation and more. Available
+for small, medium and large business handles.
+
+Responsibilities:
+• Developed various modules Like Admin Panel
+• New enhancement implement in project.
+• Created Web API REST services
+
+Web Developer
+ZN softech Pvt. Ltd - January 2014 to December 2015
+
+PROJECTS SUMMARY
+Title: Proteus MMX3.2, Proteus MMX3.2.1
+Team Size: 2
+Environment: Asp.Net C#, SQL Server 2012, java script
+Designation: Web Developer
+Description:  This  is  multilingual  software  to  provide  interface  between  customers  to  vendor,  vendor  to
+technician,  technician  to  customer.  There  are  various  modules  in  this  product  such  as  Administrator,
+Service Requester, Asset, Asset System, Facility, Vendor, Technician, company, Role management, Interface
+management, Reports. It contains additional functionality of Employee like how many employees should be
+assign to a particular project, how many days it will take to complete a task, Task should be assigned according
+to the particular Role, depending on the language assign to a particular user should be replicate throughout
+the application.
+
+Responsibilities:
+• Developed various modules Like Admin Panel
+• New enhancement implement in project.
+• Created Web API REST services
+
+Title: NKC Consortium
+Team Size: 2
+Environment: Asp.Net C#, SQL Server 2012, java script
+Designation: Web Developer
+Description: It was an ERP system which contains additional functionality of geolocation based mapping.
+
+Responsibilities:
+• Maintenance of live projects.
+• Optimization of existing code.
+
+SCHOLASTCS
+
+EDUCATION
+
+B.Tech
+Aizza College of Engineering & Tech (AZCET)
+2010
+
+Lohiya College Muzafferpur
+2005
+
+SMT High School Vaishali  -  Vaishali, BIHAR, IN
+2003
+
+SKILLS
+
+ASP (3 years), Asp.Net (3 years), C# (3 years), MS ASP (3 years), MS SQL SERVER (3 years)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILL SET
+
+Programming Skill: Asp.Net4.0, Asp.Net4.5, C#.Net, Asp.Net MVC 04, jQuery& WCF Services, Web API.
+Operating System: Windows 7, Window 8.1, XP.
+Desktop Application: Microsoft Word, Power Point, MS Excel
+Database (Backend): SQL Server 2008, SQL Server 2012
+
+Key Deliverables
+
+Project Execution
+• Excellent analytical, problem solving skills.
+• Proven Ability in Designing, Coding and Implementation of Web Applications.
+• Expertise in ASP.NETWeb Forms using C#.
+
+Software Development
+• Implementing database creation, stored procedures, Triggers, Functions & SQL Queries.
+• Working in RDBMS/DBMS SQL database programming.
+• Knowledge of TFS, Microsoft Safe Source.
+
+

@@ -1,0 +1,67 @@
+<ba>
+M Adzin
+
+Web Developer - NYU College of Dentistry
+
+Marlboro, NJ - Email me on Indeed: indeed.com/r/M-Adzin/46af04d9222628b3
+</ba>
+<su>
+Willing to relocate
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+NYU College of Dentistry  -  New York, NY - January 2015 to Present
+
+Design NYU Dental website in Adobe CQ5 CMS. Collaborate with NYU Faculty through in-person meetings
+and e-mail requests to create new content and revise existing content.
+Schedule, shoot, and edit photo and video for any needed marketing media for the NEXUS
+magazine and NYU Dental website.
+Update Calendar of Events and create calendar based RSVP forms using PHP, HTML, and CSS.
+
+Web & IT Support
+WingIts  -  Bradley Beach, NJ - March 2012 to September 2014
+
+Maintained  and  evolved  a  mesh  network  of  20+  Windows  computers  including  all  hardware  and  software
+issues in addition to purchasing and con guring new workstations
+Performed daily maintenance and backups (Internal RAID backups and Carbonite Cloud
+backups) on 3 servers running Windows Server 2003 and SQL Server 2008 as well as one
+server running Microsoft Exchange 2007
+Coded front end and back end website changes using HTML, Javascript and PHP; Additionally
+created and manipulated product images and performed regular online catalogue additions and updates on
+external website using an FTP
+Created a techsupport ticket system through Microsoft Outlook to prioritize troubleshooting of all technical
+issues
+
+IT&S Intern
+Kimball Medical Center  -  Lakewood, NJ - June 2010 to August 2010
+
+Created user accounts and privileges for speci c hospital wings
+Con gured and updated new computers to run under hospital speci cations
+Inventoried and organized a spreadsheet of 300+ PCs
+
+Capstone Project Team Leader
+BluePrint Healthcare IT  -  Cranbury, NJ - March 2010 to May 2010
+
+Led a team in creation of an employee/employer matching system
+Supervised project direction and managed team responsibilities
+Built MySQL Database and registration system
+</we>
+<ed>
+EDUCATION
+
+Bachelor's of Science in Information Technology
+New Jersey Institute of Technology  -  Newark, NJ
+August 2011
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+• Microsoft Windows, Mac OSX, Active Directory, SQL Server 2008, Microsoft O ce Suite,
+Adobe Photoshop, Illustrator, Premiere, Indesign, Lightroom
+• mySQL, C++, HTML, PHP, JavaScript, jQuery, CSS,
+</sk>
+

@@ -1,0 +1,272 @@
+<ba>
+Shuvabrata Saha
+
+Pennsylvania - Email me on Indeed: indeed.com/r/Shuvabrata-Saha/1fbbde77e54a2dcf
+
+</ba>
+<we>
+
+WORK EXPERIENCE
+
+TE CONNECTIVITY, PA - January 2016 to Present
+
+Responsibilities
+• Involved in developing Webservice operations in Service Oriented Architecture (SOA).
+• Analyze requirements with team, write High Level design documents, System Use Case, analyze risk factors.
+• Followed agilemethodology during complete SDLC process.
+• Participated Agile/Scrum development and deployment teams
+• Used Spring Framework 4.1 for the application development.
+• Responsible for Web UI development in JavaScript using jQuery, AngularJS, and AJAX
+•  Used  Spring  for  bean  instantiation,  annotations,  controllers,  request  mapping  to  handle  the  webservice
+request and response.
+• Involved in front end development using Struts, JSP's, JSF and JSTL.
+•  Used  JAXB  for  marshalling  and  unmarshalling  of  work  order,  billing  XML  documents,  and  JAXP  for
+processing.
+
+• Developed REST Web services to make web service calls simple and easy for the client to access it with
+the help of standard HTTP URIs.
+• Design and developed request and response XML Schema(XSD) documents for webservice operations such
+as Retrieve History.
+• Developing Intranet Web Application using J2EE architecture, using JSP to design the user interfaces and
+Hibernate for database connectivity.
+• Developed DAOs using JPA, Hibernate persistence API for the database operations to interact with Oracle
+Database.
+• Developed web service client using Spring Framework and REST HTTP protocol to get customer credentials
+and information.
+•  Responsible  for  creating  efficient  design  and  developing  User  Interaction  screens  using  HTML,  CSS,
+JavaScript, JQuery, AJAX and JSON.
+• Implementing JSP Standard Tag Libraries (JSTL) along with Expression Language (EL).
+• Created Mock-up designs and developed various functionalities with JavaScript and JQuery.
+• Creating custom, general use modules and components which extend the elements and modules of core
+AngularJS.
+• Extracted data in UI for different clients using JSON.
+• Used AngularJS as the development framework to build a single-page application and reusable AngularJs
+applications.
+• Templating engine for emails and reports was Freemarker.
+• Integrated with third party Sale point API to make restful webservice call.
+• Designed and developed necessary PL/SQL for the database operations as needed.
+• Involved in deployment of the application at various environments (Development, QA Testing, Staging, and
+Production).
+• AWS EC2 instances were configured in dev and qa environments with NodeJS.
+• Batch jobs were automated using the Quartz scheduler.
+• Used Maven for the project management like build, install.
+• Deployed application on Apache Tomcat server.
+• Used Subversion for version control and repository.
+• Involved in writing Unit test cases for unit testing using Junit.
+• Used Easymock for mocking downline services.
+• Used Selenium for UI automation.
+• Used JBehave for integration testing.
+• Used log4j for logging errors, info, exceptions.
+• Involved extensively in Code Reviews, Unit testing and Process Improvements.
+
+Environment
+JDK 1.7, Spring 4.1(DI, MVC, Tran Management, Integration, AOP), Hibernate 4.0, JAX-RS Webservices, JAX-
+WS Webservices, Apache CXF, JQuery 1.9, JQueryUI, AJAX, UML, MS Visio, JSTL, Oracle 11g, WebLogic
+12.1, Eclipse 4.2, Junit, XMLSPY, SOAPUI 5.1, Log4j, Maven 3.1, Accurev, PMD, AWS, NodeJS, Bootstrap,
+AngularJS, HTML5, CSS3, Toad, Maven, Hudson, TcpMon, Sun Jersey, Junit 4.1, Powermock, Selenium,
+JIRA, Rally, Freemarker, Apache POI, Quartz Scheduler, TcpMon, JBehave, Selenium, Easymock.
+
+Full Stack Web Developer
+DISCOVERY FINANCIALS  -  Riverwoods, IL - August 2014 to December 2015
+
+Responsibilities
+• Responsible for the full stack (front end development, application logic, services, data persistence).
+• Experience in coding and testing User Interface for cross browser compatibility.
+
+• Designed the User Interface using use case diagrams, class diagrams, and sequence diagrams as a part
+of Design Phase using Rational Rose.
+• Experience in working with Agile Methodologies. Have Experience in SCRUM Methodologies. Developed
+the application with HTML for widgets alignment.
+• Experience with Unit test framework.
+• Understand the existing systems and incorporating into current systems as a result of change in new business
+rules.
+• In the DCA system: Developed Security Messaging Interface using JMS did the database transactions with
+Hibernate, developed the Hibernate.hbm and java classes and configured the hibernate.cfg.xml.
+• Implemented Business processes such as user authentication, Transfer of Service using Session EJBs.
+• Designed User Interface framework using Cascading Style Sheets (CSS), JSON, XML and AJAX.
+•  Designed  Frontend  with  in  object  oriented  Angular  Js  Framework  and  implement  the  various  phase  of
+Responsive Design of the requirement.
+• Experience with API creation and testing with Rest client and Postman in browser for getting the response.
+• Involved in coming up with good design of Spring controller related classes (Controllers, Form Controllers,
+Handler Interceptors) suitable for Handset Inventory.
+• Used Spring Core (Dependency Injection), ORM integration and MVC modules with Hibernate and JPA.
+• Developed the entire application by implementing MVC Architecture.
+• Used WebLogic Application Server to deploy, implement and test the coded functionality.
+• Distribution networks to deliver data into the data storage layer and API components Integration into Data
+Storage layer.
+• Developed and store the data in hierarchical namespace in a three tier data structure and synchronized the
+data.
+•  Developed  complex  reports  using  Oracle  11g  in  the  backend  and  substantial  JDBC  coding  using  the
+application was developed using weblogic 11g on SQL, PL/SQL, Stored Procedures etc.
+• Used multithreading in programming to improve overall performance.
+• Experienced in code review and represent as a team lead across all functionalities.
+• Implemented log4j for logging.
+• Used GIT to implement version control system.
+• Used JUnit Framework for the unit testing of all the java classes.
+• Installed and configured all the Linux servers in the network per specifications of clients.
+
+Environment:
+Java 1.6, J2EE, Oracle 11g, WebLogic 11g, Spring 3.0/MVC, Struts, Hibernate 3.3, JPA 1.2, Apache Couch,
+JUnit, Log4j, DOM Parser, Linux, SQL, PL/SQL, Rest UI, Soap, Apache Axis, Eclipse, Postman, GIT, Maven,
+HTML, AJAX, JMS, JavaScript, Angular JS, GIT, CSS, JSON, XML, XSLT.
+
+Sr. Java Developer
+HM HEALTH SOLUTIONS  -  Pittsburgh, PA - September 2012 to July 2014
+
+Responsibilities
+• Designs and develops application and user interface by setting expectations and features priorities throughout
+development life cycle within HM Health Solutions established framework.
+• Involved in developing the application using Java/J2EE platform. Implemented the Model View Control (MVC)
+structure using Struts. Used JQuery for the development of web application using AngularJs, Ajax, DHTML
+and DOM scripting.
+•  Responsible  to  enhance  the  UI  using  HTML,  Java  Script,  XML,  JSP,  CSS  as  per  the  requirements  and
+providing the client side using JQuery validations.
+• Developed Web services (JAX-WS) specification using Apache CXF as the implementation and developed
+client application API's using Node Js.
+
+• Used Grid functionality like Gridfiltering, Multiple Sorting, Grid Cell Editing, Grid Row Editing.
+•  Used  Spring  Core  Annotations  for  Dependency  Injection  and  used  Apache  Camel  to  integrate  Spring
+framework.
+• Used Hibernate as Persistence framework mapping the ORM objects to table using Hibernate annotations.
+• Responsible to write the different service classes and utility API, which will be used across the framework.
+• Used Hibernate Transaction Management, Hibernate Batch Transactions, and Hibernate cache concepts.
+• Used Axis to implementing Web Services for integration of different systems.
+• Exposed various capabilities as Web Services using SOAP/WSDL.
+• Used SOAP UI for testing the Web services by sending an SOAP request.
+•  Configured  EC2  instance  and  Route53  for  DNS  hosting  on  AWS  for  dev  environment  and  Used  AJAX
+framework for server communication and seamless user experience.
+• Designed and developed customized ESB to integrate and govern SOA services. Built various capabilities
+in ESB like Security, Message routing, message transformation, transaction management etc.
+• Worked on Proof of Concept for developing application using Node Js and Mongo DB.
+• Used Require Js to improve speed and quality of the code and Log4j for the logging the output to the files.
+• Used Junit unit testing, Selenium for UI testing and Fitnesse for Integration testing.
+
+Environment
+JDK 1.8, Spring (DI, MVC, Transaction Management, AOP) JSP, JSP-EL, JSTL, Servlets, AWS, Oracle SOA,
+TOAD,  HTML,  CSS,  XML,  Angular  JS,  Cassandra,  TOAD,  SVN,  Node  JS,  ESB,  SOAP,  REST,  JAX-RS,
+Require JS, Log4J, Adobe Dreamweaver, Log4J, Sun Jersey, Quality Center, AJAX, Fitnesse, Hibernate.
+
+Java Developer
+GENIUN PARTS  -  Atlanta, GA - October 2010 to August 2012
+
+Responsibilities
+• Involved in designing and developing the application using JSP, HTML, CSS, YUIand made client validations
+using JavaScript.
+• Extensively used Action, Dispatch Action, Action Forms, Struts Tag libraries, Struts Configuration from Struts.
+• Responsible for implementing Use Cases and Design document and coordinating with the development and
+QA teams.
+• Implemented object/relational persistence (Hibernate) for the domain model
+• Developed and implemented the MVC Architectural Pattern using Struts Framework including JSP, Servlets
+and Action classes.
+• Implemented UI components and validations using JQuery and DOJO libraries.
+• Experience in Hibernate 3.x/4.x HQL which includes integrating legacy databases, writing custom CRUD
+statements, integrating stored procedures and functions and also performed polymorphic associations.
+• Fundamental mastery of the AWS cloud computing platform, and its many dimensions of scalability including:
+VPC (Virtual Private Cloud), EC2, load-balancing with ELB, messaging with SQS (and scalable non-AWS
+alternatives), autoscaling architectures.
+• Extracted data weekly from Oracle 11g to Derby database using Oracle SQL Developer database extraction
+and performed scripts to convert database tables efficiently.
+• Made use of Data Access Object (DAO) design pattern for designing data access layer.
+• Used SQL and PL/SQL Programming extensively to talk to Oracle database.
+• Followed Agile & Scrum Methodology for development of the product
+• Involved in writing the Named queries, Criteria queries in Hibernate.
+• Configured objects in spring applicationcontext.xml.
+• Used Log4j for logging.
+• Used Spring IOC, AOP for creating beans and transaction management.
+• Designed and developed Rich user interface using JavaScript, HTML5, CSS3, AJAX and JSON.
+
+• Expertise in unit testing using JUNIT, Jasmine, Mockito.
+• Used Stash as Distributed version control system and Git branching for creating a new feature and making
+bug fixes.
+• Involved in Units integration, bug fixing, and User acceptance testing with test cases.
+
+Environment
+JDK 1.6 J2EE, JSP, Servlets, Struts, Hibernate, EJB, JavaScript, HTML, CSS, YUI, JSON, Eclipse, Rational
+Application Developer, WebSphere 6.5, MS SQL2008, Web services, UNIX.
+
+Java Developer
+RELISOURCE TECHNOLOGY LTD  -  Dhaka - June 2009 to September 2010
+
+Responsibilities
+•  Implemented  GUI  screens  for  viewing  using  Servlets,  JSP,  Tag  Libraries,  JSTL,  JavaBeans,  HTML,
+JavaScript and Struts framework using MVC design pattern.
+• Build, configured and deployed Web components on Web Logic application server.
+• Migrating code from C++ to java using the Object oriented concepts
+• Implemented custom JSP tags for displaying trader data.
+• Creating the WSDL files for web services to publish the services to another application.
+• Wrote the high performance multi-threaded Java code using singleton, mediator, visitor, facade, observer,
+template, factory, and delegate, publish and subscribe design pattern.
+• Used Struts Tags to tie the Struts view Components to the rest of the framework.
+• Ant and Shell scripts were written to automate some processes.
+• Developed test cases using JUnit for functionality and unit testing.
+• Wrote Java code for accessing trade data from Oracle and DB2 databases using JDBC API and SQL queries
+and accessed it from J2EE Web component.
+• Used Java script and struts validation framework for performing front end validations.
+• Developed Function Library using Java Script.
+
+Environment
+Java, HTML, Java Script, SQL Server, SQL, JSP, Struts, Spring, Hibernate, Web Services, SOAP
+
+Software Developer
+STRUCTURED DATA SYSTEMS LIMITED - June 2008 to May 2009
+
+Responsibilities
+• Interacted with the Project Leads and Project Managers to gather the requirements.
+• Developed user interface using JSP and HTML.
+• Used JDBC for the Database connectivity.
+• Developed JUnit testing for server side code.
+• Built, tested and debugged JSP pages for critical modules in the system.
+
+Environment
+J2EE, Java Script, Spring, JDBC, HTML, XML, Restful, MySQL, Apache.
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science
+BANGLADESH UNIVERSITY OF ENGINEERING & TECHNOLOGY
+May 2008
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+CORE COMPETENCIES
+
+• Spring, Struts, JSF
+• JAX-RPC, JAX-WS, JAX-RS
+• AngularJS, NodeJS, JQuery, Bootstrap
+• JUnit, Selenium
+
+SKILLSET
+Platforms Windows 2000/NT/ XP/Vista and Sun Solaris 2.8/2.9, UNIX
+Programming JDK 1.5, 1.6, 1.7,1.8, C, C++
+Server Scripting JSP1.2,2.1, JSP-EL, JSTL, Custom Tags
+Client Scripting JQuery 1.8,1.9, JQueryUI, Dojo, ExtJS, AngularJS, Javascript, CSS2, CSS3, HTML4, HTML5,
+NodeJS
+Java Frameworks Struts 1.2, Struts 2.1, Spring MVC,DI, AOP, JSF 1.1, JSF 2.1, GWT
+Database Tools Toad for Oracle, Toad for MySQL, Toad for DB2, Toad for MS-SQL, MySQL Workbench,
+Databases DB2, MS-SQL Server, HSQLDB, PostgresSQL, MySQL
+Middleware Specifications EJB 2.1, EJB 3.0, CORBA, RMI, JMS
+Version Control Tortoise SVN, GitHub, CVS
+IDEs Eclipse 3.0, 3.1, MyEclipse 4.1, IntelliJ, Netbeans, JBuilder 2007, JDeveloper.
+Build Tools ANT […] Maven, Gradle
+XML Tools Altova XML Spy […]
+XML Technologies XSLT, JAXP, JDOM, SAX, DOM, XPATH, XPOINTER, XML, XSD,DTD
+Webservice Specifications JAX-RPC, JAX-WS, JAX-RS
+Webservice Tools SoapUI 4.0,5.1, TcpMon
+Webservice Implementations Axis 1.0,2.1, JWSDP2.1, Sun Metro, Sun Jersey, Apache XFire, Apache CXF
+Application Servers Weblogic 8.1, 10.0, Websphere 6.1, JBoss 4.0, Glassfish 4.0
+Web Servers Tomcat […]
+UML Tools Altova UML Model, Rational Enterprise, MS Visio
+ORM Frameworks Hibernate […] OpenJPA, iBatis
+Defect Tracking JIRA, Bugzilla
+Methodologies Agile (XP, Scrum), Rational Unified Process(RUP), Waterfall, Kanban
+HTML Editors MS-Frontpage 2003, Adobe Dreamweaver, Coffee Cup HTML
+
+ADDITIONAL SKILLS
+• Proficient in website and UI design - Adobe Photoshop & Adobe Illustrator.
+• Expertise in Search Engine Optimization techniques.
+• Working knowledge of responsive and adaptive web and mobile semantic layouts.
+• Proficiency in creating A11Y web pages for the hearing impaired and visually challenged.
+</sk>
+

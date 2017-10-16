@@ -1,0 +1,209 @@
+<ba>
+Gopika Mateti
+
+Android Developer - Coca-Cola
+
+Alpharetta, GA - Email me on Indeed: indeed.com/r/Gopika-Mateti/2cc9aa61d2ce3da7
+<su>
+• Over 7 years of overall IT experience in software design and development.
+• Proficiency in developing and design of mobile and embedded technologies on mobile platform, Android
+version from 2.3 to 4.4 and also application development in Android SDK.
+• Good exposure in troubleshooting, debugging and testing android applications.
+•  Extensive  experience  in  building  mobile  applications  using  Android  framework  APIs  (Location,  Camera,
+Animations, Maps)
+• Hands on experience using media framework using Android API and skills like multimedia usage, video,
+sound and graphics, networking.
+• Complete mobile life cycle experience from design, development to deployment of mobile applications.
+• Worked on JUnit, and used JSON testing framework and data interchange in Java and few databases like
+SQLite, MySQL.
+• Used SCRUM-Agile software development method for managing application developments
+• Used Repository Management tool across network operations.
+• Worked with GIT to handle very large projects and GERRIT to submit changes for the project.
+• Experience in building enterprise mobile applications using existing infrastructure Java/J2EE platform.
+•  Hands  on  experience  in  object  oriented  designing  such  as  Encapsulation,  abstraction,  Polymorphism,
+Cohesion and Coupling.
+• Experience in design and development of Rich Mobile Applications using JavaScript, XML, CSS, and HTML.
+• Solid understanding of Java/J2EE architecture, object oriented principles and Object oriented analysis design
+and development for mobile and enterprise applications.
+• Experience in version control systems like CVS, SVN and application servers like Tomcat.
+<sk>
+TECHNICAL SKILLS
+
+Operating System: Windows Xp/200/NT/Professional, Linux/Ubuntu, MAC OS X Mountain Lion Android 1.5 to
+Android 4.4 Gingerbread, Honey comb, Ice cream sandwich, Jellybean, Kit Kat.
+Languages: Core Java, J2EE, JDBC, JSP (JDK 1.5-1.7), C, C++, JQuery
+Scripting Language: JavaScript 1.0/1.5
+Databases: SQLite, MySQL, Oracle […] DB2
+Web Designing: HTML5, CSS, XML, UML, Web Logic 6
+Version Control Tools: CVS, SVN
+Web/Application Servers: Tomcat, IBM WebSphere
+Framework: STRUTS, spring, Junit, AJAX
+Android Skills: Android SDK (1.5 to 4.2) Tablets/Smartphone, ADT
+IDE: Eclipse, NetBeans, MyEclipse, InteliJ.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Coca-Cola  -  Atlanta, GA - September 2013 to Present
+
+Link: https://play.google.com/store/apps/details?id=com.cocacola.droid.pushplay
+Description:
+
+The Coca-Cola Freestyle app helps you find the nearest spot where you can explore endless possibilities.
+With our location finder, you can discover nearby locations that have a Coca-Cola Freestyle fountain with
+100+ choices waiting for you. It also shows you where to get good deals from your favorite restaurants, movie
+theaters  and  more.  Once  you  find  a  place  to  enjoy,  you  can  earn  badges  and  prizes  by  checking  in  and
+exploring all of the brands available. You can also use the app to explore and save your favorite brands.
+Responsibilities:
+• Worked with the Android SDK, and implemented Android Bluetooth and Location Connectivity components.
+• Used SQLite to cache the data received from the RESTful web services.
+• Constructing HTTP requests, fetching server response and parsing feeds wherever required.
+• Analysis of mobile application code for re-engineering.
+• Involved in requirement gathering and designing of the application.
+• Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+• Implemented Google Maps API v2 with forward and reverse geo-location.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Implemented unique design for portrait and landscape mode.
+• Handling XML data using efficient parsing techniques such as DOM parser.
+• Used GIT-HUB as our project version controller, where used to commit and push the developed, working
+code
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+• Tested the application on various Android devices.
+• Used Crashlytics, while testing the application, so as to verify the proper free-flow working of the application
+Environment:  Android  SDK  4.4,  Eclipse  IDE,  JSON,  REST  Web  Services,  XML,  Crashlytics,  Trello-board,
+Action-Bar and GIT-HUB.
+
+Android Developer
+Dow Chemical Company  -  Midland, MI - August 2012 to September 2013
+
+Link: https://play.google.com/store/apps/details?id=com.dow.snowglobe
+Description: Dow Snowglobe is an interactive snow globe. We can choose from different scene backgrounds
+and choose your own picture to resize and fit inside of the globe. Application allows you to shake or use your
+finger to swirl the snow around.
+Responsibilities:
+• As a team member, I was involved in the design and implementation of the UI, classes, architecture and
+activities of the mobile application
+• Used Frame Layout method to show background images of the app.
+• Involved in implementing Async task for the background operations.
+• Developed the app to adapt to different orientations (Landscape/Portrait) and various resolutions (ldpi/mdpi/
+hdpi) based on the device
+• Implemented MotionEvent method to swirl the snow around with a shake.
+• Implemented TouchEvent method to swirl the snow around with the use of finger
+• Developed analytics for the application so as to keep a track of the app on which device and in which places
+it has been used.
+• Designed and developed the request and response data to and from gallery.
+• Participated in all the phases of SDLC from design, development through testing, porting and support of
+application.
+Environment: SDK 4.4, Eclipse IDE, FrameLayouts, DDMS console and User Interface Design.
+
+Android Developer
+FedEx  -  Memphis, TN - June 2011 to July 2012
+
+Link: https: https://play.google.com/store/apps/details?id=com.fedex.ida.android&hl=en
+Description:
+Application provides a way to manage deliveries, track status of packages, find store locations and customize
+shipments and deliveries.
+Responsibilities:
+• Implemented Fragments on the main screen, On Click of each fragment takes to another tab.
+• Implemented List View, so as to show the different shipments and maps as a form of list.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Worked closely with the testing team.
+• Worked in an Agile based environment.
+• Collaborated with web services team to implement the backend support.
+• Designed the web services to communicate with the Android application by using RESTful web services with
+the Spring 3 API, and JSON Parsing for the received responses.
+• Designed and developed the request and response data to and from database.
+• Implemented SQLite databases to monitor shipments.
+
+• Implemented customized web view component to load an SWF file and HTML data.
+• Created test cases and test data for testing the application using JUnit Extensions.
+• Performed Unit testing on the various modules/functions to ensure that the output is as expected
+• Used JIRA to track issues.
+Environment: Android SDK 3.0, Eclipse IDE, Google Maps, AML and SQL Databases, JUnit, GPS Services,
+Phone gap.
+
+Android Developer
+INRIX, Kirkland, Greater Seattle Area - October 2009 to April 2011
+
+Oct 2009 -Apr 2011
+Title: Traffic Maps&Alerts
+Link: https://play.google.com/store/apps/details?id=inrix.android.ui&hl=en
+Role: Android Developer
+Description: Inrix Traffic Maps&Alerts Is the most accurate traffic, routing and road alert app that gives you
+control of your commute. Choose your fastest route, decide the best time to leave, know your arrival time in
+advance and share it with friends and family.
+Responsibilities:
+• Implemented/developed new screen GUI widgets, layouts, custom lists, custom layouts, custom adapters.
+• Integrated Maps in the Mobile along with GPS location based implementation
+•  Implemented  Network  layer  to  manage  network  requests  and  Web  Services  parsers  to  handle  server
+responses.
+• Enabled Landscape mode and alert notifications.
+• Created mechanism to show map Pins and traffic layer on the map based on data gathered in response to
+the web requests.
+• Developed and managed 15+ Activities/Screens in the Android.
+• Integrated SYNC in Ford Destinations Apps along with remote start feature using Bluetooth to enable voice
+base interaction.
+• Involved in code reviews with peers.
+• Worked on debugging the application using Logcat, DDMS
+Environment: SDK 3.2, JSON, Eclipse IDE, Java DK 1.6, XML, DDMS, Logcat.
+
+Java Application Developer
+ANL Parcel Service  -  Bangalore, Karnataka - July 2008 to August 2009
+
+Description:  It  is  a  Distributed  Application  developed  for  ANL  parcel  service.  The  main  purpose  of  this
+application is to enable the customers to trace their shipments. This application has two parts one deployed for
+Andhra Pradesh and Karnataka states and the other one for rest of the country. There are two query services
+for interactions with the data Layer GQS and PQS. PQS is a checkpoint query service language to keep track
+of new checkpoints arrived which communicates with SUB application, which in turn talks with IBM MQ Series.
+Responsibilities:
+• Analyzed all business functionality related to ANL services.
+• Developed technical specifications for various back end modules from business requirements. Specifications
+are done according to standard specification formats.
+• Experience in EJB, create new as well as modified the existing as per requirement.
+• Developed back end interfaces using Business Delegates and Data Access Objects (DAO) for interacting
+with Informix.
+• Used EJB QL for retrieving data.
+• Utilized Java Mail service to communicate between GEMA and Non GEMA application.
+• Responsible for SQL tuning and optimization using Analyze, Explain Plan, TKPROF utility and optimizer hints.
+• Suggested and converted several existing UI for better user interaction.
+• Has developed JSP's as part of UI layer
+• Was involved in unit testing and System testing for new Requirements.
+• Involved in communication with Business people for clarification on Business Requirements.
+• Has developed test cases for business functionalities.
+Environment: Java, J2ee, Hp-UX 11i, Web logic 6, MySQL, Windows, UNIX.
+
+Java UI developer
+NDS Pay TV services  -  Bangalore, Karnataka - November 2006 to May 2008
+
+Bangalore, INDIA Nov 2006 - May 2008
+Title: Gaming portal for Bharati Airtel STB
+Role: Java UI developer
+Description: The gaming portal enables the user to launch a game subscribed by them. The application also
+gives the user a summary of the various games available and information for subscription and their game
+status. New game updates are added on the launch of the application.
+Responsibilities:
+• Developed the functionality of the game portal.
+• Implemented 'update on launch' feature.
+• Developed the navigation through various UIs.
+• Worked closely with the design team in implementing an engaging visual experience for the users.
+• Involved in the detail system design and implementation of the specification.
+• Worked on enhancement features for the list up loader and mailer modules and also fixed code defects.
+• Created large database and various stored procedures and triggers.
+• Developed Front-End user interface using JavaScript.
+• Business logic is implemented using Spring MVC, spring security, Java, JSON.
+• Hibernate is used as Object Relational Mapping (ORM) tool.
+• Created session beans and involved in Hibernate transaction management.
+• Created Test Plans and developed Test scripts for each class using JUnit and deployed successfully.
+Environment: Java, J2EE, Web Services, Hibernate, Struts2, Spring (Spring core, Spring AOP, Spring security,
+Spring web services)
+<ed>
+EDUCATION
+
+Bachelors in Computer Science
+
+Osmania University  -  Osmania University, ANDHRA PRADESH, IN
+March 2006
+
+

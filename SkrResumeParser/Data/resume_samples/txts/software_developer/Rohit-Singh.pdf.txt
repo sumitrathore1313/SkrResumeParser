@@ -1,0 +1,73 @@
+Rohit Singh
+
+Noida, Uttar Pradesh - Email me on Indeed: indeed.com/r/Rohit-Singh/1e621cbcc2e10367
+
+* Overall 1 year 9 months of experience in analysis and development of Web applications using Asp.Net C#,
+Angular JS, JavaScript and SQL.
+* Working as Software Developer with VALADD IT Solution, Ghaziabad since October 2015 to till date.
+* Hands on experience in asp.net, SQL, AngularJS, JavaScript and JQuery.
+* Ability to work independently towards a team goal.
+* Cohesive team worker, having strong analytical, problem solving and interpersonal skills.
+
+WORK EXPERIENCE
+
+Software Developer
+VALADD IT Solutions  -  Ghaziabad, Uttar Pradesh - October 2015 to Present
+
+Team size: 4
+
+Brief Description: This project is being designed for the purpose to propose Samples of any Garment design
+to merchandiser and give them specific details about the design, color, size, fabric, cost involved to design
+a Sample and its Prototype.
+It's an online Finished Garment Catalogue for Merchandisers.
+It's a running Project developed for Indochine In ternational by VALADD IT Solutions.
+Responsibilities:
+* Developed Master Setup, Buyer, and Supplier
+* Handling Backend file movements.
+* Involved in analysis, and implementation of various enhancements.
+* Generated various type of reports from database.
+* Front end components development using JavaScript, jQuery.
+* Review the code.
+* Debugging and fixing defects.
+
+Project Name: Garments Sampling Module
+
+Web Application Developer
+VALADD IT Solution  -  Ghaziabad, Uttar Pradesh - October 2015 to Present
+
+Environment: Asp.net C#, AngularJS, JavaScript, JQuery, SQL.
+Duration: Jan 2016 to till date.
+
+Brief Description: Automate the process of Registration of Patients, Appointments Tracks, Prescription, Bill
+Generation, Expenses in Hospital and different types of Report Generation using rdlc
+
+Responsibilities:
+* Involved in analysis, and implementation of various enhancements
+* Handling Backend file movements.
+* Front end components development using JavaScript, jQuery.
+* Review the code.
+* Debugging and fixing defects.
+
+EDUCATION
+
+M.Tech in Intelligent System and Robotics
+Gautam Buddha University  -  Noida, Uttar Pradesh
+
+B.Tech in Computer Science & Engineering
+Vera College of Engineering  -  Bijnor, Uttar Pradesh
+
+SKILLS
+
+AngularJS (1 year), ASP (1 year), Asp.net (1 year), C# (1 year), database. (1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Programming Languages: Asp.Net C#.
+Scripting Languages: AngularJS, JavaScript, JQuery.
+Operating Systems: Windows.
+Packages / Tools: Microsoft Office.
+Database: SQL Server.
+
+

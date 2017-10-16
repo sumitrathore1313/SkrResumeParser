@@ -1,0 +1,53 @@
+Raman Verma
+
+Software Developer at PWD
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Raman-Verma/b00ce5815457e2bd
+
+Find a Software Engineer position focused on developing web-based applications and debugging complex
+software problems.
+
+WORK EXPERIENCE
+
+Software Developer
+PWD  -  Delhi, Delhi - July 2011 to Present
+
+Delhi.
+Technology -C#, ASP.NET, ADO.NET, AJAX, JAVA SCRIPT
+Database-SQL SERVER 2008
+Role- Coding and Database design.
+Project Description:
+• During MCA major project on HOSTEL MANAGEMENT SYSTEM.
+• Front End C#, Asp.net, Ado.net, Ajax.
+• Back End SQL-SERVER 2008.
+• Role: coding, Design and Database Design
+
+web site maintenance
+pwd delhi  -  Delhi, Delhi - July 2011 to March 2012
+
+EDUCATION
+
+PGDCC
+Lucknow University
+2008
+
+Bsc
+Lucknow University
+2005
+
+U.P. Board
+2000 to 2002
+
+SKILLS
+
+C#,asp.net,ado.net,sql server
+
+ADDITIONAL INFORMATION
+
+MCA (Master of Computer Application) from UPTU, Lucknow
+
+Operating Systems: Windows Family
+
+Web Concepts: HTML & Ajax
+
+

@@ -1,0 +1,193 @@
+<ba>
+patel sri
+
+Android Developer - Shreeji Enterprise, Virginia
+
+Californiasan franscisco - Email me on Indeed: indeed.com/r/patel-sri/de3328ce498ade07
+<su>
+•  6  years  of  experience  as  Mobile  application  developer  with  SDLC  and  enterprise  level  mobile  and  web
+application development.
+• About 3 years of experience in front-end applications for Android.
+• 1 year of experience in Java application development and 3 years of experience in web development.
+• Experience with Agile Methodology - Participated in Scrum and Sprint Planning.
+• Strong Object Oriented Programming concept, Model-View-Controller design pattern and adept to learning
+new technologies and environment.
+•  Extensive  knowledge  in  designing  front-end  applications,  accessing  SQL  database,  application  layer
+protocols, and XML.
+• Experience in Android application UI design implementation and development.
+• Worked with AsyncTask and other tools to implement asynchronous downloads.
+• Experience in optimizing for multiple device screen sizes and Android versions.
+• Experience in android activities, home widgets, services, broadcast receivers, content providers, fragments,
+intent and intent filters.
+• Experience of common android framework, framework APIs (Location, Camera, Notifications, Maps), and
+Google APIs (Location Manager)
+• Highly capable in handling multiple tasks, prioritizing, and meeting deadlines.
+• Quick learner, excellent analytical, design and problem solving skills.
+• Good communication skills.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Shreeji Enterprise, Virginia  -  Vadodara, Gujarat - June 2015 to Present
+
+Project Description: KalyanPushti: This is for all Vaishnavas (followers of lord Vishnu)
+When you open the app you will have a Home page with following options.
+•From "Darshan", you will have a Darshan based on your local time.
+•From "Darshan Time", you will have darshan time and Location of Various pushtimarg temples.
+•From "Pushtimarg", you can read PDF about Different lords of Vaishnav Dharma.
+•From "Utsav", you can see upcoming Utsavs (Festivals/Events) for Pushtimarg temples.
+•From "Contact us", you can visit Shree kalyanpushti website or you can send email from the app and you can
+also get direction to Kalyanraiji temple (Vadodara, Gujrat. India)
+Link: https://play.google.com/store/apps/details?id=com.shreejienterpriseinc.kalyanpushti&hl=en
+Math Formula application is compilation of over 200+ most commonly used formulas from middle school to
+college. New formulas can be added to application by attaching an existing image or using a camera under
+users own category of 'My Formulas'. Math formula organized by following four categories: Algebra, Geometry,
+Graph, Trigonometry. User can create its own favorite list by simply clicking 'Add to favorite' button, for quick
+access. User has ability to delete it from favorite list.
+Link: https://play.google.com/store/apps/details?id=com.mathformula&hl=en
+Responsibilities:
+• Communication with client to understand the requirements for development.
+• Developed the application to adapt to various orientation support and resolutions based on the device.
+• Used web views, list views & populated lists to display the lists from database using Simple adapters.
+
+•  Responsible  for  development  of  all  Application  components  (such  as  Activities,  Broadcast  Receivers,
+Services, Content Providers) and UI resources.
+• Performed testing on different physical devices like android phones and tablets of various size and various
+android versions also performed testing on AVD emulator.
+• Work with tracking user's location Google Map Services.
+• Worked location-based and motion-based applications.
+• Developed the SQLite database to store data.
+• Work for managing PDF and Music files into database as well as in User's Device.
+• Responsible for executing the code, deploy application and fix the bugs.
+• Designed screens related to Categories and Detail description for Tablet for both 7 inch and 10 inch devices
+by customizing views as per mockup.
+Environment: Java, Android SDK, Eclipse IDE 3.5, SVN, Emulator, SQLite, GCM, Fragments.
+
+Android Developer
+Macy's  -  New York, NY - April 2013 to May 2015
+
+Description:  Macy's  app  let's  user  shop  the  entire  online  assortment  on  the  go.  It  lets  user  discover  new
+producuts with a intuitive navigation, find store, scan barcodes to get product details, pricing info and customer
+reviews, get latest offers, access customer account and pay with the Macy's Credit Card features.
+
+Link: https://play.google.com/store/apps/details?id=com.macys.android&hl=en
+
+Responsibilties
+• Worked on enhancing the user interface by implementing custom list layouts and themes
+• Implemented JSON for the purpose of retrieving data.
+• Worked with Google APIs to locate the nearest stores
+• Worked on ListView to create list of shopping categories and items
+• Implemented Fragments for variation range from differences in device hardware such as display resolution
+and size.
+• Worked on making the app support different screen sizes and configuration
+• Tested and debugged the application on different devices
+• Followed the Agile methodology for implementing the project.
+• Worked with Android Components such as Activities, Intents, Services and Custom UI Components such as
+Text View, List View, Expandable List View, Layouts and menus.
+• Worked with Android UI components such as Layouts, Menus, Navigation Drawer and Action Bars.
+• Worked on local data storage using SQLite.
+• Consumed web services and Implemented Http Communication using JSON Data.
+• Socialized the app by integrating it with facebook and twitter.
+
+Environment: Android SDK 4.4, Eclipse IDE, JSON, REST Web Services, XML, Action-Bar and GIT-HUB
+
+Android Developer
+Wells Fargo  -  Baltimore, MD - July 2012 to March 2013
+
+Description: The Wells Fargo Mobile lets you view your account balances and activity - for consumer accounts,
+view check and deposit images, check available balance and pending deposits, search and sort transaction,
+view credit cards rewards, deposit checks using Android phone, send money via surepay using a mobile or
+email address, make transfer to your account, find ATM and bank locations, track investments, schedule bill
+payments.
+
+Link: https://play.google.com/store/apps/details?id=com.wf.wellsfargomobile&hl=en
+
+Responsibilities:
+• Highly involved in the planning, designing, development, testing and deployment.
+• Worked closely with design and development team on direction and user experience.
+• Created different UI screens for portrait and landscape mode.
+• Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+• Used SQLite to cache the data received from the RESTful web services.
+• Constructing HTTP requests, fetching server response and parsing feeds wherever required.
+• Worked on different status bar notifications.
+• Integrated location based services using Google Maps API to display locations of the nearest ATMs and bank.
+• Interacted with camera API to deposit Check images.
+• Worked on custom dialogs to make the app easier to understand.
+• Implementation of Android Broadcast Receiver from background service to start application.
+• Used custom list views to view information on every screen thereby maintaining the uniformity.
+• Tested and debugged the application on various android devices.
+
+Environment: Android SDK 4.4, Eclipse IDE, JSON, REST Web Services, XML, Action-Bar and GIT-HUB
+
+Android Developer
+American Airlines  -  Dallas, TX - September 2011 to July 2012
+
+Responsibilities:
+• Worked in an agile environment - Participated in Daily standup meetings.
+• Worked in layouts and UX design and layout using both XML, and custom android views.
+• Implemented location based API using Location Manager to locate the clinic in the neighborhood.
+• Implemented WebViews to provide easy access to shop online feature.
+•  Used  SQLite  database  to  store  user's  shipments  and  tracking  numbers  locally  and  to  implement  offline
+functionality.
+• Used REST based web services and JSON parsers for secured data interchange.
+• Extensively utilized AsyncTask, Thread and handler to provide smooth UI experience.
+• Implemented Material Design for the latest app supporting Android 5.0.
+• Added Push Notification through backend support to get users specials and discounts on the device.
+• Implemented spinners while loading data.
+• Integrated with different Android versions.
+• Collaborated with web services team to implement the backend support.
+• Worked manage work onsite as well as offsite team of contractors.
+• Performed debugging on the various modules/functions to ensure that the output is as expected.
+• Worked with Hybrid capabilities to display static pages that were hosted on CVS Server.
+• Worked with the UI team to design the appropriate icon and display for the screens.
+• Implemented Barcode Scanner API to scan users prescriptions and provide availability information on the
+app.
+• Debugged and tested the application using logcat, DDMS (Dalvik Debug Monitor Server) and traceview on
+different android devices.
+
+Environment: Android SDK, Android DDMS, Eclipse ADT, Java, web service, HTML, CSS, XML Parser.
+
+Software Developer
+Experts - August 2010 to June 2011
+
+Project Description: It is web based application like Customer Support System which is helpful for the Customer
+for getting quick solutions for their different types of category query through online communication with the
+Technicians and all the procedure are managed by the Administrator.
+Responsibilities:
+• Analyze client requirements and translate them into technical requirements.
+• Involved in writing various DB Objects like User defined functions, Instead of triggers, Usage of Indexes.
+• Created SSIS Packages from various heterogeneous source systems like Oracle, SQL Server, Flat Files and
+Excel Spreadsheets into the destination databases for Dashboard Reporting on a daily basis.
+• Created databases and schema objects including tables, indexes, views and applied constraints.
+reated and implemented the staging database prior to the final data warehouse.
+• Developed quality control activities such as integration testing and code reviews.
+• Created function specifications coded comments and other Technical documentation.
+• Implemented Mail System within the system.
+• Created Chat based Application.
+• Provide Google map Service in the system.
+
+Environment: .NET 4.5, C#, MS SQL 2012, XML, HTML, CSS, ASP .NET MVC, WEB API, , JavaScript, IIS 8,
+Agile, Ajax Tool Kit 3.5, Rich Text Box (Third Party Control)
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.mathformula&hl=en
+
+https://play.google.com/store/apps/details?id=com.shreejienterpriseinc.kalyanpushti&hl=en
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills:
+
+Languages JAVA, C, C++, JavaScript, SQL
+IDE Eclipse 3.x, 4.x, Net Beans, Android Studio
+Web Technologies HTML, CSS, AJAX, JSON, XML, Flask, Laravel, Django
+OS Android, Windows, Mac OS X
+RDBMS SQLite 3.6, Oracle […] MySQL […]
+Editors Notepad++, Sublime Text, Text Wrangler.
+Web Servers Tomcat 6.0 Apache HTTP Server
+Méthodologies Agile Methodology
+Design Tools Photoshop
+
+

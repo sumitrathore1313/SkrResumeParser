@@ -1,0 +1,62 @@
+<ba>
+Sayori Patil
+
+Software and Web Developer- Intern
+
+San Jose, CA - Email me on Indeed: indeed.com/r/Sayori-Patil/b477852dbaf93381
+</ba>
+<su>
+Actively seeking summer internship opportunities in the field of software engineering to enhance my
+knowledge and to utilize my skills towards company growth.
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Software and Web Developer- Intern
+Atom Infotech - June 2013 to August 2013
+
+• Worked on Material Tracking System using - PHP, HTML, CSS, JavaScript and MySQL.
+• Managed full SDLC application development project.
+</we>
+<ed>
+EDUCATION
+
+Masters of Science in Software Engineering
+San Jose State University  -  San Jose, CA
+
+Bachelor of Engineering in Information Technology
+University of Mumbai  -  Mumbai, Maharashtra
+June 2015
+
+master in Kubernetes
+San Jose State University
+
+GUI and Database Management
+Mumbai University
+</ed>
+<ba>
+LINKS
+
+https://github.com/sayoripatil
+
+https://www.linkedin.com/in/sayoripatil
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+Programming Languages: Java, Node.js, Express.js, HTML.
+Cloud Computing: Amazon Web Services, Amazon RDS, AWS Bitnami, Sales force, Google App Engine.
+Virtualization: VMware ESXi, VMware workstation, VMware VSphere Client, Xen Server,
+Big Data: Apache Spark, Kubernetes, Container Cluster, Docker, Google Container Engine. SAP R/3
+Database Systems: MySQL, Oracle 10g.
+Web Technologies: HTML5, AJAX, JavaScript, Bootstrap, JQuery, Angular.js, JSP, Servlets, Apache Tomcat.
+Design Skills and Operating Systems: UML, MacOSX, Windows, CentOS, Linux, UNIX.
+IDE/Tools: Eclipse, NetBeans, Jenkins, Git.
+</sk>
+<ca>
+Certification  &  Professional  Affiliations:  HP  Certification  course:  IT  for  business  success,  Social  Media
+Marketing.
+</ca>
+

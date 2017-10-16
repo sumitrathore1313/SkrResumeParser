@@ -1,0 +1,93 @@
+Inderjeet Shishodia
+
+I have 2 yrs+ experience on .net profile. currently working with softrock technology
+as a software developer key skill :- Asp.net, Ado.net, MVC, C#, SQL Server, Bootstrap,
+javascript
+
+Ghaziabad, Uttar Pradesh - Email me on Indeed: indeed.com/r/Inderjeet-Shishodia/1dcfb0810cab58b1
+
+Challenging career in IT industry, in an organization, which offers abundant opportunity to innovate, grow and
+develop.
+Willing to relocate to: Noida, Uttar Pradesh - Delhi, Delhi - Gurgaon, Haryana
+
+WORK EXPERIENCE
+
+Software Developer
+Softrock Technologies  -  Noida, Uttar Pradesh - March 2016 to Present
+
+PROJECT DESCRIPTION
+
+1. S_R Billing: S_R Billing is a web based application which helps us to manage the records of Invoice, Stock,
+Inventory and Balance Sheet along with the expenses record. In this Application we can manage application
+on branch level. we can add new Branches, products, category, taxes, create Invoice and manage Balance
+sheet based on branches
+
+My Role: Data Base, Front-end and Back-end coding, Admin, Billing and Executive Panel.
+Technology Used: C#, Asp.Net, SQL Server, Bootstrap, JavaScript and CSS
+
+2. E-Rent: E_rent is web based application for manage lease of tenant where owner check the detail of tenant
+dues. In this application owner manage all the maintenance, electricity and rent dues with penalty. As well
+as check the contract detail and terms and condition of particular tenant and related document of address
+and identity proof and provide panel for tenant as well. And where they can see all transaction and current
+dues detail.
+
+My Role: Data Base, Front-end and Back-end coding, Admin, and Tenant Panel.
+Technology Used: C#, Asp.Net, SQL Server, Bootstrap, JavaScript and CSS, Ajax
+
+3. DGR Public School
+Description: This is dynamic website which provide all the necessary related information regarding admission,
+events and other activities
+
+My Role: Data Base design, Front-end and Back-end coding, Admin Panel.
+Technology Used: C#, Asp.Net, SQL Server, Bootstrap, JavaScript and CSS
+
+4. Other Project
+
+* www.haryanajobalert.com
+
+Role Data Base, Front-end and Back-end coding
+Technology Used C#, Asp.Net, SQL Server, JavaScript and CSS, Ajax
+
+Description This Site Is A Job Alert Site Which Is Designed For Alert Of Job As Well As All India Competition
+Exam
+
+* CMS and HTML PROJECT
+
+Thevivahstory.Co.In Word press This website design for wedding photography and portfolio
+Nissunwebsolutions.com
+ASP.NET
+
+This website is a Software solutions company specializing in providing Web Design, Wed Development, E-
+commerce Solutions, Software Development
+
+Web Developer
+Sequence IT Solutions PVT LTD  -  New Delhi, Delhi - February 2015 to February 2016
+
+EDUCATION
+
+MCA
+UPTU UNIVERSITY
+2014
+
+BCA
+CCS UNIVERSITY  -  Meerut, Uttar Pradesh
+2011
+
+SKILLS
+
+Mvc (Less than 1 year), Asp.Net (2 years), Bootstrap (1 year), C# (2 years), Sql (2 years), Javascript (Less
+than 1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+Operating System: Window-XP, Window-7, 8
+Database: SQL Server 2008.
+Tools: Ms Office, Ms Visual Studio, .Net.
+Languages: C & C#.
+Web Technology: Asp.Net, Html, CSS, JavaScript, Ajax
+Ado.Net, Bootstrap, MVC
+
+CMS: Word Press, Open Cart
+
+

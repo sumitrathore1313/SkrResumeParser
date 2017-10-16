@@ -1,0 +1,170 @@
+<ba>
+Sunita AG
+
+Android Develoepr
+
+Piscataway, NJ - Email me on Indeed: indeed.com/r/Sunita-AG/fc328c8258af8120
+<su>
+6+ Years of experience of Design, Development and integration in Mobile Application Development on Android
+platform. 
+• Currently client :Samsung Electronics America, for 4 years.
+• Strong experience in Java, Object Oriented concepts, Design Patterns, Data Structure and Algorithms.
+• Worked on Android OS Version: Android 1.5, 2.0, 2.3, 3.0, 4.0, 5.0.
+• Expertise in developing android applications using Android studio, Eclipse IDE, SQLite, Linux, Android SDK
+and ADT plugin.
+• Excellent knowledge of working in Android SDK and various Android components like Activities, Content
+Providers, Services, AIDL, background processing with Async Tasks, Notification Manager, Android UI toolkit,
+Fragments, Loaders, Adapters, XML Layouts. 
+• Experience in using Android Debugging tools like ADB, DDMS, Lint. Used tools to optimize the application
+like Hierarchy Viewer, Trace View, Overdraw Debugger. Takes care of memory management by scaling of
+bitmaps, unregistering receivers, stopping services when not in used etc.
+• Have knowledge of consuming REST API’s from a cloud based Customer Service Platform and parsing the
+web response data in both XML and JSON format.
+• Understanding of different design patterns used in Android framework like MVC, builder, singleton, Adapter,
+Observer etc.
+• Performed testing of the individual modules using Junit framework and Instrumented unit tests.
+• Worked on core applications like Email, Calendar & Contacts.
+• Followed SDLC (Analysis, Design, Development, Review, Testing), Scrum, Agile Practices in Projects.
+• Proficiency in designing application for different Carriers (Verizon, ATT, TMO) for different screen sizes.
+• Strong experience in Communication with Cross functional globally located teams like Business, UX during
+multiple phases of product delivery.
+• Received “Star Team Award” for delivering quality product with minimal time duration.
+• Received “Spot Recognition Award” for contributing in the project in a very tight schedule.
+• Published below apps on Google Play Store –
+Tag-It: https://play.google.com/store/apps/details?id=com.svl.samsung.tag
+Easy Bug Report: https://play.google.com/store/apps/details?id=com.samsung.mno.takebugreport
+Sponsorship required to work in the US
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Samsung Electronics America - October 2012 to Present
+
+Project 1: Email Native Client 
+Environment: Android SDK 5.0, Java 1.7, Linux, SQLite3, Gradle, XML, Content Provider, AIDL, IPC
+Tools: Android Studio, Wire shark, Overdraw Debugger
+
+This is the stock Email Client that comes with every Samsung device. It has support for Microsoft Exchange
+Active Sync(EAS) and other Email protocols like IMAP/POP3. Tasks include developing new features and
+customization of Email Client for different carriers like Verizon, AT&T &T Mobile for Galaxy series.
+Responsibilities:
+
+• Brainstorming on the architecture of the project which is based on inter process communication between
+email client and exchange process.
+•  Performed  designing,  coding  &  testing  of  empty  folder  EAS  command  using  bind  service  and  Android
+Interface Definition Language (AIDL).
+• Work closely with UX Designer Team to continually improve the user experience
+• Developing user interface for multiple screen sizes for phones & tablets as well.
+• Implemented Notification database as part of redesigning of notification module, which takes care of posting
+and managing all the notifications in email application.
+• Coordination with team in Korea to support new features or issues which can impact global devices.
+• Improved performance of multiple screens by removing multiple layers of background images using overdraw
+debugger tool.
+
+Project 2: Easy Bug Report 
+Environment: Android SDK 5.0, Java 1.7, Linux, Gradle, Android Media Projection, Share via, Android Service
+Tools: Android Studio, Lint
+
+An easy-to-use app for reporting bugs, with an extra feature of video recording of the screen.
+Responsibilities:
+• Proposed, Designed & Developed screen recording feature using Android Media Project API’s which is added
+as part of Android SDK 5.0.
+• Implemented Recorder service which listens for user actions to start or stop the recording.
+• Added smart share via feature to share the bug report. It also compresses the logs.
+• Designed & implemented bug report user interface to make it extremely easy to use.
+• Improvised code using Lint tool provided by Android Framework.
+
+Project 3: Visual Voice Mail 
+Environment: Android SDK 4.0, Java 1.7, Linux, Android Media Framework, XML, SQlite3
+Tools: Eclipse, Lint, UML, DDMS, ADB
+
+This Visual voicemail is a random-access of voicemail with a visual interface. It presents a list of messages
+where user can scroll through messages, pick the ones he wants to listen to, or erase them right from the
+device's screen.
+Responsibilities:
+• Designed & Developed voicemail playback & recording feature using Media Player component of Android
+Media Framework.
+• Implementation of section indexers for list screen based on different sort types.
+•  Proposed  &  Developed  Debug  Framework  which  helps  to  figure  out  the  current  state  of  the  device  and
+provides critical information to solve the issue.
+• Handling bug fixing and integration of real time issues raised by customers, post launch & marketing team.
+
+Project 4: Tag-It – 
+Environment: Android SDK 4.0, Java 1.7, Linux, Content Provider
+Tools: Eclipse, Lint, Hierarchy viewer
+
+Tag-it is a one stop application for all details at user’s fingertips, in an organized fashion. If user can share
+it, application can Tag-It.
+Responsibilities:
+• wrote tagItemFactory to create tag item instances based on item types namely application, text or file tag item.
+• Used Android View Pager component to implement help tutorial feature to guide users for the first time.
+
+• Implemented help tutorial feature to guide users using.
+• Accessing the database using loaders and adapters to populate the tagged items in list.
+• Built Junit test cases to test different methods.
+
+Project 5: Ticketing System using Zendesk Platform 
+Environment: Android SDK 4.0, Java 1.7, Linux, Content Provider, JSON, MVC
+Tools: Eclipse, Google Analytics, Retrofit library
+
+This is an enterprise application which provides end-user with an easy and quick way to raise tickets with
+complete details using Zendesk platform. Zendesk is a cloud-based customer service platform that includes
+ticketing, self-service options, and customer support features.
+Responsibilities:
+• Creation & updating of tickets using JSON based REST API.
+• Parsing JSON Response and converting it into meaningful information to show it in list view.
+• Used Model View Controller(MVC) architecture for communication between user interface & protocol.
+• Collaborating with the team members to finalize the flow and interaction between different UI screens
+• Added Google Analytics in this application.
+
+Android Develoepr
+LG Soft  -  Banglore India - July 2009 to May 2012
+
+Responsibilities
+Project 1: Calendar Client & Global Address List 
+Environment: Android SDK 3.0, Java 1.6, Windows
+Tools: Eclipse, Instrumented unit test cases
+Calendar client which supports Microsoft Exchange Protocol. Here we could create/update/delete events. We
+could also send and receive the meeting request.
+Responsibilities:
+• Understanding the recurrence module of the Protocol and implementing it.
+• Analysis and Developing Time zone String encoder and decoder in Java.
+• Providing On-site support to client and understanding the requirements from the client. 
+• Preparing Request and Parsing Response for search command. 
+
+Project 2: Memo 
+Environment: Android SDK 2.0, Java 1.5, Windows
+Tools: Eclipse, XML Layouts
+Lightweight Notepad application that serves all note-taking needs by providing a crisp user interface.
+Responsibilities:
+• Implemented look and feel of notepad screens using xml layouts.
+• Handled interaction with different activities using intents and actions.
+• Handling bug fixing raised by internal Quality assurance team.
+<ed>
+EDUCATION
+
+Bachelor of Engineering in Computer Science
+University of Rajasthan  -  Jaipur, Rajasthan
+2008
+<sk>
+SKILLS
+
+Android Studio (6 years), Android 5.0 (6 years), Java (6 years), Eclipse (5 years), Linux (5 years),
+SQLITE (5 years), HTTP (4 years), OOP (5 years), WINDOWS (4 years), JSON (5 years), GIT (4 years),
+PERFORCE (3 years), SHELL (5 years), DATA STRUCTURE (5 years), HTML 5 (3 years), XML (4 years),
+ANDROID SDK (6 years), ANDROID NDK (4 years)
+
+ADDITIONAL INFORMATION
+
+SKILLS 
+OPERATING SYSTEM Android 1.5 – Android 5.0, Linux (Ubuntu), Windows
+LANGUAGES Java
+EXPERTISE KNOWLEDGE Object Oriented Programming, Design Patterns, Data Structures
+WEB TECHNOLOGY HTTP, HTML, XML, JSON
+DATABASE SQLite3, SQLite Browser
+SCRIPTING Shell scripting
+PROTOCOLS MS Exchange Active Sync protocol, HTTP
+CONFIGURATION MANAGEMENT Git, Perforce, SVN, Clear-Case
+IDErawal : Android Dveeloper : H1B transfer Android Studio, Eclipse, Vim, Gradle
+
+

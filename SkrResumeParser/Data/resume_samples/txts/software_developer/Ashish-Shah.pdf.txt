@@ -1,0 +1,179 @@
+Ashish Shah
+
+Software Developer
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Ashish-Shah/ce4e92af9b2274ca
+
+WORK EXPERIENCE
+
+Software Developer
+TechnaSoft Solutions - October 2012 to Present
+
+A company that excels in delivering outsourcing and consulting solutions to various leading business clients
+through cutting edge technologies.
+
+• Project 1 - Receipt House
+Description:
+This application was developed for our clients who were dealing with national and multinational banks such as
+ABN AMRO Bank, ICICI, American Express, etc., and were responsible for payments and collections on the
+bank's behalf. A very useful online application focused on total quality control.
+• Project 2 - Bill Visit
+Description:
+This system is built for the logistics department of various business houses for generating bills for the clients
+and facilitates real time comparison of the expenditure and profits in the business. It included MIS reports,
+Organizational View and Managerial Thresholds. It is a powerful tool to figure out any discrepancies in the
+company's monetary expenditures and take corrective steps.
+
+• Project 3 - Optimal Inventory
+Description:
+Inventory Management System provides information to efficiently manage the flow of materials, effectively
+utilize people and equipment, coordinate internal activities and communicate with customers. This system was
+just built to address these issues. It was a robust application which included management and maintenance
+front ends coupled with strong database support.
+
+• Project 4 - eBilling and Invoicing System
+Description:
+This Windows based application is developed with intent to provide greater ease, data security, data analysis,
+flexibility  and  management  for  billing  and  invoicing  of  the  client's  products.  It  includes  features  such  as
+establishing sales goals, sales forecast, analyzing customers' information and managing orders and products.
+
+• Project 5 - Vodafone Verification
+Description:
+Vodafone Verification is an application that serves as a useful tool for the various verifications required in the
+processing of the services provided by this major telecom giant. With this application, all the processing is
+automated and the data could be sent and received online and thus ensure smooth and timely processing
+of the valuable data.
+
+Major Responsibilities:
+• Design and develop various software modules using C#.NET to create robust Windows Applications following
+complete SDLC procedures and standards.
+• Developed all modules using N-Tier Architecture.
+
+• Used Web Services over SOAP to develop software that can function over the internet for real time processing
+and updations.
+• Used WCF as the means to expose services over the network wherever required in projects.
+• Worked with useful features of Visual Studio.NET like LINQ and Delegates and Events.
+• Worked with DataGridView control, Crystal Reports and Charts.
+• Implemented Business Intelligence through SQL Server Integration Services.
+• Create robust database applications using SQL Server 2005.
+• Extensively used stored procedures and joins to maintain data security and manage data.
+• Worked with Triggers and Indexes.
+• Generate Scripts and Grant User Permissions in SQL Server.
+• Timely delivered all the assigned modules till date.
+
+Environment Used
+Windows XP, Visual Studio.Net 2010, .NET Framework 3.5, IIS Server 5.0, C#.Net, ADO.Net, LINQ,
+OO Design, Web Services and SQL Server 2005, SQL Server 2005 Integration Services (SSIS)
+
+Jr. Programmer
+BSA Citi Couriers Pvt. Ltd  -  Delhi, Delhi - October 2011 to September 2012
+
+Pioneer  Courier  Service  Provider  to  all  leading  Multi  National  Banks,  Private  Banks,  Telecom  Sector,
+Consumer Finance and Insurance Companies in Delhi and NCR.
+
+• Project 1 - Courier Packet Delivery System
+Description:
+Courier Packet Delivery System is an online application designed to facilitate the organization for smoothly
+handling the complete operation of a courier packet - from creation to delivery to the customer.ItisanN Tier
+windows based application that uses LINQ, Data Access Layer and Web Services.
+
+* Project 2 - Courier Tracking System
+Description:
+This application keeps track of courier company's performance on the basis of delivery of the courier packets.
+This project produces various MIS reports for the management to keep track of the courier packets and take
+corrective measures to ensure the packets reach their destination safely on time.
+
+• Project 3 - Courier Data Management
+Description:
+This software maintains a wide variety of courier related transactions ranging from basic details like account
+holders organization, name, designation and other details to transaction details like bookings, consignments
+and fee details. Also features transaction data analysis modules and accounting highlights. Very useful for
+maintaining integrity of the total transaction from booking to delivery.
+
+Major Responsibilities:
+• Responsible for designing and implementing software modules using Visual Studio 2010 and C#.Net as the
+chosen language.
+• Designed and developed the system using waterfall model.
+• Generating Crystal Reports inclusive of Charts and Graphs.
+• Used DataGridView, Export to Excel, etc, to display data in a well defined and easily readable
+format.
+• Building Database client applications using ADO.Net with SQL Server 2005 and MS Access.
+• Used cutting edge technologies like Language Integrated Query and WCF to build robust
+
+applications.
+• Creating and Implementing Business Logic in C#.Net that included writing class libraries, web
+services and extensive Stored Procedures.
+• Extensive use of T-SQL statements and joins.
+• Debugging and Testing (Dry Run) the developed modules.
+• Documentation of the modules.
+• Support system implementation and maintenance.
+• Full SDLC exposure from analysis of initial requirements through to development, continuous
+integration, testing and deployment.
+• Version Management using Visual Source Safe.
+• Timely delivered all the assigned modules.
+
+Environment Used
+Windows XP, Visual Studio.Net 2010, .NET Framework 3.5, IIS Server 5.0, C#.Net, ADO.Net,
+OO Design, Web Services and SQL Server 2005
+
+IT Coordinator
+Revolution Advertising Pvt. Ltd  -  Delhi, Delhi - September 2010 to October 2011
+
+Delhi based Advertising & Promotion Mogul.
+
+Major Responsibilities:
+• Managing all IT related assignments.
+• Raising requisitions and assuming responsibility of deployment of IT assets.
+• Co-Designing of creative for advertising and other promotional materials for the various projects.
+• Enforcement of IT policies issued from time to time.
+• Acquiring relevant data, managing, processing and distributing it among various departments as required.
+• Taking data backup from time to time.
+• Developing and implementing online business promotion strategies.
+• Managed a unit of 8-10 systems each in 3 cities of Punjab, viz., Jalandhar, Amritsar and Ludhiana.
+• Handling all administrative work for the team.
+
+Web Promotion Executive
+INDIAmart INTERmesh Ltd  -  Noida, Uttar Pradesh - June 2009 to August 2010
+
+World's No. IVth B2B Company. A strong competitor and rival of alibaba.com
+Major Responsibilities:
+• Optimizing the client's website for higher rankings in search engines.
+• Optimization of title tags, page text, meta tags, images, text hyperlinks and heading tags.
+• Modifying the design of a website using HTML.
+• Generate quality traffic to the client's website.
+• Preparing blogs and updating information on travel, garments, foods and FMCG goods.
+
+Technical Support Officer
+HCL Technologies Ltd  -  Noida, Uttar Pradesh - October 2008 to June 2009
+
+Leading Global Technology and IT enterprise
+Major Responsibilities:
+• Gathering and analyzing customers information and to determine the underlying technical issue.
+• Troubleshooting any problem related to the No.1 ISP in UK (British Telecom)
+• Verifying physical layer and network layer issues.
+• Uninstalling/reinstalling basic software applications at the customers end.
+
+EDUCATION
+
+BCA
+IGNOU
+
+B.Com.
+Delhi University  -  Delhi, Delhi
+
+Diploma in Software Management
+Aptech  -  New Delhi, Delhi
+
+Diploma in J2EE Architecture and Design
+NIIT  -  New Delhi, Delhi
+
+ADDITIONAL INFORMATION
+
+Operating Systems: Windows […]
+Programming Skill sets: C#.NET, ADO.NET, ASP.NET, Web Services, WCF, LINQ, SQL Server 2005,
+JQuery, HTML, Visual Basic
+Application Server: IIS Server
+Version Control: Visual Source Safe
+Packages: Visual Studio.Net 2010, Microsoft SQL Server 2005, MS Office
+
+

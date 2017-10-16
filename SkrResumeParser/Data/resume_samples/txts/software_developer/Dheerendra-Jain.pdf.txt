@@ -1,0 +1,196 @@
+Dheerendra Jain
+
+More than 7 year of experience in finance domain of Oracle Pl-Sql Expert having
+expertise in database tuning and data modelling
+
+Ghaziabad, Uttar Pradesh - Email me on Indeed: indeed.com/r/Dheerendra-Jain/e17e497620449225
+
+➢  Over  7  years  of  programming  experience  as  an  Oracle  PL/SQL  Developer  in  Analysis,  Design  and
+Implementation  of  Business  Applications  using  the  Oracle  Relational  Database  Management  System
+(RDBMS)
+➢ Involved in all phases of the SDLC (Software Development Life Cycle) from analysis, design, development,
+testing, implementation and maintenance with timely delivery against aggressive deadlines.
+➢  Experience  with  Data  flow  diagrams,  Data  dictionary,  Database  normalization  theory  techniques,  Entity
+relation modeling and design techniques.
+➢  Expertise  in  Client-Server  application  development  using  Oracle  […]  PL/SQL,  SQL  *PLUS,  TOAD  and
+SQL*LOADER.
+➢  Effectively  made  use  of  Table  Functions,  Indexes,  Table  Partitioning,  Collections,  Analytical  functions,
+Materialized Views, Query Re-Write and Transportable table spaces.
+➢ Good knowledge on logical and physical Data Modeling using normalizing Techniques.
+➢ Created Tables, Views, Constraints, Index (B Tree, Bitmap and Function Based)
+➢ Developed Complex database objects like Stored Procedures, Functions, Packages and Triggers using
+SQL and PL/SQL.
+➢ Developed materialized views for data replication in distributed environments.
+➢ Excellent technical and analytical skills with clear understanding of design goals of ER modeling for OLTP
+and dimension modeling for OLAP.
+➢ Experience in Oracle supplied packages, Dynamic SQL, Records and PL/SQL Tables.
+➢ Loaded Data into Oracle Tables using SQL Loader.
+➢ Partitioned large Tables using range partition technique.
+➢ Experience with Oracle Supplied Packages such as DBMS_SQL, DBMS_JOB and UTL_FILE.
+➢ Created Packages and Procedures to automatically drop table indexes and create indexes for the tables.
+➢ Worked extensively on Ref Cursor, External Tables and Collections.
+➢ Expertise in Dynamic SQL, Collections and Exception handling.
+➢ Experience in SQL performance tuning using Cost-Based Optimization (CBO)
+➢ Good knowledge of key Oracle performance related features such as Query Optimizer, Execution Plans
+and Indexes.
+➢ Experience with Performance Tuning for Oracle RDBMS using Explain Plan and HINTS.
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Software Engineer
+Nucleus Software  -  Noida, Uttar Pradesh - May 2011 to Present
+
+Duration: Sep 2010 toApr 2011.
+
+DataBase Developer
+Nucleus Software  -  Noida, Uttar Pradesh - May 2011 to Present
+
+A 67, Sec 64, Noida
+
+ProjectName:FLIP
+
+Client:OBS, France
+Role:OraclePL/SQLDeveloper
+Duration: Aug16 - PresentDescription:
+The FLIP used by User those are providing support to their router and network user for any kind of technical
+fault and device technical and replacement related issue addressing. This Product enable users to capture
+raise the ticket for demand any new router or replacement of router or other network device which they want
+to be install at new location or replace from the existing location. This product not only provide the device but
+also rectify the technical fault releated issues tracking and close the ticket or escalate it to other department
+or person.
+
+Responsibilities:
+➢ Coordinated with the front end design team to provide them with the necessary stored procedures and
+packages and the necessary insight into the data.
+➢ Worked on dbms_aq advance queue by enqueue and deque of the data what user provide by sending the
+xml through UI
+➢ Generated server side PL/SQL scripts for data manipulation and validation and materialized views for remote
+instances.
+➢ Developed PL/SQL triggers and master tables for automatic creation of primary keys.
+➢ Created PL/SQL stored procedures, functions and packages for moving the data from staging area to data
+mart.
+➢ Created scripts to create new tables, views, queries for new enhancement in the application using TOAD.
+➢ Created indexes on the tables for faster retrieval of the data to enhance database performance.
+➢ Involved in data loading using PL/SQL and SQL*Loader calling UNIX scripts to download and manipulate
+files.
+➢  Performed  SQL  and  PL/SQL  tuning  and  Application  tuning  using  various  tools  like  EXPLAIN  PLAN,
+SQL*TRACE, TKPROF and AUTOTRACE.
+➢ Extensively involved in using hints to direct the optimizer to choose an optimum query execution plan.
+➢  Used  Bulk  Collections  for  better  performance  and  easy  retrieval  of  data,  by  reducing  context  switching
+between SQL and PL/SQL engines.
+➢ Created PL/SQL scripts to extract the data from the operational database into simple flat text files using
+UTL_FILE package.
+➢ Creation of database objects like tables, views, materialized views, procedures and packages using oracle
+tools like Toad, PL/SQL Developer and SQL* plus.
+➢ Extensively used bulk collection in PL/SQL objects for improving the performing.
+➢ Created records, tables, collections (nested tables and arrays) for improving Query performance by reducing
+context switching.
+➢ Used Pragma Autonomous Transaction to avoid mutating problem in database trigger.
+➢ Extensively used the advanced features of PL/SQL like Records, Tables, Object types and Dynamic SQL.
+➢ Handled errors using Exception Handling extensively for the ease of debugging and displaying the error
+Involved in the continuous enhancements and fixing of production problems.
+➢ messages in the application.
+➢ Created release level activity by using unix shell script and unix command from developer enviorment to
+QA enviorment
+
+Environment: Oracle 11g, SQL * Plus, TOAD, SQL*Loader, SQL Developer, Shell Scripts, UNIX, Windows XP
+
+CAPITA - Share Save
+This product suite is designed for maintaining company stock options. It takes care of entire process starting
+from scheme offering, inviting applications, processing applications, issuing stocks, tracking miss-payments,
+
+maturity request capturing, exercise execution for processing maturity request, leaver processing, interest and
+bonus calculation. Stocks can be maintained for single company and also for group companies. It also has
+feature for importing data from external resources through .csv files. PRISM is basically a single integrated next
+generation system of three current systems used within Capita Registrars and Capita Share Plan Services.
+Technology: Oracle 11g PL/SQL.
+Role: My responsibilities towards project are to understand the requirement with onshore business analyst,
+Understand the logical data model, physical data model and analysis document for the requirement, mapping
+the requirement with LDM, PDM and system analysis document
+Prepare database design document for the requiremnent, coding, Unit Testing and defect fixing in existing
+application.
+Client: CAPITA (UK)
+CAPITA,  formed  in  1984  within  Chartered  Institute  of  Public  Finance  and  Accountancy,  is  UK's  leading
+business process outsourcing (BPO) and professional services company. Prism project is related to share
+services.
+
+Capita-Share Incetive Plan
+This product suite is designed for maintaining company share options. It takes care of entire process starting
+from  share  award  offering,  allotting  share,  processing  shares,  maintasin  forefeit  share,  maintain  shares,
+processing transactions for the share movements, allotted the RSU share and vest the shares after completion
+of holding period. Generating the report for the different requirement share award summary report, vest rsu
+shresreport etc. It also has feature for importing data from external resources through .csv files. PRISM is
+basically a single integrated next generation system of three current systems used within Capita Registrars
+and Capita Share Plan Services.
+Technology: Oracle 11g PL/SQL.
+Role: My responsibilities towards project are to understand the requirement with onshore business analyst,
+Understand the logical data model, physical data model and analysis document for the requirement, mapping
+the requirement with LDM, PDM and system analysis document
+Prepare database design document for the requiremnent, coding, Unit Testing and defect fixing in existing
+application.
+Client: CAPITA (UK)
+
+Senior Engineer Development
+Sopra Steria India Pvt Ltd  -  Noida, Uttar Pradesh
+
+• 7+ years of IT experience in Application Development & maintenance using SQL Server and Oracle PL/SQL.
+• Current Organization: Sopra Steria India Pvt Ltd.Noida
+Designation: Senior Engineer Development
+
+DataBase Developer
+Nucleus Software  -  Noida, Uttar Pradesh - September 2010 to April 2011
+
+A 39, Sec 62, Noida
+
+Project1:France Archival (Part of FIN ONE Project)
+In this project we are providing the information about the old customer information to the bank of france for the
+purpose of tracing the customer for future benefits and for the legal requirements.
+
+Responsibilities:
+Development/ Upgrade/Migration
+➢ Data Migration from the flat files to our archival data base.
+➢ Modify the code in package fr_data_upload according to user requirement.
+
+➢ Create cursor, procedure for the data migration
+➢ Use UTL_file Package for data migration.
+➢ Modify the code for fast retrival of data
+➢ System Integration testing at the developer end.
+➢ Rectify the form level issues.
+
+Web Developer
+Infopro India Pvt.Ltd  -  Noida, Uttar Pradesh - March 2010 to September 2010
+
+Sec 58, Noida
+
+InfoPro India is a ISO 9001:2000 certified, US Based company having over 15, 00 employees spread across
+two continents.
+Project: RIA ENJOLIE
+Under this section of our company we deal with small commercial & retail projects for our US based clients.We
+are design & customize the design the static web site for their business.Those websites are also commercial
+website which using the pay pal money transfer utility for online shopping.
+
+Achievements
+➢ Become employee of the month for August2010 for giving Best performance
+➢ Participating in Blood Donate Camp organized by Rotary Club in Nucleus Software in Jan 2011 as well as
+in Vivekanand Poyclinic Lucknow and in Max hospital, delhi.
+➢ Participating in Airtel Delhi Half Marathon 2011 and 2012, 2013, 2014, 2015, 2016 getting the first, second
+position simultaneously between our company participants.
+➢ Oracle certified Associate (OCA certified) become in apr2014.
+➢ Oracle Certified Professional (OCP Certified) become in dec2016.
+
+CERTIFICATIONS/LICENSES
+
+OCA
+Oracle Certified Associates
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Databases: Oracle […] (SQL, PL/SQL, Stored Procedures, Triggers), MS SQL SERVER […]
+Tools: SQL*Loader.
+Operating Systems: UNIX (Sun Solaris, LINUX, HP UNIX, AIX), Windows […] & Windows XP.
+Data base /Languages/Utilities: SQL, PL/SQL, Unix shell scripts, Java, XML, C
+
+

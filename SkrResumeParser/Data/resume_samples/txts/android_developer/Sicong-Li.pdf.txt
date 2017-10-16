@@ -1,0 +1,71 @@
+<ba>
+Sicong Li
+
+Developer, BLM-Shipping for Android
+
+Seattle, WA - Email me on Indeed: indeed.com/r/Sicong-Li/884c0e0221bb6299
+<su>
+Sponsorship required to work in the US
+<we>
+WORK EXPERIENCE
+
+Android Developer
+BoLooMo International Technology Co., Ltd - September 2013 to May 2014
+
+Developed  an  Android  application  toward  tracking  ships  all  over  the  world.  The  application  can  show  the
+realtime
+AIS signal of ships on the map. You can look up about 390,000 ships' information, 10,000 ports' information and
+150,000 shipping companies' information in the application. It can show the ships' track and has the function to
+manage your own fleet.
+
+• Developed the network interface using the Apache MINA framework, designed the message object, solved
+the problems of splitting packets and reassembling the split packets, encoded and decoded the data,
+encapsulated all the network functions into public API.
+• Requested the AIS data of ships from server, stored the data in the client using SQLite, showed the icon of
+ships on the map and analyzed the previous data to show the track of ships.
+• Requested the weather data from open source website, parsed the XML data using gson and showed the
+data on the pop-up window.
+• Developed the ship information module, port information module, searching module. Requested data from
+client by json, put json string into packets using the network API, sent packets to server, got the packets from
+server, parsed the packets into objects that we designed and showed the data on the windows.
+•  Parsed  the  packets  into  SQL  language  in  the  server  end,  searched  the  data  by  SQL,  put  the  data  into
+packages and sent packages back to client.
+
+Developer
+BoLooMo International Technology Co., Ltd - December 2012 to August 2013
+
+Developed  a  customized  web  client  for  customer  to  manage  their  ships.  The  web  client  can  show  the
+customer's
+ships on the map. Customer can manage sailors, goods, supplies, repair events and so on both on ship and
+on shore
+via browser. The web client has multiple functions like estimating shipping rate, financial management,
+assignments management by calendar, vessels management and so on.
+
+• Used the Flex framework to develop the web client.
+• Customized public components like buttons, pop-up windows, grids, pie charts, drop down boxes and so on.
+• Designed the data structure to save, delete, add, change, search and show data according to the product
+requirement documents on the web client.
+• Designed the json structure to request data from sever on the basis of requirement. Parsed the json came
+back from serve.
+• Realized the functions of estimating shipping rate, financial management, vessels management, spare parts
+management according to the product requirement documents.
+GRADUATE COURSES
+
+Algorithm for Modern Computer Systems, Distributed System, Information Retrieval, Algorithms Analysis and
+Design,
+Fundamentals of Programming Languages, Computer Vision and Image Processing, Multimedia Systems,
+Selected
+Topics in Crowd Sensing Systems, Data Mining, Detection and Estimation 1
+<ed>
+EDUCATION
+
+Master's in Computer Science
+University at Buffalo  -  Buffalo, NY
+September 2015 to February 2017
+<sk>
+SKILLS
+
+C++ (Less than 1 year), JAVA (Less than 1 year), LINUX (Less than 1 year), PYTHON (Less than 1 year),
+UNIX (Less than 1 year), Android (Less than 1 year)
+
+

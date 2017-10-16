@@ -1,0 +1,47 @@
+<ba>
+Angel Bouzo
+
+Android Developer
+
+Seattle, WA - Email me on Indeed: indeed.com/r/Angel-Bouzo/bf5e6114d5bc2c91
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Best Buy  -  Seattle, WA - April 2016 to May 2017
+
+Worked extensively with Java and the Android SDK framework
+Collaborated with UX and Product owners through the software development lifecycle to attain desired goals
+Worked with libraries to maximize reusability and reduce development time
+Developed mobile application with client-server architecture
+Participated in the creation of native retail application from inception to delivery
+Worked as part of an agile development team with daily scrum meeting, and bi-weekly sprint planning
+
+Android Developer
+Walt Disney Parks and Resort Online  -  Seattle, WA - April 2015 to April 2016
+
+Worked extensively with Java and the Android SDK framework.
+Interpreted the wireframes and created layouts and functionality according to it.
+Contributed to application requirement analysis for achieving the specifications provided by the client
+Tested the application for relevant bugs, fixed the leaks and deployed on different Android devices to validate
+the application stability.
+Communicated with other teams to clear ambiguities of features and services
+<ed>
+EDUCATION
+
+Bachelor of Science in Software Engineering in Software Engineering
+Keiser University  -  Miami, FL
+December 2014
+<sk>
+SKILLS
+
+Android (2 years), Eclipse (Less than 1 year), GIT (Less than 1 year), Java (2 years)
+
+ADDITIONAL INFORMATION
+
+Skills
+Languages: Java, JavaS cript, Kotlin, JSON, XML
+Tools: GIT, Jira, VIM, Android Studio, Eclipse, Visual Studio Code
+Library: Retrofit, Dagger, Guava, OKHTTP, GSON, RxJava, Junit, Butter Knife
+
+

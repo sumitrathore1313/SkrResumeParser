@@ -1,0 +1,64 @@
+<ba>
+Blair Bickel
+
+San Francisco, CA - Email me on Indeed: indeed.com/r/Blair-Bickel/25eacf2a16e41ff1
+
+Authorized to work in the US for any employer
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+IDM Productions  -  San Luis Obispo, CA - November 2016 to Present
+
+Maintain website
+
+Instructive Student Assistant
+SONOMA STATE  -  Rohnert Park, CA - September 2015 to December 2015
+
+• Helped students learn material to complete in class assignments.
+• Pushed students to practice good programming habits while doing their work.
+• Assisted in watching over the classroom and answering questions of students.
+</we>
+<ed>
+EDUCATION
+
+BS in Computer Science
+Sonoma State University  -  Rohnert Park, CA
+August 2012 to May 2017
+
+High School Diploma
+Mount Carmel High School  -  San Diego, CA
+2013
+</ed>
+<sk>
+SKILLS
+
+HTML (2 years), C++ (4 years), CSS (1 year), Python (2 years)
+</sk>
+<ex>
+ADDITIONAL INFORMATION
+
+• Enthusiastic student with a positive attitude.
+• Proactive communicator who takes initiative in solving problems.
+• Determined worker who brings efficiency to any tasks.
+</ex>
+<sk>
+TECHNICAL SKILLS
+
+Languages: C++/C, Python, MySQL
+OS: Windows, Mac
+
+Tools: Unix, Emacs, Visual Studio, Android Studio
+
+Courses: Algorithm Analysis, Programming Languages (currently enrolled), Intro to Unix, Discrete Structures,
+Database Management, Software Design & Development, Operating Systems, Security & Malware (currently
+enrolled), Data Structures
+
+Major Projects:
+• Socket-based client/server file transfer
+• Implementation of Unix shell
+• Elevator Algorithm representation
+• Android app(similar to venmo)
+</sk>
+

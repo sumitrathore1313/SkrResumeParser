@@ -1,0 +1,252 @@
+<ba>
+Sumit Kumar
+
+Alpharetta, GA - Email me on Indeed: indeed.com/r/Sumit-Kumar/af7cb54524ea2844
+<su>
+•  Over  7  years  of  experience  in  the  area  of  software  development  for  mobiles  and  embedded  systems,
+which  includes  understanding  requirement  specification,  working  on  software  design,  coding,  testing  and
+maintenance.
+• Skilled in developing APIs for middle ware Framework modules for mobile platforms using C and C++ and
+Java.
+• Experienced of working on Android platform and frameworks and customizing it as per requirements.
+• Undertaken full life cycle of Android Application Development which includes testing on device and simulator
+as well.
+• Working on implementation of OMA-DM device management protocol for android devices.
+• Expertise in using Design patterns and object oriented methodologies to design software for mobile phones.
+• Experience of i Phone mobile application development and testing on device and simulator using x code
+and Objective C.
+• Experience of code optimization using tools like Valgrind, Bullseye, lcov, gcov etc.
+• Web Development experience using Php, Python, Java Script, CSS3, HTML5, DJango.
+• Working Experience of MySQL and JDBC.
+• Experience of developing unit test cases in C using C unit test frame work.
+• Experience of using version control and bug reporting tools like clear case, clear quest, svn, perforce and
+git etc.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Samsung Telecommunication (Worldlink) - April 2012 to Present
+
+Project: EDF Validator
+Tehnologies Used: Java, MySQL, EDF, Bar Code Scanner.
+This application is used to validate EDF files before submitting them to Sprint. It finds out invalid entry in EDF
+file, duplicated entry in EDF file. MySQL is used as Database to store validated EDF entries.
+Technical Roles and Responsibilities:
+• Developed application.
+• Tested it.
+Project: QR Code Activation
+Technologies Used: Java, Android, Camera APIs, zxing, adb, json.
+
+QR code activation project activates a cell phone using QR code. All necessary information for the activation
+are encoded in QR code. User scans the image using barcode scanner and device gets activated.
+
+Technical Roles and Responsibilities:
+• Wrote Barcode Scanner application using Camera APIs and zxing library.
+• Built Qrcode for activation after converting binary structures into string.
+• Wrote OMADM client wrapper to activate device using the data obtained from bar code reader.
+
+Project: Voice Over WiFi
+Technologies Used: Java, Web Services, SOAP, xml, ksoap2, jibx, wireshark.
+
+VO-WiFi application allows user to make calls using wifi access points. This application verifies sprint network
+coverage at specific access point location using web services over wifi.
+
+Technical Roles and Responsibilities:
+• Wrote web service client application using jibx and ksoap 2 libraries.
+• Tested it using wireshark.
+
+Project: OMA-DM/OMA-CP
+Technologies Used: Java, OMADM, OMACP, android, C, C++, QXDM, QPST, git, perforce, Odin, wireshark,
+Syncml protocol, adb, Linux, Eclipse.
+
+OMA-DM and OMA-CP applications are used to synchronize and activate the devices. UI of these applications
+are made using android UI framework.
+
+Technical Roles and Responsibilities:
+• Designed OMACP application and implemented WAPPUSH parser.
+• Designing different modules of project using good design methodologies.
+• Implemented user interface for android OMA-DM application.
+• Writing core libraries in C++, C and interfacing them with java using JNI.
+• Working on maintenance release of old android Models.
+• Analyze Syncml Messages and adb logs.
+
+Android Developer
+Qualcomm - January 2012 to April 2012
+
+Project: Core BSP team.
+
+Technologies Used: perl, C++, C, Perforce, Wire Shark, Windows, adb, QPST, QXDM, TRACE 32, JTAG.
+
+This team is qualcomm is responsible for testing device drivers on new chip sets.
+Technical Roles and Responsibilities:
+• Writing automation Test Scripts to make test tools automated.
+• Responsible for fuzzing APIs.
+
+Android Developer
+Kyocera Communications - October 2011 to January 2012
+
+Project: Android Platform for Oblique Phones.
+Technologies Used: Eclipse, JAVA, C++, Android open source, Perforce, WireShark, Linux, Android NDK,
+adb, QPST, QXDM.
+
+Oblique is the code name for the Android platform project of kyocera android Milano phones. This project
+undertakes  complete  life  cycle  of  bringing  up  full  fledged  Android  mobile  phone.  It  deals  with  bringing  up
+hardware, porting android open source on it, modifying and adding new features to it, doing changes in it
+according to Service providers requirements, testing it in real time environment etc.
+
+Technical Roles and Responsibilities:
+• Adding new features to android stack.
+• Fixing bugs reported by service providers and testing team.
+• Modifying existing features as per the requirements of service providers.
+• Writing JNI code to synchronize Android UI layer with modem layer.
+
+Android Developer
+Simbiosys Mobile Solutions - June 2011 to September 2011
+
+Project: Calorie Burn Calculator
+Technologies Used: Eclipse, JAVA, android framework.
+Calorie Burn Calculator is an android application. Users can use this application to measure the amount of
+calorie burnt while running in open space. It uses GPS coordinates to measure the distance.
+
+Technical Roles and Responsibilities:
+• Wrote application in JAVA using Android Framework in Eclipse.
+• Tested this application on simulator and on device.
+
+Android Developer
+ISIS Lab, NYU Poly - March 2009 to January 2010
+
+Project: iSignOn Application
+Site: www.identouch.com
+
+Technology Used: Xcode, objective c, svn, http Protocol, paros, COCOA Environment.
+
+iSignOn  is  an  i-phone  application.  It  uses  signature  recognition  technologies  to  protect  web  accounts  and
+secret passwords. User can log in to application by drawing his signature on i-phone screen from where he
+can access his web accounts and secret passwords.
+Technical Roles & Responsibilities:
+• Wrote application in Objective C using COCOA Development Environment.
+• Tested this application on simulator and on i-phone device.
+• Worked on finding a method of bypassing authentication in web accounts.
+
+Android Developer
+Samsung s/w Lab - August 2006 to November 2008
+
+Project: Context-aware collaborative middleware for mobile applications
+Client: Samsung s/w Lab. (South Korea)
+Site: www.samsung.com
+
+Technology  used:  C,  C++,  STL,  COM,  MS  visual  studio,  Linux,  WM6,  c  unit  test  Frame  work,  lcov,  gcov,
+Bullseye, Valgrind, RDF, xml, webdav, ARMS, OMAP3 and many more.
+
+Matrix is a pervasive computing project. In this project, Samsung is developing a context aware collaborative
+frame work for mobile devices. This frame work is supposed to provide public APIs for developers so that they
+can write their own applications of context aware Matrix functionalities.
+Technical Roles & Responsibilities:
+•Ν Location Module
+APIs in Location module are C and C++ language implementation of JSR 179. It uses GPS as location provider.
+Location module uses GPS service daemon to access location information from GPS system.
+• Implemented location APIs.
+• Implemented unit test cases using c unit frame work.
+• Implemented some small scenario applications using these APIs.
+•Ν Sensor Framework
+Sensor  Framework  module  comprises  of  multiple  sensors  and  an  upper  layer  above  all  the  sensors.  This
+upper layer, known as common interface layer, hides heterogeneity of sensors and allows user to access
+
+functionalities of sensors using same APIs. The sensors developed in sensor framework are location sensor,
+colleague sensor, weather sensor and environment sensor.
+• Implemented weather sensor APIs.
+• Implemented common interface layer.
+• Implemented unit test cases for them using c unit frame work.
+•Ν Porting and maintenance of Entire Platform
+We  were  responsible  for  porting  entire  framework  to  WM6,  Windows  and  two  other  Samsung  proprietary
+operating systems. We were also responsible for the maintenance of first version of this platform.
+
+Android Developer
+Universities - December 2005 to May 2006
+
+Project: Built Embedded Linux Systems
+Client: Universities
+Technology used: gcc, Linux kernel compilation, busy box, bin-utils and many other open source software
+
+The objective of this project was to build an embedded Linux system with real time features for research labs
+of Indian universities. The hardware used for this system were VIA boards and strong ARM boards.
+
+Technical Roles & Responsibilities:
+• Scaled down kernel to fit board requirements
+• Compiled kernel for X86 and ARM architecture
+• Built cross compilation tool chain for ARM
+• Configured and compiled gcc, busy box, bin-utils
+• Installed embedded Linux software along with eclipse on customer's machines
+
+Project: Finger print sensor Driver for Biometric system
+Technology used: gdb, Linux box, arm cross compiler
+Veridicom FPS200 is a direct contact finger print sensor. It is heavily used in Biometric systems. This sensor
+was embedded in simputer, a PDA with strong ARM processor and Linux operating system. This device driver
+is an usb interfaced module.
+Technical Roles & Responsibilities:
+• Wrote driver code and tested it on target device
+
+Android Developer
+A major defense lab in India - September 2004 to November 2005
+
+Project: Logic for Radar PCI card
+Client: A major defense lab in India
+Technology used: c, Linux box, gdb, Linux internals.
+
+This project is about developing logic for transferring real time radar data from hard disk to Half PCI card,
+processing it as per the logic given by customer and then printing this output on TTL and RS422 board.
+Technical Roles & Responsibilities:
+• Wrote the C program on the kernel side, which is the PDW card driver. The driver is compiled as modules
+using kernel headers, and using insmod installed in the kernel.
+
+Name: Development of touch pad driver for Hand held LINUX PDA
+
+Synaptic touch pad is used in hand held PDAs for inputting data. Basically this device is a serial interface
+module. The interface to this is through an insmod driver. The driver is a character mode driver.
+
+Technical Roles & Responsibilities:
+• Wrote the touch sense and output keypad modules interface
+• Carried out the unit testing for the same
+
+Name: Test development for loom machine card
+
+This project was to develop a software for a loom machine to automate printing in some predefined patterns.
+The controller used in this project was MSP430.
+Technical Roles & Responsibilities:
+• Developed test plan and test cases for a MSP430 based embedded controller used in textile yarn controller.
+• Was responsible for collecting bugs from the tests and reporting it to the development team.
+<ed>
+EDUCATION
+
+Masters in Computer Science
+NYU-Poly
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skill Set
+
+Languages C, C++, objective c, java, XML, java script, HTML5
+Scripting Languages Perl, Bash Shell Script
+Platforms Linux, Windows, Unix, WM6, OS X, Xen Server, android
+Tools  and  Utilities  MS  Visual  Studio,  Xcode,  Eclipse,  clear  case,  clear  quest,  Bullseye,  GDB,  lcov,  gcov,
+Valgrind.
+Concepts
+Linux Internals, Context aware Computing, system software development, mobile S/W development, machine
+learning, Open Mobile Alliance - Device Management
+
+Open Source S/W Raptor, gpsd, Open SSL, PCRE, light httpd, AceDB, Android Open Source
+
+Android Applications
+Calendar
+Link: https://play.google.com/store/apps/details?id=com.sumit.calendar
+This is a demo calendar application. It allows user to add and delete events. It uses SQLite as data base and
+GridView to display the calendar
+
+Calorie Burn Calculator
+Link: https://play.google.com/store/apps/details?id=com.sim.sumit.caloriecalculator
+Calorie Burn Calculator is an android application. Users can use this application to measure the amount of
+calorie burnt while running in open space. It uses GPS coordinates to measure the distance.
+
+Projects Undertaken
+
+

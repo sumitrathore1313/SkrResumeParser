@@ -1,0 +1,202 @@
+<ba>
+Sudhakar Balketi
+
+Android Developer - BlueCross BlueShield
+
+Philadelphia, PA - Email me on Indeed: indeed.com/r/Sudhakar-Balketi/ca220a34abafe221
+<su>
+•  Certified  Android  Developer  with  Over  7years  of  IT  Experience  in  Software  Development  and  4years  of
+Complete Android application Development life cycle (analysis, design, development and testing) experience
+since SDK version 2.3 (Gingerbread) to 6.0 (Marshmallow).
+• Hands on experience in writing the Mobile applications for various mobile device manufactures like, HTC,
+LG, Motorola, Samsung and platforms such as Android.
+• Experienced Mobile / Android Developer who designed and developed consumer application for Android
+mobile devices with extensive user interface development.
+• Proficiency in developing and design of mobile and embedded technologies on mobile platform, Android with
+SDK version from 2.3 to 4.2 and application development in Android NDK.
+• Good understanding in End user requirement analysis, Android OS, interactive application development and
+full Software Development Life Cycle (SDLC).
+• Proficient with common Android Framework API's (Email, Web View, contact manager, Camera, Notifications,
+Maps).
+• Strong working knowledge in Android architecture and experience in Android API's.
+• Good experience with object oriented programming, analysis and design patterns.
+• Good understanding of memory management and data structures.
+• Good understanding of Android SDK, UI Framework and ADT tools.
+• Experience with query languages such as SQL and SQLite.
+• Experience with using multi-threading technologies such as Handler, AsyncTask, and Thread.
+• Experience in using Storage options in Android like Shared Preferences.
+• Knowledge in designing and developing adaptive UI components, widget for android phones, tablets using
+Notifications, Adapters, Content Provider, Services, XML Parsing, SQLite
+• Worked extensively with Eclipse, Android Studio, Visual Studio and QT
+• Experience of developing android apps for different screen size and resolution.
+• Experience of working in mobile teams to design, develop and implement new features.
+•  Experience  of  working  with  test  teams  to  fix  bugs,  improve  performance  and  validate  the  design/
+implementation.
+• Experience in web services using markup languages like JSON and REST.
+• Experience with consuming APIs and RESTful web services.
+• Experience of working in agile environment involving scrum meetings with UI design, implementation and
+testing teams.
+• Experience with code repositories such as SVN and GIT.
+• Experience with code management tools like GitHub, Clear case, Beyond Compare familiar with Android
+location based services.
+• Experience in various methodologies like of SDLC like Agile development and waterfall development.
+• Excellent working experience with variety of operating systems like Macintosh, Windows, Ubuntu and Fedora.
+• Willingness and ability to learn and adapt to new technologies and languages.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+BlueCross BlueShield  -  Dallas, TX - March 2016 to Present
+
+Link: https://play.google.com/store/apps/details?id=com.hcsc.android.providerfindertx
+Responsibilities:
+• Involved in requirement gathering, UI design and development.
+• Integrated location based services using Google Maps API to display locations of the nearest hospital or
+urgent health care provider
+• Handling XML data using efficient parsing techniques such as DOM parser
+• Used SQLite to save user healthcare preferences, insurance information and optional medication history to
+refine the search
+• Used Android content providers for implementing features like sending E-mails, SMS, etc. from the app and
+designed GUIs for these applications
+• Worked closely with the testing team
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application. Optimized UI performance by reducing layout overdraws and flattening view
+hierarchies.
+• Used Android content providers for implementing features like sending E-mails, SMS, etc., from the app and
+designed suitable GUI for these applications.
+• Used services, Asynctasks and Alert Notification API to implement event reminder feature into the mobile
+app.
+• Involved in designing and implementation of variety of modules like 'Find Provider' where you can search
+every kind of doctor available near to your location. Directions where you can navigate to any Texas blue
+center, doctor, specialist, pharmacy and lab.
+• Involved in working with Location Manager and Restful Web service with JSON.
+• Tested the application on various Android devices.
+• Fixed regressions, resolved errors/exceptions, and troubleshoot unexpected app behavior.
+• Used JUnit for writing test cases corresponding each functional use cases.
+• Fixed bugs related UI, app functionalities and improved the performance.
+• Analyzed the performance and memory usage of applications using ADB tools.
+•  Provided  feedback  to  business  owners  about  performance  and  usability  issues  concerning  software
+specifications and implementation on regular basis.
+• Ported the apps from Lollipop framework to Marshmallow.
+• Wrote test cases and procedures to ensure that logic and syntax are correct.
+• Followed the Agile and Scrum methodologies in the project implementation.
+• Effectively managed the code review using continuous integration with GIT.
+
+Environment: Android SDK 2.2, SQLite 3.6, Eclipse IDE 3.5, Android API's, RESTFUL Web service, DOM,
+Parser, JDK 1.6, XML, JSON, HTML, CSS, GPS service, Log cat, Windows 7, ADT Plug-in, GIT (version
+control), DDMS console, ADB server, emulator and Base device (G1, HTC EVO).
+
+Android Developer
+North Western Mutual  -  Franklin, WI - May 2015 to February 2016
+
+Link: https://play.google.com/store/apps/details?id=constituentvoice.nwm
+
+Responsibilities:
+• Involved in full life cycle of the application including design, development and testing.
+• Used MVC, factory, adapter, builder design pattern to develop the application.
+• Developed user interface (UI) for weather update using list view and fragments.
+• Developed UI for Twitter feed reader using image viewer and list fragments.
+• Used RESTful web services to GET and PUT data from the server with Http client.
+• Used JSON parser to populate the list items.
+
+• Used AsyncTask for reading tweets from the server using twitter4j API.
+• Used Shared Preferences to save user settings and UI configurations.
+• Provided support for multiple screen size on mobile and tablet devices.
+• Collaborated with web services team to implement the backend support.
+• Tested the application on different android devices and debugged the issues found.
+• Worked in agile environment with test driven development and continuous integration.
+
+Environment:  Eclipse,  Android  Studio,  Android  2.3-4.4,  GenY  Motion,  Java,  XML,  JSON,  JUnit,  OkHttp,
+Retrofit, GSON, Jenkins CI, JIRA
+
+Android Developer
+Solar Turbines  -  San Diego, CA - January 2014 to April 2015
+
+Link: https://play.google.com/store/apps/details?id=com.cat.solar.ehm.InSight
+Responsibilities:
+• Worked closely with UI design team to ensure proper translation of design requirements.
+• Used different UI elements, adapted the application for different screen size devices.
+• Implemented fragments, custom views and adapter for displaying equipment details.
+• Implemented XML pull parser to retrieve data from XML feeds
+• Implemented SQLite database to store user profile and parsed XML data.
+• Implemented multithreading for updating user data.
+• Supported to design and develop user feedback form.
+• Created test cases and test data for testing the application using JUnit.
+• Performed Unit testing on the various modules to ensure the basic test coverage.
+• Used JIRA for new requirements, issues, bug tracking and project planning.
+• Tested the app in different devices to assure quality and performance.
+• Participated on the decision-making process for selecting the appropriate technologies for the project based
+on requirements and the user's needs.
+• Dalvik Debug Monitor Server (DDMS) for debugging and testing
+• Used agile process, peer programming, and implemented tasks within the planned sprints.
+Environment: Eclipse IDE, ADT plugin, Android SDK 2.3, Java, XML, SQLite, JIRA, GIT, JUnit, JIRA.
+
+Android Developer
+HIGHBROW Interactive  -  Chennai, Tamil Nadu - May 2011 to December 2013
+
+Link: https://play.google.com/store/apps/details?id=com.HighbrowInteractive.IndianTrainSim
+Responsibilities:
+•  Involved  in  the  full  life  cycle  of  the  project  including  planning,  designing,  development,  testing  and
+deployment.
+• Involved in requirement gathering and designing of the application.
+• Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Implemented unique design for portrait and landscape mode.
+• Implemented SQLite databases to monitor shipments.
+• Implemented customized web view component to load an SWF file and HTML data.
+• Handling XML data using efficient parsing techniques such as DOM parser.
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+• Tested the application on various Android devices.
+
+• Used Android content providers for implementing features like sending E-mails, SMS, etc., from the app and
+designed suitable GUI for these applications.
+• Used services, Asynchronous tasks and Alert Notification API to implement event reminder feature into the
+mobile app.
+Environment: Android SDK 2.2, Eclipse IDE 3.5, Java, XMLs and Base device (G1, HTC EVO).
+
+Android Developer
+IndianBooks.co  -  Delhi, Delhi - May 2009 to April 2011
+
+Link: https://play.google.com/store/apps/details?id=in.co.indianbooks
+Responsibilities:
+• Implemented complex custom layout design for Books application.
+• Responsible for integrating Lessons from the Internal Server and made application flexible to update changes
+at any point of time.
+• Implemented application to handle orientations and support different screen sizes.
+• Developed Web Pages using XML, 9 patch and integrated them in Books application.
+• Handled restful web services consumption for fetching content from the Internal Webserver
+• Integrated Facebook feature for easy sign on.
+• Integrated Google Map kit for enabling the locations.
+• Used subversion as version control.
+• Used JUnit for Testing the App.
+• Used PayPal API for payment method.
+
+Environment: Android SDK 1.6, Java SDK 1.6, SQLite, Eclipse IDE, ADT Plugin.
+<ed>
+EDUCATION
+
+Bachelor of Technology in Technology
+JNTU  -  Hyderabad, Andhra Pradesh
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+Operating  System  Windows  (2000/XP  Professional,  Windows  8,  Windows  10),  Ubuntu,  Mac  Pro,  Fedora,
+Macintosh.
+Multi-threading technologies Handler, AsyncTask, and Thread.
+Mark up language HTML5 and XML 1.0, JSON, REST.
+Android App
+Mobile Development
+
+SDK 2.x, 3.x, 4.0,4.2 Android, API - Activities, List Views, Adapters, SQLite, Horizontal scrolling, Notification
+Manager, Contact Content Provider, Map, HTTP Client. Eclipse IDE, ADT plugin, Android SDK 2.3, Java,
+XML, SQLite, GIT.
+
+IDE Eclipse 3.x, Android Studio, Microsoft Visio 2007.
+Servers Application Servers: IBM WebSphere Application Server v7.0 Web servers: Apache Tom cat 5.5
+
+

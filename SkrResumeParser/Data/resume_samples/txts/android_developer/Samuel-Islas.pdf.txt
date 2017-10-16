@@ -1,0 +1,133 @@
+<ba>
+Samuel Islas
+
+Android Developer
+
+Atlanta, GA - Email me on Indeed: indeed.com/r/Samuel-Islas/af769a7cf7d01f01
+<su>
+◦ 5 years of experience in the IT field.
+◦ Technology lover that naturally stays up-to-date on relevant new developments.
+◦ Regularly provide constructive feedback to team members so they can continuously grow individually.
+◦ Experience interacting with RESTful API and data formats like (JSON, XML).
+◦ Experience with continuous integration tools like Jenkins or Travis CI and automated testing frameworks
+such as Espresso.
+◦ Knowledge of current literature of pattern recognition, clustering and implementations of machine learning.
+◦  Experience  with  social  media  web  services,  libraries,  APIs  and  SDKs  such  as  Facebook,  YouTube,
+Instagram, Google + and Twitter.
+◦ 3 years of experience in all phases of application development working primarily on Web technology (Java,
+PrimeFaces, JSF) as a Developer.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+- October 2016 to April 2017
+
+https://play.google.com/store/apps/details?id=com.weather.Weather&hl=en
+
+Responsibilities:
+➢ Participate in software design, estimation of development tasks, testing, QA process, pair programming,
+troubleshooting & code debugging.
+➢ Liaise with Design / UX teams to adapt an iOS specification for Android.
+Tech Work:
+➢ Refactored the user cases on presentation layer following Uncle Bob 3-Tier Architecture design.
+➢ Paired programmed on the Bouncy Castle Crypto package Java module implementation of cryptographic
+algorithms.
+➢ Used Butter Knife and Dagger 2 for views injection and loose coupling.
+➢ Replaced volley library with reactive programming (RxJava) for asynchronous operations to parse JSON
+data from API.
+➢ Included Okio library to make it easier to access, store, and process data.
+➢ Downloaded initial settings data using RESTFul WS and posting values to API server.
+➢ Implemented TDD using Mockito and Espresso testing tools to test uses cases in business and abstract
+layer of the architecture.
+➢ Created Custom Views for Scrolling, Customised items, Customised label, Event listeners.
+➢ Worked on new Android wear application using Node API and watch ViewStub UI.
+➢ Followed Kanban and Scrum using Target process management software.
+
+Android Developer
+Map My Run  -  Austin, TX - January 2016 to September 2016
+
+https://play.google.com/store/apps/details?id=com.mapmyrun.android2
+
+Responsibilities:
+➢ Work closely with the UX design team to iterate designs in to living presentation code.
+
+➢ Wrote client-side code for mobile applications, create robust high-volume production applications.
+
+Tech Work:
+➢ Worked on OpenStreetMapView and Google Play Services for offline tile sources and overlay support. with
+built-in overlays for plotting icons, tracking location and drawing shapes and record GPS-based workouts.
+➢ Worked on the Beta release version of the app for Moto 360 Gen 2, Samsung wear to add athletic shoes
+and start tracking mileage feature.
+➢ Created a compound view to display balloon UI over marker icon and custom progress bar UI view Used
+Leak Canary and memory monitor tools to locate and fix memory leaks and ANR.
+➢ Worked on Android wear notifications, pages, wear layouts and syncing data in a list.
+➢ Used RecyclerView, CardView and PullToRefresh to improve performance and user experience with Android
+Marshmallow 6.0 and Lollipop 5.0 features.
+➢ Incorporated MPAndroidChart chart view / graph view library, to support line- bar- pie- radar- bubble- and
+candlestick charts as well as scaling, dragging and animations to show precise stats like pace, route, distance
+and calorie burn.
+➢ Worked on JUnit testing framework for testing network modules.
+➢ Worked on Jenkins for continuous integration and bitbucket for code backup.
+➢ Coordinated to work on special features like heart rate analysis, personal training plans, audio coaching,
+and Live Tracking features within the app.
+➢ Replaced activities with fragments, included MVP design patterns and clean up code.
+
+Software Analyst
+Softtek DF, México - September 2014 to December 2015
+
+https://play.google.com/store/apps/details?id=com.sat&hl=en
+Responsibilities:
+
+➢ Mentor a junior developer.
+➢ Participate in software design, estimation of development tasks, testing, QA process, pair programming,
+troubleshooting & code debugging.
+➢ Work in a fast paced cross-functional team in an agile environment with daily Scrum meetings.
+
+Tech Work:
+➢ Creation and implementation of a FATCA module to make a communication between SAT and IRS.
+➢  New  development  of  "portal  para  el  cobro  de  las  declaración  en  el  SAT  (Formulario  JackBe-  Pago
+referenciado) - SAT" and maintenance. This Project is working on app server WAS, with ANT, and SVN, on
+IDE Eclipse.
+➢ Reception, analysis and development activities to development of requirements
+➢ Develop and integer different methods for the module FATCA, like ZIP, Encryption, Signed XML.
+➢ Java technology change to JavaScript of "portal para el cobro de las declaración en el SAT (Formulario
+JackBe- Pago referenciado) - SAT"
+➢ Web development experience on back-end, maintenance of "FormularioJackBe Pagos Referenciados"
+➢ Develop Rest calls to the SAT Mobil app for Android, using reactive programming (RxJava) for asynchronous
+operations to parse JSON data from API.
+
+Research Analyst
+Connus DF, México - March 2013 to August 2013
+
+Responsibilities:
+➢ Deliver across the entire app life cycle concept, design, build, deploy and test.
+➢ Work directly with developers and product managers to conceptualize, build and test products.
+
+➢ Build prototypes at tech scoping stage of projects.
+Tech Work:
+➢ Implementation of virtualized ports SAIP system for cloud architecture.
+➢ Integration modules SAIP system styles to standardize the appearance with Primefaces.
+➢ Updating and maintenance of equipment in vShepere virtualized operating system.
+➢ Web development experience, maintenance of virtual machines.
+<ed>
+EDUCATION
+
+Master  of  Computer  Science  in  Laboratory  of  Neural  Networks  and  Unconventional
+Computation
+Computer Research Center  -  Mexico City, MX
+2012 to 2014
+<sk>
+SKILLS
+
+ANDROID (2 years), JAVA (1 year), ECLIPSE (1 year), JAVASCRIPT (1 year), XML (1 year)
+
+ADDITIONAL INFORMATION
+
+SKILLS
+Java, JSF, JS, R, Matlab, XML/XSL, Primefaces, HTML 5, C and C++, CSS, JavaScript, JQuery, Bootstrap,
+AJAX, Eclipse, Android Studio, MySQL, Oracle11g, Glassfish, GitHub, Jenkins, Agile/SCRUM, TDD, Google
+Maps, RESTful, Retrofit, Picasso, Glide, YouTube, Espresso, Robolectric, OpenStreetMap, Flurry Analytics,
+Facebook  SDK,  Twitter,  Fragments,  JUNIT,  MVC,  MVP.  Tomcat,  WAS,  WebLogic,  UML,  Netbeans  IDE,
+Wireshark, Photoshop.
+
+

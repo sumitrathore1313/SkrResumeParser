@@ -1,0 +1,195 @@
+<ba>
+Aakash Takale
+
+Web Developer | Front End Developer
+
+Santa Clara, CA - Email me on Indeed: indeed.com/r/Aakash-Takale/bde724621bdfa120
+
+Web Development professional having 2 years of experience and specialized in Front-End Development.
+</ba>
+<su>
+I have pursued my Master's degree in Computer Science from California State University Fullerton, USA. I am
+a constant learner and so far I have gained knowledge about different domains such as Web Development,
+Database, Software Engineering, Data Structures, Testing and Quality Assurance.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+QubeDrop, Corp  -  Morgan Hill, CA - October 2016 to Present
+
+• Developed web applications for clients on billable engagements.
+• Collaborated with other team members to understand the requirements and deliver the application modules
+within time, budget and with consistently good quality.
+•  Created  a  prototype  to  preview  parts  of  DSV/CSV  data  using  HTML5,  CSS3  and  the  D3.js  JavaScript
+framework.
+
+Web Developer
+Global Rescue Relief, Inc [Remote]  -  Washington, DC - August 2016 to November 2016
+
+• Volunteered to develop a website that acts as a portal for this Non-Profit Organization.
+
+Crew Member (Carl's Jr)
+California State University Fullerton  -  Fullerton, CA - September 2014 to May 2016
+
+• Prepared quality food products on a regular basis and made sure that standards are met. 
+• Ensured safety and sanitation practices in the kitchen.
+• Maintained a positive and professional approach with coworkers and customers.
+
+Software Engineer Intern
+GlobeIT Solutions  -  Pune, Maharashtra - June 2013 to May 2014
+
+• Produced a system called Ensuring Distributed Accountability for Data Sharing in Cloud.
+• Coordinated with other developers and designers, which pioneered the project.
+•  Gained  proficient  knowledge  of  major  web  technologies  including  HTML/CSS/JavaScript,  and  got
+accustomed to work under minimal supervision.
+• Ensured quality of software through focus on collaborative design and code review, unit testing.
+•  Groomed  to  become  a  confident  person  after  expressing  my  views,  advice  and  suggestions  to  the
+management. 
+• Successfully documented software and technical specifications.
+</we>
+<ed>
+EDUCATION
+
+Master of Science in Computer Science
+California State University Fullerton  -  Fullerton, CA
+
+2014 to 2016
+
+Bachelor of Engineering in Computer Engineering
+University of Pune  -  Pune, Maharashtra
+2010 to 2014
+</ed>
+<sk>
+SKILLS
+
+HTML 5, CSS 3, Javascript, JQuery, Ajax, JSON, Wordpress, Bootstrap 3.0, AngularJS 1.5, Java, C, C++,
+SASS/SCSS, Resposive Design, Git, Agile Methodologies, Responsive Design
+</sk>
+<ba>
+LINKS
+
+https://aakashtakale.wordpress.com/
+
+https://github.com/AakashTakale
+
+https://stackoverflow.com/users/7254314/aakash-takale
+
+https://www.linkedin.com/in/aakash-takale
+</ba>
+<ca>
+CERTIFICATIONS/LICENSES
+
+Front-end Formations
+April 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/front-end-formations
+
+CSS Cross-Country
+April 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/css-cross-country
+
+Journey Into Mobile
+April 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/journey-into-mobile
+
+ES2015: The Shape of JavaScript to Come
+March 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come
+
+JavaScript Best Practices
+March 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/javascript-best-practices
+
+jQuery: The Return Flight
+March 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/jquery-the-return-flight
+
+Shaping up with Angular.js
+April 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/shaping-up-with-angular-js
+
+Assembling Sass
+April 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/assembling-sass
+</ca>
+<ex>
+PUBLICATIONS
+
+Data Sharing: Ensure Accountability Distribution in the Cloud
+http://www.ijert.org/view.php?id=7938&title=data-sharing-ensure-accountability-distribution-in-the-cloud
+February 2014
+Cloud  computing  is  highly  emerging  technology  of  the  21st  century.  Cloud  enables  the  user  to  store  the
+data also the data can be processed on any of the machine which user does not know. While enjoying the
+convenience brought by these new technologies of cloud computing, users fear of losing the hold on their data.
+A thorough research is needed for detective controls in the area of accountability and logging, where in some
+privacy protection techniques concentrate on preventive controls. We proposed a system that sub-urbanized
+information accountability framework to keep track of user’s data in cloud. We chose object-centered approach
+to highlight the security purpose by enclosing our logging mechanism together with user’s data along with
+policies. The proposed system will also take care of the JAR file by converting it into nebulous code which will
+add the further layer of security to the architecture. We ensure accountability gets distributed and providing
+more reliable and secure system.
+
+ADDITIONAL INFORMATION
+</ex>
+<pr>
+PROJECTS
+--------------------------------------
+1. TweetBlog
+
+• Created a Java Enterprise Web Application that allows users to maintain the group blog.
+• Established system had a public “front page” showing the most recent blog in reverse chronological order,
+along with the author and timestamp of each blog.
+• Developed and maintained user interface for the application based on product requirements.
+• Enabled the users to create an account providing their username and password, later allowing those users
+to create a new blog if logged in successfully.
+• Used the “Model 2” MVC architecture combining the Servlets, JSPs and Maven dependencies.
+-------------------------------------
+2. Medical Record System Software (MRSS) 
+
+• Built an interactive real time web application from scratch to store and manage patient’s information online
+• Designed, developed and administered login and registration forms and created user interface layout using
+standard HTML/CSS practices. 
+• Executed functional testing using Selenium IDE and modified unit tests using JUnit framework.
+-------------------------------------
+3. Ensuring Distributed Accountability for Data Sharing in Cloud.
+
+• Successfully offered security to data which data owner uploaded on cloud
+
+• Developed and maintained front end functionality of the system.
+• Experienced writing test plans, developing test scenarios along with test cases and performed manual testing
+of the system.
+• Published a research paper in the International Journal of Engineering Research and Technology
+URL: http://www.ijert.org/view-pdf/7938/data-sharing-ensure-accountability-distribution-in-the-cloud
+---------------------------------------
+4. Metrics is Agile: SCRUM, XP and other Agile Methods
+
+• Mentored the team of four people.
+• Analyzed and demonstrated different concepts of agile methodologies.
+---------------------------------------
+5. Weather Application
+• Developed a weather application using an Open Source API which gives current weather data for any location
+on Earth including over 200,000 cities.
+</pr>
+<sk>
+---------------------------------
+TECHNICAL SKILLS
+---------------------------------
+Web Technologies: HTML5, CSS3, JavaScript, jQuery, AJAX, JSON, AngularJS, NodeJS, PHP 
+Programming Languages: C, C++, Java, Visual Basic
+Databases: Oracle 10g, MySQL
+Tools  and  Technologies:  Bootstrap  3.0,  WordPress,  Adobe  Photoshop,  Sass,  Data  Structures,  Agile
+methodologies, Scrum, Git
+Operating Systems: Windows, Mac, Linux
+
+
+</sk>

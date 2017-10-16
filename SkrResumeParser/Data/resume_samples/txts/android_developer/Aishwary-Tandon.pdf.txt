@@ -1,0 +1,87 @@
+<ba>
+Aishwary Tandon
+
+Android Developer
+
+Jersey City, NJ - Email me on Indeed: indeed.com/r/Aishwary-Tandon/016c9f57786bb9c6
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Spica Computers LLC - July 2015 to July 2016
+
+• Worked on the development and debugging of ThinkRite Assistant meeting application that involves the use
+of calendar API to fetch the calendar events, meetings and webinars.
+• Implemented the functionality of Meeting Status logic to give meeting alerts based on the various meeting
+categories (Overlap, Conflicting and back to back meetings) and implement custom fonts and color and layout
+rebranding according to the material design specifications.
+• Implemented Mix Panel Analytics to analyze different user actions in the application based on different events
+and properties and created user profiles to store properties about a specific user.
+• Used ButterKnife Library for view injections and Dagger 2 for dependency Injections.
+• Used services, Async Tasks and Alert Notifications API to implement meeting status reminder to the mobile
+app.
+• Embedded Google Maps API, GPS Location Data into app with zooming controls.
+• Used web views, list views & populated lists to display the lists from database using simple adapters.
+• Designed automated test methods to test out core logic and UI layouts using Roboelectric.
+• Involved in working with Location Manager and Restful Web service with JSON.
+
+Android Developer
+Mobile Programming LLC - July 2014 to June 2015
+
+• Worked on the development and debugging for Bluetooth Low Energy (B.L.E) Android application.
+• Created the B.L.E service for managing connection and data communication with a GATT server that is
+hosted on a given B.L.E device.
+• Identified new business development opportunities, analyzed business processes to develop customized
+solutions and reduce costs, improve performance within a given budget.
+•  Participated  in  Project  Planning,  prepared  test  cases,  product  analysis  and  project  meetings  throughout
+product lifecycle.
+
+Bhushan Steel Limited - August 2012 to July 2013
+
+• Developed user-friendly user-interfaces using widgets like Menus, Dialogs, different Layouts, Buttons, Edit
+boxes and Selection widgets like List View and Scroll View as per client need.
+• Populated spinner data from SQLite database by using simple spinner which allows selecting an item from
+a drop down menus and to store user and app data into SQLite database.
+• Added search functionality to list view items will filter the list data with a matching string.
+• Integrated Google Maps into the application using Google Android location-based APIs to display addresses
+and locations.
+<ed>
+EDUCATION
+
+Masters in Computer Science
+New York University  -  New York, NY
+May 2015
+
+Bachelor of Technology in Information Technology
+I.T.S Engineering College  -  Noida, Uttar Pradesh
+June 2012
+<ba>
+LINKS
+
+https://github.com/ashwary
+
+ADDITIONAL INFORMATION
+<sk>
+TECHNICAL SKILLS
+
+• Programming Languages: Java
+• Scripting Languages: JavaScript, Python
+• Operating Systems: Windows, Unix
+• Databases: My SQL
+• Mark up languages: HTML, XML, and CSS3.
+• Other Tools: Eclipse, MS Office, Axure RP
+PROJECTS
+
+True  Weather  App  https://play.google.com/store/apps/details?id=com.tandon.aishwary.weather  April  2015-
+July 2015
+• Created a weather application that displays real weather data by connecting to an internet backend by using
+OpenWeatherMapApi.
+• Added permissions, initiated network I/O, Used Content Provider as an abstraction layer and Loaders to
+asynchronously load data, Created Adapters to bind UI components to Content Providers
+• Implemented Background services and alarms to schedule background tasks, background data transfers
+with Sync Adapters and notifications to interact with users.
+• Identified and resolve integration points, including offline/server integration, and validated user input.
+• Applied material design principles to activity transitions, keylines and layouts and implemented resizable
+widgets and immersive wallpaper images.
+
+

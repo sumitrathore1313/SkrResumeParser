@@ -1,0 +1,54 @@
+<ba>
+vamshi bfdvfv
+
+Sr. Web/UI Developer - US Bank
+
+San Francisco, CA - Email me on Indeed: indeed.com/r/vamshi-b/61a0b4a8667e5d51
+<we>
+
+WORK EXPERIENCE
+
+Sr. Web/UI Developer
+US Bank  -  San Francisco, CA - May 2014 to Present
+
+Description:
+Incorporated new functionalities to modify existing banking application that supported customer relationship,
+loan account profile, transaction and account management and funds transfer functions. Customer can perform
+operations on all their account types. The customer can pay bills for respective account by selecting each
+account and transfer funds from one account to another account.
+
+requirement understanding.
+• Developed stores procedures, triggers, functions and database tables in Oracle database.
+• Worked on developing a suitable GUI for ATM locator.
+• Involvement in using Eclipse IDE.
+• Participated in daily meeting for enhancing the features for the portal.
+• Participated in Code review and Quality Assurance.
+• Used JDBC, application server provided transaction API for accessing data from the Oracle the using standard
+statements.
+• Preparation and review of Unit Test Plan, Unit Testing, Test Results review and other quality related work.
+
+Tools & Technologies: HTML, CSS, JavaScript, XML, XHTML, DOM, DHTML, Oracle database, Eclipse, SQL,
+Windows XP
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Computer Science
+JNTU  -  Hyderabad, Andhra Pradesh
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SUMMARY:
+• Web Technologies: HTML4/5, CSS2/3, JavaScript, jQuery, JSON, AJAX, AngularJS, XHTML, Bootstrap,
+DHTML, MVC, DOM, XML, Require.js, Node.js, and JSP.
+• Mobile Web Skills: Responsive Design, jQuery-Mobile.
+• Developer Tools: Sublime Text 2, Notepad++, Dream weaver, Web Storm, Eclipse, Visual Studio.
+• Browser: IE 7 & up, Firefox, Opera, Chrome, Safari.
+
+• Operating Systems: Linux, Windows, UNIX, Mac OS X.
+• Application Servers: Web logic, Web Sphere, Apache tomcat.
+• Methodologies: Agile, Scrum.
+• Databases: MySQL, ORACLE 10g/11g, PLSQL.
+</sk>
+

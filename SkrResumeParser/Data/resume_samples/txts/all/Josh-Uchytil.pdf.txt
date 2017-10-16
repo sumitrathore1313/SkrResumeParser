@@ -1,0 +1,56 @@
+<ba>
+Josh Uchytil
+
+WEB DEVELOPER
+
+Mesa, AZ - Email me on Indeed: indeed.com/r/Josh-Uchytil/fedeba4011dc3112
+</ba>
+<su>
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+WEB DEVELOPER
+BYU-Idaho Music Dept  -  Rexburg, ID - May 2016 to December 2016
+
+* Familiarized with web tools such as Ingeniux and working with the university web site
+* Engaged in a team effort to accomplish tasks with care, rigor, and haste
+* Ongoing project: recreating the BYU-Idaho Musicianship Exam using JavaScript and jquery
+
+Volunteer
+The Church of Jesus Christ of Latter  -  Mexico City, MX - September 2012 to October 2014
+
+Mexico
+* Restructured and created automated reports systems on spreadsheets which yielded improved results
+* Oversaw the renewal of visas for fellow representatives and completed the necessary requirements and
+administration in a punctual manner
+* Outperformed responsibilities as an executive secretary regarding the overseeing and mentoring of other
+office staff
+</we>
+<ed>
+EDUCATION
+
+BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING in Technical Communication
+Brigham Young University  -  Rexburg, ID
+April 2018
+</ed>
+<sk>
+SKILLS
+
+Python, C++, Javascript
+</sk>
+<ba>
+LINKS
+
+http://linkedin.com/in/joshuchytil
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+* C++ * Python * JavaScript
+* Visual Studio * Linux * XML
+* HTML * CSS * Fluent in Spanish
+</sk>
+

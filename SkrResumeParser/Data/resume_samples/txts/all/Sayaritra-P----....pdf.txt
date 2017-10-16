@@ -1,0 +1,241 @@
+<ba>
+Sayaritra P -- […]
+
+Android Developer
+
+Edison, NJ - Email me on Indeed: indeed.com/r/3ca9bdf3b0b4712e>
+Sayaritra
+[…]
+developer1153@gmail.com
+<su>
+● Over 7 years of professional IT experience including 4 year's experience in Android application development,
+testing & deployment in Consumer and Enterprise Applications.
+● Proficient with Java, Android SDK version Android 2.2 to Android 6.0 (Froyo, Gingerbread, Honeycomb, Ice
+Cream Sandwich, Jelly Bean, KitKat, Lollipop, Marshmallow).
+● Strong knowledge on object oriented programming and software engineering.
+● Expertise in Data Structure, Multithreading, Collections, Exception handling, Socket Programming.
+● Expertise in developing android applications using Eclipse IDE, SQLite, Java, XML, Android SDK and ADT
+plugin.
+● Experience in working with Bluetooth Low Energy, Wi-Fi and NFC.
+● Extensive experience in building mobile applications using Android framework APIs such as (Location/,
+Camera, Animations, Maps).
+● In depth experience to use Google services, Location services, and Google Maps.
+● Experience in Cross-Cutting techniques like Security, Operations Management and in app Communications.
+● Good experience in Open GL-ES, Text on OpenGL and Android multi-touch.
+● Work experience with GIT to handle very large projects and GERRIT to submit changes for the project.
+● Experience in design and development of Rich Mobile Applications using JavaScript, XML, CSS, and HTML.
+● Hands on experience in using ionic framework to build beautiful and interactive mobile apps using HTML5
+and CSS3.
+● Good experience in Android Network protocols and Network Security.
+● Experience in using SQLite Database for mobile data management, SQL SERVER database for web data
+management.
+● Experience on Android UI components such as Text View, List View, Customized List View, Menus, Edit
+boxes,  Buttons,  Checkboxes,  Dialog  boxes,  Alert  boxes,  Action  bars,  and  Spinners  for  various  layouts  in
+Application development.
+● Experience in using UI designing tool such as Balsamiq and Protoshare to meet the requirements of projects
+and show the results to client.
+● Experience in Graphic designing in Adobe Photoshop, MS Visio and Front Page for rich user friendly front
+end contents.
+●  Extensive  knowledge  of  MVC  architecture  and  J2EE  Design  Patterns  like  Singleton,  Session  Facade,
+Service  locator,  DAO,  DTO,  and  Business  Delegate  in  the  development  of  web  based  and  distributed
+Enterprise  Applications.  Solid  experience  in  application  development  as  a  Java/J2EE  developer  using
+WebSphere Application Server and WebSphere Studio Application Developer
+●  Expertise  in  MVC  Architecture  using  Struts,  Spring  with  features  like  the  Validation  Framework,  Tiles
+Framework, and Internationalization.
+● Solid understanding in Design Patterns, MVC, Python Algorithms, Python Data Structures
+<sk>
+SKILL
+Application Servers Tomcat […] WebSphere 6.0
+IDE Eclipse 3.x, Net Beans 5.x/6.x/7.x, Android Studio Eclipse, Visual
+Studio, X-Code, GDB, Android Access
+
+Web Technologies HTML, CSS, AJAX, Backbonejs, JQuery, Angular JS
+OS Android, Windows […] 2008), UNIX
+RDBMS SQLite 3.6, Oracle 9i/10g, MySQL […]
+Concepts OOPS,MVC,MVP
+Web Servers Tomcat 6.0 Apache HTTP Server, Apache ANT, Maven
+Design Tools Dreamweaver, Illustrator, Photoshop, Flash
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Wasp Mobile  -  Boca Raton, FL - June 2016 to Present
+
+GooglePlayStoreLink:https://play.google.com/store/apps/details?id=com.waspmobile.consequenceofsound
+Mobile Application for the popular website consequenceofsound.net, which has around 7 Million views every
+month. Gets data from the website in JSON format and displays it in the form of articles.
+
+Project Title: Consequence of Sound
+• Involved in requirement gathering, development and bug fixing.
+• Used Volley library to fetch data from Server in form of Json.
+• Used Glide library to lazy load images.
+• Used SQLite to store data in tables. Used Transactions for faster insertion of data.
+• Used ViewPager to allow user to swipe between articles.
+• Used Fragments to improve UX an UI.
+• Used OneSignal SDK to implement Push notification.
+• Used JSoup library to insert Javascript into HTML content of the article to display the advertisement.
+Environment: Android SDK, Java.
+
+Android Developer
+Wasp Mobile  -  Boca Raton, FL - February 2016 to May 2016
+
+Front-end application, Tastemakers used to register users for private social network of Dunhill, a famous brand
+of British American Tobacco. The application is primarily targeted for Indonesia. Female presenters collect
+user's data and feed it in the application, which is synced to server. Registered users get access to the social
+network.
+
+●  Used  Facebook's  Conceal  library  to  encrypt  the  public's  sensitive  information.  Conceal  is  an  image
+encryption library.
+● Used oAuth to secure Female Presenter's login information.
+● Used Asynctask to sync data to server.
+● Used Connectivity API to check for internet connectivity.
+● Used LocationFusedAPI to get location of the user.
+● Used SQLite to store the data on the device and once synced the data is deleted on the device
+● Used Camera API to launch camera and take pictures of a person's ID Card.
+Environment: Android 5.0, Android SDK, Java, Eclipse, Google Maps API, Android Emulator, SQLite.
+
+Android Developer
+Visa  -  Foster City, CA - January 2015 to September 2015
+
+Visa Explore - This app is for Visa card holders and is used for finding latest Visa offers and promotions,
+overseas and nearby- from travel deals, dining, entertainment, shopping and other life style related privileges
+
+personalized as per user interests. This app has other features like ATM locator, Currency converter, Quick
+access to emergency assistance and concierge numbers. The application is free, convenient and secure.
+Link: https://play.google.com/store/apps/details?id=com.visa.asiapacific&hl=en
+● Involved in implementing various UI screens matching the design requirements
+● Integrated location based services using Google Maps API to display locations of the nearest ATMs.
+● Used Recycler View to have an optimized list view.
+● Have been part in redesigning and re-architecting the application into material design
+● Extensively used REST web services to display the data on the user interface.
+● Used third party libraries for network calls and parsing JSON response.
+● Implemented the login screen.
+● Have been part in improvising and testing on the application.
+● Implemented unit testing using JUnit for the application
+● Has been part in implementing various modules of the application and have end to end Knowledge of the
+entire application
+● Followed Scrum methodology for the application development.
+● Handled integration with Social networking apps like facebook and also messaging apps like Whatsapp,
+SMS.
+● • Developed UI screens matching both Tablets and Mobile devices.
+● • Tested the application in various versions of mobile devices and tablets.
+● • Resolved compatibility issues to support various OS versions from Jellybean to Marshmallow (4.3-6.0).
+Environment: Android Studio, XML, JSON, Material Design, JUnit
+
+Android Developer
+HSBC  -  Schaumburg, IL - June 2013 to July 2014
+
+HSBC Mobile Banking - Banking app helps customers to manage money on the move and around the clock.
+Other features of the app include, Log on to personal account around the world, view your account balances
+and transaction history, Move money around the accounts
+Link: https://play.google.com/store/apps/details?id=com.htsu.hsbcpersonalbanking&hl=en
+● Worked with Product owner to find the exact feature requirements to design the application
+● Designed the app using MVC pattern following OOPS rules.
+● Integration of new REST web services with the app.
+● Implemented new features of the app, XML parsing using SAX and DOM parser of the REST responses.
+● Implemented various UI screens meeting the requirements from the Design specifications.
+● Customized UI components like alerts, popup windows for displaying information across the app.
+● Used Content provider for the persistent storage of the User data, Fragments for UI.
+● Integration of push notifications for the app to notify the user of updates and activity notifications.
+● Integrated third party libraries like Volley, EventBus, Google Play services.
+● Followed Agile development methodology and released features on release basis.
+● Web view implementation with the app for the terms and confidentiality information.
+● Resolved QA defects on a daily basis and prepared build release notes which provides the defect verification
+status.
+Environment: Android Studio, Git, Sourcetree, Gradle, Rally, Jenkins, QC, Oracle SQL Developer, SOAPUI
+
+Software Engineer
+Cognizant Technology Solutions - January 2012 to May 2013
+
+Provider network was a Java based application which was related to health care. It helped in maintaining all
+the patients' database (oracle) with information like their credentials, their disease and symptoms history as
+well as their medicine, drug history as well about their insurance details.
+• Involved application requirement and developing design solution.
+
+• Building the database for the patient information.
+• Used Hibernate to implement and leverage the ORM framework
+• Used JUnit for all unit testing and integration testing
+• Built the backend services, which will be consumed by action classes of studs.
+• Created web services such as REST and SOAP to allow communication between the applications.
+• Integrated spring (Dependency Injection) among different layers of an application.
+• Used spring framework for dependency injection, transaction management.
+• Used Spring MVC framework controllers for Controllers part of the MVC
+• Designed Use Case Diagrams, Class Diagrams and Sequence Diagrams using Microsoft Visio.
+• Designed User Interface based on MVC framework, which attains an apt coordination for Struts MVC, JSP,
+Servlets and Custom Tag Libraries.
+• Configured Struts-specific deployment descriptor (struts.xml)
+• Implemented the validations using Struts MVC Framework
+• Created Action Classes for Controller in Struts MVC Framework
+• Implemented Struts Framework for configuration of action mappings and presentation logic in JSPs, Servlets.
+Environment: Java, J2EE, Spring, Spring Security, HTML, JavaScript,, CSS, Log4j, JUnit, Apache Tomcat
+server, Eclipse, Oracle, SVN, JIRA, Hibernate
+
+Java Developer
+Union Bank of India  -  Hyderabad, Andhra Pradesh - June 2011 to December 2011
+
+Union Bank of India is one of the largest government-owned banks of India. It provides products and services in
+area of saving, deposit, retail loans, cards, and insurance. The objective of the project is to enable the personal
+banking system which eases the maintenance of various accounts including credit-cards, loans, and fixed
+deposits. The system offers automatic bill payments, bill scheduling, fund transfers and automatic notifications
+through emails.
+● Actively involved in Requirement Analysis, Design, Coding, Developing, unit testing and System Testing
+● Used JDBC to connect to SQL Server database for data retrieval and store.
+● Created specific images using Python Imaging Library for the custom images used for each book.
+● Used Python to place mdata into JSON files for testing Django Websites.
+● Updated and manipulated content and files by using python scripts.
+● Implemented web applications in Flask and spring frameworks following MVC architecture.
+● Used Django configuration to manage URLs and application parameters.
+● Worked on Python Open stack API's.
+● Used Python scripts to update content in the database and manipulate files.
+● Generated Python Django Forms to record data of online users.
+●  Used  Python  and  Django  creating  graphics,  XML  processing,  data  exchange  and  business  logic
+implementation
+● Deployed application on WebLogic server and used Log4j for logging and tracing the messages.
+● Eclipse IDE was used and SVN repository for version control.
+● Apache ANT was used for the entire build process.
+● Involved in writing complex SQL queries and stored procedures in SQL Server
+● Provide status reports to the management and used JUnit for unit testing for all the modules.
+● Co-ordinate tasks with team and provide status reports to the management.
+Environment: Core Java, SQL, Rational Rose, JMS, WebLogic, JDBC, Log4j, Eclipse, SVN, Apache ANT, Junit
+
+Java Developer
+JSB Systems  -  Hyderabad, Andhra Pradesh - February 2010 to May 2011
+
+Invoice Generation for Pharmaceutical Company
+Invoice Generation for Pharmaceutical Company is a web application developed for a multinational
+
+pharmaceutical company to create administrative section for maintenance of its invoice orders, product
+search, stock availability in store, organization contracts, customer service and report generation.
+As a developer, designed and implemented the user interface to generate the invoice for client orders, business
+logic for product search and coded for backend to store and manage the stock and order details
+● Worked on AGILE methodology
+● Designed use cases, sequence and class diagrams, activities, states, objects and components.
+● Used UML (MS Visio) for software design.
+● Developed presentation layer with JSPs, HTML5, JavaScript, CSS3, JSON, jQuery, AJAX, AngularJS.
+● Used Ajax and jQuery for developing asynchronous web applications on client side.
+● Designed and developed XML processing components for dynamic menus on the application
+● Developed the application using Spring MVC Architecture with Hibernate as ORM framework.
+● Created SOAP Web Services using WSDL, XML and SOAP for transferring data.
+● Wrote SQL queries for demanding complex business logic and to retrieve data used to generate the reports.
+● Developed Stored Procedures and Triggers on Oracle Database.
+● Used Log4j for application logging and debugging
+● Developed JUnit test cases for all use cases and executed them.
+● Took various initiatives to optimize existing applications for better performance and efficiency
+Environment: Java 1.6, J2EE, Servlets, JSP, JUNIT 4.1, Oracle11g, Apache, Eclipse IDE, Log4J, Ajax, PL/
+SQL, HTML 5, CSS, Java Script, jQuery, JSON, AngularJS.
+<ed>
+EDUCATION
+
+Master of Computer Science in Computer Science
+State University of New York at Buffalo  -  Buffalo, NY
+
+Bachelor of Technology in Technology
+Institute of Engineering & Management  -  Kolkata, West Bengal
+<ba>
+LINKS
+
+http://consequenceofsound.net
+
+

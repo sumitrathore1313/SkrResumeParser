@@ -1,0 +1,51 @@
+<ba>
+Miaad Shahrokhi
+
+web developer - IrsaI.T.T
+
+Qorve - Email me on Indeed: indeed.com/r/Miaad-Shahrokhi/0d85136959d17699
+
+Profile: Male, 29, Married
+
+Current Location: Iran, Kurdestan
+
+Current position: Web Developer
+Company: Irsaitt
+(Reporting to: IT Managers)
+
+Preferred Locations: Anywhere in Iran, Anywhere outside Iran
+Salary expectation: Not Specified/ Negotiable
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+</ba>
+<we>
+WORK EXPERIENCE
+
+web developer
+IrsaI.T.T - July 2012 to Present
+
+• Network Knowledge
+• Strong understanding of material-design, CSS3, LESS or SASS,
+HTML5, PHP
+• Laravel Knowledge
+• JavaScript Knowledge
+• Client side performance, debugging and optimization techniques
+• Git based workflow using git-flow and Local / Staging / Production
+development environments.
+• Complete understanding of responsive web design and how designs
+will be adapted for specific devices (including responsive grids).
+• A commitment for keeping your code clean, well-organized, and DRY.
+• Photoshop and Sketch skills as they related to design.
+• Ability to help and support co-workers and clients around projects.
+• Libraries, such as JQuery
+• Troubleshoot OS/Application software problems
+• Provide orientation and train new users of existing technology and system
+</we>
+<ed>
+EDUCATION
+
+Master's in IT
+Tehrān
+September 2012 to September 2014
+</ed>
+

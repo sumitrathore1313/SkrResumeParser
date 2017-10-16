@@ -1,0 +1,132 @@
+Bhushan Ishwarkar
+
+Kalyan, Maharashtra - Email me on Indeed: indeed.com/r/Bhushan-Ishwarkar/86b3986c3be3e529
+
+•  Over  8  years  of  experience  in  Teaching,  Office-Operations,  MIS  &  Documentation  and  Relationship
+Management; along with 1+ years of experience in Software Designing, Development and Implementation in
+Applications
+•  Proficient  with  IT  Application  project  support  of  project  flow  systems;  proficient  in  troubleshooting  and
+delivering technical as well as innovative solutions for clients, test & design teams in a timely manner.
+•  Possess  knowledge  of  all  phases  of  Software  Development  Life  Cycle  (SDLC)  with  concentration  on
+software requirements specifications (SRS), requirements analysis, technical systems design, development
+and implementation of applications.
+•  Familiar  with  gathering  &  defining  business  requirements  while  managing  the  risks  to  improve  business
+processes  and  translating  the  requirements  into  systems  solution  by  preparing  functional  specifications;
+knowledge of JAD sessions, business case, requirements elicitation, scope management, STLC (software
+testing life cycle)
+• Senior academician providing able administrative and visionary leadership to IT education in India, imparting
+quality management education to a wider range of aspiring professionals and business leaders of tomorrow.
+• Keep abreast of the latest developments in trends as well as administrative techniques in my field and move
+in consonance with changing times.
+• Humble and proactive professional with a flair for connecting with learners and nurturing as well as fostering
+their development with teaching methodology to their utmost potential; experienced in designing challenging,
+enriching and innovative activities that addresses the diverse interests and needs of students.
+
+WORK EXPERIENCE
+
+Assistant Professor
+Saraswati College  -  Shegaon, Maharashtra - July 2014 to Present
+
+Sant Gadge Baba Amravati University, Amravati
+
+Assistant Professor
+Unique College Bhopal  -  Bhopal, Madhya Pradesh - July 2009 to June 2014
+
+Guest Lecturer of Computer Science
+Soft Plus Computer Center  -  Bhopal, Madhya Pradesh - August 2009 to June 2011
+
+Bhopal
+
+Guest Lecturer of Computer Science
+•  Delivering  lectures  in  Computer  Science  &  fundamental  programming  and  help  to  improve  the  skills  of
+students.
+•
+
+Software Developer
+Vardhman Fabrics (Textile) Oswal Group of Industries Ltd  -  Hoshangabad, Madhya Pradesh - August
+2008 to June 2009
+
+Software Developer
+Sun Flag Iron & Steel Co. Ltd  -  Bhandara, Maharashtra - August 2007 to June 2008
+
+• Held responsible for writing new program code using prescribed specifications as per requirement for creating
+software applications.
+•  Involved  in  requirement  analysis,  database  design,  coding,  testing,  implementation  and  maintenance  of
+several software applications.
+• Held responsible for fixing all the bugs and ensure smooth implementation of the project.
+• Handled designing & development of the workflow diagrams & followed up till solving the problem along with
+writing database queries.
+• Responsible for all sorts of technical documentation related to the project, such as document programming
+problems and resolutions for future reference.
+•  Provided  support  &  development  of  the  software  applications/  tools,  included  all  phases  of  the  software
+development life cycle (SDLC) for development functions related to large complex applications & software
+programs
+
+Major Accomplishments
+• Developed a "Process Planning & Control System" for the company as Process Mill Section in Visual Basic,
+ERP & SQL-Server.
+• Upload Facility: Time is very important factor for the organization, with the help of this Project reduces the
+time and paper work. The search facility is useful to each employee to gather all the information of a specific
+Product by knowing only few details.
+• Developed a "Quality Control System" for the company as Rolling Mill Section in Visual Basic, SAP-ABAP
+& SQL-Server.
+• Search Facility: Employees can search information about Product of Steel Company only with the help of
+Heat No. or Production Date or Chemistry.
+• Upload Facility: Authorized people can upload the Record in the Database in SAP to Visual Basic. They
+create a File In the drive.
+
+EDUCATION
+
+MCA in Computer Science & Engineering
+University Dept of Computer Science And Application , Amravati University, Amravati  -  Amravatiy
+July 2004 to June 2007
+
+B.C.A
+Barkatullah University  -  Bhopal, Madhya Pradesh
+2004
+
+SKILLS
+
+ABAP (Less than 1 year), database (Less than 1 year), EMPLOYEE RESOURCE GROUP (Less than 1
+year), ENTERPRISE RESOURCE PLANNING (Less than 1 year), Training (1 year)
+
+ADDITIONAL INFORMATION
+
+IT Skills
+• ERP: SAP R/3 - (ABAP/4 with Cross Applications)
+• Netware: SAP R/3 -XI (Exchange Infrastructure), Mainframe
+• Languages: Python, MATLAB R2012b, ABAP/4, XI, Vb.Net, C, C++, JAVA, VB, COBOL, CG, VSAM, JCL,
+CICS, PHP 5.
+• Web Design: 3JS, Nutch, HTML, VbScript, JavaScript
+
+• Database: Oracle 10g, SQL-Server, DB2, MS-Access, DBMS.
+
+• Operating Systems: Android, Windows 2000/XP, z/OS, MS-DOS.
+
+Core Competencies
+
+~ Consulting ~Program / Project Management ~ Process Excellence
+~ Business Analysis/ Requirement ~Business Process Management ~ Budgeting / Resource Management
+
+~ Interpersonal Skills ~ IT Project Management ~ Software Development
+~Technical/Quality Support ~ Troubleshooting / Fault Analysis ~ Design / Implementation
+~ Program Analysis ~ Quality & SLA Assurance ~ Team Leadership
+~ Technology Operations ~ Resource Utilization & Mobilization ~ Training & Development
+~ Research & Development ~Administration ~ Innovative Curriculum Development
+~ Classroom Management ~Student Assessment ~ Development Schemes
+
+SAP Skill Set
+
+• Expertise in understanding the R/3 System and considerable experience in ABAP/4 programming techniques,
+documenting and designing technical specifications of the processes.
+•  Possess  good  knowledge  in  LSMW,  ALV  and  BDC.  Expertise  in  preparation  of  Reports  for  Functional
+requirements
+• Acquire good knowledge of SAP scripts and smart forms, User exits and control events and Debugging using
+ABAP debugger and Runtime Analysis.
+•  Have  knowledge  on  Exchange  Infrastructure  (XI  7.0),  SAP  Web  Application  Server  Administration,  SAP
+System Administration, SAP Business Connector
+•  Attained  knowledge  on  WebDynpro  /  Java  Programming  using  Netware  Developer  Studio,  R/3  -  ABAP
+Programming including ABAP objects, Document Management System, ALE/EDI, IDOC, RFC
+• Extensive knowledge in HTML, XML, SOAP, WSDL, FTP, HTTP
+
+

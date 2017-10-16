@@ -1,0 +1,73 @@
+<ba>
+Duc Nguyen
+
+Android developer at Vinasource (Poeta) - Applied software
+
+Des Moines, WA - Email me on Indeed: indeed.com/r/Duc-Nguyen/c7d129e5fe99781a
+<su>
+Over 5 years experience in mobile application development on Android platform and 1 year in mobile testing
+with following skills:
+◦ Experience in applying software development processes: CMMI and Agile
+◦ Experience in analyzing requirements
+◦ Experience in designing and implement Unit test
+◦ Familiar with most modern mobile technologies
+◦ Good at teamwork and self-organization skill
+Willing to relocate: Anywhere
+<we>
+WORK EXPERIENCE
+
+Android developer
+Poeta  -  Ho Chi Minh - March 2013 to July 2017
+
+• Android team leader (9 members)
+• Developed mobile application with Android platform
+• Analyzed requirements
+• Worked with customer directly to get/analyze requirement
+• Worked with Product and UX team to improve the design flow.
+• Applied software development process: Agile
+• Reviewed code such as coding standard, coding logic
+<sk>
+Technical Skills
+Languages:
+◦ Java
+◦ React Native
+◦ Kotlin
+◦ C#
+◦ Swift
+Platforms:
+◦ Android
+◦ iOS
+Database:
+◦ MySQL, SQLite, SQL Server, Realm
+Other technologies:
+◦ JSON, XML
+◦ RxJava
+◦ RTMP (Streaming)
+◦ Chat, Map, Video, Game SDK (2D), Firebase (Push notification, Authentication, Real time Database)
+◦ Continuous Integration (Jenkins - Automatically build and distribute to store)
+◦ Good at: Android, Java core, MYSQL, SQLite.
+◦ Moderate: React Native, Kotlin, iOS (Swift), HTML, JavaScript, Computer networking.
+<we>
+Android developer
+
+TMA - February 2012 to February 2013
+
+• Developed mobile application with Android platform
+• Analyzed requirements
+<ed>
+EDUCATION
+
+Foreign Languages
+University of technical education of Ho Chi Minh City
+September 2006 to January 2011
+<sk>
+SKILLS
+
+Java (5 years), Android (5 years)
+
+ADDITIONAL INFORMATION
+
+Libraries and concepts: Clean architecture, MVP architecture, RxJava, RxAndroid, Retrofit, Realm, Gson, Otto,
+Dagger, ButterKnife, Picasso, Glide, NFC, Firebase, Google Play Services, Android Studio, JUnit, Git Flow
+
+

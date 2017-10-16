@@ -1,0 +1,51 @@
+<ba>
+Jason Kennedy
+
+Passionate Programmer, Problem Solver
+
+Austin, TX - Email me on Indeed: indeed.com/r/Jason-Kennedy/48f0fe4ad25acc0a
+</ba>
+<su>
+My background is primarily in code. I love solving the right problems with the right code. I want to use my
+passion for software to make engaging and useful products for a social impact.
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Austin Stone Community Church - July 2011 to Present
+
+Lead developer for complete website redesign in Joomla! CMS (austinstone.org)
+Maintained 5 websites using CMS, Distributed Version Control
+Researched and implemented new registration software for large conferences
+
+Student Staff
+Young Life - August 2009 to Present
+
+Supervised a team of 10 volunteer leaders
+Coordinated weekly meetings with 50+ high school students
+Selected by Area Director to start Young Life programs at two high schools
+Interacted with Area and Metro Directors on a weekly basis
+
+Summer Staff
+Crooked Creek Ranch - June 2009 to July 2009
+
+Operated the camp ropes course with a team of 6 summer staff
+Managed a section of the course that served 500 campers a week
+Facilitated weekly events for campers
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Electrical and Computer Engineering
+The University of Texas at Austin  -  Austin, TX
+January 2011
+</ed>
+<sk>
+SKILLS
+
+Microsoft Office, Windows XP and 7, Ubuntu (Linux), Mac OS X, Java, C, C++, C#, ActionScript, HTML5,
+PHP, CSS3, JavaScript, jQuery, Mercurial DVC, Proficient in Joomla! and ExpressionEngine CMS,
+Experience with French language
+</sk>
+

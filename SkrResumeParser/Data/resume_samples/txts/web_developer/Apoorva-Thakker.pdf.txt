@@ -1,0 +1,88 @@
+<ba>
+Apoorva Thakker
+
+Master's Studet
+
+College Park, MD - Email me on Indeed: indeed.com/r/Apoorva-Thakker/d54606e9bd7cc0fa
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+University of Maryland Division of Student Affairs Office of Development  -  College Park, MD - January
+2015 to Present
+
+Responsibilities
+Defined software requirements and oversaw successful transition of website from HTML to PHP
+• Developed multiple sub-sites to reflect various University Scholarships; websites include static and dynamic
+pages
+• Analyzed incoming web traffic using Google Analytics, implemented multiple strategies based on analysis
+• Gathered requirements from donors to configure the system as per their needs and prepared websites based
+on these requirements
+• Created an interactive and easy to maintain Graphical User Interface in HTML/CSS that was user-friendly
+
+Skills Used
+Website Development, Database Management, Photoshop, Graphical UI Design
+
+Web Analyst
+SMG Convonix  -  Mumbai, Maharashtra - November 2013 to July 2014
+
+Responsibilities
+• Analyzed large data sets related to visitor interactions on numerous websites obtained from Google Analytics
+• Led a team of four LinkManagers and three ContentWriters, to achieve 27% increase in revenue of project
+• Highlighted visitor behavior on a particular website based on analysis of historic web data; implemented
+learnings from the analysis which resulted in an 30 % increase in online sales based on a year over year
+comparison
+• Managed numerous campaigns; devised optimization strategies every month for each campaign; maintained
+regular contact with clients based on analytical results
+
+Accomplishments
+• Elected 'Best New Recruit' by Senior Management among 40 recruit
+• Achieved 27% increase in revenue of a project
+
+Skills Used
+Web traffic analysis, requirement gathering, Microsoft Office, making presentations
+
+Technology Analyst
+SREST Information Technology  -  Mumbai, Maharashtra - May 2012 to August 2012
+
+Responsibilities
+• Coordinated procurement of historic data from online and offline teams
+• Developed an in house CRM project; supervised migration of three company databases to new CRM platform
+• Conducted rigorous acceptance and unit testing on the CRM system
+•  Chaired  a  training  workshop  for  a  team  of  30  high  school  students  tasked  with  offline  and  online
+communication
+
+• Improved and conducted CRM based training program for 40+ incoming interns and new hires
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Engineering in Information Technology
+K J Somaiya College of Engineering, University of Mumbai
+2013
+
+Master of Science in Business
+Robert H. Smith School of Business, University of Maryland  -  College Park, MD
+</ed>
+<sk>
+SKILLS
+
+Graphic Design 
+Website Design 
+Microsoft Office 
+Excel 
+Windows 
+Mac OS X 
+Project Management 
+SEO 
+Analytics 
+Google Analytics 
+Google Adwords 
+Database Management 
+Data Analysis 
+Data Mining 
+Databases 
+Communication
+</sk>
+

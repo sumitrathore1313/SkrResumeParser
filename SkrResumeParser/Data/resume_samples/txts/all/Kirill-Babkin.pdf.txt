@@ -1,0 +1,64 @@
+<ba>
+Kirill Babkin
+
+Web Developer - Tryacom, Inc
+
+Great Neck, NY - Email me on Indeed: indeed.com/r/Kirill-Babkin/98f8b7092e323a7a
+</ba>
+<su>
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Tryacom, Inc  -  Uniondale, NY - December 2014 to Present
+
+Efficiently  apply  Agile  Methodology  practices  and  tactics  to  handle  projects  and  to  ease  the  execution  of
+software development.
+◆ Develop relational database models to conveniently process and storage data.
+◆  Create  useful  graphical  user  interface  and  Web  apps  with  dynamic  programming  technology  such  as
+JavaServer Pages (JSP), HTML5, Cascading Style Sheets (CSS), JavaScript, jQuery, and AngularJS.
+◆ Utilize front-end framework Bootstrap to easily design and execute responsive Web pages and applications
+for various devices.
+◆ Produce efficient customize projects which fit clients' specifications and needs.
+</we>
+<ed>
+EDUCATION
+
+Associate in Computer Information Systems
+Borough of Manhattan Community College  -  New York, NY
+2016
+</ed>
+<ba>
+LINKS
+
+http://stackoverflow.com/users/5893203/kirill-kilo-code-babkin
+
+http://www.linkedin.com/in/kir-babkin
+
+https://github.com/Kirill-Babkin
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+QUALIFICATIONS PROFILE
+Highly motivated and creative Web Developer with a strong knowledge and practice establishing responsive
+Web pages and effective Web applications.
+♦  Successfully  develop  and  implement  practical  and  portable  applications  for  embedded  devices  and
+technologies to accomplish market requirements.
+♦ Appropriately use unit testing, data structure and algorithms processes to scrutinize each app for proper
+operation and to adequately store data.
+♦ Proven ability to perform within cross-functional teams or independently to manage, produce, and deliver
+projects.
+♦ Proactively identify and solve problems related to software technologies to ascertain secure programs.
+♦ Able to quickly adapt to any current or new technologies and to accomplish solutions for client satisfaction.
+♦ Professional proficiency in English language and native speaker of Russian language.
+
+Core Technologies
+Environments: Windows OS, Mac OS, UNIX, Linux
+Tools:
+Java, JavaScript, J2EE, CSS, HTML, jQuery, AJAX, Spring MVC, Spark, Hibernate, REST API, SQL, PL /
+SQL, MySQL, PostgreSQL, Python, AngularJS, Scrum, Gradle, Maven, JSON, PHP
+</sk>
+

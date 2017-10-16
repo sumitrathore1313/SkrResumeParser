@@ -1,0 +1,116 @@
+sanjeev sharma
+
+Noida, Uttar Pradesh - Email me on Indeed: indeed.com/r/sanjeev-sharma/80a9b2227da09cee
+
+To obtain a challenging and rewarding position where I can further my career as a front-end developer, and
+utilize technologies such as HTML5, CSS3, and JavaScript to create intuitive, elegant, and cutting-edge user
+experiences.
+
+• 6 year experience in Web design and front-end development.
+• Extensive experience in HTML 5, XHTML 1.0, CSS 2.0, CSS 3.0, BootStrap3.0, SCSS, LESS, Responsive
+Design.
+• Expert in designing web site for all devices & large scale CSS (Sass), focusing on reusability and modularity.
+• Experience in NPM, JavaScript & JavaScript framework
+• Rich experience in leading and motivating teams to excel in learning.
+Motivated, innovative, dynamic, effective problem solving techniques.
+
+WORK EXPERIENCE
+
+Software Engineer
+- September 2015 to Present
+
+Front-end web developer for the india team at Narvar india private ltd. Designed and Created Retailers Pages
+Integrated  responsive  web  design  techniques  and  modern  web  technologies  -  HTML5,  CSS3,  AngularJS,
+Bootstrap, and SCSS to create engaging and highly-visible product and marketing web pages as part of a
+completely new web platform for Narvar.
+
+Senior Front-End Web Developer
+- May 2013 to Present
+
+Front-end web developer for the hallwaze team at Xavient information systems. Integrated responsive web
+design techniques and modern web technologies - HTML5, CSS3, Bootstrap, and SCSS to create engaging
+and highly-visible product and marketing web pages as part of a completely new web platform for xavient
+information system.
+
+Front-End Web Developer
+- February 2010 to April 2013
+
+Responsible for creating W3C compliant HTML and valid CSS along with WordPress theme development,
+Newsletter  templates,  Responsive  web  design,  Code  refactoring  and  other  various  web-related  tasks  and
+maintenance.
+
+EDUCATION
+
+B.E. in Computer Science
+M.P. Technical University  -  Bhopal, Madhya Pradesh
+
+SKILLS
+
+Html5 (4 years), css (5 years), Angularjs (1 year), Bootstrap (3 years), Javascript (1 year), reactJS (1 year)
+
+LINKS
+
+http://sharmasanjeev.com/
+
+ADDITIONAL INFORMATION
+
+Technical Skill Set:
+
+• Modern Web Stack:HTML5, CSS3, jQuery, JavaScript, LESS, SCSS, Bootstrap.
+•  Workflow  &  Delivery:  Responsive  Web  Design,  Mobile  design,  Single  page  web  app,  Progressive
+Enhancement, Code Refactoring, Standards Compliant, Cross-browser Compatible, UX Design.
+•  Apps  &  Tools:  Bracket,  Sublime,  Jira,  Photoshop,  Dreamweaver,  Sketch,  illustrator,  Indesign,  Eclipse,
+Beyond Compare, GIT.
+
+• Working knowledge: ReactJS, Angular JS, ECMA. NPM, iMoive
+
+Key Projects Handled:
+
+Project#1
+
+URL: www.narvar.com/
+
+•  Work  closely  with  entire  team  to  create  Tracking  pages  front  end  code  for  features  of  retailers  tracking,
+including Java Developers, QA, web producers, content creators, and designers.
+• Work with FTL, HTML5 and SCSS for new sections of all sites.
+• Created a CSS framework for using a 12 column grid preferred by the designers as well as implementing
+parts of Object Oriented CSS to cut down on repetitive code.
+• Build out the new narvar.com website and retailers tracking pages and using HTML5, CSS3 and jQuery,
+SCSS, Bootstrap.
+• Build out the structure and layout for the new mobile version of narvar.com
+• Work in the agile process, with daily scrums and sprints.
+
+Project#2
+
+URL: www.hallwaze.com/
+
+• Work closely with entire team to create and maintain the front end code for features of hallwaze.com, including
+Java Developers, QA, web producers, content creators, and designers.
+• Work with HTML5 and CSS3 for new sections of all sites.
+• Created a CSS framework for using a 12 column grid preferred by the designers as well as implementing
+parts of Object Oriented CSS to cut down on repetitive code.
+• Build out the new gotrickle.com using HTML5, CSS3 and jQuery, SCSS, Bootstrap.
+• Build out the structure and layout for the new mobile version of gotrickle.com
+• Work in the agile process, with daily scrums and sprints.
+
+Project#2
+
+URL: https://finaonation.com/
+
+• Front end developer for proprietary JSP driven content.
+
+• Programmed standards complaint HTML5, XHTML and CSS3 working with jQuery library.
+• Built html templates for high traffic and complex data driven websites.
+• Created cross-platform compliant e-newsletters for major organizations reaching thousands of recipients
+
+Project#3
+
+URL: www.sharmasanjeev.com/
+
+• Worked Front End Development utilizing HTML5, CSS3, and JavaScript leveraging the Bootstrap framework.
+• UI/UX development to create a seamless customer experience for a high traffic personal portfolio through
+desktop, mobile and smartphone app interfaces.
+• Refine and iterate user experience by designing and implementing new modules and interfaces in a complex,
+responsive site.
+
+

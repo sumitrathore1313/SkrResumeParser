@@ -1,0 +1,161 @@
+<ba>
+Honorato Santos
+
+QA Analyst, Data Analyst, Business Analyst with Web Development background
+
+Los Angeles, CA - Email me on Indeed: indeed.com/r/Honorato-Santos/3f4948d88da06b3a
+</ba>
+<su>
+Twenty  years  experience  in  the  Financial  IT  industry  in  Quality  Assurance,  BI,  Analytics,  Applications
+Development and Technology Operations. 
+Strong QA, development, business analysis and communication skills provide enhanced ability to work as part
+of a development team using Agile or Waterfall methodology.
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Ron Dier Design - November 2014 to Present
+
+Technical Environment: Weebly website builder
+
+Key responsibilities:
+• Develop, test and maintain the company website
+• Liaise with stakeholders to gather, analyse and document business requirements for the development of the
+company website
+
+Senior Consultant
+Businessminds Australia - July 2011 to April 2014
+
+Technical  Environment:  Teradata,  Customer  Relationship  Management  tool  (Aprimo),  SQL  Server  -  SQL
+Server Management Studio (SSMS), SQL Server Integration Services (SSIS)
+
+⇒ Worked on 3 projects over the 3 years as a Campaign Development Manager, Data Analyst, SSIS developer,
+QA Manager/Analyst and Business Analyst for two of the major banks in Australia (Commonwealth Bank and
+Westpac). The projects involved building a data mart, data analysis to identify the right customers to target
+for specific campaigns, campaign execution, reporting the success of the campaign and QA of a marketing
+mailing system.
+
+Key responsibilities:
+•  Work  closely  with  stakeholders  ie  the  Marketing,  Online  and  Product  team  for  brainstorming  sessions,
+gathering business requirements and delivering the marketing campaigns and measuring its success
+• Provide operational support and customer intelligence for all direct marketing activities
+• Leverage and analyse customer data to shape Marketing Campaigns that aim to provide the appropriate
+messages/offers to the bank's customers through the right channel at the right time
+• develop a reporting data mart to support the information and analytical needs of analysts and users
+• Supporting Technical lead
+• Implementation and testing of the ETL process from source systems to the Data Mart using SSIS
+• Analysis and creation of test cases
+• Management and coordination of testing stages, issues and releases from unit testing to implementation
+• Gathering of business requirements from clients to be able to formulate test cases and document business
+process and technical requirements
+• Prioritisation of defects and resolution
+
+Agile QA engineer
+
+Transport NSW - April 2010 to June 2011
+
+Technical Environment: Windows XP Professional, Spring, Hibernate, Java, HTML, XML, Javascript, Unix,
+BEA Web Logic 10, Oracle 10
+
+⇒ The objective of this project was to provide a robust and secure central store of shared information across
+various transport modes to facilitate a range of improved outcomes for public transport users in NSW.
+
+Key responsibilities:
+• Created testing strategies for system, regression, UAT and integration testing to fit with Agile methodology
+• Created and ran test scripts across the entire application to ensure the system met user requirements for
+each sprint
+• Established and trained other testers on the use of an automated testing tool used for each release to ensure
+new functionality did not inadvertently affect the system
+•  Communicated  closely  with  other  team  members  regarding  planning  and  design  sessions  providing  key
+feedback on acceptance tests before development began
+• Collaborated with the developers to help troubleshoot and resolve defects
+• Worked closely with the Business analyst to clarify ambiguities with the requirements
+
+Analyst Programmer/QA Engineer
+Quipoz Limited - July 2007 to February 2010
+
+Technical Environment: Windows XP Professional, J2EE, Java, JSP, HTML, XML, Javascript, BEA Web Logic
+9.2, Oracle 10, Unix, DB2 v8.2
+
+Key responsibilities:
+• Analysed and documented requirements for the transformation process communicating closely with users to
+gain understanding of their needs to the system
+• Developed front end application using Java within J2EE architecture
+• Performed unit and system integration testing
+• Transitioned from Waterfall to Agile methodology and as a QA Engineer ensured that the application met key
+functionalities in scope for each iteration and scheduled sub releases
+• Prepared and executed test plans and created automated tests using Selenium as part of unit and regression
+testing
+• Reported on status of testing and development and communicated with overseas stakeholders any issues
+and resolutions
+• Achieved the flexibility between the role of a developer as well as a QA Engineer
+• Created a test base for the transformation of code to warrant that any changes to the translation of code did
+not cause any impact to the transformation already working
+• Documented a developers guide of the steps taken involved in the transformation process
+• Identifying and resolution of defects
+
+Analyst Programmer, Knowledge Engineer, QA Engineer
+CSC Australia Ltd - January 1998 to June 2007
+
+Technical Environment: Windows XP Professional, J2EE, Java, JSP, HTML, XML, Javascript, Unix, Vignette
+7, TCL, Vignette 4.5.1, Oracle 9i, Sun Identity Manager, Web Sphere, SOAP, AWD work flow system, ATG
+Dynamo, IBM Mainframe, COBOL II, IMS DB/DC, CICS, DB2
+
+Key responsibilities:
+•  Developed  and  maintained  web  based  application  primarily  on  the  front  end  for  Financial  and
+telecommunication companies as well as the government
+
+•  Liaised  with  stakeholders  to  gather,  analyse  and  document  business  requirements  for  all  development
+projects and maintenance and enhancements to existing applications
+• Developed, enhanced and supported legacy systems on the mainframe
+• Test lead for developing a web based superannuation system that used Microsoft technology which integrated
+with the Polisy legacy system and a workflow system. This involved co-ordinating systems integration testing,
+regression and user acceptance testing
+• Prepared and executed test plans and automated regression testing using Test Director and Astra Quick Test
+• Tracked and reported defects using JIRA, Bugzilla and Mercury
+• Enhanced and supported a Knowledge/rule base Personal Injury Claim system and performed statistical
+analysis on the benefits of the system
+• Developed a proof of concept to utilise Sun Identity manager to the existing security access system working
+closely with the business analysts, senior architect, product expert and stake holders.
+• involvement in the whole software development cycle from the gathering of the business requirements, design
+and technical specifications to the development, testing and implementation of the application
+• Coordinated implementation to production
+
+Analyst Programmer, Team Leader, Reporting Statistical Analyst
+Westpac Banking Corporation - November 1994 to December 1997
+
+Technical Environment: IBM Mainframe, COBOL II, NETRON CAP, IMS DB/DC
+
+Key responsibilities:
+• Developed, enhanced and maintained COBOL banking applications on the mainframe system on IMS and
+CICS environment
+• Coordinated, supported and performed interface testing, system integration, regression and user acceptance
+testing
+• mentored trainee analyst programmer
+• Prepared statement of work covering business requirements and technical design
+• Project lead having a junior and a senior developer on the team
+• Worked as a Reporting Statistical Analyst and provided consultancy in automating data collation and process
+improvements to ensure data accuracy
+• Produced statistical reports that allowed Technology Operations management to make informed decisions
+about Service availability for different business services
+• Provided first level support for hardware and software problems experienced by the corporate area of the bank
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Economics in Demography and Statistics
+Macquarie University
+</ed>
+<sk>
+SKILLS
+
+Jira Greenhopper, Astra Quick Test, Test Director, Selenium IDE, Mercury, Bugzilla, HP Quality Centre 
+Java 2 within a J2EE architecture, Javascript, VB Script, HTML, CSS, XML, JSP, JSTL, Visual Basic 6,
+ASP, TCL, AION, COBOL II, NETRON CAP, SQL, PASCAL 
+Teradata, SQL Server 2008 R2, Oracle 10, IMS DB, DB2 
+Tomcat, Web Sphere 5.1, BEA Weblogic, Borland Enterprise System 6.5, J2EE, STRUTS, J++, Eclipse 3.4,
+JDeveloper, Web Sphere Studio, Vignette 4.5.1, Vignette 7, SQL Server Management Studio (SSMS), SQL
+Server Intergration Services (SSIS), Customer Relationship Management tool (Aprimo)
+</sk>
+

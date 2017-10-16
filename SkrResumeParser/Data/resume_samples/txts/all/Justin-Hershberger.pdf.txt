@@ -1,0 +1,60 @@
+<ba>
+Justin Hershberger
+
+Web Developer - Space Dynamics Lab
+
+Logan, UT - Email me on Indeed: indeed.com/r/Justin-Hershberger/860c9179f4d12509
+</ba>
+<su>
+• I'm a hardworking, eager student preparing to graduate in Spring 2017. I'm looking for an
+opportunity to find a career opportunity that allows me to learn, prosper, interact with team
+members, and overcome challenges. I want to gain a deeper understanding of computer science as
+well as make relationships along the way. If I can't understand or don't know the solution to a
+problem, I will figure it out and learn from that experience. I look forward to any opportunity to
+become an asset to a great company.
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Space Dynamics Lab  -  Logan, UT - 2016 to Present
+
+Logan, Utah
+Enterprise Application Support Team 2016 - Current
+- I get experience in both frontend and backend parts of the stack. We use a PostgreSql
+database, OpenAcs server, tcl as our server side language, JavaScript, HTML5, and CSS3. We
+use jira as our agile work environment and have scrum meetings frequently. Git is our source
+control. I also spend time in a unix terminal frequently because we remotely connect to our
+server.  I  have  gained  a  lot  of  quality  experience  working  here.  I  can  provide  more  information  about  my
+experience here, if wanted.
+</we>
+<ba>
+• LinkedIn: https://www.linkedin.com/in/justin-hershberger-470774a7/
+• GitHub: https://github.com/jhershberger
+</ba>
+<sk>
+Languages & Other Skills
+
+1. JavaScript (JQuery, Angular2, Node.js)
+2. SQL (PostgreSQL, MySQL)
+3. C++, C
+4. Python (Python2, Python3)
+5. Java, C# (.NET, ASP.NET)
+6. Tcl (OpenAcs Server language)
+7. NoSql (MongoDb, CouchDb)
+8. Version Control (Git)
+9. Agile Development Environment (Jira, Scrum)
+10. Experience in a Unix environment (Command line, Vim, etc.)
+</sk>
+<ed>
+EDUCATION
+
+Computer Science
+Utah State University  -  Logan, UT
+2014 to Present
+
+Snow College  -  Ephraim, UT
+
+March 2017
+</ed>
+

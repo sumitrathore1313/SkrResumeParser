@@ -1,0 +1,118 @@
+<ba>
+Daejin Kim
+
+Web Developer - AnyDATA
+
+Irvine, CA - Email me on Indeed: indeed.com/r/Daejin-Kim/0363b6388064cf11
+</ba>
+<sk>
+Over 15 years of Programming: System Software and Application Software Developer
+- Over 5 years of Web, Flex experience from Analysis and Design to Development
+• Expert in business analysis, database analysis, design and development.
+Skilled  and  currently  working  in  business  analysis,  requirements  specifications,  analysis  and  design,
+development, implementation, integration, enhancement
+• Systems and Business analysis Experiences:
+Performed analysis on business process, user requirements, systems design and performance tuning
+• Expert in Flex, PHP with database analysis and design. Skilled in developing business plans, requirements
+specifications, user documentation, and building systems and software architecture
+• Works well in both team environments and individual assignments
+• A results-driven, customer-focused, articulate and analytical Software Engineer
+• Successful in meeting new technical challenges and finding solutions to meet the needs of the customer
+•  Well  rounded  IT  background  in  infrastructure  of  systems  and  software  development  from  Hardware
+knowledge  to  development  metrologies,  Software  Architecture  and  skills  in  application  programming  and
+systems engineering
+
+Technical Proficiencies
+• Computer Languages: Flex, Action script, Java, JSP, Servlets, XML, HTML, JQuery,
+C, Sql, Pro*C, PHP, Power Builder, Visual Basic
+• Data Base: MySQL, ORACLE, Sybase, MS_SQL, MS Access, Stored Procedure
+• Operating Systems: Android, Unix, MS-Windows
+• Web Servers: Apache Web Server, Apache Tom Cat Server
+• Object Oriented Tool: KEY,
+• Other Skills: Microsoft Office
+</sk>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+AnyDATA  -  Irvine, CA - July 2008 to Present
+
+• Analysis and Developing the Web Application
+• Design & development using Flex, php on Apache Server with Mysql.
+
+• development and support for management of mobile device
+• design system and development for the parcel delivery service website and supporting receiving, shipping
+processing and payment module with payment gateway.
+
+✓ System Environments
+* Flex, php, Action Script, HTML, JavaScript, jQuery
+* Android
+* Mysql
+
+Developer
+• Interface device and device ( Kindle and Wireless Modem )
+
+✓ System Environments
+* C, Linux
+
+Developer
+Development Cellular SW-outside order form Samsung  -  Seoul, KR - January 2004 to June 2008
+
+• Analysis and Developing the Application, User Interface, SMS ( PCS, CDMA, GSM )
+
+✓ System Environments
+* C, Brew
+
+Web Developer
+Cratel  -  Seoul, KR - April 2002 to December 2003
+
+Developing the wireless modem management system
+Design & development using HTML, CSS, JavaScript, Mysql, PHP Java with Apache.
+
+✓ System Environments
+* Java, Servlets, JSP, Eclipse, Open sources
+* PHP, HTML, JavaScript
+* MySQL, SQlServer
+* Apache
+
+Web Developer
+Mocons  -  Seoul, KR - September 2000 to March 2002
+
+Seoul, Korea 09/2000 - 03/2002
+Web Developer
+• analysis of the requirement and design, development for mobile homepage wizard.
+
+✓ System Environments
+* Java, Servlets, JSP, Eclipse, Open sources
+* PHP, HTML, JavaScript
+* MySQL, SQlServer
+* Apache
+
+IT Consulting and Systems Integration
+Daewoo Information System  -  Seoul, KR - July 1995 to August 2000
+
+• Assistant Manager: IT Consulting and Systems Integration
+• Worked for the clients ( Government, Company: Enterprise Information System, Management Information
+System)
+• Developed and maintained the Client Server application used for customer qualification.
+• Development of 2-Tier C/S Application. My role was designing and development of the business application.
+
+✓ System Environments
+* Power Builder, Visual Basic, Delphi, AS/SET
+* Oracle, Sybase, MS-SQL, DB400
+* Unix, Windows/NT, HP-UX, AS400
+</we>
+<ed>
+EDUCATION
+
+Graduate School of information and communication technology  -  Seoul, KR
+2004
+
+Mathematics
+DongGuk University  -  Seoul, KR
+1993
+
+Inventory Management System
+University without difficulties  -  Seoul, KR
+</ed>
+

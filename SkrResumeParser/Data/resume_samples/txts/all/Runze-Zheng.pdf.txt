@@ -1,0 +1,58 @@
+<ba>
+Runze Zheng
+
+Android Developer
+
+Minneapolis, MN - Email me on Indeed: indeed.com/r/Runze-Zheng/48b5e1b859f68d33
+</ba>
+<su>
+•  A  self-motivated  developer  with  1-year  experience  in  Android/iOS  development,  offering  knowledge  in
+Android development, iOS development, web development, and database.
+• Strong ability to work in cross functional teams.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+China Academy of Building Research  -  Beijing, CN - May 2015 to December 2016
+
+• Worked as a part-time web developer, and developed a website that evaluates employee performance, and
+assign work to employees.
+• Built a website featuring password protection, auto re-arranged UI, admin mode, and data processing utilizing
+MySQL database, PHP, JavaScript, HTML5, and CSS.
+• Constantly communicated with customer to report progress and add new features.
+• The website was used as a prototype of the current version of the employee evaluation system.
+
+Mobile Developer
+Pentair Equipment Protection Inc  -  Minneapolis, MN - January 2016 to September 2016
+
+• Worked as an R&D co-op in a lean-production environment, and provided a new feature to the product by
+developing an Android/iOS app that controls the industrial AC via Bluetooth.
+•  Developed  all  features  of  the  application  functionality  i.e.  password,  Bluetooth  IO,  notification,  Internet
+communication, local data caching, interactive UI.
+• Transferred feedback from customers into new features, debugged the app using ADB and used SVN for
+version control.
+• The Android/iOS app was distributed to customers for Beta test.
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Electrical & Electronics Engineering
+University of Minnesota  -  Minneapolis-Saint Paul, MN
+September 2012 to December 2016
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+SKILLS:
+•  Android:  Eclipse,  Android  Studio,  Mobile  development  life  cycle,  API,  ADB,  Activities,  Services,
+BroadcastReceivers, Bluetooth, WiFi, material design, JUNIT4, XML, REST, SOAP.
+•  iOS:  Xcode,  Swift2,  Objective-C,  Third  Party  Libraries  and  APIs,  Cocoa  pods,  Interface  builder,
+MVC  framework,  Reachability,  ROXimity,  AFNetworking,  AdobeMobileLibrary,  CXAlertView,  EGOCache,
+IBActionSheet.
+• Programming: Jenkins, Selenium, Microsoft Visual Studio, JavaScript, Core Java, Python, Oracle Database,
+PostgreSQL, MySQL, JSON, CSS, object-oriented design, GitHub, SVN, HTML5, PHP, asp.net, UNIX.
+</sk>
+

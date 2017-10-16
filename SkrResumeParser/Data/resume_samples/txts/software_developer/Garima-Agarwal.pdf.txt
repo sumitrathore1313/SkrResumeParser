@@ -1,0 +1,194 @@
+Garima Agarwal
+
+Software Developer - CPM India Sales & Marketing Pvt. Ltd
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Garima-Agarwal/a39fa96202688401
+
+WORK EXPERIENCE
+
+Software Developer
+CPM India Sales & Marketing Pvt. Ltd - July 2011 to Present
+
+CPM  India  is  a  part  of  Omnicom  (www.omnicomgroup.com)  Diversified  Agency  Service  group  (DAS)
+(www.dasglobal.com) and operating globally, we specialize in ensuring that your customers are contacted in
+the right place at the right time via the most appropriate channel.
+CPM India is leading field marketing & event Promo Company; it has up to 1500 people working for us making
+15000 face-to-face, 6000 phone and web contacts each week.
+
+Software Developer
+Recent Technologies Pvt. Ltd - January 2011 to July 2011
+
+Syninfotech Pvt. Ltd. as Web Developer
+Relish Insurance  -  (HP), IN - January 2010 to January 2011
+
+Projects: Blooming 4ever, Astrologix Online, Yuvrajstampsgallery
+
+Proficiency Forte
+• Software Development:
+✓ Conducting system study and coordinating with team members for requirements mapping, system design
+& integration, implementation, etc.
+✓ Designing & executing test plans and gap analysis to ensure that requirements and functional specifications
+are tested & fulfilled.
+✓ Understanding requirements, identifying systems and getting it developed & implemented.
+
+• Project Management:
+✓ Mapping requirements and providing them best solutions involving evaluation & definition of scope of project
+and finalization of project requirements.
+✓ Holding review meetings to monitor progress of the project as per schedule / budgets and ensuring timely
+completion.
+✓ Delivering and implementing the project as per scheduled deadlines.
+✓ Creating & sustaining a dynamic environment that fosters development opportunities and motivates high
+performance among team members.
+
+Projects Handled
+• Project Title: Retailforce Compliace Module and Chatter Module
+Client: CPM UK
+Role: Developer/ Architect
+Environment: Salesforce, Apex, Visualforce
+Responsibilities:
+✓ Understand the current system & rebuild it.
+✓ Designing, Coding & Developing
+✓ Designing & Development of the system according to the requirement analysis.
+
+Description:
+Compliance module integrates with the Essentials product to allow users to create lists of product related
+questions for a set of visits.
+
+The 'Products' will be added as Items in the existing Item object and 'allocated' to a Project through a wizard.
+
+The system will create records in the compliance object based on the items and associated question sets so
+a field user can see the correct list of products for the project related to the visit they are doing.
+• Project Title: Mazda
+Client: CPM UK
+Role: Developer
+Environment: Salesforce, Apex, Visualforce
+Responsibilities:
+✓ Understand the current system & rebuild it.
+✓ Designing, Coding & Developing
+✓ Designing & Development of the system according to the requirement analysis.
+• Project Title: ASDA Self Booking System, CPM Belgium
+Client: ASDA UK Ltd., CPM Belgium
+Role: Developer
+Environment: Salesforce, Apex, Visualforce
+Responsibilities:
+✓ Understand the current system & rebuild it.
+✓ Designing, Coding & Developing
+✓ Designing & Development of the system according to the requirement analysis.
+
+Description:
+Work Parcel booking system via portal for CPM UK employees for merchandising activities.
+
+Other Salesforce Projects
+• Project Title: P&G (FMCG)
+• Project Title: Diageo
+• Project Title: NPS Module
+• Project Title: Disney
+
+• Project Title: InsideCPM, Apple China, HP Retail
+Client: CPM International, CPM China, CPM Singapore and Malaysia (HP)
+Role: Software Developer/ SQL Programmer
+Environment:
+
+EDUCATION
+
+MCA
+Hindustan Institute of Management & Computer Studies  -  Mathura, Uttar Pradesh
+2010 to Present
+
+BSC
+St. John's College  -  Agra, Uttar Pradesh
+2007 to Present
+
+Radha Ballabh Inter College  -  Agra, Uttar Pradesh
+
+2004 to Present
+
+St Joseph's Girls Inter College  -  Agra, Uttar Pradesh
+2002 to Present
+
+ADDITIONAL INFORMATION
+
+⇨ Technologies: ASP.Net, Microsoft .Net Technologies, AJAX.
+⇨ Tools: Telerik RadControls for ASP.NET AJAX
+⇨ Database: SQL Server 2008
+⇨ Languages: C#
+⇨ IDE: Visual Studio 2010
+Responsibilities:
+✓ Analysis of candidate system, Requirement analysis of the system to be developed.
+✓ Database Designing, Coding & Developing
+✓ Designing & Development of the system according to the requirement analysis.
+✓ Responsible for the designing the advance SQL queries, procedure, cursor, triggers, scripts
+✓ Also created, modified, maintained and optimized SQL server database.
+
+Description:
+InsideCPM  is  CPM  intranet  site  which  is  to  be  used  by  CEOs/MDs  of  various  CPM  Branches.  This  web
+application  will  help  them  to  increase  in  their  productivity  &  service  for  the  CPM.  It  will  also  help  them  to
+create  Business  Development  Report  which  henceforth  compiled  for  the  CPM  Branches  to  calculate  over
+development of CPM.
+Various features such as post, discussion board, keyword search etc are present.
+
+• Project Title: Parinaam - Abbott, Parinaam- P&G, Parinaam- Intel
+Client: Abbott, Proctor & Gamble, Intel
+Role: Software Developer/ SQL Programmer
+Environment:
+⇨ Technologies: ASP.Net, Microsoft .Net Technologies, AJAX.
+⇨ Tools: Telerik RadControls for ASP.NET AJAX
+⇨ Database: SQL Server 2008
+⇨ Languages: C#
+⇨ IDE: Visual Studio 2010
+Responsibilities:
+✓ Analysis of candidate system, Requirement analysis of the system to be developed.
+✓ Database Designing, Coding & Developing
+✓ Designing & Development of the system according to the requirement analysis.
+✓ Responsible for the designing the advance SQL queries, procedure, cursor, triggers, scripts
+✓ Also created, modified, maintained and optimized SQL server database.
+
+• Project Tile: Relish Insurance (Multi Level Marketing)
+Client: Relish Insurance
+Domain: Insurance.
+Role: Software Developer/ SQL Programmer
+Environment:
+⇨ Technologies: ASP.Net, Microsoft .Net Technologies, JavaScript, AJAX
+⇨ Tools: Telerik RadControls for ASP.NET AJAX 2009 Q3
+⇨ Database: SQL Server 2008
+
+⇨ Languages: C#, HTML
+⇨ IDE: Visual Studio 2008
+Responsibilities:
+✓ Designing & Development of the system according to the requirement analysis.
+✓ Finding, studying & implementing the best compatible technology or tool according to the requirement of
+the system.
+✓ Designing & Developing the User Interface using ASP.Net, HTML, AJAX & CSS and Business logic using
+C# & JavaScript.
+✓ Responsible for the training & development of the new joiners.
+✓ Responsible for the designing the advance SQL queries, procedure, cursor, triggers, scripts
+✓ Also created, modified, maintained and optimized SQL server database.
+
+Other Projects
+
+• Project Title: Sanc Secure
+• Project Title: Real Earning Solution
+• Project Title: Blooming 4ever
+• Project Title: Yuvraj Stamps Gallery
+• Project Title: Astrologix Online
+• Project Title: Client/Server Based Colorimeter
+• Project Title: Students Fees Management System
+
+• Technologies: Microsoft .Net Framework 3.5/4.0
+• Database: SQL Server […] R2, ADO.Net
+• Script: JavaScript
+• Packages: Ms-Word/Excel/Power Point Presentation
+• Operating System: Win […] 2008
+• Area of Interest: Database, GUI Design, Web Technology
+• Theory: DBMS, Computer Network
+• CRM: Salesforce (Cloud) Development & Administration
+
+Extra-curriculum Activities
+
+• Participation in Conference, "Intellectual Property Right Sensitization Programme" in 2009, organized by
+Federation of Indian Chambers of Commerce and Industry (FICCI) & Central Government of India.
+• Participation in National Conference "Computational Optimization & Applications for Real World " in 2008,
+organized by our college.
+• Participation in National Conference "Computer Based Pattern Recognition" in 2007, organized by our college
+
+

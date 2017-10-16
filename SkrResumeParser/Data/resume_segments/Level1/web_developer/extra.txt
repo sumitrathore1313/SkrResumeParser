@@ -1,0 +1,135 @@
+MILITARY SERVICE 
+Service Country US 
+Branch United States Marine Corps 
+Rank Corporal 
+December 2001 to December 2009 
+GROUPS 
+NodeJS Houston 
+June 2015 to Present 
+Everything Nodejs and Javascript 
+MILITARY SERVICE 
+Service Country US 
+Branch USN 
+Rank E7 
+October 1996 to July 2016 
+Managed a department of 45 Sailors whose responsibilities were the release of weapon systems 
+Directly responsible for the operating and maintenance of the Tomahawk Weapon System 
+While on active duty created a web based collaboration tool used for Tomahawk missile employment that the Navy quickly adapted saving millions in development costs 
+Maintained three different Command websites and social media presenceADDITIONAL INFORMATIOEnthusiastic student with a positive attitude 
+Proactive communicator who takes initiative in solving problems 
+Determined worker who brings efficiency to any tasks 
+RELATED STRENGTHS 
+Technically inclined with an aptitude for learning Working knowledge of industry tools Photoshop FTP 
+CLients etc Interest inemerging technologies and evolving standards Ability to use common sense and logic to evaluate complex instructions Always striving to maximize efficiency and increase productivity Can work alone or with others to divide and prioritize tasks Microsoft 
+Certified Professional Comprehensive understanding of the industry and related technologies 
+PUBLICATIONS 
+Musical staff sales service MuzBarru http muzbarru 
+January 2010It s a service that allows to users to advertise the sale of some musical instrument staff 
+Buyer can search on the base of advertisements using various parameters 
+Self publishing platform SamoLitcom http samolitcom 
+May 2012 
+I created backend and frontend for self publishing platform that allows users to publish their e books and one click convert them into popular e book formats 
+News portal ict onlineru http ict online ru 
+March 2009 
+News portal dedicated to IT life in whole Russia 
+Internet cellular integration IT marketing etc 
+PHP MySQL Javascript JQuery Bootstrap 
+Site dedicated to FM 
+Dostoevsky http fedordostoevskyru 
+April 2011 
+Site dedicated to FM 
+Dostoevsky 
+Bio masterpieces surroundings etc 
+I created front end and backend 
+Site is controlled by its own CMS 
+PHP MySQL Javascript JQuery adaptive layout 
+Site of restaurants in Saint Petersburg http mindalcaferu 
+July 2014 
+Site of several restaurants in Saint Petersburg Fronend programming own backend with tables ordering system 
+Adaptive layout 
+PHP MySQL JQuery Bootstrap 
+Site of Vyacheslav Ivanov Research institute in Rome http wwwv ivanovit 
+February 2015 
+Site of Vyacheslav Ivanov Research institute in Rome 
+CSS layout creating of its own content management system 
+PHP MySQL CSS JQuery 
+Site of Dostoevsky Day in Saint Petersburg http dostoevskydayru 
+June 2015 
+Site dedicated to Dostoevsky Day celebration in Saint Petersburg 
+I created frontend backend with user interaction 
+Responsive layout 
+PHP MySQL JQuery CSS Bootstrap 
+Wooden houses contruction company Veps s House http vepdomru 
+May 2016 
+Wooden houses contruction company Veps s House 
+Responsive CSS layout creating of its own content management system 
+PHP MySQL CSS3 JQuery Bootstrap 
+Site of dental clinic Nikolsky http nikolstomru February 2015 
+Site of dental clinic Nikolsky 
+Responsive CSS layout creating of its own content management system 
+PHP MySQL CSS3 JQuery Bootstrap 
+National Sholokhov Museum Reserve http engsholokhovru 
+August 2013 
+Site of National Sholokhov Museum Reserve 
+I created front end and backend 
+Site is controlled by its own CMS 
+PHP MySQL Javascript JQuery 
+Site of landscape design company Kaskad https spbkaskadru 
+September 2014 
+Site of landscape design company Kaskad 
+CSS layout creating of its own content management system 
+PHP MySQL CSS 
+Site of business center Owental History http wwwowentalhistoryru 
+May 2014 
+Site of business center Owental History Design responsive CSS layout creating of its own content management system 
+PHP MySQL CSS3 JQuery Bootstrap 
+PUBLICATIONS 
+Data Sharing Ensure Accountability Distribution in the Cloud http wwwijertorg viewphp id 7938 title data sharing ensure accountability distribution in the cloud 
+February 2014 
+Cloud computing is highly emerging technology of the 21st century Cloud enables the user to store the data also the data can be processed on any of the machine which user does not know 
+While enjoying the convenience brought by these new technologies of cloud computing users fear of losing the hold on their data 
+A thorough research is needed for detective controls in the area of accountability and logging where in some privacy protection techniques concentrate on preventive controls 
+We proposed a system that sub urbanized information accountability framework to keep track of user s data in cloud 
+We chose object centered approach to highlight the security purpose by enclosing our logging mechanism together with user s data along with policies 
+The proposed system will also take care of the JAR file by converting it into nebulous code which will add the further layer of security to the architecture 
+We ensure accountability gets distributed and providing more reliable and secure system 
+ADDITIONAL INFORMATION 
+MILITARY SERVICE 
+Service Country US 
+Branch Air Force 
+Rank Staff Sergeant 
+November 2001 to November 2007 
+Commendations 
+Army Commendation MedalAir Force Commendation Medal 
+PUBLICATIONS 
+Overcome A Short Guide on How To Quickly Find Peace and Happiness In Any Stressful 
+Situation https wwwamazoncom Overcome Quickly Happiness Stressful Situation ebook dp B016X9P4CK ref sr 1 9 ie UTF8 qid 1495761268 sr 8 9 keywords michael templeton 
+October 2015 
+A short book written by myself to get a deeper understanding of how internet marketing works 
+PUBLICATIONSECG Study A tool for the diagnosis of cardiovascular disease 
+Cuban Journal of Medical Informatics professional website portfolio wwwshullsburgwisconsinorg wwwlacegiftsandclothingcom wwwcoughlinshopscom wwwfmpirateradiocom wwwbrewsterhouserestaurantcom wwwmillelacsfoodscom wwwbiostatwiscedu wwwnagrobekmemorialscom wwwwhitehouseshoppescom wwwassumptiongocmadisonorg wwwpineriverartcluborg wwwshullsburgcheesestorecom wwwshullsburgtransportationcom wwwplaybookconsultingcom wwwpleasantvalleynurserylodicom 
+ELAINE SKOUMBOURIS professional experience 
+Web Designer Graphic Designer Digital Designer 
+MILITARY SERVICE 
+Service Country US 
+Branch Army National Guard 
+Rank E4 
+January 2005 to January 2011 
+Infantry Rifleman Team Leader 
+Commendations 
+ARCOM Meritorious Service Honorable Discharge 
+MILITARY SERVICE 
+Service Country US 
+Branch United States Marine Corps 
+Rank Corporal E 4 
+April 1990 to April 1994 
+Mortar Platoon Weapons Company Marine Corps Infantry 
+As a forward observer provided indirect fire support in support of rifle platoons companies and battalions 
+Commendations 
+Decorations include Combat Action Ribbon Kuwait Liberation Medal Good Conduct Medal 
+ADDITIONAL INFORMATION 
+Digital Media Professional with extensive Web Development experience in the areas of Content Management 
+Content Development and Multiplatform Deployment 
+Expertise in implementing digital solutions that elevate brand image highlight content and maximize revenues 
+Characterized throughout employment as a dedicated team member with versatility to resolve multifaceted issues possessing the ability to apply complex technologies that translate business needs into practical applications 
+

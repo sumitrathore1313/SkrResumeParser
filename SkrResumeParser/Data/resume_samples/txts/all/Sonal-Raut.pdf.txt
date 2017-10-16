@@ -1,0 +1,52 @@
+<ba>
+Sonal Raut
+
+Fresher
+
+- Email me on Indeed: indeed.com/r/Sonal-Raut/e7bfdabbe417ca25
+
+Permanent Address:
+<we>
+EXPERIENCE
+
+Fresher
+Dhanvantari Medical  -  Karjat, Maharashtra - 2013 to 2014
+<ba>
+E-mail: sonalraut777@gmail.com Near Kakde Hospital,
+Contact No.: 8856997756 Patil Galli, Karjat,
+Dist.Ahemadnagar
+<su>
+Career Objective:
+
+To work within the IT Environment where I can utilize my knowledge for organization's growth.
+<ed>
+EDUCATION
+
+B.E in Computer Science
+Dr.B.A.M.University  -  Aurangabad, Maharashtra
+
+ADDITIONAL INFORMATION
+<sk>
+Technical Knowledge:
+
+• Languages Known: C, C++, Core Java, Android.
+• Database: Oracle 10g D.B.A, SQL D.B.A..
+• Interest In: Database, Testing.
+<pr>
+B.E Project:
+
+• Title: WiFi Enable Indoor Position System.
+• Description: The application finds the indoor position of client using WiFi like GPRS in perticular building.
+• Technology Used:Android.
+
+T.E Projects:
+
+➢ Project 1
+• Title: Attendance Management System.
+• Technology Used: Front-End:-Vb.net, Back-End: - Oracle 10g.
+
+➢ Project 2
+• Title:Result Analysis System.
+• Technology Used: Front-End:- Asp.net, Back-End: - Oracle 10g.
+
+

@@ -1,0 +1,44 @@
+<ba>
+Michael Karouzos
+
+Web Developer - Coder Inc
+
+Chicago, IL - Email me on Indeed: indeed.com/r/Michael-Karouzos/b0f3fa0e4eaab4fe
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Coder Inc  -  Chicago, IL - May 2015 to Present
+
+Ruby on Rails
+Building web and mobile apps for entrepreneurs, startups, and
+Javascript
+enterprise teams primarily using Ruby On Rails
+HTML
+
+Inventory Control Specialist (ICS)
+Apple Inc  -  Chicago, IL - December 2009 to August 2012
+
+Managed Shipping and Receiving using SAP (inventory software), LANGUAGES
+participated in deployment of visual merchandising, and monitored
+performance of inventory accuracy
+English
+
+German (conversational)
+</we>
+<ed>
+EDUCATION
+
+College Prep in CSS, Test Driven Development
+Northside College Prep. High School
+December 2014
+</ed>
+<ba>
+LINKS
+
+http://github.com/multiviouskalogram
+
+http://linkedin.com/michaelkarouzos
+</ba>
+

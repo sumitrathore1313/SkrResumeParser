@@ -1,0 +1,62 @@
+<ba>
+Eduardo Alvarez Soca
+
+Hialeah, FL - Email me on Indeed: indeed.com/r/Eduardo-Alvarez-Soca/a043277aa653f4ff
+</ba>
+<su>
+Willing to relocate: Anywhere
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+IBTECH - August 2013 to August 2016
+
+• Development of the ibtech website with the implementation of online checklist.
+• Development of role system and gallery of images.
+• Development of the system of economic management of the company.
+• This system is developed in HTML, CSS, JavaScript, Ajax, JQuery, PHP5, Codelnighter and Boostrap.
+
+http://www.ibtechgroup.com/
+
+Web Developer
+ERGOYES - May 2011 to December 2012
+
+Development of online ergonomics methods for the evaluation of individual
+risk in the workplace.
+• This system is developed in HTML, CSS, JavaScript and JQuery.
+
+http://www.ergoyes.com/grupo/es/node/32
+
+HKC
+January 2013 - July 2013 (7 months)
+
+• Development of the website ¨Havana kite¨ with the implementation of an online
+store
+• This system is developed in HTML, CSS, JavaScript, Ajax, JQuery, PHP5,
+Codelnighter and Boostrap.
+
+http://www.havanakite.com/
+</we>
+<ed>
+EDUCATION
+
+Polytechnic Institute José Antonio Echeverría  -  Havana, CU
+2010 to 2012
+</ed>
+<sk>
+SKILLS
+
+AJAX (4 years), CSS (4 years), HTML (4 years), JAVASCRIPT (4 years), jQuery (4 years)
+
+ADDITIONAL INFORMATION
+
+COMPUTER SKILLS
+
+Languages and technologies: HTML, CSS, JavaScript, Ajax, JQuery, PHP5, Codelnighter
+& Boostrap.
+Software: Visual Studio (2008, 2010, 2013), Git, Microsoft Office, Gitextensions.
+Management of databases: MySQL, EMS.
+Operating Systems: Windows.
+</sk>
+

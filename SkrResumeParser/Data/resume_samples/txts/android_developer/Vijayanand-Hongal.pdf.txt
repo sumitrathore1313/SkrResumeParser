@@ -1,0 +1,332 @@
+<ba>
+Vijayanand Hongal
+
+Morganville, NJ - Email me on Indeed: indeed.com/r/Vijayanand-Hongal/a68d2b0adb2ee793
+<su>
+I am an experienced Mobile Application developer, with total 10+ years of experience, having developed mobile
+applications for Android, Symbian mobile platform for 6+ years and also worked on developing mission critical
+real time application for missile tracking and controller for AKASH Surface to Air Missile (SAM) system.
+•  Experience  with  Android  APIs:  Services,  Push  Notifications,  In-App  Purchases,  WebView  /  UIWebView,
+HTTP protocols, SQLITE3, Content Providers and Code Obfuscation
+• Experience with Web Languages: JavaScript, HTML
+• Understanding of how to implement concurrent and parallel programming on Android
+• Experience with Agile Development Methodologies & worked as scrum master
+• Excellent understanding of Application Life Cycles in Android
+• Understanding and Experience with Build and Deployment Processes for Android Apps
+• Self-motivated and a good team player with excellent communication and interpersonal skills
+• Experience with SCM tools Git, Gerrit and SVN
+• Demonstrating and leading distribution of tasks and implementation of designs among colleagues to distribute
+and integrate work accordingly
+• Work with management to talk through design plans, distribution of work, and time schedules, especially
+when new technologies arrive that the company wants to implement
+• Mentored junior team members
+Technical Skill
+Frame Works Android SDK
+Operating Systems Windows, LINUX, Lynx RTOS
+Databases SQL Server, SQLITE
+Native Languages C, C++, C#, Java
+Mark-up Languages HTML, CSS/CSS3
+Web Languages JavasScript
+Development IDE's Eclipse/Android Studio, Visual Studio
+Project Methodologies Agile/Scrum
+Hardware Platforms (Debugging) Android Emulator
+Willing to relocate
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Verizon Wireless, NJ, USA - March 2015 to Present
+
+Environment: Android, Eclipse, C/C++, NDK
+Description:
+Monitor  device  modem  parameters  for  operator  certifications  of  android  devices.  The  device  parameters
+measured and logged in binary file format for processing offline. Many parameters are continuously presented
+in graph to user in real time.
+Responsibilities:
+• Added new features of uploading logged files using FTP.
+
+• Designed & Implemented multiple fragments to present different screens showcasing graphs of measured
+parameters like RSRP, RSRQ, Throughput, SINR, Uplink & Downlink data rates
+
+• Implemented service to log measured parameters
+
+• Fix issues with modem parameter capturing and processing native library
+
+• Maintaining the existing native library
+
+• Improving performance & fixing issues in existing application
+
+• Optimized the application code and improved running performance
+
+Android Developer
+Accenture - May 2014 to February 2015
+
+Environment: Android, Eclipse, Hybris Suite
+Hardware: Estimate Beacons
+Description:
+Adding new features namely Beacons, QR Code scanner to existing Hybris Android Application part of Hybris
+Commerce Suite. Developed the Beacons feature which informs the customer about physical store information
+like entry into/exit out of the store, the deal of the day when customer is nearby particular department in the
+store. Added QR Code feature to process the QR code of product extending the bar code scanner feature in
+application using open source ZXing library.
+Responsibilities:
+• Involved with the business analysts to collect the requirements of the project to enhance end user experience
+in-store.
+
+• Worked in an agile based environment.
+
+• Coordinated with web services team to implement the backend support.
+
+• Updated UI screens for the application.
+
+• Implemented background services to track estimate beacons of the store
+
+• Created notifications for entering/exiting regions marked for stores main gate, different departments
+
+• Integrated ZXing library for processing QR Code of products
+
+• Consumed web services & gave customer information to Customer Support Representative (CSR) using
+device id's and shared preferences.
+
+• Mentored team using git.
+
+Android Developer
+Accenture. UK - August 2013 to April 2014
+
+Environment: Android, Eclipse
+Description: Requirement was to port an existing iPad application to Android tablet for a client. We were asked
+to look at the application available in the iOS market place and design and develop an android application for
+Android tablet with similar functionality and look and feel. It is a banking application for home loans. I developed
+some critical modules of the application for the intuitive usage like Pie chart, Complex list view, Local Sqlite
+database, Webservices (JSON)
+
+Responsibilities:
+• Involved in the full life cycle of this project including planning, design, development, testing.
+
+• Collaborated with web services team to implement the backend support.
+
+• Created UI screens for the application.
+
+• Implement JSON to parse and read the data
+
+• Prepared test cases for testing the application.
+
+• Performed Unit testing on the various functions to ensure that the output is as expected.
+
+• Setup git repository for team and helped team members to use git by demo sessions on using git.
+
+Android Developer
+Accenture, UK - April 2013 to July 2013
+
+Environment: Android, Eclipse
+Description:
+Objective of the project is to enhance the current android application with new UI, extra features, making it a
+single application for both tablets and phone which, works in a seamless way across the different channels
+(e-commerce, m-commerce, android, iPhone). Developing critical modules of the application like Reusable
+Fragments, Web Service integration and parsing data.
+
+Responsibilities:
+• Collaborated with web services team to implement the backend support.
+
+• Created & Updated UI screens for the application.
+
+• Implement JSON to parse and read the data.
+
+• Implemented data structures in the application.
+
+• Prepared test cases for testing the application.
+
+• Performed Unit testing on the various modules/functions to ensure that the output is as expected.
+
+• Worked on making the app support different screen sizes and configuration.
+• Worked in an agile based environment
+
+Android Developer
+Accenture. UK - September 2012 to March 2013
+
+Environment: Android, Eclipse
+Description:
+Objective of the application is to provide updates of the 2013 6Nations tournament to the game lovers in an
+interesting and engaging manner. Accenture is the official technology partner for the championship. Application
+will continue to work for future tournaments as well. It delivers the latest news, score updates, live commentary,
+squad information, preview and lineups, match report, gallery, points, news widgets, push notifications etc.
+
+It shows the pre-match, live and post-match information of all the championship matches. I developed few
+important modules of the application like Player profile carousel view, twitter integration, and customizing for
+different screen size android devices.
+
+Responsibilities:
+• Collaborated with web services team to implement the backend support.
+
+• Created UI screens for the application based on wireframe documents.
+
+• Created carousel view for player profiles
+
+• Implement JSON to parse and read the data
+
+• Prepared test cases for testing the application.
+
+• Worked on making the app support different screen sizes and configuration.
+• Implemented background services to update scores, results & as it happened(live commentary)
+
+• Created complex list view with player profile links to give easy reference of players
+
+• Integrated twitter to get feeds of the tournament
+
+• Mentored team to use git. Integrated team members code before to release.
+
+• Worked in an agile based environment
+
+Android Developer
+Nokia India  -  Star, ID - January 2012 to August 2012
+
+Environment: Nokia Series 30, C, C++
+Achievement: Individual Shining Star - Stellar Award
+Description:
+Nokia  Life  application  is  a  SMS  based  advice  service  provider  for  all  the  information  (Education,  Health,
+Agriculture, Entertainment etc.) much like internet for the low cost basic phones. Subscribed service's advice
+information is sent to user device from server and presented to the user in localized and friendly manner as
+per the user preferences. The resource constraint on low end devices is the major challenge and I developed
+a feature to reduce the overall application's memory foot print. The result is of this optimization allows extra
+game to be included in the available memoryofbasicNokiaDevice.
+Responsibilities:
+• Worked in an agile based environment.
+• Collaborated with server team to implement the backend support.
+
+• Mentored team to use git & gerrrit.
+
+• Implemented overlay drawing of icons to give notification type look & feel and reduced the usage of resource
+by 25%. Awarded Individual shining star - stellar award.
+
+• Fixed issues reported by testing teams & maintained the application.
+
+Android Developer
+Nokia India  -  Bangalore, Karnataka - July 2010 to December 2011
+
+Environment: Symbian C++ 9.5/Anna, Qt, C++
+Description:
+Applications demonstrate use of the Symbian/Qt APIs exported for third party developers as part of Public SDK
+releases. The Symbian SDKs contain all the Symbian OS components library and supporting documentation
+explaining  the  component,  and  also  ready  to  use  application's  source  codes.  Some  of  the  applications
+developed are:
+• Face Recognition Application.
+• Sharing of Business card, Photos using NFC framework.
+
+• Carousal Photo viewer.
+
+• Read/Write files using Posix signals part of PIPS.
+
+• Camera Application.
+
+• Memory constraints, Semaphores, file server based application.
+Responsibilities:
+• Worked in an agile based environment & worked as scrum master.
+• Implemented the new applications as example applications to use with the Symbian library.
+
+• Collaborated with different technology teams to plan & release of libraries and tested the library using beta
+release
+
+• New applications used the technology team specific library before final release and reported issues found
+to technology team
+
+• Reviewed application created by new team members
+
+• Planned the iteration for team with user stories and tracked day to day activities of team
+
+• Created sprint reports and resolved issues of team members to finish the task on time.
+
+Android Developer
+Nokia India  -  Bangalore, Karnataka - January 2009 to June 2010
+
+Environment: Orbit, Symbian C++ for Symbian 10.x, C++, C
+Achievement: 2 PAVE Awards
+Role: Planning, Designing, Developing and Testing and Maintaining, and leading the team.
+Description:
+The  Applications  developed  use  Orbit  APIs  (wrappers  for  the  Symbian  APIs)  planned  for  the  third  party
+developers.  The  SDKs  contain  all  the  Symbian  OS  components  library  and  supporting  documentation
+explaining the component, and also ready to use application using the latest Orbit APIs. Application's source
+code developed for SDK, allows developers learn about new APIs, and quickly develop new applications for
+the Symbian Smart phones.
+
+Android Developer
+Nokia India  -  Bangalore, Karnataka - February 2008 to December 2008
+
+Environment: Symbian C++ for Symbian 9.X, C++, C
+Role: Planning, Designing, Developing and Testing and Maintaining, and leading the team.
+Description:
+
+Developer documentation has the user guides and technology guides for various components of Symbian OS.
+The applications demonstrated use the Symbian APIs exported for third party developers as part of Public
+SDK releases. The Symbian OS public SDKs contain all the Symbian OS components library and supporting
+documentation  explaining  the  component,  and  also  ready  to  use  example  source  code.  Developers  learn
+developing application for the Symbian OS based phones using Symbian C++ using ready to try application's
+source codes.
+
+Android Developer
+Nokia India  -  Bangalore, Karnataka - October 2007 to January 2008
+
+Bangalore
+<ed>
+EDUCATION
+
+Master of Technology in Computer Science & Engineering
+National Institute of Technology
+2004
+
+Bachelor of Engineering in Computer Science & Engineering
+SDM College of Engineering
+2001
+<pr>
+ADDITIONAL INFORMATION
+
+Technologies: Perl
+Team: Product Creation Tool (PCT)
+Role: Developing and Testing
+Description:
+The binary compatibility analysis tool will check two releases of software components of Symbian OS, and
+report if there is any break, which is required to maintain the software components, so that the third party
+application work properly. The script extracts the library symbols and its ordinals, and report if any change
+appears when compared with new releases of the library.
+
+OpenVPN LoadTest Software July 2006 - Sept 2007
+Client: OOMA, US
+Employer: Wipro Technologies, Pvt. Ltd. Bangalore
+Environment: C, Posix Threads, OpenVPN software, Linux
+Role: requirement gathering, designing, developing software & system testing
+Description:
+Open VPN loadtest software application is designed to load Open VPN software and asses its capabilities
+in terms of client connections. Measure the performance of the client connections with respect to stability,
+loss of packets over communication channel, latency per client when load on server is high and band width
+for the clients. The Open VPN tunnel allows secure connection between clients and server using SSL. The
+requirement was to analyze Open VPN software, design application to load the Open VPN server with as much
+clients as possible from single machine till system can't handle and measure the client-server communication
+performance parameters like latency, throughput and packet loss.
+
+Multi Sensor data Fusion software for AKASH SAM System. Jan 2005 - Jun 2006
+Employer: DRDO , Bangalore
+Environment: Lynx RTOS, C & VME Backplane Communication
+
+Role: Developer and integration with other sub systems
+Description:
+Multi Sensor data fusion software is the master software on the Battery Command Center (BCC) controlling
+the AKASH Surface to Air Missiles, where in the information given to commander sitting at the console, should
+be able to see and take decision based on the real time threats of the targets. The target reports are coming
+from two sensors viz. Battery Level Radar (BLR- Fire control radar) and Battery Surveillance Radar (BSR)
+which need to be fused and presented to commander as one target in consolidated complete air picture. The
+fusion process is combination of correlation and association process. The data seen at BCC should also be
+sent to a master GCC using serial communication in real time.
+
+Group Command Center (GCC) simulator for BCC. Sept 2004 - Jan 2005
+Employer: DRDO , Bangalore
+Environment: C, C++, Window XP
+Role Designer, Developer and integration with the system.
+Description:
+BCC is single system with fire control radar of some Km range and some degree in azimuth coverage. The
+GCC takes four to eight such BCC's and give a more complete and better air picture over a wider area. Thus
+integration & testing with such system for proper development of BCC MSF software is needed. So, simulator
+is needed for real time communication with BCC to show the correctness of BCC software by both online
+display and offline-logged data after extraction and analysis. A simulator was developed which runs two parallel
+threads for input and output. Queues were maintained maintaining I/P and O/P buffers. The communication
+incorporates full handshake through serial ports.
+
+

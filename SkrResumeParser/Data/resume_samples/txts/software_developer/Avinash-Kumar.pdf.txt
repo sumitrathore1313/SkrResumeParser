@@ -1,0 +1,86 @@
+Avinash Kumar
+
+Web Analyst, .NET Developer, Web Accessible Specialist - Shree Infosoft Pvt. Ltd
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Avinash-Kumar/aa50827b3283785a
+
+.
+
+•  1.8  year  of  experience  as  Software  Developer  in  software  design,  analysis,  development,  testing  and
+implementation of
+web and client server applications using ASP Dot NET. •
+• Hands on in application development using Web forms in ASP Dot NET using C# code behind. •
+• Extensive Experience in design and development of applications using .NET and Web technologies like XML,
+CSS,
+JavaScript, HTML, and WCAG in n-tier architecture. •
+• Experience inAnalyzed, identified, and helped solve problems or enhance features and functionalities on
+various
+websites and web applications.•
+• Good Knowledge of working with Navitaire .
+
+• Collaborated with Product Development group to design and implement highly interactive, data-intensive web
+applications for legal professionals.•
+•  Effective  communicator  with  excellent  relationship  building  &  interpersonal  skills  possesses  a  flexible  &
+detailed
+oriented attitude with strong analytical, problem solving & organizational building abilities. •
+Willing to relocate to: Delhi, Delhi - Noida, Uttar Pradesh - Gurgaon, Haryana
+
+WORK EXPERIENCE
+
+Software Developer
+Shree Infosoft Pvt. Ltd - July 2015 to Present
+
+Analyst,.NET Developer, Web Accessible Specialist
+Shree Infosoft Pvt. Ltd  -  Gurgaon, Haryana - July 2015 to Present
+
+Technical Environment: ASP.NET 4.5, C#, Html, CSS, JQuery, WCAG, VS 2013, Navitaire Service. •
+• Responsibility: •
+• • Involved in Functional Requirement and design document. •
+• Developed Website in ASP.NET using C# as the code - behind language and Navitaire as the Data
+• Service. •• 
+• • Provide WCAG to the Website. •
+
+NET Developer
+Shree Infosoft Pvt. Ltd - January 2016 to March 2016
+
+Technical Environment: ASP.NET 4.5, C#, Navitaire Service, XSLT, XML. •
+Description: This is the Windows Form Application. The main purpose of this application is to store XML format
+data
+coming from the Navitaire to a folder and then it convert this XML data to HTML using XSLT and send it to the
+Passenger.
+•
+
+• •
+
+EDUCATION
+
+B.Tech in Software Engineer
+DELHI TECHNOLOGICAL UNIVERSITY  -  Delhi, Delhi
+August 2011 to June 2015
+
+SKILLS
+
+Web Analyst, Front End Developer, Dot Net , MS Office,Web Testing,Photoshop (1 year)
+
+CERTIFICATIONS/LICENSES
+
+CCNA R&S
+December 2013 to January 2014
+Cisco Certified Network Associate: Routing and Switching,
+
+National Information Centre (NIC)
+May 2014 to July 2014
+Gather data and store it to suitable table and mapping this data to MAP.
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS .
+
+• • E-Commerce/Internet: ASP.NET 4.0 / 4.5, HTML, CSS, XML, XSLT, JQuery, JSON •
+• Microsoft Technologies: MVC, Class Library •
+• IT Languages: CCNA, SQL, C/C++, C#, HTML, CSS, jQuery
+• Development Tools: Visual Studio […]
+• Packages/Tools: MS OFFICE […] Adobe Photoshop
+• OS: Windows XP/7/8/10
+
+

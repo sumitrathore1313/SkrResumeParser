@@ -1,0 +1,56 @@
+<ba>
+Daniel Malone
+
+Android Developer - Fine Point Mobile
+
+Austin, TX - Email me on Indeed: indeed.com/r/Daniel-Malone/77175ba9fb45a0e5
+<su>
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Fine Point Mobile - May 2017 to Present
+
+Built and published multiple Android apps using Java and many modern frameworks, libraries
+● Used Docker to deploy multiple web apps to Google Cloud Platform's GKE / Kubernetes
+
+Web Developer at Fahrenheit Marketing
+WordPress / WooCommerce - February 2017 to May 2017
+
+Worked alongside a team of designers, senior developers to create, update client websites
+● Contributed to 20+ WordPress / WooCommerce websites using standard frameworks, libraries
+● Wrote code in PHP, HTML, JavaScript, CSS, and used the terminal to manage, deploy websites
+● Used frameworks, build tools like Bootstrap, Less, Sass, Gulp, Grunt, Shipit, Capistrano
+
+Android Developer
+AVAI Mobile Solutions - June 2016 to November 2016
+
+Worked with clients and managed mobile app design, development for specific app
+● Personally developed entire Android app using Java, XML, Android Studio
+
+Web Developer
+Ingram Technologies - August 2014 to June 2016
+
+Managed all web design, development, digital marketing, social media marketing, SEO
+● Used PHP extensively to manage the online store of 40,000 products
+● Migrated Ecommerce store to WordPress / WooCommerce with zero downtime
+● Built multiple Laravel apps using PHP, Google App Engine, Google Cloud SQL
+
+Web Developer
+VariZoom - November 2011 to August 2014
+
+Architected, created and optimized multiple PHP apps with complex relational database design
+● Managed entire digital operations including design, development, marketing
+● Oversaw and directed the use of $150K in digital advertising using AdWords
+
+Web Developer
+Malone Web Solutions - January 2008 to November 2011
+
+Managed the business, built multiple WordPress websites with HTML, CSS, JavaScript, PHP
+<ba>
+LINKS
+
+https://finepointstudios.com/
+
+

@@ -1,0 +1,81 @@
+Chandan Singh
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Chandan-Singh/4110f3f55d58e907
+
+WORK EXPERIENCE
+
+Software Developer
+NIIT Technologies  -  Greater Noida, Uttar Pradesh - June 2015 to Present
+
+Responsibilities
+Module configuration.
+Customization of module.
+Maintaining web site according to client need.
+
+Accomplishments
+I have developed custom modules and websites according to different requirement of clients for example /
+reference you can check :
+
+http://jacksonville.com
+http://savannahnow.com
+http://onlineathens.com
+http://lubbockonline.com
+
+Skills Used
+Drupal 6.x, 7.x, LAMP
+
+Drupal Developer
+HSK Software Services  -  Noida, Uttar Pradesh - October 2013 to June 2015
+
+Responsibilities
+Installing complete web site.
+Module configuration.
+Customization of module.
+Creating hybrid app using drupal services module for drupal site as per client requirement.
+
+Accomplishments
+I  have  developed  many  custom  modules  and  websites  according  to  different  requirement  of  clients  for
+example / reference you can check :
+
+http://www.drupalchamp.com
+http://www.myadvisorschoice.com
+http://aroyi.com
+http://leapsof.net
+http://www.sprachdirekt.com
+http://spsalumni.org
+
+Skills Used
+Drupal 6.x, 7.x, LAMP
+
+Web App developer for Mobile/Tab
+Hsk Software Services  -  Noida, Uttar Pradesh - October 2013 to June 2015
+
+Responsibilities
+Development of web and hybrid application for Mobile,Tab, iPhone, iPad using AngularJs and PhoneGap/
+Cordova and real time app with Firebase.
+
+For example / reference you can check :
+http://agrimate.com.au
+
+Skills Used
+AngularJs, PhoneGap, Ionic, Firebase.
+
+EDUCATION
+
+MCA in Computer Application
+Galgotias Institute of Management & Technology  -  Greater Noida, Uttar Pradesh
+2009 to 2012
+
+BSc. in Maths
+Magadh University  -  Gaya, Bihar
+2003 to 2008
+
+SKILLS
+
+Drupal 6.x, 7.x, LAMP, AngulaJs, PhoneGap/Cordova, Ionic (2 years)
+
+LINKS
+
+https://about.me/chandansingh7929
+
+

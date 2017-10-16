@@ -1,0 +1,920 @@
+ADDITIONAL INFORMATION 
+Languages PHP5 Perl JavaScript Shell Scripting Python ASP JSP 
+Web Technologies ASPNET ADONET Asp Apache HTML5 XSL HTML5 CSS3 AJAX JSON DHTML 
+REST 
+Data Management MySQL Oracle SQL Server Sybase MS Access 
+Frameworks jQuery AngularJS Modernizer Bootstrap 
+CMS Silver Stripe WordPress Cascade Vbulletin Drupal Bitrix OpenX 
+Tools Akamai Jira Asana Slack Google Tag Manager Google Analytics Perforce SVN Basecamp 
+Jenkins Akamai AppNeta Photoshop 
+MySQL Workbench PhpMyAdmin MySQL Workbench 
+SKILLS 
+PROBLEM SOLVING Less than 1 year XCODE Less than 1 year C Less than 1 year UI Less than year USER INTERFACE Less than 1 year 
+ADDITIONAL INFORMATION 
+Skills 
+Basic knowledge of python C and C 
+Basic knowledge of UI 
+Quick learning 
+Familiar with Xcode and use it to build a mobile application 
+Advanced problem solving skills 
+Troubleshooting and debugging 
+ADDITIONAL INFORMATION 
+TECHNICAL SUMMARY 
+Web Technologies HTML4 5 CSS2 3 JavaScript jQuery JSON AJAX AngularJS XHTML Bootstrap 
+DHTML MVC DOM XML Requirejs Nodejs and JSP 
+Mobile Web Skills Responsive Design jQuery Mobile 
+Developer Tools Sublime Text 2 Notepad Dream weaver Web Storm Eclipse Visual Studio 
+Browser IE 7 up Firefox Opera Chrome SafariOperating Systems Linux Windows UNIX Mac OS X 
+Application Servers Web logic Web Sphere Apache tomcat 
+Methodologies Agile Scrum 
+Databases MySQL ORACLE 10g 11g PLSQL 
+SKILLS 
+HTML5 CSS3 PHP Javascript Wordpress Twitter Bootstrap 
+SKILLS 
+WORK 
+HTML 
+CSS 
+BOOTSTRAP 
+JAVASCRIPT 
+JQUERY 
+PERSONAL 
+AUTODESK GRAPHIC 
+JUSTINMIND 
+SKILLS 
+Graphic Design 
+Website Design 
+Microsoft Office 
+Excel 
+Windows 
+Mac OS X 
+Project Management 
+SEO 
+Analytics 
+Google Analytics 
+Google Adwords 
+Database Management 
+Data Analysis 
+Data Mining 
+Databases 
+Communication 
+SKILLS one two three 
+SKILLS 
+JAVA HTML HTML 5 CSS CSS 3 PHP MySQL JAVASCRIPT 
+BOOTSTRAP JQuery Angular JS DART MVC DOM LINUX Git Eclipse Intellij 
+SKILLS 
+Python C Javascript 
+ADDITIONAL INFORMATIOC Python JavaScript 
+Visual Studio Linux XML 
+HTML CSS Fluent in Spanish 
+SKILLS 
+Command Line Git Github Sublime Text Heroku Debugging Code Debugging Rails Apps Loops 
+Hashes Blocks Ruby Rails Ruby Models Static Pages HTML CSS CRUD Testing Users User 
+Authorization Authorization Associations Validating 1 year 
+SKILLS 
+PHP 2 years nodeJS 2 years Html5 3 years CSS 3 years Javascript 3 years MySQL 2 years 
+Microsoft Office 10 years Python 3 years MongoDb 2 years JQuery 3 years Adobe Photoshop 2 years Adobe Illustrator 2 years Web Design 3 years Web Development 3 years 
+SKILLS 
+PHP JavaScript Python jQuery Angular MySQL SQLite HTML5 CSS3 
+SEO User Experience Project 
+Management 9 years 
+ADDITIONAL INFORMATIOFull Stack Web Development 
+Conversion Optimization 
+CSS3 HTML5 Bootstrap 
+JavaScript jQuery AJAX Angular 
+PHP ASPNET C 
+Ecommerce CTR optimization 
+Search Engine Optimization SEO 
+User Experience UX 
+MySQL MS SQL 
+Management Leadership 
+Speed Optimization 
+Project Management 
+Technical Skills 
+Programming Languages Java SQL HTML XML PL SQL Unix Shell Scripting C C FUSE 
+Technologies 
+HTML HTML5 
+Methodologies Waterfall Agile SCRUM model 
+J2EE Technologies Servlets JSP JDBC Struts Java J2EE 
+Frameworks Spring 30 Spring MVC Hibernate 30 
+Web 
+CSS CSS3 AngularJS JSON AJAX DHTML DOM Restful WebServices 
+Application Web Servers WebLogic JBoss Apache Tomcat JBOSS FUSE APACHE CAMEL 
+Web Services REST WebServices JAX RS 
+Databases Oracle MySQL 
+IDE Tools Eclipse Kepler Mars Net Beans Flex Builder 
+Version Control CVS SVN 
+DHTML 
+JavaScript with 
+JQuery 
+ExtJS 
+AJAX 
+Operating Systems Windows UNIX 
+Logging and Testing Tools Ant Maven JUnit Log4j SOAP UI 
+Database Tools TOAD MySqlAPIs Spring Core Spring JDBC Spring Web Spring MVC Log4J Servlets Spring Batch 
+Scripting JQuery Java Script Shell Script Unix Commands 
+Design Patterns Singleton MVC Factory Session Fa ade DAO Business delegate 
+Design Methodologies UML Rational Rose 
+Protocols SOAP LDAP HTTP HTTPS FTP SMTP 
+Projects 
+TECHNICAL SKILLS 
+Languages JavaScript jQuery AJAX Java JDBC JSPDevelopment Stack MEAN MongoDB ExpressJS AngularJS NodeJS and LAMP Linux Apache MySQL 
+PHP 
+Front End HTML DHTML XHTML HTML5 XML JSON XSL XPath XSLT CSS CSS3 and 
+FlexBuilder20 30 
+Frameworks AngularJS Backbonejs ExtJS 
+Web App Developers Web Sphere 80 beta Web logic and Tomcat 
+Version Control System SVN CVS Clear Case 
+Desktop Tools Acrobat Writer MS Word MS Excel MS PowerPoint MS Access 
+OS Windows UnixSKILLS 
+Html5 Javascript CSS3 User Interface Design 
+Around 8 years of IT industry experience in Microsoft Windows based and Web based Applications using 
+Microsoft Technologies 
+Expertise in working with MicrosoftNet Framework developing Web Services Web Pages using WCF 
+Web API ASP MVCNet VBNet C Net ADONET IIS VBScript JavaScript HTML5 
+Experience in implementing several Design Patterns to standardize the application architecture 
+Extensive experience in relational database development for creating complex database queries writing 
+Constraints Indexes Views Stored Procedures Cursors and Functions using T SQL in Microsoft SQL ServeDesigned the front end applications user interactive UI web pages using web technologies like HTML5 
+JQuery CSS3 Angularjs and Bootstrap 
+Experience in all phases of software development life cycle Designing Developing Coding Debugging 
+Testing Implementation and Maintenance 
+Good understanding of providing SOA architecture and Configuration of applications using WCF services 
+Experience in working with structured methodologies such as Agile Scrum processes 
+Strong analytical and dynamic trouble shooting skills coupled with excellent communication skills and able to work individually and as a team 
+Involved in various phases of Software Development Life Cycle SDLC ie 
+Analysis Design Development 
+Implementation Testing and User Training of Enterprise Web Applications Stand alone and Distributed applications 
+Developed Web Forms ASPNET MVC Model View Controller with NET Framework 40 35 and Visual 
+Studio 
+Extensive experience in developing Web based applications and Client Server applications using C NET 
+ASPNET 40 35 ADONet LINQ Windows communication Foundation WCF XML HTML XHTML 
+JavaScript JQuery AJAX and CSS TFS 
+Proven ability to work as a team player as well as an individual 
+Interpersonal and Communication skills coupled with strong technical and problem solving capabilities 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Languages C C ASPNet VBNET VB 60 PL SQL 
+Net Framework Net Framework 30 35 40 45 Entity Framework 
+Scripting Languages JQuery Java script HTML5 XHTML DHTML CSS3 XML VB Scripting 
+Databases Oracle MS Access 
+Web Technologies 
+NET Framework ASPNET MVC 30 40 AngularJS Bootstrap Web Services WCF ADONET 
+JavaScript CSS3 IIS 5 6 7 COM DCOM SOAP Silver light WCF 
+Web Servers Microsoft IIS 70 6 0 
+Version Control Tools Visual Source Safe Team Foundation Server SVN 
+Operating Systems Windows 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Web technologies HTML5 CSS JQuery Json XML Angular JS NodeJS Express Js 
+Bootstrap JavaScript 
+Operating systems Windows vista 9x Mac OS x Unix 
+Linux Red hat EL v 4x 
+Web Editors Dreamweaver Notepad NetBeans Visual studio Sublime Text Editor Eclipse Brackets 
+Methodologies Agile Scrum UML Design Patterns 
+Browsers IE6 7 8 Firefox Opera Chrome 4 Safari 5 
+Graphic Tools Adobe Photoshop 
+Debugging Tools Firebug Chrome Developer Tools IE Developer Tools 
+SKILLS 
+HTML5 2 years DATABASE 1 year JAVASCRIPT 1 year SQL 1 year FRONT END 1 year 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILL SET 
+UI Technologies HTML5 CSS3 Bootstrap JavaScript AngularJS Beginner 
+Programming Language Java Ruby Beginner swift Beginner 
+Tools and Techniques J2EE JSP Servlet REST APIs Web Services JDBC Spring MVC 
+Maven 
+Testing Tools Selenium WebDriver and IDE JUnit TestNG 
+Databases Oracle 11g MySQL PL SQL Hibernate 
+IDE Tools Eclipse STS Android SDK NetBeans XCode Microsoft Visual Studio 
+Operating System Windows XP Vista 7 8 10 Mac and Linux 
+COURSE WORK 
+Web Front end Programming for Mobile Devices Web Services Techniques and REST 
+Technologies Software Quality Assurance and Test Automation Advanced Database 
+Design and Analysis Java and Internet Applications Mobile Applications on iPhone 
+Platform Mobile Computing for Android Mobile Devices 
+SKILLS 
+HTML 1 year ADOBE PHOTOSHOP Less than 1 year C Less than 1 year C Less than 1 year 
+DATABASE MANAGEMENT SYSTEM Less than 1 year 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Languages C C C Core Java Visual Basic 60 
+Scripting Languages Java script 
+Operating Systems MS Windows XP and later 
+DBMS RDMS MS Access Oracle 8i Oracle 9i My Sql 
+Application Microsoft Word Excel PowerPoint Outlook 
+Designing Tools Adobe Photoshop Macromedia Dreamweaver Adobe flash cs4 
+Web Technology PHP ASP 
+Markup Languages HTML DHTML 
+Frameworks NET 
+Over 15 years of Programming System Software and Application Software Developer 
+Over 5 years of Web Flex experience from Analysis and Design to Development 
+Expert in business analysis database analysis design and development 
+Skilled and currently working in business analysis requirements specifications analysis and design development implementation integration enhancement 
+Systems and Business analysis Experiences 
+Performed analysis on business process user requirements systems design and performance tuning 
+Expert in Flex PHP with database analysis and design 
+Skilled in developing business plans requirements specifications user documentation and building systems and software architecture 
+Works well in both team environments and individual assignments 
+A results driven customer focused articulate and analytical Software Engineer 
+Successful in meeting new technical challenges and finding solutions to meet the needs of the customer 
+Well rounded IT background in infrastructure of systems and software development from Hardware knowledge to development metrologies Software Architecture and skills in application programming and systems engineering 
+Technical Proficiencies 
+Computer Languages Flex Action script Java JSP Servlets XML HTML JQuery 
+C Sql Pro C PHP Power Builder Visual Basic 
+Data Base MySQL ORACLE Sybase MS SQL MS Access Stored Procedure 
+Operating Systems Android Unix MS Windows 
+Web Servers Apache Web Server Apache Tom Cat Server 
+Object Oriented Tool KEY 
+Other Skills Microsoft Office 
+Languages Other SkilJavaScript JQuery Angular2 Nodejs 
+SQL PostgreSQL MySQL 
+C C 
+Python Python2 Python3 
+Java C NET ASPNET 
+Tcl OpenAcs Server language 
+NoSql MongoDb CouchDb 
+Version Control Git 
+Agile Development Environment Jira Scrum 
+Experience in a Unix environment Command line Vim etc 
+ADDITIONAL INFORMATION 
+Skills 
+Experienced with C programming 
+Familiar with C Java python and SQL languages 
+Speak Spanish at an intermediate level 
+SKILLS 
+Jira Greenhopper Astra Quick Test Test Director Selenium IDE Mercury Bugzilla HP Quality Centre 
+Java 2 within a J2EE architecture Javascript VB Script HTML CSS XML JSP JSTL Visual Basic 6 
+ASP TCL AION COBOL II NETRON CAP SQL PASCAL 
+Teradata SQL Server 2008 R2 Oracle 10 IMS DB DB2 
+Tomcat Web Sphere 51 BEA Weblogic Borland Enterprise System 65 J2EE STRUTS J Eclipse 34 
+JDeveloper Web Sphere Studio Vignette 451 Vignette 7 SQL Server Management Studio SSMS SQL 
+Server Intergration Services SSIS Customer Relationship Management tool Aprimo 
+SKILLS 
+Bootstrap 2 years HTML5 1 year Illustrator 1 year JQuery 1 year PHP 1 year MySQL 1 year 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Database MySQL phpMyAdmin 
+Software Photoshop Illustrator Excel Visual Studio 
+Development Tools PHP JQuery HTML5 CSS3 and Bootstrap 
+Content Platforms WordPress SilverStripe 
+ADDITIONAL INFORMATION 
+QUALIFICATIONS PROFILE 
+Highly motivated and creative Web Developer with a strong knowledge and practice establishing responsive 
+Web pages and effective Web applications 
+Successfully develop and implement practical and portable applications for embedded devices and technologies to accomplish market requirements 
+Appropriately use unit testing data structure and algorithms processes to scrutinize each app for proper operation and to adequately store data 
+Proven ability to perform within cross functional teams or independently to manage produce and deliver projects 
+Proactively identify and solve problems related to software technologies to ascertain secure programs 
+Able to quickly adapt to any current or new technologies and to accomplish solutions for client satisfaction 
+Professional proficiency in English language and native speaker of Russian languageCore Technologies 
+Environments Windows OS Mac OS UNIX Linux 
+Tools 
+Java JavaScript J2EE CSS HTML jQuery AJAX Spring MVC Spark Hibernate REST API SQL PL 
+SQL MySQL PostgreSQL Python AngularJS Scrum Gradle Maven JSON PHP 
+ADDITIONAL INFORMATION 
+Technical Skills 
+UI Web Technologies HTML4 5 XHTML XML XSLT JavaScript AJAX JQuery JSON PHP MySQL 
+Java MV Framework AngularJS Bootstrap HandlebarsJS 
+IDE Editors Eclipse IDE Notepad Sublime Editor Adobe Photoshop Microsoft Visual Studio Web 
+Platform 
+Web App Servers Apache Tomcat 70 HTTP Web Server Experience with Many Online Webhosting 
+Platforms Shared Dedicated VPS 
+Database MySQL MS Access SQL PL SQL 
+Browser All IE Firefox Opera Chrome Safari 
+Specialties PHP WordPress Developer 
+SKILLS aspnet c HTML css javascript jquery ajax java 
+ADDITIONAL INFORMATION 
+Computer Skills 
+Hardware PC Linux basic command line functions 
+Operating Systems Windows MS DOS 
+Software Technologies Languages HTML CSS Javascript PHP NET Framework ASPNET C 
+VBNET Java XML AJAX Java J2EE JSP 
+Databases Oracle 10g MS Access MySQL SQL Server T SQL 
+Software Drupal Joomla Eclipse Microsoft SQL Server Visual Studio Dreamweaver Photoshop 
+Illustrator Putty SSH SQL Server MySQL TSQ Zend Framework Ektron CMS Selenium 
+SKILLS 
+Microsoft Office 10 years Microsoft Outlook 10 years Microsoft Excel 10 years Management 10 years Counseling 10 years PHP 10 years MYSQL 10 years CSS 10 years HTML 10 years 
+WordPress 10 years Google Adwords 10 years Google Adsense 10 years Digital Marketing 10 years Facebook Advertising 5 years SEO 10 years Top Secret Clearance 10 years 
+SKILLS 
+SharePoint Technologies NET Technologies Windows SharePoint Services 30 WSS NET Framework 
+C Microsoft Office SharePoint Server 2007 ASPNET ADONET Web Services WCF 
+MOSS 2007 Share Point 2010 SharePoint Designer 2007 Microsoft InfoPath 2007 Microsoft Visio 
+Programming Languages Scripting Languages C C C Java Script PHP Web Technologies 
+Database Access Methods HTML CSS XML ASPNET SOAP WSDL ADO 
+NET RDBMS Reporting 
+Tools SQL Server 2005 2008 2008R2 SQL Server Reporting Service MS Access and Oracle 9i Web 
+Servers Operating Systems IIS 60 SharePoint Server 2007 2010 MS DOS Windows 95 98 NT XP 
+Vista 7 Development Environment VSNET 2005 2010 Visual Source Safe 2005 Google s Version 
+Control 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+SharePoint Technologies NET Technologies 
+Windows SharePoint Services 30 WSS NET Framework 20 35 40 C 
+Microsoft Office SharePoint Server 2007 ASPNET ADONET Web Services WCF 
+MOSS 2007 Share Point 2010 
+SharePoint Designer 2007 Microsoft 
+InfoPath 2007 Microsoft Visio 2010 
+Programming Languages Scripting Languages 
+C C C Java Script PHP 
+Web Technologies Database Access Methods 
+HTML CSS XML ASPNET SOAP WSDL ADO 
+NET 
+RDBMS Reporting Tools 
+SQL Server SQL Server Reporting Service 
+MS Access and Oracle 9i 
+Web Servers Operating Systems 
+IIS 60 SharePoint Server MS DOS Windows 
+Development Environment 
+VSNET Visual Source Safe 2005 
+Google s Version Control 
+SKILLS 
+CSS Less than 1 year HTML Less than 1 year Microsoft Office 5 years Microsoft Excel 4 years 
+Interpersonal Communication 4 years 
+ADDITIONAL INFORMATION 
+SKILLS 
+Android Eclipse Android Studio Mobile development life cycle API ADB Activities Services 
+BroadcastReceivers Bluetooth WiFi material design JUNIT4 XML REST SOAP iOS Xcode Swift2 Objective C Third Party Libraries and APIs Cocoa pods Interface builder 
+MVC framework Reachability ROXimity AFNetworking AdobeMobileLibrary CXAlertView EGOCache 
+IBActionSheet 
+Programming Jenkins Selenium Microsoft Visual Studio JavaScript Core Java Python Oracle Database 
+PostgreSQL MySQL JSON CSS object oriented design GitHub SVN HTML5 PHP aspnet UNIX 
+SKILLS 
+HTML 2 years C 4 years CSS 1 year Python 2 years 
+TECHNICAL SKILLS 
+Languages C C Python MySQL 
+OS Windows Mac 
+Tools Unix Emacs Visual Studio Android Studio 
+Courses Algorithm Analysis Programming Languages currently enrolled Intro to Unix Discrete Structures 
+Database Management Software Design Development Operating Systems Security Malware currently enrolled Data StructuresMajor Projects 
+Socket based client server file transfer 
+Implementation of Unix shell 
+Elevator Algorithm representation 
+Android app similar to venmo 
+ADDITIONAL INFORMATION 
+Over 20 years of professional web design and development experience Including E commerce SEO SEM 
+Analytics KPI ROI 
+Email Marketing 
+PROFICIENCIEHTML5 CSS3 Javascript JSON XML PHP SQL with a focus on Responsive design 
+Structured Data Languages for SEO SEM 
+Shopify and BigCommerce WooCommerce on Joomla 35 WordPress 
+Integrations with E commerce platform API Merchant Center and Email marketing platform 
+Managed ecommerce assets customers products coupons shipping methods 
+Worked with product managers to understand their short and long term goals 
+Created custom reports and provided insight into analytics data 
+Implemented custom event tracking to facilitate custom reports 
+Provided crucial information to decision makers 
+SKILLS 
+IOS 3 years Swift 1 year Objective C 3 years XCode 3 years TDD 1 year 
+ADDITIONAL INFORMATION 
+CORE COMPETENCIESpring Struts JSF 
+JAX RPC JAX WS JAX RS 
+AngularJS NodeJS JQuery Bootstrap 
+JUnit Selenium 
+SKILLSET 
+Platforms Windows 2000 NT XP Vista and Sun Solaris 28 29 UNIX 
+Programming JDK 15 16 17 18 C C 
+Server Scripting JSP12 21 JSP EL JSTL Custom Tags 
+Client Scripting JQuery 18 19 JQueryUI Dojo ExtJS AngularJS Javascript CSS2 CSS3 HTML4 HTML5 
+NodeJS 
+Java Frameworks Struts 12 Struts 21 Spring MVC DI AOP JSF 11 JSF 21 GWT 
+Database Tools Toad for Oracle Toad for MySQL Toad for DB2 Toad for MS SQL MySQL Workbench 
+Databases DB2 MS SQL Server HSQLDB PostgresSQL MySQL 
+Middleware Specifications EJB 21 EJB 30 CORBA RMI JMS 
+Version Control Tortoise SVN GitHub CVS 
+IDEs Eclipse 30 31 MyEclipse 41 IntelliJ Netbeans JBuilder 2007 JDeveloper 
+Build Tools ANT Maven Gradle 
+XML Tools Altova XML Spy 
+XML Technologies XSLT JAXP JDOM SAX DOM XPATH XPOINTER XML XSD DTD 
+Webservice Specifications JAX RPC JAX WS JAX RS 
+Webservice Tools SoapUI 40 51 TcpMon 
+Webservice Implementations Axis 10 21 JWSDP21 Sun Metro Sun Jersey Apache XFire Apache CXF 
+Application Servers Weblogic 81 100 Websphere 61 JBoss 40 Glassfish 40 
+Web Servers Tomcat 
+UML Tools Altova UML Model Rational Enterprise MS Visio 
+ORM Frameworks Hibernate OpenJPA iBatis 
+Defect Tracking JIRA Bugzilla 
+Methodologies Agile XP Scrum Rational Unified Process RUP Waterfall Kanban 
+HTML Editors MS Frontpage 2003 Adobe Dreamweaver Coffee Cup HTML 
+ADDITIONAL SKILLS 
+Proficient in website and UI design Adobe Photoshop Adobe Illustrator 
+Expertise in Search Engine Optimization techniques 
+Working knowledge of responsive and adaptive web and mobile semantic layouts 
+Proficiency in creating A11Y web pages for the hearing impaired and visually challenged 
+SKILLS bootstrap 8 years JavaScript 8 years jQuery 8 years JSON 8 years UI 8 years 
+ADDITIONAL INFORMATION 
+Technical skills 
+UI Web Technologies 
+HTML4 5 XHTML XML XSLT JavaScript AJAX JQuery JSON MySQL CSS2 3 Redux MV Frameworks like AngularJS NodeJS BackboneJS BootstrapIDE Editors Eclipse IDE Notepad Adobe Dreamweaver Aptana Microsoft FrontPage 
+Web App Servers Apache Tomcat 70 HTTP Web Server Experience with Many Online Webhosting 
+Platforms Shared Dedicated VPS 
+Database Oracle9x 10x MS Access SQL PL SQL 
+Browser All IE Firefox Opera Chrome Safari 
+Key skills and competencies 
+Ability to multi task react quickly to shifting priorities and meet deadlines 
+Proactive confident and with a positive can do attitude 
+Able to clearly communicate technical data to non technical colleagues and clients 
+Continuously monitoring technologies and standards 
+Excellent attention to detail both front and back end 
+Solid web development experience using OOP PHP AJAX especially with the help of jQuery MySQL 
+JavaScript XML HTML and CSS Drupal CMS Drupal eCommerce 
+ADDITIONAL INFORMATION 
+IT Skills 
+Web development and design Programming 
+PHP MySQL Expert 
+HTML5 and Cascading Style Sheet CSS Expert Javascript jQuery PSD to HTML 
+Codeigniter framework Expert Drupal CMS Drupal commerce Zend framework 
+Involved in C NET VBNET CSS3 Apache server Perl 
+I have good knowledge about Magento eCommerce platform ASPNET C Java Oracle Microsoft SQL server 
+Operating system 
+Microsoft Windows XP 
+Microsoft Windows Vista 
+Microsoft Windows 7 
+Linux 
+Microsoft Office 
+Office 2003 2010 
+Software maintenance 
+Troubleshooting 
+Installation 
+Language 
+Arabic Native 
+English Good 
+SKILLS php 10 years html 10 years html5 5 years mysql 10 years css3 6 years javascript 10 years jquery 4 years NodeJS 1 year ReactJS 1 year 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS Programming C C Python Django Javascript Nodejs Angularjs Jquery 
+Expressjs 
+SQL PostgreSQL and MySQL NoSQL MongoDB Java PHP Zend Shell Scripting 
+Bash and Zsh HTML5 CSS3 
+Operating Systems IDE UNIX Linux Mac OS Windows Vim Sublime Text Cygwin 
+Other Object Oriented Programming TCP IP HTTP SMTP SVN Git Github AJAX 
+Network Programming 
+Skills 
+Years 
+LAMP Linux Apache MySql PHP 
+Perl Shell Scripting 
+Linux red hat slakware debian suse Bastille gentoo yellow dog Ubuntyears 
+Javascript jQuery CSS PSD to HTML conversion 
+Technologies 
+Joomla Drupal Wordpress Jira C Java RSS Atom Python Ruby VB Delphi SasS Sendmail Apache 
+Ftpd nmap dns bind version control systems svn git Computer security encryption Packet sniffing spoofing Application testing sql injection XSS google adsense google analytics SEO 
+SKILLS 
+PHP 1 year Javascript 1 year Reactjs 1 year Llinux 1 year 
+SKILLS 
+HTML 5 CSS 3 Javascript JQuery Ajax JSON Wordpress Bootstrap 30 AngularJS 15 Java C C 
+SASS SCSS Resposive Design Git Agile Methodologies Responsive Design 
+TECHNICAL SKILLS 
+Web Technologies HTML5 CSS3 JavaScript jQuery AJAX JSON AngularJS NodeJS PHP 
+Programming Languages C C Java Visual Basic 
+Databases Oracle 10g MySQL 
+Tools and Technologies Bootstrap 30 WordPress Adobe Photoshop Sass Data Structures Agile methodologies Scrum Git 
+Operating Systems Windows Mac LinuSKILLS 
+Javascript 2 years angularJS 2 years NodeJS 1 year MongoDB 2 years ADDITIONAL INFORMATION 
+Skills Summary 
+Coding Experience o Frontend experience building web interfaces with 
+AngularJS 
+Bootstrap and custom CSS jQuery 
+Material Design 
+Jasmine and Karma for testing o Backend Experience building APIs with 
+Node JS and Express 
+MongoDB Mongoose ORM 
+Heroku for deployment 
+AJAX JSON REST o Administrative Experience with 
+SharePoint 201Fluent in Japanese o Light experience performing technical document translation from Japanese to English o Teaching Japanese on Youtube using Adobe Suite software Premiere and Illustrator 
+SKILLS 
+Sitecore 1 year Wordpress 1 year HTML 1 year CSS 1 year PHP 1 year 
+SKILLS 
+AJAX 4 years CSS 4 years HTML 4 years JAVASCRIPT 4 years jQuery 4 years 
+ADDITIONAL INFORMATION 
+COMPUTER SKILLSLanguages and technologies HTML CSS JavaScript Ajax JQuery PHP5 Codelnighter 
+Boostrap 
+Software Visual Studio 2008 2010 2013 Git Microsoft Office Gitextensions 
+Management of databases MySQL EMS 
+Operating Systems Windows 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Programming Languages Java JavaScript 
+Web Technologies HTML 5 CSS3 JavaScript AJAX XML XHTML JSON 
+JavaScript Libraries and Frameworks JQuery Bootstrap AngularJS 2 Node JS Express JS Gulp JS 
+IDE Tools Sublime Text Brackets Eclipse IntelliJ IDEA Notepad 
+Database My SQL 51 Mongo DB 
+Operating Systems Windows 7 8 10 Mac 1012 Linux Unix 
+Methodologies Agile Scrum Waterfall 
+Workflow and Delivery Responsive Web Design Single Page Applications 
+Version Control SVN tortoiseSVN GitHub 
+Project Build Project Management Tools Grunt Maven Bower Jira Gulp 
+Designing Tools Adobe Photoshop CS6 Adobe Lightroom 
+SKILLS 
+HTML 5 3 years CSS3 3 years Javascript 3 years JQuery 3 years Bootstrap 3 years WordPress years Responsive 3 years Grunt 2 years SASS LESS 2 years Git 2 years AngularJS 
+BackboneJS Less than 1 year 
+SKILLSNET 2 years C 2 years javascript 3 years jQuery 2 years Visual Studio 2 years 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Programming Languages C Java C SQL VBNET ADONET 
+Scripting Languages JavaScript JQuery Angular js Knockout js Pager js VB Script 
+Web Technologies Bootstrap HTML 5 ASPNET XML JSP Ajax JSON MVC WebApi 
+Databases Oracle 10g 11g Microsoft SQL Server PostgreSQSoftware Tools Eclipse Visual Studio 2013 Rational Team Concert RTC Tortoise SVN 
+N Unit Runner ScanTool Plus Software Adobe DreamWaver 
+Office Suite Microsoft Office Suite Excel Word and PowerPoint 
+Software Utilities Putty WinSCP 
+Other Technologies Entity Framework Webservices SOAP RESTful services WCF AWS Azure 
+Dependency Injection N Unit Moq Socket Programming Multi threading 
+ADDITIONAL INFORMATION 
+SKILLSETS Current Expertise Up and Coming or Old Friends 
+Languages PHP Scala SQL Java 
+Python JS Salesforce Apex C C 
+Platforms Apache Spark LAMP LEMP AngularJS React Centos Salesforce Laravel 
+WordPress Ubuntu CodeIgniter Symfony Windows Desktop 
+Tools Jira git vim sbt PHPUnit mysql bash pytest Jenkins maven ansible bind postgres kafka postfix make ANT 
+Techniques Agile Object Oriented Continuous Integration Test Driven 
+Programming Functional Development 
+Programming Unit Testing 
+ADDITIONAL INFORMATION 
+Computer Skills 
+Proficient or familiar with a vast array of programming languages concepts and technologies including 
+Web Technologies JavaScript PHP CSS ASPNET HTML DHTML XHTML XML XSL XSLT Web 
+Services WSDL XSD 
+Computer Languages C C Java J2EE PERL Servlets and JSP RUBY J2ME Struts Framework EJB 
+Databases Oracle Microsoft SQL Server MySQL 
+Designing Tools Rational Rose Dia Magic Draw 
+Microsoft Tools InfoPath OneNote Access Excel Powerpoint Word Microsoft SILVERLIGHT 
+Microsoft EXPRESSION BLEND 4 
+IDEs Tools Microsoft Visual Studio Eclipse NetBeans Adobe Dreamweaver 
+Adobe Flash Flex Microsoft Visio SPSS Microsoft Expression BLEND 
+Operating Systems Windows Linux Unix Mac OS X 
+Other tools Rally cwiki 
+Technologies Java J2EE JavaScript DRUPAL PHP HTML CSS 
+Technologies Java J2EE 
+Technologies Java 
+SKILLS 
+ADOBE INDESIGN Less than 1 year EXCEL Less than 1 year HARDWARE INSTALLATION Less than year INDESIGN 3 years MAC 4 years Wordpress 1 year CSS 1 year Safety Less than 1 year 
+ADDITIONAL INFORMATION 
+SKILLS 
+Computer literate 
+WordPress Web Developer 
+Adobe InDesign 
+Mac OS Oriented 
+PIC16f84a programming 
+Workbench and Proteus Simulation 
+MS Office Word Excel PowerPoint 
+PC Software and Hardware installation 
+English Literate 
+SKILLS 
+HTML 5 3 years CSS3 3 years JQuery 1 year Javascript Less than 1 year QA Less than 1 year 
+SKILLOrganization Communication Detail and Deadline oriented Android Mobile Applications Wordpress 
+Content Management System Oracle Relational Databases Visual Basic Java C Structured Query 
+Language SQL Hypertext Markup Language HTML Active Server Pages ASP Cascading Style 
+Sheets CSS Office Project 2007 Visual Studio Web Expression Programmable Logic Controllers 
+Programmable Micro Controllers 
+SKILLS 
+HTML 5 2 years CSS3 2 years Javascript 2 years JQuery 2 years Angular 2 years BootsTrap 2 years PHP 2 years Git Less than 1 year Wordpress 2 years Native Script Less than 1 year 
+ADDITIONAL INFORMATION 
+SKILLS ABILITIES 
+HTML5 CSS3 Bootstrap3 
+JS Angular JQuery PHPResponsive design CMS WordPress 
+AJAX JQuery 
+SKILLS 
+HTML 401 XHTML 10 11 HTML5 CSS 21 CSS3 LESS SASS JSON XML JavaScript jQuery 
+MooTools Underscorejs Handlebarsjs Requirejs Raphaeljs Leaflet Twitter Bootstrap Cross browser compatibility 
+ADDITIONAL INFORMATION 
+SKILLS TECHNOLOGIES 
+FRONT END Semantic standards compliant progressive enhancement graceful degradation responsive 
+HTML 401 XHTML 10 11 HTML5 XML XSLT 
+CSS 21 CSS3 LESS SASS SCSS 
+JSON BSON 
+JavaScript React jQuery MooTools Backbonejs Underscorejs Handlebarsjs Requirejs Raphaeljs 
+Leaflet Twitter Bootstrap Zurb Foundation Spinejs 
+Cross browser compatibility including legacy browser versions such as IE 6 7 8 and of course 9 10 
+OpenGL WebGL 
+Bourbon Neat 
+Gulp Grunt 
+BACK END 
+PHP Python Java 
+SCRIPTING LANGUAGE 
+PHP 52 53 54 Java 6 7 
+DATABASE 
+MySQL MongoDB 
+SERVER 
+Zend Server CD CentOS 
+HOSTING EXPERIENCE 
+Managed VPSNET Rackspace Linode Slicehost 
+Shared Dreamhost Bluehost GoDaddy HostGator Aplus 
+APIs Installed modified and created interfaces for these APIs 
+REST HTML5 APIs eg 
+Geolocation File Media Drag Drop Amazon AWS eg 
+S3 MailChimp Flickr 
+Vertical Response Constant Contact Google Maps Cufon StackExchange Facebook Twitter 
+COMMUNICATION PROTOCOLS 
+HTTP FTP SFTP TCP IP SMTP POP IMAP 
+VERSIONING SYSTEMS 
+Git SVN CVS SmartGit TortoiseGit TortoiseSvn 
+DEVELOPMENT IDEs TEXT EDITORS 
+KomodoEdit favorite SublimeText2 Eclipse NetBeans Notepad Programmers Notepad PhpED 
+MySQL Workbench 
+GUIs 
+Database HeidiSQL Navicat MySQL Workbench 
+Shell PuTTy Cygwin 
+Versioning SmartGit TortoiseGit TortoiseSvnDESIGN SOFTWARE 
+Photoshop 
+SKILLS 
+GRAPHIC DESIGN 4 years ACCESS Less than 1 year ACCESS CONTROL Less than 1 year 
+ADOBE PHOTOSHOP Less than 1 year ASP Less than 1 year 
+ADDITIONAL INFORMATION 
+Key Skills 
+Network Administration 
+Support Analyst 
+Hardware Software InstallationAuthentication Access Control 
+System Monitoring 
+Back up Restoration 
+System Integration Planning 
+Graphic Design 
+Website Development 
+Firewalls Routers 
+Hardware Software Configuration 
+Remote Assistance 
+INFORMATION TECHNOLOGY SPECIALIST 
+Specializing Web Design Graphic Design Computer Repair and Networking 
+My qualifications include a degree in computer science detailed knowledge of Adobe Photoshop CS5 
+Dreamweaver and PC troubleshooting and repair 
+Ten years of experience in building and repairing systems 
+Five years of experience in graphic design and flash website creation and deployment Three years of experience in network implementation and design firewalls routers and LAN s 
+Systems Windows all Unix Based Systems Linux 
+Networking LANs WANs VPNs Routers Firewalls TCP IP 
+Software Microsoft Office Visio Frontpage Creative Suite 55 Photoshop Flash Dreamweaver 
+Programming Java JavaScript SQL MySQL PHP ASPNET C HTML5 CSS3 
+SYSTEM PROFICIENCY 
+Hardware 
+HP Blade IBM Dell Compaq Toshiba Macs Wireless Wired Routers LCD Displays PCI and PCI E cards 
+Programming Languages 
+HTML CSS Coldfusion Intermediate PHP Beginner Java Entry Level JavaScript 
+Systems 
+Windows 95 98 2000 NT XP Vista 7 MS DOS Snow Leopard Server 2003 2008 Exchange 2003 2010 
+Active Directory MAC OSX 
+PC Software 
+Microsoft Office Suite CA Unicenter Real Time Automated Personnel Identification System RAPIDS CISCO 
+Call Manager Adobe Collection Suite CS4 CS5 Partition Magic ERD CISCO VPN WSUS CA ArcServe 
+Symantec Ghost Microsoft Exchange AD VMWare Microsoft TFS Autotask FTP Joomla MySQL MAMP 
+Microsoft VS SQL MySQL 
+SKILLSNET 6 years ASP 6 years ASPNET 6 years C 6 years JavaScript 6 years 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Programming Languages C JavaScript AngularJS AJAX HTML5 CSS3 XML JSON Java 
+Frameworks 
+NET ASPNET ASPNET MVC ADONET Web API WCF Web Services LINQ Entity Framework JQuery 
+Telerik UI Bootstrap J2EE Spring MVC 
+Databases SQL Server SQLite DB2 
+Tools Visual Studio SQL Server Management Studio Balsalmiq SharePoint SharePoint Designer Visio 
+ERWin Eclipse 
+Source Control TFS Github Git 
+Methodologies Agile Scrum 
+SKILLS 
+Adobe Photoshop 2 years Ajax Less than 1 year HTML5 2 years JavaScript 1 year MySQL 2 years PHP 2 years Git Less than 1 year Technical Support 2 years 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLLanguages CSS3 HTML5 JavaScript PHP MySQL exposure to Ajax JSON jQuery and Git 
+Applications Adobe Photoshop Illustrator cPanel Sublime Text 3 Microsoft Visual Studio Code and GitHub 
+ADDITIONAL INFORMATION 
+Technologies 
+Microsoft C NET Microsoft ASPNET Microsoft MVC 4 Microsoft SQL Server 2008 Android OS Windows 
+Azure Java Windows Phone Silverlight CSS Microsoft SharePoint Microsoft Visual Studio 2012 jQuery 
+ADDITIONAL INFORMATION 
+SKILLS LANGUAGES 
+JavaScript Node jQuery MongoDB Mongoose HTML CSS Ruby Rails Express Angular Sass 
+Bootstrap Skeleton D3 GitHub Webpack Mocha Pry Heroku Firebase Wordpress Adobe Suite 
+ADDITIONAL INFORMATION 
+Skills 
+Created a new Wordpress theme for the ioquake3 website from scratch Programming 
+C Python Lua Flash ActionScript 3 
+Canvas JavaScript 
+Contact Hardware 
+Here s how to get ahold of me 
+Certified in Computer Repair 
+Phone Web Development 
+HTML 5 JavaScript CSS 3 Wordpress theme development 
+Email cdeboy frenchfriesandapplesaucecom Linux 
+Ubuntu POSIX CLI Usage SSH GIT FTPD Modeling and Animation 
+Blender3D modeling 3DS Max modeling animation 
+Graphic Design 
+Raster The Gimp Photoshop Vector Inkscape Illustrator 
+SKILLS 
+Microsoft Office Windows XP and 7 Ubuntu Linux Mac OS X Java C C C ActionScript HTML5 
+PHP CSS3 JavaScript jQuery Mercurial DVC Proficient in Joomla and ExpressionEngine CMS 
+Experience with French language 
+SKILLS 
+CSS 2 years Quality Assurance 6 years scripting 6 years testing 6 years Web design 6 years 
+ADDITIONAL INFORMATION 
+SKILLS 
+Back End Web Development Front End Graphic Web Design CSS HTML5 
+Console Application Development Stored Procedure Implementation Sproc 
+Quality Assurance Testing Web Service Development SOAP 
+Scripting for Data Driven Testing CS Script J Script Software Documentation Technical 
+Version Control Administration Tortoise SVN GIT Payment Credit Card Gateway Development 
+Microsoft Team Foundation 
+E Procurement Platform Development Coupa 
+Data Structures SciQuest 
+SKILLS 
+Microsoft Office 2010 HTML CSS Javascript Nodejs SQL PHP Wordpress Google Analytics SEO 
+Dreamweaver Photoshop Sketch 3 Illustrator Webflow Web Design Web Development Github Git FTP 
+Hosting 
+ADDITIONAL INFORMATION 
+Skills 
+Adobe Photoshop Illustrator 
+Front end Development 
+Back end Development on Nodejs 
+Git 
+Wordpress 
+Microsoft Excel 
+Team Communication Software Trello Slack etc 
+ADDITIONAL INFORMATION 
+Skills 
+ILLUSTRATOR CSS 
+INDESIGN JAVASCRIPT 
+DRUPAL PHP 
+HTML 5 MYSQL 
+BOOTSTRAP UI UX 
+SKILLS 
+C 7 years SQL 5 years NET 7 years Java 1 year Python 3 years HTML 2 years Database 
+Development 3 years OpenERP 3 years Odoo 2 years XML 3 years PostgresSQL 3 years 
+Telerick Web Controls 3 years Telerick Window Control 3 years Telerick Reporting 3 years AspNet 2 years HTML 5 1 year Bootstrap 1 year Git 3 years Github 3 years Jasper Report 1 year PLSQL year Oracle 1 year Visual Studio 7 years CSS 1 
+ RML 3 years ADO NET 4 years LINQ years OOP 7 years 
+SKILLS 
+HTML5 CSS3 Bootstrap jQuery JavaScript UI Development WordPress 
+SKILLS 
+Android Less than 1 year Assembly Less than 1 year HTML Less than 1 year JavaScript Less than 1 year PHP Less than 1 year 
+ADDITIONAL INFORMATION 
+COMPUTER SKILLS 
+C Java Python HTML JavaScript PHP Embedded C Mobile Development Android Assembly Database 
+Management 
+PERSONAL SKILLSSelf motivated 
+Resourceful creative and innovative 
+Determined and dependable 
+Analytical problem solver 
+Video production experience 
+OPERATING SYSTEMS Windows Linux UNIX and Red Hat Android LANGUAGES English Fluent 
+Spanish Fluent and German Basic Conversational 
+ADDITIONAL INFORMATION 
+Skills 
+Excellent problem solving abilities Proficiency in Microsoft Office 
+Strong research skills Leadership abilities 
+Adaptable learner Excellent communication skills 
+Creative problem solving Honest employee 
+Excellent time management Quality focused 
+Critical Thinker 
+SKILLS 
+Website Design Inventory Management Payroll Administration SQL HTML 
+SKILLS 
+Web Development Less than 1 year Business Development 1 year Sales 4 years Salesforce 4 years 
+CORE COMPETENCIEApplication Programming Website Development Project Management 
+Software Design Development Mentor Trainer Database Design 
+Requirements Gathering Graphical Programming Troubleshooting 
+Coding Agile Waterfall Methodologies Communication 
+TECHNICAL SKILLS 
+Front End HTML CSS SASS JavaScript jQuery AJAX AngularJS 
+Back End Ruby Rails Nodejs Express SQL NoSQL MongoDB Mongoose ActiveRecord 
+Other Firebase Ionic Git GitHub Heroku CLI Microsoft Office Google for Work 
+SKILLS 
+Adobe Creative Suite 10 years Content Management Systems 10 years HTML 10 years CSS years CSS3 10 years HTML 5 4 years Microsoft Office 10 years Javascript 10 years PHP years Analytics 10 years SEO 10 years Website Design 10 years Ecommerce 10 years 
+Web Development 10 years Web Services 10 years Web Platform Administration 10 years Full 
+Stack Development 10 years 
+ADDITIONAL INFORMATION computer skills 
+Adobe CS6 Adobe InDesign Adobe Dreamweaver 
+Adobe Photoshop Adobe Illustrator Adobe Bridge 
+Adobe Acrobat Adobe After Effects Microsoft Word 
+Adobe Final Cut Pro jQuery PC and Mac platforms 
+WordPress Drupal Adobe Flash 
+Adobe Fireworks MySQL Microsoft PowerPoint 
+Microsoft Excel HTML5 CSS3 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Programming Languages Java Nodejs Expressjs HTML 
+Cloud Computing Amazon Web Services Amazon RDS AWS Bitnami Sales force Google App Engine 
+Virtualization VMware ESXi VMware workstation VMware VSphere Client Xen Server 
+Big Data Apache Spark Kubernetes Container Cluster Docker Google Container Engine 
+SAP R 3 
+Database Systems MySQL Oracle 10g 
+Web Technologies HTML5 AJAX JavaScript Bootstrap JQuery Angularjs JSP Servlets Apache Tomcat 
+Design Skills and Operating Systems UML MacOSX Windows CentOS Linux UNIX 
+IDE Tools Eclipse NetBeans Jenkins Git 
+Skills 
+Adobe Flash 
+Corel Paint 
+Shop Pro 
+MS Office Professional 2010 
+Access 
+Excel 
+VS Ultimate 
+CSS 30 
+HTML XHTML 
+JavaScript 
+SQL 
+XML XSL 
+Visual Basic 
+MySQL 
+Windows Vista XP 
+ADDITIONAL INFORMATIOTechnical Skills 
+Operating System Windows Server 2003 Red Hat Linux 
+Databases My SQL 
+Programming Languages C Java Visual Basic 60 
+Scripting Languages PHP 524 JavaScript and Smarty Template 
+Markup Languages HTML and CSS 
+Web Technologies X cart Zen Cart Virtue Mart Pay Pal Wordpress 
+Web Servers Apache Xampp and Wamp 
+Development Tools Dreamweaver CS3 
+CMS Joomla 15 and Magento 
+Others Networking CCNA Basic Photo editing Photoshop 70 and GIMP 
+Academia 
+SKILLS 
+CSS 3 years Excel Less than 1 year html 3 years Javascript 3 years PHP 3 years 
+ADDITIONAL INFORMATION 
+SKILLS 
+Hard Skills 
+Familiar with the following programming languages PHP JavaScript SQL HTML CSS and XML 
+PHP frameworks of Code Igniter and Laravel 
+Javascript frameworks of Vue js 
+Familiarity with Git and version controlling software 
+Building ES5 and ES6 Javascript with Node JS Babel and Webpack 
+Proficiency in Microsoft office products such as Word Excel Access PowerPoint etc 
+Soft Skills 
+Strong interpersonal empathetic communicator 
+Able to listen and accept any feedback about my quality of work 
+Respectfully assertive when it is necessary 
+Highly self motivated to work hard to accomplish goals independently 
+Always looking for ways to make software work better 
+Love to work independently with the purpose to benefit the whole team with my work 
+Always working hard to learn and better myselfADDITIONAL INFORMATION 
+SKILLS 
+WEB DEVELOPMENT CSS HTML JAVASCRIPT TYPESCRIPT NODEJS 
+FRAMEWORKS ANGULAR REACT METEOR IONIC EXPRESSJS LARAVEL ADONIS 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Microsoft Windows Mac OSX Active Directory SQL Server 2008 Microsoft O ce Suite 
+Adobe Photoshop Illustrator Premiere Indesign Lightroom mySQL C HTML PHP JavaScript jQuery CSS 
+SKILLS 
+AJAX 7 years JavaScript 7 years jQuery 7 years web services 7 years XML 7 years 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Web Technologies JavaScript OOPs HTML4 5 CSS2 3 Responsive Web Design AJAX XML JSON 
+JavaScript Library JQuery YUI 
+JavaScript MVC Frame Work Backbonejs Angularjs 
+Server Side Scripting PHP 
+PHP MVC Frame Work Codeigniter 
+Database MySQL 
+Web Services REST 
+Web servers Apache Tomcat 7 and S3 Bucket 
+IDE s Tool PHPMyadmin xampp control Eclipse IDE Dreamweaver Firebug Developer Tools JSfiddle 
+V I Editor Notepad 
+Operating Systems MS Windows 2K XP 7 and Linux Ubuntu 
+Methodologies Agile Waterfall Model 
+SKILLS 
+Microsoft Office 10 years CSS 10 years PHP 10 years Wordpress 7 years Javascript 10 years HTML 10 years MySQL 10 years Problem solving Critical thinking Excellent written and verbal communication Willingness to learn Teamwork 
+ADDITIONAL INFORMATION 
+I am looking to transition from my main focus over the last 12 years of being a freelance web developer into a more stable and long term career with an established company 
+SKILLS 
+HTML5 CSS3 SASS LESS Javascript JQuery PHP MySQL WordPress Mobile Responsive 
+Frameworks Git Linux Apache C VBNET REST SOAP Ruby on Rails Object Oriented Programming oAuth iOS and Android app development Unity3D Xamarin 
+SKILLS 
+Web Development User Experience Content Management Subscriber Acquisition Digital Marketing 
+Social Media Ecommerce Web Analytics 
+Technical SkillsLanguages HTML PHP CSS Javascript JQuery AJAX XML JSON 
+Production Tools Adobe Creative Suite Vingette Interwoven TeamSite Wordpress Content Editor Coda 
+TextPad 
+Project Tools MS Office Suite Atlassian JIRA Adobe SiteCatalyst Perforce Google Analytics k 
+SKILLS 
+NETWORKING 6 years SECURITY 6 years MODEL VIEW CONTROLLER 2 years MODEL VIEW 
+CONTROLLER 2 years MVC 2 years 
+ADDITIONAL INFORMATION 
+Skills 
+Java 
+JavaScript 
+SVN GIT 
+AJAX 
+Bash shell 
+Google APIs 
+REST SOAP 
+Linux Ubuntu 
+MySQL 
+Drupal 
+Ubuntu 
+PHP 
+CSS3 
+Wordpress 
+LESS SASS 
+Perl 
+HTML5 
+Custom PHP MVC 
+Ruby on Rails 
+C COperating SystemInformation Security 
+Mobile Application Development 
+Networking Concepts 
+Fund of Computer Information Systems 
+Computer Law and Ethics 
+SKILLS 
+Java 6 years C 4 years Javascript 2 years CSS3 Less than 1 year CSS 2 years HTML 2 years 
+Entity Framework Less than 1 year Angular Less than 1 year Angular Material Less than 1 year 
+Bootstrap Less than 1 year Android Development Kit Less than 1 year 
+ADDITIONAL INFORMATION 
+SKILLS 
+Learn new concepts quickly work well under pressure and communicate ideas clearly 
+Fully bilingual Oral and writing skills in English and Spanish 
+Exceptional knowledge with computers and programming languages such as Java C Ruby HTML CSS 
+PHP Javascript etc and applications such as Visual Studio and Eclipse 
+A lot of experience developing videogames mostly out of self improvement and entertainment 
+Mostly used 
+Unity3D but have touched UDK and JMonkey Engine 
+Some experience using Blender to learn how to make my own meshes for my games though not nearly as extensive as my knowledge with coding 
+

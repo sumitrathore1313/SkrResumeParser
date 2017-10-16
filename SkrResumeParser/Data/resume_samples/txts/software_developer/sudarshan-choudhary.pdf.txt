@@ -1,0 +1,117 @@
+sudarshan choudhary
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/sudarshan-choudhary/7f1351229fb331ce
+
+I am looking forward a job in IT software as SQL Developer 0r SQL DBA
+
+WORK EXPERIENCE
+
+Software Developer
+NIIT Technology LTD  -  Gurgaon, Haryana - February 2011 to November 2012
+
+Web Developer
+British Airways  -  Noida, Uttar Pradesh - June 2012 to October 2012
+
+Responsibilty: Develper
+
+CAP Team, which falls in the IM -Service Delivery Department, manages the Content Maintenance of the
+British Airways Website www.britishairways.com.
+
+Requests related to www.Ba.com
+
+Software Engineer
+Banking and Investment - February 2011 to July 2012
+
+Global Wealth Management Platform (GWMP) project was formed with the merger of:
+• Global Investment Processing Platform (GIPP) project
+• SEI Desktop Initiative Project
+• Buy Commodity services (business and technical)
+• Buy strategic services
+• Integrate into single Platform.
+
+This  Project  is  a  task  based  maintenance  project.  Objectives  of  which  are  maintaining  and  enhancing
+existing apps, providing operations support for different application. In this project which have more than 120
+applications.
+Test preparation application for students
+• Team Size:10
+• Duration: 15 Months
+• Role: SEI Consultant
+• Domain: Production support
+• Location: ODC
+Technology used:
+• Operating System: Linux, Windows 2003
+• Server: Apache, Tomcat 5.0, IIS,
+• Languages/Technology: Core JAVA, Servlet, Applet, J2EE
+• Databases: MS SQL Server 2000/2005
+• Tools: CGCALC, BMC
+
+Software Engineer
+NIIT Technology Limited  -  Gurgaon, Haryana - February 2011 to May 2012
+
+Gurgaon.
+
+Key Role:
+• Develop new feature as per customer requirement.
+• Debugging and resolve the customer's issue.
+• Enhance and optimize existing Application
+
+Web Developer
+Requests for CAP Content Support  -  Greater Noida, Uttar Pradesh - February 2008 to February 2008
+
+Feb '08.
+Role:
+Making static/dynamic changes to the www.ba.com website pages, which can include
+➢ Content Changes
+➢ Changing/Adding new links
+➢ Adding a new section
+➢ Page Level Redirect
+➢ Server Re-direct (to be picked by CCS only if it is a part of some other change. Standalone Server -redirect
+to be picked by business)
+➢ Uploading images
+➢ Resizing images to the extent that they are not distorted
+➢ Photoshop image uploads
+➢ Photoshop image amendments including adding text, resizing, reshaping, reducing weight
+➢ Flash image uploads
+➢ Flash image amendments e.g. route maps, where we fly, redemptions maps
+➢ Adding/removing call to OpenX
+➢ Putting up a banner and removing it based on opening and closing dates of certain offers.
+➢ Double click redirects
+All redirects and Tracking on www.BA.com
+
+Test preparation application for students
+• Team Size: 13
+• Duration: 4 Months
+• Role: Developer
+• Domain: CAP Content Support Team
+• Location: BA, NIIT Technologies Ltd
+
+Technology used:
+• O/S: Linux, Windows 2003
+• Server: Apache, Tomcat 5.0,
+• Languages/Technology: JAVA, Servlet, JSP, Unix, JavaScript, Xml, Xslt
+• Databases: MS SQL Server 2000/2005
+• Tools: RightNow, Teamsite
+
+EDUCATION
+
+B.Sc.
+Kuvempu University  -  Bangalore, Karnataka
+2010
+
+MCA
+ICFAI University
+
+Bihar school examination board  -  Patna, Bihar
+
+Software Engineering
+NIIT
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+
+• Languages/Technology: JAVA, J2EE, Unix, JavaScript, Xml, Xslt
+• Databases: MS SQL Server […] and 2008
+• Tools: Right Know, Teamsite, BMC
+
+

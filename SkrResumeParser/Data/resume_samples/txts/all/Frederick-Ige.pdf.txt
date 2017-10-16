@@ -1,0 +1,84 @@
+<ba>
+Frederick Ige
+
+Web Developer (Intern) - Inflectra
+
+Silver Spring, MD - Email me on Indeed: indeed.com/r/Frederick-Ige/3eafa1ddbd04bcb0
+</ba>
+<su>
+Willing to relocate to: Silver Spring, MD
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer (Intern)
+Inflectra  -  Silver Spring, MD - November 2016 to Present
+
+• Building plugins for JIRA to fulfill client feature requests
+• Micro service based architecture
+• Github Repo
+
+Freelance Full stack Developer
+Inflectra - November 2016 to Present
+
+Providing Small company with an employee tracking web app
+o MEAN stack based development
+o Built email based notification system
+o Github Repo
+• Lead web developer at Baka proof
+o Custom CSS design of a preexisting WordPress theme
+o Hand coded mobile responsive pages with CSS media queries
+o http://www.bakaproof.com/
+
+Junior Systems Engineer
+Booz Allen Hamilton  -  Hamilton, WA - January 2015 to Present
+
+DC
+• Managed SharePoint Intranet for content delivery and security
+• Streamlined document management with Sharepoint workflows
+• Improved navigation of company asset database through custom SQL queries
+• Developed custom functions and methods for office programs using Visual Basic
+
+Java Programming Instructor Aid
+Digital Media Academy - June 2014 to August 2014
+
+• Teaching 13-15 year olds object oriented programming fundamentals
+• Assisting in creation of final projects for presentation
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Information Systems Management
+University of Maryland  -  Baltimore, MD
+</ed>
+<sk>
+SKILLS
+
+Javascript (2 years), angularJS (2 years), NodeJS (1 year), MongoDB (2 years)
+
+ADDITIONAL INFORMATION
+
+Skills Summary
+• Coding Experience
+o Frontend experience building web interfaces with:
+• AngularJS
+• Bootstrap and custom CSS
+• jQuery
+• Material Design
+• Jasmine and Karma for testing
+
+o Backend Experience building APIs with:
+• Node JS and Express
+• MongoDB (Mongoose ORM)
+• Heroku for deployment
+• AJAX | JSON | REST
+
+o Administrative Experience with
+• SharePoint 2013
+
+• Fluent in Japanese
+o Light experience performing technical document translation from Japanese to English
+o Teaching Japanese on Youtube using Adobe Suite software (Premiere and Illustrator)
+</sk>
+

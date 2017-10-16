@@ -1,0 +1,192 @@
+<ba>
+Indra Reddy
+
+Android Developer - WELLS FARGO
+
+Dallas, TX - Email me on Indeed: indeed.com/r/Indra-Reddy/7bd70637621b2abe
+<su>
+* 7+ years' IT experience, entailing 4 years in Android based Mobile Applications, and 3+ years in Java based
+applications' analysis, design & development for multiple screen sizes for both android phones & tablets
+* Knowledge of handling any new mobile technology for any kind of application development using Java, J2EE,
+Servlets, JSP, XML, Eclipse, JDBC, Web Services, AJAX, Oracle, MySQL, SQL, HTML, & CSS
+* Expert in Software Development Life Cycle (SDLC) of applications design & development, including SCRUM-
+Agile & Waterfall models using Android Software Development Kit (SDK) V2.3-5.0 (Gingerbread - Lollipop)
+* Designed & developed responsive web pages with new trends using most recent User Interface (UI) patterns
+to be used by browsers at desktop, tablets or phones; designed GUI & interfaces with services for mobile
+applications
+* Experience in Web Services using SOAP & REST FUL API to fetch data for mobile front end and parsing
+the web response data in both XML & JSON format using different parsers
+*  Developed  personal  projects  using  Phone  Gap;  integrated  various  third  party  Open  Source  APIs  like
+Facebook, Twitter, YouTube, Instagram & Google Maps API V2 for custom Android applications
+*  Exposure  in  Android  UI  components  -  ListView,  GridView,  Customized  Views,  Menus  in  application
+development; implementing native libraries in application using Android NDK
+*  Experience  in  using  Fragments,  Activity  workflow,  Action  Bar  Navigation,  Menu  designs,  view  controls,
+Loaders and using Storage options in Android like Shared Preferences
+*  Proficient  with  common  Android  Framework  API's  (Location,  Camera,  Notifications,  Maps)  with  good
+knowledge of the Android Architecture, Android Concurrency and Android Middleware
+* Experience with profiling, tuning, & optimizing Java applications and branching, pushing & merging codes
+with remote repository GIT; used GitHub in application development
+* Worked on JUnit, used JSON testing framework & data interchange in Java and SQLite & MySQL databases
+* Worked on Bluetooth Audio profiles (A2dp, AVRCP, HFP) and Bluetooth stack (BlueZ, BlueDroid)
+* Knowledge of C, C++, Java, Multi-threading & OOPs technologies, Open Source Version Control tools (SVN
+& GIT) for tracking & deployment & Atlassian tools (JIRA & Confluence) to manage and track project progress
+Willing to relocate: Anywhere
+<we>
+WORK EXPERIENCE
+
+Android Developer
+WELLS FARGO  -  Denver, CO - August 2015 to Present
+
+Role: Android Developer WELLS FARGO (Banking & Financial Services), Denver, CO (Aug 2015 - Present)
+Responsibilities:
+• Discussed & documented client requirements, prepared prototype and shared with the Client Manager
+• Worked closely with another mobile app developer, leading other platform development in Agile methodology
+• Designed interface with Design & UX team for better usability and maintained relative nativity (phones &
+tablets)
+• Developed user-friendly User-Interfaces (UI) using widgets like Menus, Dialogs, Layouts, Buttons, & Edit
+boxes; created selection widgets like List View using Array Adapters & Scroll View as per client needs
+• Developed the activities and UI layers using ADT and customized as per the client request
+• Designed Custom Dialog, Custom Action bar, Custom Progress bar using fragment activity
+• Identified the root cause of an application issues while working on Android devices
+
+• Made Restful Service Calls using Google's Volley Library at various stages in application development cycle
+and parsed responses back from the web servers as per the application requirement
+• Consumed restful web services to fetch user profile and daily transaction details
+• Identified critical/crash/hidden defects in applications using mobile apps and suggested quick fix by analyzing
+logs
+• Tested the app across different versions of Android & Android phones to assure quality and performance
+• Created test data for users (business, personal, commercial) and used for unit test and requirement validation
+• Used different transformations for extraction, cleansing & loading data to staging areas and presentation
+tables
+• Participated in daily stand-up meetings and involved with Scrum project estimation meeting on bi-weekly
+basis
+Environment: Android SDK 4.1, Java 1.6, SQLite 3.0, Eclipse IDE 3.6 and ADT Plug-in, JUnit
+
+Android Developer
+MOLINA HEALTHCARE (Healthcare)  -  Long Beach, CA - September 2013 to August 2015
+
+Role: Android Developer MOLINA HEALTHCARE (Healthcare), Long Beach, CA (Sep 2013 - Aug 2015)
+Responsibilities:
+• Involved in all SDLC phases from analysis, design, development, and test to deployment & support
+• Designed software solutions by writing design specifications, description of framework, interfaces, services,
+reports, business components, and interaction between components under Architect's guidance
+• Ensured quality delivery of code through static and dynamic testing techniques
+•  Worked  with  QA  team  for  fixing  bugs  &  troubleshooting  performance  issue  and  providing  support  to
+production
+• Designed complex User Interface (UI) screens using views, widgets, UI Groups & UI components
+• Registered the Broadcast Receivers for the android system announcements
+• Played a key role in writing application logic using Eclipse IDE & Android SDK
+• Used fragments to build small re-usable pieces that are easier to manage, allow more design and adapt
+to tablet
+• Made Restful Web Service Calls at various stages in the app development cycle and parsing the JSON
+responses back from the web servers according to the application requirement
+• Implemented sorting options for search items based on drugs (brand, product)
+• Involved in debugging and porting the application on various tablets using Logcat, DDMS
+Environment: Android SDK, JDK, Eclipse IDE, HTML, JavaScript, C, Web Services, windows 7, Java, JDK
+1.7, Maven, MS SQL Server, Eclipse, JBoss, JUnit, Windows.
+
+Android Developer
+BEST BUY (Retail)  -  Minneapolis, MN - November 2012 to August 2013
+
+Role: Android Developer BEST BUY (Retail), Minneapolis, MN (Nov 2012 - Aug 2013)
+Responsibilities:
+• Collaborated with cross-functional teams to work on project life cycle phases like design, development &
+testing
+•  Involved  in  requirement  gathering,  User  Interface  (UI)  design  &  development  using  XML;  collected/
+documented client requirements & implemented functionality based on requirements for major releases
+• Worked towards designing & developing new features for database interface of mobile app from existing
+system
+• Handled features development & enhancement to restrict usage based on Authorization & Authentication
+tokens; created UI and functionality for authentication feature
+•  Worked  closely  with  testing  team  in  providing  subsequent  releases,  which  included  feature  changes,
+enhancements & bug fixes; analyzed and fixed the defects for various modules in the QA stages
+
+• Designed screens related to categories & detail description for different sized devices by customizing views
+as per mockup. Created master-detail interface for tablet implementation with Barcode scanner
+• Integrated with Google API to provide user with directions to nearest Best Buy locations, entering zip code/
+location
+• Updated backend validations to meet tablet specifications; added parser classes for Tablet for parsing JSON
+feeds
+Environment: Android SDK, SQLite, Eclipse IDE, Android API's, JDK, XML, JSON, HTML, CSS, SQLite, GPS
+service, Log cat, Windows 7
+
+JAVA Developer
+NERIUM INTERNATIONAL  -  Addison, TX - November 2011 to October 2012
+
+Java Developer
+NERIUM INTERNATIONAL  -  Addison, TX - November 2011 to October 2012
+
+Responsibilities:
+•  Designed  Class  &  Sequence  Diagrams  and  designed  &  coded  application  components  in  an  Agile
+environment
+• Developed web User Interfaces (UI) using Struts, JSPs, HTML5, XHTML, CSS, Java Script, JQuery & AJAX
+• Developed application using SCRUM agile methodology and code through different presentation layers using
+Struts2, Business Layer using Spring IOC, and Service Layer using Hibernate ORM framework.
+• Developed domain objects using Hibernate and the respective configuration in XML files
+• Involved in analysis, design, coding and testing of user requirements in different sprints
+• Handled the application development and provided support for previous releases
+• Involved in troubleshooting application related issues by analyzing log files created in Linux/Unix environment
+• Involved in testing using JUnit and fixing defects assigned on JIRA; resolved many challenging tasks while
+migrating by taking care of the sessions and creating Stubs as per new environment
+• Converted mock-ups into hand-written HTML 4.0/5, CSS (2/3), XHTML, JavaScript, JQuery, AJAX, XML &
+JSON
+• Worked on Web Services using java API for XML Services (JAX-WS) & build, deploying Restful Web APIs
+Services; implemented several new features by calling new Web services which were provided
+• Tested web services on SOAP UI and SOAP Sonar. Tested the application on various Android devices
+• Handled client side validation, slide show, hide/show control, menu & tab navigation using Java Script &
+JQuery
+•  Involved  in  Spring  IOC  &  Spring  AOP  framework  implementation;  used  IBM  RAD  for  development,
+WebSphere Application Server for deployment, log4j for logging, and SVN for version management
+Environment: Java, J2EE, Hibernate, Struts, Spring, JSPs, Eclipse, IBM WebSphere 6.1, AXIS, Subversion,
+IBM DB2, Clarity, Maven, Rational Rose, Windows
+
+JAVA Developer
+ANDHRA BANK - March 2009 to October 2011
+
+Role: JAVA Developer ANDHRA BANK (Banking), India (Mar 2009 - Oct 2011)
+Responsibilities:
+•  Involved  in  development  of  custom  JSP  tags  for  order  management,  product  management  and  pricing
+modules
+• Participated in system design and prepared UML diagrams & Class diagrams for DTO objects & actions
+• Designed & developed Hibernate Mapping files & domains using tables and configured hibernate
+• Configured & maintained the Spring Application Framework's IOC container
+• Used Spring Application Context to inject the core Java POJOS into application
+•  Designed/developed  views,  controller,  model  components;  implemented  MVC  architecture  using  Struts
+framework
+
+• Created & sent messages from uploaded info & transaction data using SOAP; stored & listened to SOAP
+message received in JMS Queue of WebSphere MQ through message driven beans and processed queue
+messages
+• Developed Web Services, published on to the WebSphere application server
+•  Wrote  script  for  AJAX  implementations  in  the  website  and  implemented  design  patterns  for  recurring
+problems
+• Performed XML Transformation from value objects to XML to HTML data
+• Used Junit to perform Unit Testing and used log4j to develop Logging framework
+• Used IBM MQ Series as JMS Server, Maven as build tool, CVS as version controller
+Environment: J2EE, Java/JDK, JSP, Servlets, Spring, JavaBeans, Hibernate, Struts, AJAX, XML, DOM, HTML/
+DHTML, JavaScript, Oracle 10g, WebSphere, SOAP, UNIX, RAD, WIN CVS, Maven, JUnit, log4j
+<ed>
+EDUCATION
+
+Bachelor of Engineering in Information Technology
+JB Institute of Technology  -  Hyderabad, Andhra Pradesh
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+* Languages: Java JDK, SQL, C, C++, C#, JSP, Servlets, JSP, EJB, JDBC, JMS, Web Services, JSF, JNDI
+* Database Environments: Oracle 10g/11g, SQL Server […] IBM DB2, PL/SQL, My SQL, SQLite, Sybase,
+TOAD, JDBC, ODBC, MS-Access
+* Design & Protocols: Object-Oriented, Client-Server, Agile methodologies, RDBMS Design, Documentation,
+Coding Standards, HTTP, TCP/IP, UML
+* Operating Systems: Windows, Unix, Linux, Mac
+* Web Service Technologies: REST, SOAP, XSD, Apache Axis, WSDL, UDDI
+* Version Control Tools: CVS, Clear Case, SVN, GIT
+* IDEs: Eclipse, Android Studio, Visual Studio, Emacs, Vim, JBuilder, Xamarin, IntelliJ IDEA, Dreamweaver,
+Web Services & Parsing Techniques SOAP, REST & XML (SOAP API), JSON (Restful API), OAUTH, DOM,
+SAX
+*  Other  Tools:  JUnit,  SQLite,  DDMS,  Trace  View,  ADB,  XML,  Debugger,  Beyond  Compare,  QT  Creator,
+Genymotion Android Emulator
+
+

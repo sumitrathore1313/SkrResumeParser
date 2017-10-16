@@ -1,0 +1,51 @@
+<ba>
+Daniel M.
+
+New York, NY - Email me on Indeed: indeed.com/r/Daniel-M/91558ab3768b986c
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Lean Design  -  New York, NY - February 2013 to May 2013
+
+Responsibilities
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a est dolor, rutrum vehicula ipsum. Nam
+in augue vitae nulla rhoncus iaculis. Nullam dolor sapien, interdum laoreet fermentum ac, dapibus eget nibh.
+Donec laoreet leo sed lacus sollicitudin semper. Maecenas elit nunc, consectetur vitae elementum a, mollis
+sed lectus. Aliquam vestibulum neque ut libero hendrerit nec luctus metus blandit. Fusce est metus, hendrerit a
+accumsan in, vehicula in tortor. In condimentum diam cursus lorem sodales id blandit diam cursus. Vestibulum
+tempus  malesuada  ligula  eu  malesuada.  Ut  sollicitudin  erat  eros.  Nullam  vitae  purus  vitae  sapien  laoreet
+egestas.
+
+Accomplishments
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a est dolor, rutrum vehicula ipsum. Nam
+in augue vitae nulla rhoncus iaculis. Nullam dolor sapien, interdum laoreet fermentum ac, dapibus eget nibh.
+Donec laoreet leo sed lacus sollicitudin semper. Maecenas elit nunc, consectetur vitae elementum a, mollis
+sed lectus. Aliquam vestibulum neque ut libero hendrerit nec luctus metus blandit. Fusce est metus, hendrerit a
+accumsan in, vehicula in tortor. In condimentum diam cursus lorem sodales id blandit diam cursus. Vestibulum
+tempus  malesuada  ligula  eu  malesuada.  Ut  sollicitudin  erat  eros.  Nullam  vitae  purus  vitae  sapien  laoreet
+egestas.
+
+Skills Used
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a est dolor, rutrum vehicula ipsum. Nam
+in augue vitae nulla rhoncus iaculis. Nullam dolor sapien, interdum laoreet fermentum ac, dapibus eget nibh.
+Donec laoreet leo sed lacus sollicitudin semper. Maecenas elit nunc, consectetur vitae elementum a, mollis
+sed lectus. Aliquam vestibulum neque ut libero hendrerit nec luctus metus blandit. Fusce est metus, hendrerit a
+accumsan in, vehicula in tortor. In condimentum diam cursus lorem sodales id blandit diam cursus. Vestibulum
+tempus  malesuada  ligula  eu  malesuada.  Ut  sollicitudin  erat  eros.  Nullam  vitae  purus  vitae  sapien  laoreet
+egestas.
+</we>
+<ed>
+EDUCATION
+
+BS in Software Engineering
+UCLA  -  Los Angeles, CA
+2004 to 2008
+</ed>
+<sk>
+SKILLS
+
+one, two, three
+</sk>
+

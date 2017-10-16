@@ -1,0 +1,69 @@
+<ba>
+Nirav Kothari
+
+Graduate Student at California State University, Long Beach
+
+Long Beach, CA - Email me on Indeed: indeed.com/r/Nirav-Kothari/47aeb71c0e91dc73
+<su>
+Seeking internship opportunities for Summer 2017
+Sponsorship required to work in the US
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Value C Consulting Services Pvt. Ltd  -  Mumbai, Maharashtra - September 2015 to July 2016
+
+Developed  various  android  applications  for  the  existing  web  based  Enterprise  Resource  Planning  (ERP)
+application that
+contained several modules like Customer Relationship Management (CRM), Human Resource Management
+System (HRMS),
+Finance, Inventory Management, Employee Self Services, Learning Management System (LMS) etc.
+
+Android Developer
+Xtremsoft Technologies Pvt. Ltd  -  Mumbai, Maharashtra - July 2013 to July 2015
+
+Developed a web application that displays real time fluctuating market rates for a specific set of predefined
+contracts in
+Indian  Financial  Markets  like  Multi-commodity  Exchange  (MCX),  National  Commodity  and  Derivatives
+Exchange (NCDEX),
+Bombay Stock Exchange (BSE) and National Stock Exchange (NSE).
+• Designed and developed an Android application for on the go trading in the Indian Financial Commodity
+Exchanges like MCX and NCDEX. The application displayed real time market rates for user defined contracts,
+user's respective trading reports,
+online margin calculator.
+• Designed and developed an Android application for on the go trading in the Indian Financial Equity Exchanges
+like NSE & BSE.
+The application displayed real time market rates for user defined contracts, user's respective trading reports,
+online margin
+calculator and provision for the user to invest in Initial Public Offerings (IPOs), Mutual Funds and Systematic
+Investment
+Planning (SIPs) as well.
+<ed>
+EDUCATION
+
+Masters in Computer Science
+California State University
+May 2018
+
+Bachelor of Engineering in Computer Engineering
+University of Mumbai  -  Mumbai, Maharashtra
+July 2013
+
+Maharashtra Institute of Technology  -  Pune, Maharashtra
+2011 to 2012
+<sk>
+SKILLS
+
+Android (3 years), Java (Less than 1 year), HTML (Less than 1 year), PHP (Less than 1 year), Javascript
+(Less than 1 year)
+<ba>
+LINKS
+
+https://in.linkedin.com/in/nirav-kothari-84150450
+<sk>
+ADDITIONAL INFORMATION
+
+Operating Systems: Windows, Linux
+Office Tools: Word, Excel, PowerPoint
+
+

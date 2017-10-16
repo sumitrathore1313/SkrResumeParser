@@ -1,0 +1,127 @@
+Shree Sharma
+
+Software Engineer - Compunnel Software Group Inc
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Shree-Sharma/6c9c694acab20f04
+
+• Currenly working as a Software Engineer @ Compunnel Software Group Inc. since Apr 2016.
+• Associated with Transtutors.com since Aug, 2014 as a Subject Matter Expert (Computer Science upto PG)
+• Work for Hitech People India Pvt Ltd (Globalhunt) as a Web developer from July 2015 to Apr 2016.
+• Having 3+ years of experience in PHP Domain.
+• 2+ years of Working experience @ IIFM Ltd (Kailash colony) Delhi India
+• Understanding of the entire Software Development Life Cycle.
+• An active contribution in the design, development, testing, troubleshooting & debugging of the process, post-
+implementation, application maintenance and enhancement support to the client for the product / software
+application
+• Experience in more than 20+ Live Project on PHP.
+• Developed 3+ Chrome Extension.
+
+Competencies & Skills
+
+• Domain Knowledge: PHP, WAMP, Open-LDAP, Moodle, Wordpress, Codeigniter, SuiteCRM
+• Database: Mysql
+• Front End: HTML, CSS, Java Script, AJAX, Jquery, Bootsrap
+• Server: Apache, Tomcat
+• Development Tools: Eclipes3.2 and above, Macromedia Dreaweaver, NetBeans
+
+WORK EXPERIENCE
+
+Software Engineer
+Compunnel Software Group Inc - April 2016 to Present
+
+016.
+
+Subject Matter Expert
+Transtutors.com - August 2014 to Present
+
+Computer Science upto PG)
+
+Web developer
+Transtutors.com  -  Delhi, Delhi - July 2015 to April 2016
+
+Having 3+ years of experience in PHP Domain.
+• 2+ years of Working experience @ IIFM Ltd (Kailash colony) Delhi India
+• Understanding of the entire Software Development Life Cycle.
+• An active contribution in the design, development, testing, troubleshooting & debugging of the process, post-
+implementation, application maintenance and enhancement support to the client for the product / software
+application
+• Experience in more than 20+ Live Project on PHP.
+• Developed 3+ Chrome Extension.
+
+Competencies & Skills
+
+• Domain Knowledge: PHP, WAMP, Open-LDAP, Moodle, Wordpress, Codeigniter, SuiteCRM
+• Database: Mysql
+• Front End: HTML, CSS, Java Script, AJAX, Jquery, Bootsrap
+• Server: Apache, Tomcat
+• Development Tools: Eclipes3.2 and above, Macromedia Dreaweaver, NetBeans
+
+#1:
+
+Project Name Gnosis connect (Learning Management System)
+Url http://www.gnosisconnect.com/
+Role Sr. Web development
+TechnologyUsed Moodle, Core PHP, mysql, css, bootstrape, javaScript, JQuery, Ajax, Rest API
+Responsibilities Coding, Web Development, bug fixing
+
+#2:
+
+Project Name Online Examination System
+Url http://oes.prathamedu.com/
+Role Web development
+TechnologyUsed Core PHP, css, javaScript, JQuery, Ajax
+Responsibilities DB design, Web Development.
+
+#3:
+
+Project Name Expense Management (Employee management system)
+Url Internal project for Globalhunt India Pvt Ltd.
+Role Web development
+TechnologyUsed Core PHP, css, javaScript, JQuery, Ajax, CodeIgniter, LDAP
+Responsibilities Team Lead, Logic, Mentoring and coding
+
+4:
+
+Project Name Client portal
+Url clientportal.globalhunt.in (internal)
+Role Web development
+TechnologyUsed CodeIgniter, LDAP, Core PHP, css, javaScript, JQuery, Ajax, Rest API
+Responsibilities Team lead, codding design and documentation, Web Development and mentenance
+
+5:
+
+Project Name GLobalhunt Website
+Url globalhunt.in
+Role Web development
+TechnologyUsed Core PHP, css, javaScript, JQuery, Ajax, REST API
+Responsibilities Coding part, Updates and mentenance
+
+6:
+
+Project Name Favcy coin site and web application
+
+Url http://www.favcy.com/
+Role Web development
+TechnologyUsed Core PHP, css, javaScript, JQuery, Ajax
+Responsibilities DB design, Web Development and mentenance in a team
+
+7:
+
+Project Name HRMS
+Url internal.hitechpeople.in (local)
+Role Web development
+TechnologyUsed Core PHP, css, javaScript, JQuery, Ajax
+Responsibilities Coding, bug fixing and mentenance in a team
+
+Academia
+Professional:
+• Master of Computer Applications (MCA) from IGNOU in 2013-14 (63 %)
+• Bachelor of Computer Application (BCA) from from IGNOU in 2011 (63 %)
+
+ADDITIONAL INFORMATION
+
+• Other skills: Data Structure, Chrome Extension, C, Core Java.
+• Framework: Codeigniter
+• Version Management: SVN
+
+

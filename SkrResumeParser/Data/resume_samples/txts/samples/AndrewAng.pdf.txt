@@ -1,0 +1,72 @@
+Andrew Ang
+Data Engineer at Harvard
+
+Summary
+
+Data analyst and engineer, experienced in applying data science to a variety of domains. I currently develop the
+ research & analytics data infrastructure for Harvard's edX and Canvas courses.
+
+I received my B.S.E. in Biomedical Engineering from Duke University, after attending Phillips Academy
+ Andover. My current interests include data engineering and visualization technologies, Bayesian machine
+ learning, and online education.
+
+Experience
+Data Engineer  at   Harvard University
+2016  -  Present (less than a year)
+
+VPAL Research Group, Office of the Vice Provost for Advances in Learning
+Developing the research & analytics data infrastructure for Harvard's edX and Canvas courses.
+
+Data Analyst  at   Harvard Stem Cell Institute
+2014  -  2015  (1 year)
+
+Using data science to support strategic planning for type 1 diabetes research.
+Development of a data management platform for the Melton Lab beta cell production group.
+
+Research Assistant  at   MIT Laboratory for Financial Engineering
+2013  -  2015  (2 years)
+
+Exploring relationships between trading, personality and physiology using real-time physiological data from
+ financial traders. Research supervised by Andrew Lo.
+
+Summer Research Student  at   Dana-Farber Cancer Institute
+2011  -  2013  (2 years)
+
+Pre-clinical studies of PI3K inhibitors for cancer treatment.
+
+Education
+HBX / Harvard Business School
+CORe: Credential of Readiness, 2016
+Grade:  Pass with Honors
+Harvard University
+Non-degree graduate student, Statistics, 2015 - 2016
+Duke University
+
+Page1
+
+Bachelor’s Degree, Biomedical Engineering, 2014
+Activities and Societies:  Duke Asian Students Association, Duke Squash, Rhythm & Blue, Scale and Coin
+Phillips Academy Andover
+High School, 2009
+
+Volunteer Experience
+New England Regional Leadership Team  at   Phillips Academy
+May 2015  -  Present
+
+Assisting the Office of Alumni Engagement in event planning to connect and engage Andover alumni in the
+ New England area.
+
+Interests
+Machine learning, data science, web development, algorithmic trading with Quantopian, health wearables,
+ squash
+
+Page2
+
+Andrew Ang
+Data Engineer at Harvard
+
+Contact Andrew on LinkedIn
+
+Page3
+
+

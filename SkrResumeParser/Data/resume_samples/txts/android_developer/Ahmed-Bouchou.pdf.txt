@@ -1,0 +1,234 @@
+<ba>
+Ahmed Bouchou
+
+Alpharetta, GA - Email me on Indeed: indeed.com/r/Ahmed-Bouchou/aec90b112d0cfff0
+<su>
+• Around 7 years of Software Design and Development Experience in Java based applications.
+
+• Around 5 years of experience on smartphone and tablet development experience. Developed and architected
+multiple  Android  applications  across  versions.  I  have  a  good  understanding  of  Android  Back-end  and  UI
+guidelines.
+
+• Extensively worked on almost every stage of application development right from collecting requirements,
+providing guidelines for design, creating application architecture, implementation that includes various stages
+in development, QA, code signing and releasing to Market.
+
+• Very good understanding of Android Back-end and UI guidelines.
+
+• Expertise in Android App development with Android SDK using Eclipse IDE and Android Studio.
+• Experienced with Oracle/SQL/MYSQL/SQLite databases.
+• Expertise in working with public APIs, such as Twitter, Facebook, Google, YouTube
+• Experience with audio features, video features, graphics design, interactive design and animation.
+• Have developed applications in such a way that device adaptability (Android device forms and SDK levels)
+is default architecture imperative.
+• Expertise in Object Oriented Architecture, Design and Programming from design to implementation.
+• Experience in architecture design, development and implementation of software applications and testing.
+•  Have  hands-on  experience  in  complete  project  life  cycle,  with  domain  knowledge  in  Mobile  Application
+Development and Web application development.
+• Working knowledge of graphic design and handling various kinds of media using Photoshop, Illustrator, and
+Dreamweaver.
+
+• Have interacted with customers regularly during development of the mobile applications.
+
+• Dedicated team player, quick learner, self-starter, excellent analytical, design and problem solving skills.
+
+• Ability to coordinate with various team members involved in the project.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Magnet 360  -  Minneapolis, MN - February 2014 to Present
+
+Description:  Magnet  360  is  a  salesforce.com  consulting  and  implementation  partner,  since  2004.  Magnet
+360 support its clients with strategy and services that integrate four essential marketing disciplines, driving
+Engagement for Outcomes: CRM, Branded Apps, Sites, and Communities. Marketing Automation, and Social
+Campaign Management.
+
+Responsibilities:
+• Involved in requirement gathering and designing of the application.
+• Write detailed technical documentation to allow easy hand-offs to other team members.
+• Work effectively to foster a strong team environment.
+
+• Collaborate effectively with peer application designers and Architecture team to solve complex problems
+spanning their respective areas.
+• Employ technical expertise in helping team members overcome technical problems
+• Building mobile apps in an Agile and fast paced setting
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Work closely with business partners, product management and design team to conceptualize new ideas and
+converting them into technical requirements and working closely with your peers to build a killer Android app.
+• Assisted in designing the User Interface (UI/UX) and overall look and feel of the app.
+• Worked on debugging the application using Log cat, DDMS
+
+Environment: Android SDK 2.3, Eclipse IDE 3.5, Android Emulator, Android Debug Bridge, Log cat, DDMS,
+Android API's, JDK 1.6
+
+Android Developer
+WGU  -  Salt Lake City, UT - February 2013 to January 2014
+
+Description: The official Western Governors University mobile application for active students. As a student of
+WGU this app can send you push notifications for the status of performance assessments. You can also study
+on the go by accessing your study plan for currently enrolled courses any time you have an internet connection.
+
+Responsibilities
+• Analyzed the customer provided functional Requirements and prepared High level design document, UML
+class diagrams using rational tool.
+• Having the ownership of the total use cases and implemented the agile methodologies.
+• Developed User Interface components of Site Manager, ePublish templates using JSP (Java Server Pages),
+HTML, DTHML, CSS (cascading Style Sheets), AJAX (Asynchronous JavaScript and XML) and JavaScript
+used for front end validations of web pages, ePublish form templates.
+• Developed and maintained Widgets using Spring MVC, Spring IOC (Inversion of Control) and implemented
+Hibernate OR mapping to communicate with database.
+• Designed and implemented the Hibernate Domain Model and involved in writing (HQL) hibernate queries to
+manipulate data in database.
+•  Involved  in  to  writing  the  PL/SQL  Stored  Procedures,  cursors  and  functions  to  access  the  content  from
+database in ePublish content Management tool.
+•  Worked  with  AJAX  and  JavaScript  for  asynchronous  communication  and  Worked  with  WSAD5.1  (Web
+Sphere Application Developer) as IDE, CVS as version control.
+• Involved in configuration of Data sources in Web Sphere Application Server and involved in writing UNIX
+shell, Perl scripting for deployment process in AIX systems.
+• Developed Unit Test case classes and tested persistence methods of the different components using JUnit
+framework.
+• Good experience in debugging the application by running the server in debug mode and having the experience
+in usage of log4J to persist the data in log files.
+• Involved in requirement gathering, UI design and development.
+• Designed screens related to Categories and Detail description for Tablet for both 7 inch and 10 inch devices
+by customizing views as per mockup. Created Master-Detail Interface for tablet implementation.
+• Updated backend validations to meet tablet specific requirements.
+
+Environment: J2SDK, J2EE (Servlets, JSP, JDBC, XML, XSLT2.0), JavaScript, Ant1.7.x, Putty, JQuery, TOAD,
+Hibernate, AJAX, Junit4.x, Windows XP and other office tools.
+
+Environment: Android SDK 2.2, SQLite 3.6, Eclipse IDE 3.5, Android API's, RESTFUL Web service, DOM
+Parser, JDK 1.6, XML, JSON, HTML, CSS, GPS service, Log cat, Windows 7, ADT Plug-in, GIT (version
+control), DDMS console, ADB server, emulator and Base device (G1, HTC EVO)
+
+Android Developer
+FEDEX  -  Indianapolis, IN - May 2011 to January 2013
+
+Mobile Developer
+Description
+
+FedEx Mobile provides a quick and easy way to manage your shipments. Track the status of your packages,
+find FedEx locations and customize your shipments and deliveries.
+
+Responsibilities:
+• Involved in the full life cycle of the project including planning, design, development, testing and deployment.
+• Updated layouts using new and existing wireframes.
+• Worked with Implementing the Barcode scanner for tracking the packages.
+• Implemented camera functionality into the application.
+• Implemented location based API using location manager to locate the FEDEX Stores.
+• Worked in an Agile based environment.
+• Collaborated with web services team to implement the backend support.
+• Designed the web services to communicate with the Android application by using RESTful web services with
+the Spring 3 API, and JSON Parsing for the received responses.
+• Created test cases and test data for testing the application using JUnit Extensions.
+• Performed Unit testing on the various modules/functions to ensure that the output is as expected.
+• Tested the application on different Android target devices and also debugged the issues that were found.
+• Used JIRA to track issues.
+
+Android Developer
+State Farm Insurance Company  -  Bloomington, IL - October 2010 to April 2011
+
+Description: State Farm "Pocket Agent" app is aimed towards providing the user information regarding their
+insurance coverage and gives the user roadside assistance in the case of an emergency. It finds an agent,
+report a claim, make a bank deposit, do your banking, and a whole lot more.
+
+Responsibilities:
+• Assisted in designing the User Interface (UI/UX) and overall look and feel of the app.
+• Implemented Fragments to make the app usable on both Smart phone and tablets.
+• Developed the app to adapt to different orientations and various resolutions (Idpi/mdpi/hdpi) based on the
+device.
+• Worked on the "On the Road" section of the app to provide the user information regarding their proximity to
+the closest Locksmith/Tow, Taxi, Rental Car, Gas Station, and Hotel and also to the closest State Farm Agent.
+• Used Google Maps API to develop location based services for the App.
+• Participates and contributes to all phases of the SDLC, including programming, defect correction, unit testing,
+code review and deployment planning
+• Production monitoring and support as needed
+• Provides expertise on mobile current standards and cutting edge technologies and frameworks.
+• Partners closely with non-technical staff to define user requirements.
+• Provides estimates for the work plan.
+• Assists in producing and executes on well-documented technical designs.
+
+Environment: Android SDK 2.2, SQLite 3.6, Eclipse IDE 3.5, Android API's, JDK 1.6, XML, JSON, HTML, CSS,
+GPS service, Log cat, SDLC.
+
+Android Developer
+BCBS  -  Jacksonville, FL - January 2008 to September 2010
+
+Description: BlueCross BlueShield is a big firm in Florida's health industry dedicated to meet the needs of
+members by offering different health insurance choices. Providing an android application is one way to reach
+mobile users. I contributed for this android app-development at BCBS. This app provides the consumers with
+available plans, nearest Florida blue centers, Online provider directory, shopping cart, Weather alerts, Free
+Ringtones and videos, find a doctor nearby and directions to required location in an embedded Google map.
+
+Responsibilities
+• Involved in requirement gathering, UI design and development
+• Integrated location based services using Google Maps API to display locations of the nearest hospital or
+urgent health care provider
+• Handling XML data using efficient parsing techniques such as DOM parser
+• Used SQLite to save user healthcare preferences, insurance information and optional medication history to
+refine the search
+• Used Android content providers for implementing features like sending E-mails, SMS, etc. from the app and
+designed GUIs for these applications
+• Worked closely with the testing team
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+• Constructing http requests, fetching server response and parsing feeds wherever required.
+• Analysis of mobile application code for re-engineering.
+• Involved in development and enhancements of features to restrict the usage based on Authorization and
+Authentication tokens.
+• Provided subsequent releases which included feature changes, enhancements and bug fixes.
+• Sliding side menu using Jfeinstein sliding menu library for easy navigation through the app.
+• Responsible for design of user interface using various custom layouts, buttons, dialog boxes, alert boxes
+and different form of widgets.
+• Inserted suitable code to capture the various button and text field events and implemented the desired action
+for each of the widgets.
+• Used web views, list views & populated lists to display the lists from database using simple adapters.
+• Used Android content providers for implementing features like sending E-mails, SMS, etc., from the app and
+designed suitable GUI for these applications.
+• Used services, Async tasks and Alert Notification API to implement event reminder feature into the mobile
+app.
+• Embedded Google Maps API, GPS Location Data into app with zooming controls.
+• Involved in designing and implementation of variety of modules like 'Find Provider' where you can search
+every kind of doctor available near to your location. Directions where you can navigate to any Florida blue
+center, doctor, specialist, pharmacy and lab.
+• Involved in working with Location Manager and Restful Web service with JSON.
+• Tested the application on various Android devices.
+
+Environment: Android SDK 2.2, SQLite 3.6, Eclipse IDE 3.5, Android API's, RESTFUL Web service, DOM
+Parser, JDK 1.6, XML, JSON, HTML, CSS, GPS service, Log cat, Windows 7, ADT Plug-in, GIT (version
+control), DDMS console, ADB server, emulator and Base device (G1, HTC EVO)
+Kiyhgolb
+<ed>
+EDUCATION
+
+Bachelors of Science in Biomedical Engineering
+PURDUE University  -  Indianapolis, IN
+
+Bachelors of Science
+Mathematics PURDUE University  -  Indianapolis, IN
+
+Master of Business Administration
+Indiana State University  -  Terre Haute, IN
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+OS Windows 7/Vista/XP, Mac OSX, Android, Ubuntu
+Languages JAVA, C, C++, JavaScript, PHP, JSON, jQuery
+Markup Language HTML/CSS, HTML5, XML
+Development Tools
+Eclipse  Galileo-Kepler,  Netbeans  5.x,  MS  Visual  Studio,  Android  Studio,  PhoneGap,  IBM  Worklight,
+Photoshop, Sublime Text, XCODE
+
+Databases SQLite, MySQL, Oracle
+Frameworks Java Development Kit (JDK), jQuery, Android SDK
+Web Servers Tomcat 6.0 & Apache HTTP Server, WAMP
+Enterprise Technologies
+Windows […] Microsoft Office Suite, Linux, Scanners, Desktop and Network Printers, MAC, LogMeIn Central,
+GPMC, RDP, Internet Information Services, VMware, Citrix XenServer, Virtual box, Incode, Google Email.
+
+Other Tools/Software Pro Engineering, Photoshop, Matlab, Labview
+
+

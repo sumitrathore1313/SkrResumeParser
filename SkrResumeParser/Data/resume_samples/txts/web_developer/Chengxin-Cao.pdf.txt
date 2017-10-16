@@ -1,0 +1,80 @@
+<ba>
+Chengxin Cao
+
+Web Developer - Harvard Management Associates, Inc
+
+Sunnyvale, CA - Email me on Indeed: indeed.com/r/Chengxin-Cao/d66bdf760405a7f2
+</ba>
+<su>
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Harvard Management Associates, Inc  -  New York, NY - August 2015 to Present
+
+Description:
+•  Harvard  Management  Associates,  Inc.  is  a  private  investment  firm  based  in  Wall  Street,  New  York  City.
+Developed web application called HMA-Investment based on AngularJS, with which our client can interact with
+HMA to do the analysis of investment and schedule online investment.
+Responsibilites:
+• Designed structure and framework of a responsive web application for HMA-Investment Web application
+based on AngularJS.
+• Disigned user-friendly mock of page with team mates.
+• Developed and coded for various reusable components and plug-in for different page functionality.
+• Used AngularJS to structure JavaScript code in an MVC (Model, View, and Controller).
+• Write component tests and integrated tests for different component to guarantee robust system and improve
+coding, testing and developing efficiency.
+• Used API from backend data base to realize interactive of data from back end to front end.
+• Implemented Two-way data binding, change tracking, validation, and error handling with AngularJS.
+•  Designed  and  optimize  company  website  pages  of  harvardmanagement.us  through  Html  5,  CSS3  with
+Eclipse Template Toolkit, and finally make big impact on shortening the circle of updating websites.
+• Translated design documents into HTML 5 and CSS 3 preprocessor styling SASS, JSON files, JavaScript
+code and JQuery.
+• Applied framework Bootstrap to webpage and let the layout of webpage be self-adaptive to its size, make a
+big impact on flexible webpage and save codes for mobile end webpage codes.
+• Design dynamic effect such as three-dimensional name card and clock, through JavaScript and JQuery, and
+finally make company website more interactive and attracted more visitors. Maintain and update database
+structure of website through MySQL DDL & DML with PHP, and helped to add new functions to company
+webpage such as search function.
+
+UI developer, internship
+Dalian Huarui Heavy Industry CNC Equipment Co.Ltd  -  Dalian, CN - June 2014 to September 2014
+
+Description:
+• Huarui, Inc. which is a flash enterprise storage company, offers the service of deployment of flash storage
+in cloud data center. My responsibilities is to develope web app called Q1, with which our clients can interact
+the data center to implement daily basis to monitor and manage their storage arrays.
+Responsibilites:
+• Developed the web app Q1 which provides both the features for our customers to manage their products
+and cloud based analytics.
+• Developed page layouts, navigation and presented designs and concepts to the clients and the management
+to their flash arrays.
+
+• Collaborated with business analysts and backend developer for better layouts and ease of use.
+•  Designed  a  responsive  website  using  Bootstrap  grid  system  to  layout  contents  that  fit  different  devices
+including mobile, tablet and desktop.
+• Worked with source version control tool GIT to manage the code repository.
+• Worked through cross browser compatibility issues with layout and styles and fixed bugs for browsers and
+platforms.
+</we>
+<ed>
+EDUCATION
+
+M.S. in Electrical and Computer Engineering
+New York University  -  New York, NY
+May 2015
+
+B.S. in Automation
+Central South University  -  Changsha, CN
+May 2012
+</ed>
+ADDITIONAL INFORMATION
+<sk>
+SKILLS
+JAVA, HTML, HTML 5, CSS, CSS 3, PHP, MySQL, JAVASCRIPT,
+BOOTSTRAP, JQuery, Angular JS, DART, MVC, DOM, LINUX, Git, Eclipse, Intellij
+</sk>
+

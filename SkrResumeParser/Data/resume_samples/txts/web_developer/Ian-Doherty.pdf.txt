@@ -1,0 +1,64 @@
+<ba>
+Ian Doherty
+
+San Antonio, TX - Email me on Indeed: indeed.com/r/Ian-Doherty/3be4e857447ce97d
+</ba>
+<su>
+Ambitious web developer that enjoys learning new and better ways to create applications. Self motivated to
+adapt newest technologies. Experienced in collaborating with a team to create a final product. Committed to
+providing the best possible work product as my top priority.
+Sponsorship required to work in the US
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+FBD Frozen  -  San Antonio, TX - September 2015 to July 2016
+
+Collaborated with a software developer to create and debug internal applications.
+Edited both Android and iOS versions of an application to compress images captured in the app. 
+Created a web application using React.js for employees to sign in and track the hours they worked at a sister
+company for the accounting department.
+Created a web application in React.js to pull error codes and dates from a MySQL database and display them
+in a way that was easier to understand for management.
+Modified an existing human resources application created with CakePHP and managed employee access to
+some features.
+Modified existing company website with new content.
+Worked closely with management to create a macro in VBA (Visual Basics for Applications) to improve their
+inventory ordering process.
+Created functions and procedures for applications to interact with MySQL servers.
+Worked in a Linux environment across multiple servers.
+Set up mobile devices given to employees and managed them using Cisco Meraki software.
+Managed large MySQL databases in MySQL Manager and performed minor maintenance.
+Experienced with version control and git repositories.
+Distributed different versions of a machine monitoring application specific to clients in Singapore and Australia.
+
+Web Developer
+Waking Girl Designs  -  San Antonio, TX - June 2015 to September 2015
+
+Worked with a Web Designer and Graphical Designers to design and market small businesses in the Nevada
+area. 
+Regularly  updated  client  websites  with  content,  my  responsibilities  included  staying  in  contact  with  clients
+through email to ensure their needs were met.
+Updated and managed multiple clients social media profiles, making posts and writing blogs on behalf of their
+owners.
+Helped design website layouts and edited CSS style sheets.
+</we>
+<ed>
+EDUCATION
+
+University of Texas San Antonio  -  San Antonio, TX
+2013 to 2016
+</ed>
+<sk>
+SKILLS
+
+PHP (1 year), Javascript (1 year), React.js (1 year), Llinux (1 year)
+</sk>
+<ca>
+CERTIFICATIONS/LICENSES
+
+Zend Certified Engineer
+June 2015 to Present
+</ca>
+

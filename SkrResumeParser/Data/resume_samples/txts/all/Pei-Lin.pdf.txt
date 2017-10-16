@@ -1,0 +1,201 @@
+<ba>
+Pei Lin
+
+Web Developer (AngularJS/.NET) - Children's Specialized Hospital
+
+Fort Lauderdale, FL - Email me on Indeed: indeed.com/r/Pei-Lin/7d7fc26c0f5b961c
+</ba>
+<su>
+Six years of professional experience in Web Application Development with C#, ASP.NET, .NET Framework,
+ASP.NET  MVC,  HTML5,  CSS3,  JavaScript,  JQuery,  AJAX,  SQL  Server,  SQL,  T-SQL,  ADO.NET,  Entity
+Framework, LINQ, Web API, WCF,Web Services, JSON, XML, IIS and Visual Studio.
+-  Design  and  programming  experience  with  Front-end  Web  Technologies  including  AngularJS,  Bootstrap,
+Responsive Design, Font Awesome, Balsamiq and Flinto.
+- In-depth knowledge of Single Page Application (SPA) using AngularJS JavaScript framework.
+- Proficient experience in ASP.NET MVC with View Models, Razor Views, Partial Views and Layout View and in
+Web Forms with Master Page, User Controls, Data-bound Controls, Validation Controls and AJAX Extensions.
+- Extensive experience withWeb API,WCF and Web Servicesimplementation and consumption.
+- Expertise in ADO.NET Entity Framework, ADO.NETand LINQ to Entitieswith databases.
+- ImplementedAuthentication and Authorization in ASP.NET Web Forms, ASP.NET MVC and AngularJS.
+- Expertise in MS SQL Server and writing complex queries, Stored Procedures, Views, Triggers and User
+Defined Functions.
+- Thorough understanding of N-tier architecture applications with Data Access Layer (DAL), Business Logic
+Layer (BLL) and Presentation Layer (UI).
+- Worked on SQL Server Integration Services(SSIS) and SQL Server Reporting Services (SSRS) to deliver
+data conversion, ETL and reports.
+- UtilizedNUnit in ASP.Net MVC and Jasmine in AngularJS for unit testing.
+- Strong knowledge of Object-oriented Programming (OOP) conceptsandDesign Patterns.
+- Maintained versions of source code using Team Foundation Server (TFS) and Github/Git.
+- Followed Agile Scrum Methodologies and Test Driven Development (TDD)throughout Software Development
+Life Cycle (SDLC).
+- Excellent communication and inter-personal skills, flexible and versatile to new environments, self-motivated
+good team player and quick learner.
+Willing to relocate: Anywhere
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer (AngularJS/.NET)
+Children's Specialized Hospital  -  New Brunswick, NJ - February 2016 to Present
+
+Project: Rehab-On-The-Go (ROTG)
+Children's Specialized Hospital is the nation's largest and best pediatric rehabilitation and specialty pediatrics
+hospital, renowned for its excellent outcomes and compassionate care. ROTG is a web application, designed
+for patients to reference their prescribed exercises and share feedback or questions with their Athletic Trainer
+(AT). The system includesa content management system allowing ATs to perform CRUD operations on tailored
+exercises  for  later  assignment,  a  patient  interface  to  report  completion  and  feedback  for  exercises,  and  a
+notification center for patients and ATs.
+
+Responsibilities
+- Built front-end SPA using HTML5, AngularJS and Bootstrap and back-end server using ASP.NET Web API.
+- Customized and consumed Web API with $http service to achieve CRUD operations.
+- Utilized ngAnimate with UI Router to transition between views.
+
+-  Implemented  AngularJS  Authentication  Service  for  log-in/log-out,  and  storing  the  generated  token  in
+$localStorage so that the token can be sent with each request in order to access secure resources on the
+back-end API.
+- Maintained log-in status after page is refreshed or performed page redirection in app.run().
+- Called $scope.$emit to update boolean values for showing/hiding menu navigation links according to role
+authorization with ng-show in an inner login controller to communicate with an outer layout controller.
+- Reduced the number of watchers by changing many bindings into one-time bindings.
+- Created necessarycustom $watch to highlight input background in different colors based on input value.
+-  Performed  AngularJS  form  validationand  AngularJS  form  properties  with  ng-showand  created  a  custom
+validation directive forcomparing two input fields.
+- Populated dynamic data in ng-repeat and UI Grid withexternal filtering functionality.
+- Implemented custom directives for footerattribute with template.
+- Implemented custom filters for dropdownlists to display values for key/value pair data.
+- Used Fiddler as web debugger tool and Batarang as AngularJS web inspector.
+- Performed unit testing with Jasmine.
+Environment
+ASP.NET Web API 2, C#, Entity Framework, JavaScript, AngularJS, Responsive Design, HTML5, Bootstrap,
+CSS, T-SQL, SQL Server 2012, Visual Studio 2015, LINQ, Lamdba, Fiddler, Batarng, Jasmine.
+
+ASP.NET MVC Developer
+Nationwide Bank  -  Columbus, OH - June 2014 to January 2016
+
+Project:E-Loan
+Nationwide  Mutual  Insurance  Company  &  Affiliated  Companiesis  one  of  the  largest  U.S.  insurance  and
+financial services companies based in Columbus, OH. The loan management system, E-Loan, centralizes
+loan portfolio management requirements in a single database-driven, enterprise-level package. E-Loan greatly
+reduces the redundancy of data entry and places all risk management tools in a single, easy-to-use application.
+
+implemented  application  using  C#,  ASP.NET  MVC  with  Razor  View
+
+Responsibilities
+-  Designed  and 
+Engine,JavaScript,JQuery,AJAX,HTML, CSS3 and Bootstrap.
+- Developed views with Scaffolding templates, Layouts, Partial Views and custom HTML Helper with Razor
+View Engine.
+- Implemented Repository pattern decoupling the application from the data access layer.
+- Created model classes using Entity Framework with LINQ and Lamdba.
+- Implemented custom filter with stored procedure and dynamic SQL to avoid redundant code.
+- Worked with WCF services to expand reach of common resources.
+- Created WCF services and employed WCF End-Points and Contracts for enabling access to services.
+- Configured custom routingsfor search by multiple options.
+- Implemented Asynchronous controllers to improve performance.
+- Integrated JQuery, AJAX and JSON technologies into client user interfaces for smooth and enhanced UI
+experience in Razor Views.
+- Performed JQuery post and unobtrusive AJAX validation to form fields and provided custom requirements
+or error messages through C# attributes in the Model.
+- Worked with Kendo UI Grid with strongly typed ViewModels and further customized the editor by setting a
+custom drop-downlist edit template.
+Environment
+ASP.NET MVC 5, C#, WCF, JavaScript, Kendo UI, JQuery, JQuery UI, AJAX, HTML, CSS3, Font Awesome,
+Bootstrap, T-SQL, SQL Server 2012, AutoMapper, Entity Framework, LINQ, Lamdba, Visual Studio 2012.
+
+ASP.NET MVC Developer
+
+Rumpke Waste & Recycling  -  Cincinnati, OH - January 2013 to June 2014
+
+Project: Equipment Maintenance and Monitoring System (EMMS)
+Rumpke is one of the nation's largest privately owned residential and commercial waste and recycling firms,
+providing service to areas of Ohio, Kentucky, Indiana and West Virginia. EMMS is a new custom application that
+replaces the original ERP system. The application allows users to manage planned/unplanned maintenances
+for active equipment and allows supervisors/system administrators to manage system settings (frequency/
+department/clock master data) of planned/unplanned tickets and to access maintenance reports.
+
+Responsibilities
+- Architected and implemented application using C#, ASP.NET MVC with Razor View Engine, HTML,Font
+Awesome,CSS, JavaScript and JQuery.
+- Designed User Interface with Razor Views,Partial Views andBootstrap for Layout View.
+- Implemented Controllers to transfer data between Views and Models.
+-  Implemented  HTML  BeginForm  and  performed  HTML  validation  and  ASP.NET  MVC  validationwith  data
+annotation.
+- Used WebGrid with strongly typed ViewModels to provide more flexible and sortable grid view with paging
+increasing user interaction.
+- Utilized JQuery Dialog with HTML Action Link to display a popup modal.
+- Created model classes using Entity Framework with LINQ and Lamdba.
+- Worked withViewData, TempData and QueryString to pass data between controller and view, controller to
+controller, and view to controller.
+- Mapped model classes with View Models using AutoMapper to avoid writing tedious and repetitive code.
+- Created custom error pages.
+-  Used  Action  Filters  for  user  authentications  and  authorizations  and  for  caching  pages  to  improve
+performance.
+- Improved load time by reducing the number of requests to the server and reducing the size of requested
+assets using bundling.
+- Organized and partitioned the app into separated modules using Areas.
+- Reviewed and integrated code and implemented automated unit testing with Nunit.
+Environment
+ASP.NET  MVC  4,  C#,  JavaScript,  JQuery,  JQuery  UI,  HTML,  CSS,  Bootstrap,  T-SQL,  SQL  Server  2012,
+AutoMapper, Entity Framework, LINQ, Lamdba, Visual Studio 2012.
+
+ASP.NET Web Forms Developer
+Economic & Community Development Institute  -  Columbus, OH - August 2011 to December 2012
+
+Project: Contact Center Information Management System (CCIMS)
+ECDI is the third largest US Small Business Administration intermediary micro-lender (and largest in Ohio),
+programs and services of which have been supported by over $55 million in federal, state, local and private
+funds and have proven to spur local economic development. The project was designed primarily to help internal
+users handle inbound and outbound calls to entrepreneurs and investors to acquire current contact information
+and individual's details.
+
+Responsibilities
+- Architected and implemented application with C#, ASP.NET Web Forms, ADO.NET, WCF, Web Services,
+HTML, CSS, JavaScript, JQuery, AJAX and User Controls.
+- Followed the N-tier architecture for the application development with DAL, BLL and UI.
+- Utilized ADO.NET in DAL for database access.
+- Utilized Master Page and User Controls to increase code reusability.
+- Implemented ASP.NET validation controls and JavaScript validations.
+
+- Utilized Session Objects and Cookies to store the application state.
+- Cached data in the Repeater and GridView for better performance.
+- Used Repeater Control to display customized menus.
+- Used GridView to display data in tabular form with paging for inline editing, deleting and viewing supports.
+- Created trigger to log user activities in a table and created view to display it.
+- Displayed modal using modalpopupextender control of AjaxControlToolkit.
+- Implemented form authentication and authorization based on user role.
+- Provided autocomplete using AJAX and Web Services to offer better search experience.
+- Created WCF Service for synchronizing operations.
+- Used NUnit to test and verify functionalities of Business and Data Layer.
+Environment
+ASP.NET 4.0 web forms, C#, JavaScript, AJAX, CSS, ADO.NET, WCF, Web Services, XML, T-SQL, SQL
+Server 2008, Visual Studio 2010.
+</we>
+<ed>
+EDUCATION
+
+M.S. in Computer Science and Engineering
+The Ohio State University  -  Columbus, OH
+</ed>
+<sk>
+SKILLS
+
+.NET (6 years), ASP (6 years), ASP.NET (6 years), C# (6 years), JavaScript (6 years)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Programming Languages C#, JavaScript, AngularJS, AJAX, HTML5, CSS3, XML, JSON, Java
+Frameworks
+.NET, ASP.NET, ASP.NET MVC, ADO.NET, Web API, WCF, Web Services, LINQ, Entity Framework, JQuery,
+Telerik UI, Bootstrap, J2EE, Spring MVC
+
+Databases SQL Server, SQLite, DB2
+Tools Visual Studio, SQL Server Management Studio, Balsalmiq, SharePoint, SharePoint Designer, Visio,
+ERWin, Eclipse
+Source Control TFS, Github/Git
+
+Methodologies Agile-Scrum
+</sk>
+

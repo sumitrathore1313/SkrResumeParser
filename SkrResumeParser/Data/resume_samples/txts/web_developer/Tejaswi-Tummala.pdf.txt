@@ -1,0 +1,130 @@
+<>ba
+Tejaswi Tummala
+
+Web Developer
+
+Tampa, FL - Email me on Indeed: indeed.com/r/Tejaswi-Tummala/367230b16442189a
+</ba>
+<su>
+*  A  Software  Developer  with  4  years  of  work  experience  which  includes  developing  and  maintaining  web
+applications,
+administering database, Requirement analysis, Front-End designing, Developing and Executing Test cases,
+Resolving
+incidents and Assisting end users.
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+University of South Florida - January 2016 to May 2017
+
+Description: Developed User registration platforms namely Assisted Living Facility and Guardianship for exams
+conducted by Florida State Government. Both the applications allow users to register for exam, make payment,
+verify test schedule,
+request for certificates.
+Roles and Responsibilities:
+* Developed ASP.NET webforms with C# as backend code and designed UI with HTML5, javascript and jQuery
+controls.
+* Designed and modelled relational database schema.
+* Develop automated scripts using SQL server database to perform statistical analysis.
+* Written stored procedures for retrieving or updating data using SQL Server 2008.
+* Used triggers for sending an email to client after payment has been made.
+* Designed and Developed Winforms using VB.NET as a backend code.
+* Developed application to score Florida Professional Guardian Examination answer sheet using ScanTool
+Plus
+software.
+* Deployed application on production and test server.
+*  Developed  Windows  based  Desktop  application  which  will  be  used  by  admins  to  generate  reports,
+certificates,
+
+labels etc.
+* Environment: C#, ASP.NET, SQL Server, VB.NET Windows Forms, Visual Studio, Adobe DreamWaver
+
+Support Executive
+Telecom Domain - August 2015 to December 2015
+
+Roles and Responsibilities:
+* Involved in Production Support of PIwin, desktop based application.
+* Resolved Production support issues, closed them on a day-day basis and assisted end users.
+* Wrote several client side validation scripts.
+* Maintained Middle server, PIwin home page and deployed the applications during new releases.
+* Developed support scripts for the frequent issues.
+* Performed minor enhancements and added a new functionality.
+* Environment: C#, Javascript, VB.NET, VB Script.
+
+Application Developer
+Telecom Domain - July 2014 to July 2015
+
+Description: This is Single Page Web Application, which deals with data related to nodes in Ericsson Network.
+The node data
+file is parsed, validated, and added to COM (XML file). Ericsson Network site engineers use this application
+to access node
+properties and configure them as per requirements. These changes are validated and updated in the database
+accordingly.
+Roles and Responsibilities:
+* Developed MVC4 Single page web application and class libraries.
+* Used N-Tier architecture for Presentation layer, Business layer and data access layer and were coded using
+C#.
+* Utilized OOP Deign Patterns to solve challenging business problems.
+* Implemented a Finite State Machine methodology for Maintainability of code and improve performance of
+application.
+*  Utilized  different  Javascript  frameworks  to  develop  Single  Page  Application  along  with  HTML5,  CSS,
+Bootstrap.
+* Developed N-Unit Test cases using Moq.
+* Implemented on demand loading of data for the tree widget and reduced performance issue.
+* Used Agile-Scrum Methodology and followed Test Driven Development Environment.
+* Perform peer review to ensure code is consistent across application and identify areas of improvement.
+* Followed best coding practices, which played a major role in creating a code that is highly readable, extensible
+and maintainable.
+* Environment: C#, Javascript, Jquery, Knock out js, pager js, Bootstrap, Ajax, JSON, MVC 5, WebApi 2,
+RESTful
+services,  HTML  5,  N-Unit  Testing,  Entity  Framework,  Dependency  Injection,  Visual  Studio  2013,  N-Unit
+Runner, Moq,
+RTC, XML, Test Driven Development, Agile Methodology.
+
+Student Assistant
+GVP College - June 2013 to May 2014
+
+Roles and Responsibilities:
+* Teaching and managing labs for C Programming.
+* Assisted in maintaining department websites which involves HTML, CSS and Javacript.
+* Voluntarily taught students HTML, CSS, JavaScript, OOP's concepts.
+</we>
+<ed>
+EDUCATION
+
+Master of Science in Computer Science in Advanced Databases
+University of South Florida  -  Tampa, FL
+May 2017
+
+Bachelor of Technology in Electronics and Communication Engineering
+Gayatri Vidya Parishad College of Engineering  -  Visakhapatnam, Andhra Pradesh
+May 2014
+</ed>
+<sk>
+SKILLS
+
+.NET (2 years), C# (2 years), javascript (3 years), jQuery (2 years), Visual Studio (2 years)
+</sk>
+<ba>
+LINKS
+
+https://www.linkedin.com/in/tejaswitummala
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills:
+* Programming Languages C, Java, C#, SQL, VB.NET, ADO.NET
+* Scripting Languages JavaScript, JQuery, Angular js, Knockout js, Pager js, VB Script
+* Web Technologies Bootstrap, HTML 5, ASP.NET, XML, JSP, Ajax, JSON, MVC, WebApi
+* Databases Oracle 10g, 11g, Microsoft SQL Server, PostgreSQL
+
+* Software Tools Eclipse, Visual Studio 2013, Rational Team Concert (RTC), Tortoise SVN,
+N-Unit Runner, ScanTool Plus Software, Adobe DreamWaver.
+* Office Suite Microsoft Office Suite (Excel, Word and PowerPoint)
+* Software Utilities Putty, WinSCP
+* Other Technologies Entity Framework, Webservices, SOAP, RESTful services, WCF, AWS, Azure,
+Dependency Injection, N-Unit, Moq, Socket Programming, Multi-threading.
+</sk>
+

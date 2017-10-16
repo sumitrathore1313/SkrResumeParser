@@ -1,0 +1,63 @@
+<ba>
+Sonal Mann
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Sonal-Mann/d80b471e79c4a3d3
+<su>
+To be a part of an enthusiastic work environment, where I can use my technical skills to accomplish
+organizational goals.
+<we>
+WORK EXPERIENCE
+
+Fresher
+
+Year Examination Institution Aggregate
+2014- (Pursuing) B.Tech Aravali College Of Engineering 78%
+and Management, Faridabad
+(Computer Science (upto 5th sem)
+Engineering) (Maharshi Dayanand University,
+Rohtak)
+
+2013-2014 12th B.S.F.Sr.Sec.School, Jalandhar 78.4%
+
+CBSE (Punjab)
+
+2011-2012 10th B.S.F. Sr.Sec.School, Jalandhar 8.6 CGPA
+
+CBSE (Punjab)
+<pr>
+Language of implementation: C++
+Operating system: Windows 98/XP/07
+Description: This Supermarket Billing System will handle all the activities of super market.I have
+learned from this project is to convert the existing manual system to automated sales process system.With
+this project salesperson can manage data automatically.
+Project name: E-GURU
+Language of implementation: PHP
+Operating system: Windows 98/XP/07
+Description: The purpose of this E-Learning Management System project is to develop a back-end
+application for e-learning applications and queries using graphical user interface It allows for flexible data
+format and delivery of its data so that each analysis application can receive only the information it needs
+and in the format required.
+<ed>
+EDUCATION
+
+B.tech in computer science
+Aravali college of engineering and management  -  Faridabad, Haryana
+July 2014 to July 2018
+<sk>
+SKILLS
+
+CCNA (Less than 1 year), CISCO (Less than 1 year), EIGRP (Less than 1 year), NETWORKING (Less than
+1 year)
+
+ADDITIONAL INFORMATION
+
+Key Technical Skills
+
+CCNA (R&S)
+• Hand on Cisco routers 1700, 1800, 2811, 7200 series routers in that learned several protocols
+like STATIC, RIP, EIGRP, OSPF, ACL
+• Deep understanding of TCP/IP, OSI MODEL, ARP, SUBNETTING and many more technical
+terms in networking.
+• Basic knowledge of C and C++.
+
+

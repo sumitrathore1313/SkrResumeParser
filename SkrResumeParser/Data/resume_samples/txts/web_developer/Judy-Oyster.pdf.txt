@@ -1,0 +1,76 @@
+<ba>
+Judy Oyster
+
+Web Developer - Web Master
+
+Columbus, GA - Email me on Indeed: indeed.com/r/Judy-Oyster/e79f282283806467
+</ba>
+<su>
+I am ready to start a new career with a company that offers room for career growth. I am interested in application
+development but would also be excited to jump into a new field that would be challenging as well as financially
+rewarding.
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Web Master - October 2011 to Present
+
+IHL-Institute for Healthy Living
+Web maintenance for four Vitamin Supplement web sites: Responsible for design, testing, implementation,
+maintenance  and  administration  of  weekly  and  monthly  price  changes,  new  products  and  special  event
+promotions. Create images of all new products using Photoshop to crop, resize, edit and store images.
+Update the home page for each site with site graphics; java, jpg, pfd.
+Software - magento, mom, CV3, html and php. Maintain newsletters customer email list for each site using;
+vertical response, constant contact and word press. Convert blogs for each site from MS Word documents
+into  html  using  Dreamweaver  to  upload  to  the  web.  Create  supplement  panels,  recommended  usage  and
+ingredients for products using Dreamweaver.
+
+Web Application Developer
+AFLAC Incorporated - January 1999 to July 2010
+
+I  was  on  the  Marketing  Web  Maintenance  team  responsible  for  Marketing  Reports  and  Agents  Contest
+Reports on the Aflac.com Associate Services web pages. I was responsible for design, testing, implementation,
+maintenance and administration on various databases on SQL Server which included: queries, jobs, stored
+procedures, tables and dts packages. I was also responsible for the ASP pages for the applications that I
+supported. 
+IT- ICAPP
+
+Student ICAPP program CSU
+AFLAC Incorporated  -  Columbusm Ga - September 1998 to April 1999
+
+Computer Science program offered by Columbus State University and sponsored by Aflac. For 6 months I
+went to school full time while still receiving my salary from Aflac. At the end of the program I received my Data
+Processing Certificate from CSU.
+
+Systems Engineer
+AFLAC Incorporated - October 1997 to September 1998
+
+I supplied technical support to home office employees and Aflac Field
+Associates. I assisted Associates with business questions, benefit
+questions and technical questions concerning their laptops.
+
+Customer Service Specialist
+AFLAC Incorporated  -  Colimbus, GA - January 1996 to January 1997
+
+Correspondence Specialist
+- 1989 to 1996
+
+Inventory Specialist
+AFLAC Incorporated - 1986 to 1989
+</we>
+<ed>
+EDUCATION
+
+Certification
+Columbus Technical College
+March 2003
+
+Associate in Computer Science Education
+Columbus State University
+January 2002
+
+Data
+Columbus State University
+</ed>
+

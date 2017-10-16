@@ -1,0 +1,222 @@
+<ba>
+Zhengzhi Zhou
+
+Android Developer - Ren-Social media
+
+- Email me on Indeed: indeed.com/r/Zhengzhi-Zhou/7e4f5f4b6973c6de
+<su>
+• 7+ years of total IT experience in developing mobile and web applications.
+• 3 years of experience in Native Android Application Development.
+• Android Developer with a solid understanding of the Android Application framework.
+• Expertise in developing Android application using Android Studio, Netbeans IDE, SQLite, JAVA, Android
+SDK and ADT plug-in.
+• Experienced with Major Social Networking APIs.
+• Experienced in Object Oriented programing.
+• Experienced in different phases of software development life cycle including designing, programming, and
+testing
+• Experienced in working in an Agile environment.
+• Experienced in Code merging using GIT.
+• Experienced in leading a team of developers (on-site and off-shore)
+• Experienced in leading bug triage calls and assigning bugs to respective teams.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Ren-Social media  -  Tucson, AZ - February 2016 to Present
+
+Application Link
+https://play.google.com/store/apps/details?id=com.ren&hl=en
+Ren
+Ren is social app used to communication, making friends, finding the distance between friends, sharing image
+and leaving comments when get close to the location of the image where it is taken, and also still more functions
+to go.
+
+Roles and Responsibilities:
+• Worked as android developer on both backend and front end of the module using Android SDK and Android
+Studio.
+• Build database system to store the data.
+• Collaborate with team member every week, share the code, and review, and work together to get the best
+method
+• Collaborate with designers to ensure app flow is correct.
+
+Major Tools and Libraries Used:
+Android Studio, Android SDK, Volley, okhttp, Edmodo, facebook, gson, github
+
+Android Developer
+CVS/Pharmacy  -  Park, NJ, US - June 2015 to January 2016
+
+Application Link
+https://play.google.com/store/apps/details?id=com.cvs.launchers.cvs
+
+Photo
+
+CVS Photo allows users to order prints from their phones. Pictures can be selected from the user's phone or
+from their Facebook account. The user can select different sizes and quantities and select which store they
+can pick up the photo from.
+
+Roles and Responsibilities:
+• Performed the role of Android engineer and worked on backend and front end of the module using Android
+SDK and Android Studio.
+• Worked on complete overhaul of the application to move it from one API to a different API which resulted in
+creating a completely revamped system for REST API calls.
+• Created a configuration manager which picked up application configurations from a service and loaded them
+onto the app and would dynamically change when the app settings were changed on the server.
+• Worked on overhaul of UI to a complete redesign of the module.
+• Complete end to end development and bug fixes during QA cycles of the API overhaul and the UI overhaul.
+• Work with UX team and different stakeholders to enhance user experience of the module.
+• Merge code to main branch after a development cycle.
+
+Webview Projects
+The CVS App features multiple AngularJS webviews. The pages involve single sign on, a javascript web bridge
+and cookie manipulation.
+Roles and Responsibilities:
+• Performed the role of Dev lead on 4 different webview modules within the native app.
+• Gather requirements and compile a list of dev tasks and test cases.
+• Code major modules using Android SDK and Android studio.
+• Perform Code reviews before merging of code.
+• Attend Daily bug triage calls and assign bugs to dev team/web team/services team/environment team.
+• Work on the original implementation of the javascript web bridge reused by multiple webviews within in the
+app.
+
+Major Tools and Libraries Used:
+Android Studio, Android SDK, Volley, Charles Proxy, Cornerstone (SVN)
+
+Android Engineer
+Mutual Mobile  -  Austin, TX - October 2014 to May 2015
+
+Projects
+Honeywell Lyric
+Lyric an energy efficient smart thermostat which is connected to the cloud and can be controlled via the Lyric
+application. The native android application supports geofencing for multiple users which allows the thermostat
+to change temperatures based on the user's location.
+For more details visit http://lyric.honeywell.com/
+
+Application Link
+https://play.google.com/store/apps/details?id=com.honeywell.android.lyric&hl=en
+
+Roles and responsibilities:
+• Native android application development using Eclipse, Android SDK and Android Studio.
+• Collaborate with designers to ensure app flow is correct along with localization.
+• Participate in daily standups and sprint planning.
+• Aid QA Engineers in developing test cases.
+• Perform Code reviews when required.
+
+• Attend meetings with the client to discuss application requirements.
+
+Project specific roles and responsibilities:
+• Involved in development and layout creation of the application.
+• Fixed bugs present in the backlog.
+• The application consists of a hardware setup guide containing a series of 40+ screens, worked on modifying
+the flow of the guide and modifying their respective web calls.
+•  Developed  the  advanced  diagnostic  module  for  the  application  from  scratch  including  its  log  delivery
+components.
+• Re-coded the geofence mechanism to include retries in case of a failure and report statistics for each call.
+•  Redesigned  and  recoded  certain  modules  of  the  application  to  improve  application  reliability  and  code
+readability.
+
+Major Tools and Libraries Used:
+Android Studio, Eclipse, Android SDK, Charles Proxy, Git, Otto, Dagger, GreenDAO, JIRA.
+
+Software Engineer
+Siasun  -  上海市 - May 2011 to December 2014
+Project # 1
+Image Comment
+An Application that allows users to view their Facebook, Twitter and Instagram feeds all combined in a single
+feed. The user can like/comment/retweet the pictures from the feed. Each picture can be pinched to zoom
+in as well.
+
+Application Link
+https://play.google.com/store/apps/details?id=com.appnotech.imagecomment&hl=en
+
+Tajr Net
+A buying and selling application where users can create their own accounts and post ads or contact sellers to
+buy their products. Users can also chat with each other and share their phone number for contact purpose.
+The app also has a countdown module which shows expiry of the advertisement.
+
+Rate Your Room
+An application which allows users to check into hotel rooms and rate the quality and service of their hotel
+rooms. Hotels are searchable based on their name, room types etc.
+
+iTravel Jarrah
+An application for travellers. The Travel Jarrah app allows users to check in their trips, plan trips and request
+a plan for trips from the app. Users can add friends, upload pictures/videos, create profiles, search users/trips.
+Users can also view top trips with their locations and weather information
+
+Roles and Responsibilities:
+• Single handed development of each of the mentioned applications from scratch. Every app is a native android
+application and development was done using Android Studio.
+• Creation of Layouts for the UI of the application.
+• Work with designers to address any issues with drawables and fonts.
+• Collaborate with Project managers to ensure timely delivery of applications.
+• Experiment with 3rd party libraries and provide feedback on them.
+
+Major Tools and Libraries Used:
+Android  Studio,  Android  SDK,  SVN,  RetroFit,  Roboguice,  ORMLite,  Universal  Image  Loader,  GSON,
+Genymotion, Facebook, Twitter, Instagram, Google + APIs.
+
+Project # 2
+
+Ford 35 system
+A software system to control and monitor the operating situation of the system, and also implement control
+signal, changing working mode, alarm when necessary.
+
+Roles and Responsibilities:
+• Building the operating system using labview.
+• Develop the layout of the UI of the control and monitor system.
+• Communicate with client to ensure function is correct.
+• Participate in daily standups and sprint planning.
+•  Redesigned  and  recoded  certain  modules  of  the  application  to  improve  application  reliability  and  code
+readability.
+• Fix bugs during the QA process with team members.
+
+Major Tools Used:
+Labview, G language.
+
+Project # 3
+
+D2UX control system
+A software system to control and monitor the operating situation of the laser welding system, and also, display
+the operating situation, testing and change working mode when necessary.
+
+Roles and Responsibilities:
+• Building the operating system using labview.
+• Imply overhaul of the functions according to the client's requirement.
+• Participate in daily standups and sprint planning.
+• Collaborate with team member to ensure system is working correctly, and fix the bug during the QA process
+
+Major Tools Used:
+Labview, G language, C++.
+
+Project # 4
+
+Shanghai SDS Q5 control system
+A software system to control and monitor the operating situation of the system which the system is embedded,
+and check the quality of the product after the system stop running, alarm when some unexpected error arises.
+
+Roles and Responsibilities:
+• Building the operating system using VB.
+• Design the UI and implement the layout on computer.
+• Attend meetings with the client to discuss application requirements, and communicate with client to ensure
+function is correct.
+
+• Collaborate with team member to ensure system is working properly and reliable, and fix the bug during the
+QA process
+
+Major Tools Used:
+VB.
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.ren&hl=en
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills
+• Languages: Java.
+• Mobile technology: Android.
+• SDK's and plugins: Android SDK, Android NDK, Android ADT.
+• IDE: Android Studio, NetBeans.
+• Web: PHP, HTML, JSON, REST, JAVASCRIPT, CSS.
+• Databases: SQLite, MySQL.
+
+

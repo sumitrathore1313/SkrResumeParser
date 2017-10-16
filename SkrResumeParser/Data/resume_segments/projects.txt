@@ -1,0 +1,24 @@
+ADDITIONAL INFORMATION
+PROJECTS
+1. TweetBlog
+• Created a Java Enterprise Web Application that allows users to maintain the group blog.
+• Established system had a public “front page” showing the most recent blog in reverse chronological order, along with the author and timestamp of each blog.
+• Developed and maintained user interface for the application based on product requirements.
+• Enabled the users to create an account providing their username and password, later allowing those users to create a new blog if logged in successfully.
+• Used the “Model 2” MVC architecture combining the Servlets, JSPs and Maven dependencies.
+2. Medical Record System Software (MRSS) 
+• Built an interactive real time web application from scratch to store and manage patient’s information online
+• Designed, developed and administered login and registration forms and created user interface layout using standard HTML/CSS practices. 
+• Executed functional testing using Selenium IDE and modified unit tests using JUnit framework.
+3. Ensuring Distributed Accountability for Data Sharing in Cloud.
+• Successfully offered security to data which data owner uploaded on cloud
+Developed and maintained front end functionality of the system.
+• Experienced writing test plans, developing test scenarios along with test cases and performed manual testing of the system.
+• Published a research paper in the International Journal of Engineering Research and Technology
+URL: http://www.ijert.org/view-pdf/7938/data-sharing-ensure-accountability-distribution-in-the-cloud
+4. Metrics is Agile: SCRUM, XP and other Agile Methods
+• Mentored the team of four people.
+• Analyzed and demonstrated different concepts of agile methodologies.
+5. Weather Application
+• Developed a weather application using an Open Source API which gives current weather data for any location on Earth including over 200,000 cities.
+

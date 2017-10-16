@@ -1,0 +1,33 @@
+CERTIFICATIONS/LICENSES
+Front-end Formations
+April 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/front-end-formations
+CSS Cross-Country
+April 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/css-cross-country
+Journey Into Mobile
+April 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/journey-into-mobile
+ES2015: The Shape of JavaScript to Come
+March 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come
+JavaScript Best Practices
+March 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/javascript-best-practices
+jQuery: The Return Flight
+March 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/jquery-the-return-flight
+Shaping up with Angular.js
+April 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/shaping-up-with-angular-js
+Assembling Sass
+April 2016 to Present
+Certification Authority - Code School
+Certification URL - https://www.codeschool.com/courses/assembling-sass

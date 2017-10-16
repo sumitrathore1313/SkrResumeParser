@@ -1,0 +1,115 @@
+<ba>
+Ameer Parappurath
+
+Android Developer - Al Hutaib Computers Pvt.Ltd
+
+Guaynabo, PR - Email me on Indeed: indeed.com/r/Ameer-Parappurath/ed179ed6537cf679
+<su>
+To secure a challenging and rewarding position as an Android Developer with an established organization that
+can utilize my skills, knowledge and expertise.
+Key Projects Undertaken
+Project: AEN Dubai. Android, Java, Eclipse, Json parsing, Google map, GCM, Xml parsing
+Play store link: https://play.google.com/store/apps/details?id=com.alhutaib.aendubai.
+• Users can login to the respective accounts and can view messages, Events and Contact numbers.
+• Includes Location of registered members, Namaaz timing, and Doctors number.
+• Application uses Push notification (GCM) for new Message and Google Map.
+• Can view and post new classifieds.
+
+Project: Tabudaat. Android, Java, Eclipse, Alarm
+Play store link:https://play.google.com/store/apps/details?id=com.alhutaib.tabudaat.
+• To keep tab of daily assessment for particular cast in Muslims (Bohra).
+• Store the daily assessments related to Namaaz, Tasbeeh and Zikr
+• Can make reports on the assessment.
+• Application uses web services for Login.
+
+Project: Collection. Android, Java, Eclipse, Excel (CSV)
+• Daily collection and payment utility for accounting system.
+• Can make Receipts and can send through mail,
+• Importing and Exporting of the Outstanding Bills.
+• Can see the Opening and Closing Balance
+
+Project: EYFS. Android, Java, Eclipse, Json parsing
+• A simple way to manage the report of the students as part of Early Years Observations.
+• Enables teachers to enroll students, classes and can capture images and videos of students.
+• Can make Monthly and Yearly reports and Post cards and can send to parents.
+• Web services can be availed for desktop version application.
+
+Project: RIMS. Android, Java, Eclipse, Json parsing, GCM
+• This application is for parents to view their children's Results, Attendance, and Fees
+• can send the feedback of students.
+• Parents will get notification when result came.
+Other Applications: Apples, Zainy, Study.Net, Tiny Tapps, Live Wallpaper
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Al Hutaib Computers Pvt.Ltd  -  Dubai - January 2014 to Present
+
+Responsibilities
+Developing innovative Android Applications - Documenting, Designing, Developing and Publishing to Google
+Play Store.
+
+Projects undertaken
+AEN Dubai, Tabudaat, Collection(Clearing and Forwarding), Zainy, Apples
+>> Worked in different phases of the project cycle like design, development and testing
+>> Developed the activities and UI layers
+>> Linked it to Google maps to provide the address and navigation
+>> Worked on UI design for the appropriate icon and display for the screens
+>> Implemented the XML Parser class to parse the XML feed from the URL
+>> Contributed in Database Management
+>>Worked with Implementing the Barcode scanner
+
+Android Developer
+RedBytes Software Pvt.Ltd  -  Pune, Maharashtra - January 2013 to December 2013
+
+Responsibilities
+Developing innovative Android Applications - Documenting, Designing, Developing and Publishing to Google
+Play Store.
+
+Accomplishments
+Successfully completed projects:
+EYFS, NIMS UAE
+
+Skills Used
+>> Involved in requirement gathering, UI design and development
+>> Worked in different phases of the project cycle like design, development and testing
+>> Collected the requirements with the client and documented the requirements
+>> Worked on local data storage using SQLite
+>> Worked closely with the testing team
+>> Followed the agile methodology for implementing the project"
+<ed>
+EDUCATION
+
+Bachelor of Technology in Electronics and Communication
+University of Calicut
+2012
+<sk>
+SKILLS
+
+Strong Knowledge on Object Oriented Programming, Created 7 plus user-friendly, aesthetically pleasing
+and fully functional applications, Proficient with common Android framework APIs ( Location, Camera,
+Notifcations), Excellent problem solving, communication, and collaboration skills, Involved at every project
+phrase, from concept creation to play store deployment, Experience in working with SQLite Database,
+Experience in designing flexible UI using Fragments, Working experience of JSON and XML parsers,
+Expertise in working with public APIs, such as Facebook, Google, Very good understanding of Android
+Back-end and UI guidelines, Expert in the interaction between various devices and different versions,
+Regarded as a self-motivated and well organized team player, Tested applications on device simulators and
+actual devices to fine-tune products
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.alhutaib.aendubai
+
+https://play.google.com/store/apps/details?id=com.alhutaib.tabudaat
+
+ADDITIONAL INFORMATION
+
+• Date of Birth : […]
+• Gender : Male
+• Father’s Name :HAMZA.P
+• Marital Status : Single
+• Languages known : English, Hindi, Malayalam,Arabic
+• Nationality : INDIAN
+• Visa status :Work Visa
+
+

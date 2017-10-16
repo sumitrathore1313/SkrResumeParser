@@ -1,0 +1,135 @@
+Rahul Sharma
+
+Software Engineer - Veebrij Software Pvt Ltd
+
+- Email me on Indeed: indeed.com/r/Rahul-Sharma/6d8feeeb2e45d9b4
+
+Technology  enthusiast  focused  on  Microsoft  .Net  &  related  technologies.  Experience  in  creating  web
+application  for  non-profits,  e-commerce,  online  communities,  and  middle-tier  solutions.  Taking  ideas  from
+concept-to-production, including requirements collection, data design, object-oriented programming, working
+with outsourcing and creating teams, implementing user-feedback and providing support.
+
+WORK EXPERIENCE
+
+Software Engineer
+Veebrij Software Pvt Ltd  -  New Delhi, Delhi - 2014 to Present
+
+Mayapuri, New Delhi India is the global leader in online software solutions and Business Partner with Oracle,
+Amazon, HP, IBM, Microsoft.
+
+I worked on various project. Jobs Include:
+* C#.Net (3.5 - 4.0) web programming
+* SQL Server 2008/12
+* SQL
+* CSS, HTML, JavaScript, JQuery, XML and JSON
+* Photoshop mockup designing
+
+UI Designer, Contract
+HCentive Inc  -  Noida, Uttar Pradesh - 2013 to 2013
+
+Sec-59, Noida India is Healthcare Software & Insurance Exchange Solutions Company.
+
+Web Design Engineer
+Runaware® Software Pvt. Ltd  -  Hyderabad, Andhra Pradesh - 2011 to 2012
+
+Hyderabad,  India  is  the  global  leader  in  online  software  demo  solutions  and  Cloud  Computing  initiatives.
+Runaware's services include our Flagship product, TestDrive®, which consists of a suite of services including
+all aspects of online marketing, customer profiling, lead capture, downloads, trial CDs, and a hosted interactive
+online  demo  environment  that  allows  customers  to  evaluate  real  software  in  their  web  browser,  complete
+with tutorials and detailed customer usage reporting. Runaware's Cloud Platform offerings enable clients to
+experiment and evaluate SaaS and PaaS using their own application without requiring any modifications or
+losing initial investment.
+
+I worked on various project. Jobs Include:
+
+* Web Designing
+
+* ASP.net Programming
+* UI/UX Designing
+* Table-less html structures
+* User Form coding
+
+Web Design Engineer
+
+NetMaster India, Hyderabad - 2011 to 2012
+
+worked as Team Leader assisted team on ASP.Net driven core websites.
+
+ASP.Net Developer
+Communica Pty Ltd  -  Centurion, Gauteng - 2006 to 2010
+
+Web-developer at communica.co.za, a highly successful developer-oriented web site since March 2007, with
+over 1 million page views per month. Web Development, Search Engine Optimization, Newsletter and content
+management.
+
+Developed database integrated projects like
+
+∗ tradefreeads.com - Recent work - HTML5.0 mobile responsive design
+∗ u-ct.com
+∗ tollring.com
+∗ korenix.co.za
+
+∗ iaconline.co.za
+
+∗ communica.co.za
+
+∗ kamextopup.com
+
+∗ axisgreentech.com
+
+∗ airtimereload.com
+
+Project Developer
+Horizons Software Training Institute  -  Gurgaon, Haryana - 2005 to 2006
+
+Gurgaon, India.
+Technologies Used:
+• Programming Languages: SQL, JavaScript, HTML/XHTML, CSS, XML/XSL, Java, Python, Perl, C#, Visual
+Basic .NET / 6 / VBA, VBScript, ASP.NET 3.5
+
+• Web Frameworks: jQuery, jQuery Mobile, Javascript MVVM design pattern using Knockout.js, ExtJS, Yahoo
+YUI, MooTools, Telerik toolkits and Scriptaculous / Prototype
+
+• Content Management Systems: DotNetNuke (ASP.NET)
+
+C# Programmer
+DigiCare Software Pvt. Ltd  -  New Delhi, Delhi - 2004 to 2005
+
+New Delhi, India. Worked on a DigiFrog CRM project using C# (C Sharp)
+
+Development  -  Delhi, Delhi - 2002 to 2004
+
+Indkarma Marketing Pvt. Ltd, Vikas-Puri, New-Delhi, India is a Website Development company established
+in  the  year  1995  to  meet  the  demands  for  quality  information  architecture,  internet  support  and  software
+development.
+
+I worked on various project. Jobs Include:
+
+* Web Designing
+
+* ASP.net Programming
+
+EDUCATION
+
+Diploma in WebSockets Communications Programming
+National Institute of Labour Technology & Management  -  Chennai, Tamil Nadu
+January 2000 to January 2005
+
+BCA in IT field
+MCRPV University  -  Bhopal, Madhya Pradesh
+
+Masters of the Web in Web
+Indian Institute of Technology  -  New Delhi, Delhi
+
+ADDITIONAL INFORMATION
+
+• Operating Systems: Windows 3.x, 95, 98, 2000, 2000 Advanced Server, XP, 2003 Server
+
+• Programming Editors/IDEs: Aptana IDE, Visual Studio 5.0, 6.0, .NET (2002, 2003, 2005, 2008), SQL Server
+Enterprise Manager
+
+• Databases: Sql Server […] MS Access, XML
+• Paypal Integration, Cloud Messaging Service - PubNub
+• Scheduling Services - using Quartz.net scheduler
+
+

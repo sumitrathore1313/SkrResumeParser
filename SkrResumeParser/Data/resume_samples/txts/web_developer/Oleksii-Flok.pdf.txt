@@ -1,0 +1,63 @@
+<ba>
+Oleksii Flok
+
+Cleveland, TN - Email me on Indeed: indeed.com/r/Oleksii-Flok/83883d89b191e674
+</ba>
+<su>
+Strong base skills in Front End,Back End and responsive design. Ability to find creative solutions
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Bradley County Commission  -  Cleveland, TN - October 2016 to Present
+
+Web Developer
+WHOLESALE SUPPLY GROUP  -  Cleveland, TN - April 2016 to May 2016
+
+Create Front-End Part:
+-Build UI
+-Create template for WordPress
+
+Web Designer/Developer
+Habitat For Humanity of Cleveland  -  Cleveland, TN - March 2016 to April 2016
+
+Create Front-End Part:
+-Build UI
+-Create template for WordPress
+Create Back-End Part
+</we>
+<ed>
+EDUCATION
+
+BACHELOR OF WEB in INFORMATION SYSTEM
+LEE UNIVERSITY  -  Cleveland, TN
+2015 to Present
+
+BACHELOR OF COMPUTER SIENCE in COMPUTER SIENCE
+NATIONAL AVIATION UNIVERSITY  -  Kiev
+2012 to 2015
+</ed>
+<sk>
+SKILLS
+
+HTML 5 (2 years), CSS3 (2 years), Javascript (2 years), JQuery (2 years), Angular (2 years), BootsTrap (2
+years), PHP (2 years), Git (Less than 1 year), Wordpress (2 years), Native Script (Less than 1 year)
+</sk>
+<ba>
+LINKS
+
+http://thealexflok.com
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+SKILLS & ABILITIES
+-HTML5 -CSS3(Bootstrap3)
+-JS(Angular, JQuery) -PHP
+
+-Responsive design -CMS(WordPress)
+-AJAX(JQuery)
+</sk>
+

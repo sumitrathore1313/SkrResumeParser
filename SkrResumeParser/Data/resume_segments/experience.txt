@@ -1,0 +1,288 @@
+WORK EXPERIENCE
+Web Developer
+QubeDrop, Corp  -  Morgan Hill, CA - October 2016 to Present
+• Developed web applications for clients on billable engagements.
+• Collaborated with other team members to understand the requirements and deliver the application modules within time, budget and with consistently good quality.
+•  Created  a  prototype  to  preview  parts  of  DSV/CSV  data  using  HTML5,  CSS3  and  the  D3.js  JavaScript framework.
+Web Developer
+Global Rescue Relief, Inc [Remote]  -  Washington, DC - August 2016 to November 2016
+• Volunteered to develop a website that acts as a portal for this Non-Profit Organization.
+Crew Member (Carl's Jr)
+California State University Fullerton  -  Fullerton, CA - September 2014 to May 2016
+• Prepared quality food products on a regular basis and made sure that standards are met. 
+• Ensured safety and sanitation practices in the kitchen.
+• Maintained a positive and professional approach with coworkers and customers.
+Software Engineer Intern
+GlobeIT Solutions  -  Pune, Maharashtra - June 2013 to May 2014
+• Produced a system called Ensuring Distributed Accountability for Data Sharing in Cloud.
+• Coordinated with other developers and designers, which pioneered the project.
+•  Gained  proficient  knowledge  of  major  web  technologies  including  HTML/CSS/JavaScript,  and  got accustomed to work under minimal supervision.
+• Ensured quality of software through focus on collaborative design and code review, unit testing.
+•  Groomed  to  become  a  confident  person  after  expressing  my  views,  advice  and  suggestions  to  the management. 
+• Successfully documented software and technical specifications.
+
+
+WORK EXPERIENCE
+Web Developer
+SEO  -  Virginia Beach, VA - January 2010 to Present
+Worked  as  a  freelance  web  developer  I  completed  over  100  jobs  from  tasks  varying  from  SEO,  web programming, and full website development. 
+Excelled at client satisfaction by maintaining a 5.0 feedback score for jobs completed.
+http://www.upwork.com/o/profiles/users/_~010eb413d1f02bd8fd/
+Specialist, Freelance
+SEO  -  Virginia Beach, VA - January 2002 to Present
+Learned SEO through trial and error. Created numerous websites, made them rank well in the search engine results, monetized the site, and then sold it. 
+This was purely a hobby but was very successful.
+• Develop SEO Strategies and implement and monitor campaigns
+• Perform Site analysis, keyword research, link building
+• Perform Competitor SEO research
+• Prepare analytics and ranking reports for clients
+• Maintained positive client relationships
+Tomahawk Strike Manager
+U.S. Navy  -  Norfolk, VA - October 1996 to Present
+Managed a department of 45 Sailors whose responsibilities were the release of weapon systems. 
+Directly responsible for the operating and maintenance of the Tomahawk Weapon System. 
+While on active duty created a web based collaboration tool used for Tomahawk missile employment that the Navy quickly adapted saving millions in development costs. 
+Maintained three different Command websites and social media presence.
+SECURITY CLEARANCE
+US Government Top Secret Clearance (Expires October 2017)
+
+WORK EXPERIENCE
+Sr. UI Developer
+Optum  -  Eden Prairie, MN - October 2015 to Present
+Optum is leading in technology solutions in the healthcare industry providing critical care in delivering products that benefit its customers. 
+As a Sr. UI Developer, we worked on OHM (Optum HEDIS Manager) development and maintenance. 
+We redesigned the existing OHM application intended to provide proper scores to insurance providers and help them to get data missing in the insurance claims from the doctors. The OHM application
+helps insurance providers improve their scores for HEDIS (Healthcare Effectiveness Data and Information Set)
+measures and adjust their plans with respect to place and population to provide proper care.
+Responsibilities
+● Spring framework for the development of the middleware of OHM.
+● Worked extensively with Angular JS, JavaScript, HTML and CSS to design the UI for OHM.
+● Involved in the development of the entire Front-end part of the system, using Google's AngularJS MVC
+framework (which means JavaScript, HTML, and CSS), JQuery, JS and JSON.
+● Application designed and developed using AngularJS, Spring MVC framework and Oracle 11.
+●  Used  dependency  injection  and  Spring  Aspect  Oriented  Programming  (OAP)  for  Business  Layer development.
+● Built RESTful web services and Integration Service layers to provide data from the backend.
+● Writing JUnits using Mockito and Power Mock to ensure quality of code.
+● Worked with System Team for Regression, Integration, System and Beta Testing.
+● Provided Production Support.
+Sr. UI Developer
+Verizon  -  Township of Warren, NJ - January 2015 to October 2015
+Verizon  Communications  is  one  of  the  world's  largest  telecommunications  company,  serving  individual
+consumers, small and middle market businesses and 
+large corporations with a range of services including, phone service, Internet access and television to residence. My Verizon Diagnostics(MVD) is a Device Health
+Check Tool used by service representatives to remotely access your phone during service calls to quickly
+address and fix.
+Responsibilities
+● Developed Application POC using MEAN (MongoDB, ExpressJS, AngularJS, NodeJS) stack.
+Worked closely with internal clients to define business objectives, project scope, solution space and design development approach for various knowledge research applications.
+● Developed various UI (User Interface) components using Angular JS (MVC), JSON and HTML.
+● Implemented various Validation Controls for form validation and implemented custom validation controls using Object Oriented JavaScript.
+● Actively involved in using Angular JS, Bootstrap and HTML5 to enable client side date to meets specific criteria by applying various validation variable.
+● Planned and programmed a work queue system on a NodeJs Server with RabbitMQ. It uses Express to create a REST API allowing users to create jobs and retrieve data from MongoDB.
+I regularly worked with both the LAMP and MEAN stacks and used Git daily on a Linux machine
+● Developed Interactive 2D graphics using JavaScript API Library WebGL & Three.js.
+● Developed various UI (User Interface) components using ReactJS where data changes over time.
+● Used Object Oriented JavaScript to designed dynamic client-side to web forms and simulate process for web application.
+● Created forms to collect and validate data from the user in HTML and JavaScript.
+● Responsible for checking cross browser compatibility and hence worked on different browsers like safari, Internet explorer, Firefox and Google chrome.
+● Involved in developing web Page Applications using AngularJS.
+● Worked closely with back-end developers to find ways to push the limits of existing Web technology in service of creating the best possible user experience.
+● Involved in writing jQuery-based Ajax requests using jQuery. Get or jQuery. Ajax and jQuery. Post.
+Environment
+HTML5 APIs, CSS3, Angular JS, ReactJs, RequireJs, JSON, iOS, Android, JQuery, Restful services, Design
+Patterns, JUnit, Canvas, Web Services, Windows XP, Karma and Jasmine.
+Sr. UI Developer
+Bank of America  -  Hopewell, NJ - April 2014 to December 2014
+Bank of America is one of the world's largest financial institutions, serving individual consumers, small and
+middle market businesses and large corporations with a full range of banking
+Investing, asset management
+and other financial and risk-management products and services. 
+National Mortgage Outreach (NMO) project
+mainly focuses on modifying the delinquent loans thru CAC or Events.
+Responsibilities
+● Designed and developed the application using Agile Scrum methodology by breaking down the project to several sprints.
+● Developed application using Angular JS
+● Developed the application by using HTML5, Java/J2EE
+● Developed GUI using JavaScript, Angular JavaScript
+● Designed and implemented the User Interface using JavaScript, HTML5, XHTML, XML, CSS3, JSON, AJAX
+● Used EXTJS, SASS and LESS extensively for Rich UI experience.
+● Developed an application which runs on various platforms such as iOS and Android.
+● Implemented Web Services using SOAP, REST and XML/HTTP technologies.
+● Contributed as key resource of the Angular JS Framework Team in conversion of existing (XMI) UI screens of the application to Angular JS based UI.
+● Involved in development of commonly used angular components across teams such as directives for grid, pagination, conditional validations.11
+● Developed the high-quality code which runs across multiple browsers using Web Sockets
+● Implemented SOA architecture with Web services using SOAP, WSDL, Local Storage, UDDI and XML
+● Converted the XMI code to Angular JavaScript.
+● Used Grunt to perform repetitive tasks such as minification, compilation, unit testing
+● Worked on Karma and Jasmine.
+● Developed Billing API's based on the user stories and exposed them Enterprise Java Beans (EJB) for the Business logic.
+● Implemented Maven build tools to build jar and war files and deployed war files to target servers.
+● Have worked on Oracle10g, Local Storage data base for storing and retrieving the application data.
+● Worked on Interactive 2D graphics using JavaScript API Library WebGL & Three.js
+● Written migration/deployment shell scripts on Linux/Unix platforms using VI editor
+
+Configured Data source and connection pool settings by using WebSphere server Admin console
+Environment
+Ext-JS 4.x, Unix, Maven 2.2.1, XML Schemas, SASS, AJAX, LESS, XML, HTML5 APIs, CSS3, Angular JS,
+JSON, iOS, Android, JQuery, Webstorm 7, Restful services, Design Patterns, JUnit, Canvas, Web Services,
+Windows XP, Karma and Jasmine.
+Sr. UI Developer
+Berkeley Heights, NJ - January 2013 to March 2014
+Responsibilities:
+● Developed UI pages using HTML, XUL, DHTML, XHTML, DOM, CSS, JSON, JavaScript, JQUERY and AJAX.
+● Involved in developing HTML and JavaScript for client side presentation and data validation on the client side within the forms.
+● Involved in writing and modifying Procedure, Queries, Views & Triggers and calling them from JavaScript.
+● Developed application using Angular JS
+● Actively involved in using Angular JS, Media Queries and HTML4 to enable client side date to meets specific criteria by applying various validation variable.
+● Developed front-end screens with HTML, DHTML, CSS, JavaScript and JSP's. Extensively did client side validations using JavaScript and developed the required Servlets.
+●  As  a  developer,  coordinated  with  onsite  team  and  client  in  understanding  the  business  process  and requirement understanding.
+● Involved in the website architecture design; developed highly user interactive web pages with HTML, CSS mand JavaScript.
+● Successfully solved client-side validation issues using JavaScript and AJAX-based techniques.
+● Used HTML and CSS for website layout and design.
+● Implemented page rendering with JavaScript and JQUERY.
+● Created AJAX calls to retrieve product data from the back-end database service.
+● Collaborated with back-end developers in testing and debugging system implementation.
+● Handled browser compatibility issues in HTML, CSS and JavaScript for Firefox, IE, and Chrome browsers.
+Environment: CSS, HTML, XSL, XSLT, PHP, JavaScript, JSP, DHTML, My- SQL, XHTML, XML, AJAX, IIS,
+Action Script 1.0, Apache Server, MTS, TCP/IP, Adobe Dreamweaver MX, Macromedia Flash MX
+UI Developer
+CVS Pharmacy  -  Woonsocket, RI - June 2011 to December 2012
+Responsibilities:
+● Worked with designer who designed user interfaces and prototypes for a web-based internal system.
+● Worked on front end pages that were developed in a professional manner using HTML, CSS, JavaScript, and JQUERY.
+● Developed and implemented user interfaces as per latest W3C standards.
+● Developed client side validation code using JavaScript and JQUERY.
+● Creating cross-browser compatible and standards-compliant CSS-based page layouts.
+● Involved in fixing Front-End issues with the layouts.
+● Actively used XML (documents and transformations) for creating templates with dynamic data from XML file.
+● Extensively used/modified JQUERY to perform AJAX calls for creating interactive web pages on JSON response.
+● Worked with backend developers to convert HTML/CSS non-functional pages into dynamic JSP pages.
+● Developed cross-browser pages using CSS, HTML, DHTML, and JavaScript
+Coded pages with best Search Engine Optimization (SEO) techniques.
+● Designed applications that execute on various browsers such as Internet Explorer, Mozilla Firefox, Google Chrome, and Opera using various debugging tools like Firebugs/IE Developer Tools.
+● Utilized Angular JS in the development for building SPA and to consume Restful web services.
+● Designed user Interface using HTML5, CSS3 and JavaScript.
+● Implemented responsive web design and mobile friendly design using Ionic framework and Angular JS.
+● Built single page Angular JS application using Ionic framework; fully utilized its JavaScript UI library, including navigation, modal, slide box, scroll, action sheet and more.
+● Implemented inline editor, instant search and order form functionality using Angular JS.
+● Involved in creating AJAX calls using Angular JS to handle data operations including ordering and filtering.
+● Produced client side validation through JavaScript and AJAX for asynchronous communication.
+● Performed a lot of DOM operations for loading and manipulating dynamic content on Webpages.
+●  Handled  browser  compatibility  issues  with  different  browsers  related  to  HTML,  CSS  and  JavaScript  for Chrome, Firefox, and IE browsers.
+● Performed JSON data parsing using Angular JS to render the information on user interface pages.
+● Developed new cross-browser accessible interfaces using Bootstrap, JavaScript and Angular JS.
+● Implemented test cases and performed unit testing using Jasmine.
+● Managed advanced techniques for single page business solutions and front-end MVC patterns.
+● Worked with the business analysts and back-end developers to gather requirements, improve application
+functionality and add new features.
+Environment: HTML5, CSS3, XHTML, JavaScript, JSON, JQUERY, Angular JS, Bootstrap, AJAX, XML, SVN and Eclipse.
+UI Developer
+Dell Inc  -  Providence, RI - March 2010 to May 2011
+Dell Inc., needed to consolidate customer information companywide and streamline processes. 
+SFDC was integrated with different applications and was used to manage CRM solution to integrate sales, marketing, and
+support, while scaling to the company's rapid growth.
+Responsibilities
+● Design & develop supporting components for rule authors
+● Design & enhance execution model based on requirements of business object model
+● Design & develop Dynamic domains for rule authoring & testing using rule studio/RTS
+● Meetings / Discussions with CE (Customer Experience) / dev. team for design changes, control changes, cross impact changes, queries.
+● Used HTML5, XHTML, DHTML, Java Script, EXTJS, AJAX, JQUERY, XML, XSLT, XPATH, JSP and Tag Libraries to develop view pages.
+● Assisting other team members for any UI related resolutions. Verifying the fixes in IST and QA environments and accordingly flipping the status to ready for re-test.
+● Worked on Socket IO for Cross-browser compatibility.
+● Developed various Database interaction objects by implementing the DAO patterns and used JDBC as Model Component.
+● Experience in working on GIT.
+● Working on CSS code framework.
+● Web component development like creating data grid, modal fly out, calendar component, buttons, multi- layer drop-down, mega menu.
+● Managing the project work-load as a tech-lead.
+● Implemented Webservices using SOAP messaging and WSDL.
+Developing code for Mac OS X, Windows XP and Windows 7.
+● Implemented the application using spring concepts - DI/IOC, AOP, Batch implementation and Spring MVC.
+● Writing code for cross-platform use and middleware applications.
+● Creating different types of models. One for dynamic content for Ajax call having both modal header as well
+as modal body content together inside one modal content body.
+● And another with static content with modal header outside modal body content.
+● Working on Date Picker.
+● Working on Content column with 3 column layout using CSS 3.
+● Working on Edit in Place element.
+● Working & completing different Sprint Planning tasks.
+● Worked on Quick pay: Non Chase: Show a list of transactions.
+● Created different modal windows.
+Environment
+Visual Studio 2010, Tomcat, Source control - Clearcase, HTML 5, EXTJS, CSS 3, JQuery, Agile, JIRA on both
+platforms Windows and Mac OS, iPad Simulator
+Web Developer
+Suntron Systems  -  Pune, Maharashtra - May 2008 to March 2010
+The WTS project is initiated by the Quality department of Aegis as an internal requirement to track the reporting of the software developers
+they capture the metrics there by and analyze the same for the future requirements as part of quality function.
+Responsibilities
+●  Executed  approved  design,  developing  both  applications  with  JSP,  JavaScript,  and  HTML,  generating reports with SQL, PL/SQL, and HTML/JavaScript, MS Query/MS Excel or Oracle Reports.
+● Worked on applying UI Principles and Human Factors Principles and Factors for all the web and application
+products of CDC both Internal and external domains.
+● Ongoing new requirements gathering and updating on regular basis.
+● Played a programmer role in UI design and development of the front-end architecture.
+● Developed user interfaces involving HTML, JavaScript and CSS.
+● Developing complex user interfaces involving HTML, CSS and JavaScript.
+● Developed HTML pages using HTML and JavaScript for front-end validation.
+● Used Rational Rose for creating the class diagrams, use cases, sequence diagrams.
+● Expertise with CSS Selectors, classes, ids, pseudo classes, Inheritance and concepts
+● Improved Web applications by analyzing user feedback
+Environment
+JavaScript, HTML, XHTML, DHTML, CSS
+
+WORK EXPERIENCE
+
+Web Developer
+Real Clear Media Group - March 2016 to Present
+
+Much of the work is heavy LAMP work for creating entirely custom CMSs for all of the sites the company has.
+On the public side of the sit, Javascript, Jquery and JSON files are used to dynamically update the site on
+html files published from our PHP CMSs.
+
+Below are some of the projects I have worked on:
+• Created the entire browser push notifications system entirely custom to tie in with the RealClearPolitics CMS.
+◦ Notifications are sent from our system so that editors can easily send out notifications for current content.
+◦ User subscriptions to notifications is completely custom.
+◦ Analytics for how notifications do and subscription rates.
+
+• Developed the entire CMS for RealClearInvestigations.com and the several features on the public side such
+articles with embeds and the donations feature that ties in with PayPal.
+◦ The article embeds is based on membership system that only allows registered domains to grab our content
+and embed it on their site.
+◦ Donations to PayPal are done using their rest API and is completely custom.
+• Worked on the redesign of several sites that had an old outdated design and an outdated CMS.
+• Worked on a new multisite CMS that replaces every different CMS we have for each site. The technology used for this new multisite CMS is Laravel for server side code and Vue js for user side code.
+◦ This new CMS is meant to have one single CMS for all sites rather than 15 different CMSs.
+◦ It is also meant to be built with new technology to make it sleeker with SPA modules, responsive designs, and stronger security.
+Web Developer
+Drive & Shine, Inc - September 2015 to March 2016
+• Only software engineer to develop both the software that customers utilize such as the website and company online store as well as internal software that employees use to accomplish their work.
+• Developed a LAMP based maintenance tracking system to be used company wide. Some key features are as follows:
+◦ Different website experience depending on employee role.
+◦  Each  store  being  able  to  submit  issue  tickets  to  notify  all  maintenance  personnel  of  a  problem  at  each location.
+◦ Complete list and historical data of issues and tasks done to equipment its related components for each location.
+◦  Time  based  maintenance  repeating  tasks  that  recreate  themselves  and  set  themselves  due  based  on specified time frames.
+• Developed an inventory tracking system for store supplies. Some key features are as follows:
+◦ Store items have set max order amounts for a certain time frame.
+◦ Form automatically blocks the ordering items that have already reached their time frame limit and will reset the item once the time frame is reached.
+◦ Ordering historical data pages with multiple dynamically made graphs to analyze ordering trends.
+◦ Inventory tracking of items amounts at warehouse from where items are ordered from.
+Move on to Real Clear Media Group because the work circumstances did not allow for skill growth and the
+work was stagnant lacking direction.
+Production Control Analyst
+Specialty Products & Polymers, Inc - February 2007 to September 2015
+• Analyze and direct production schedule with the orders from customers.
+• Work with production supervisors and plant manager to manage production employees and efficiently meet customer orders.
+• Committed to giving customers great customer service by answering their questions in detail and resolving any problems that they may have.
+• Responsible for all outbound shipments to be shipped on time and with the correct documentation.
+• Keep inventory of all packaging materials such as plastic sheeting and cardboard boxes.
+Web Developer Internship
+Kitchology, Inc - July 2014 to December 2014
+• Developed web based systems using PHP, HTML, CSS, Javascript, and SQL.
+• Worked remotely being responsible for completing and accomplishing my work without supervision.
+• Communicate efficiently through email and weekly Skype conference meetings.
+Wordpress and Web Developing Internship
+J&S Coatings / Vortex Spray Liners - April 2012 to August 2012
+• Developed a new Wordpress managed company website based off their previous static HTML one.
+• Developed several Wordpress managed websites for their "dealers" customers.
+• Modify HTML, CSS, and PHP in Wordpress themes for custom needs.
+• Organize their web media content for future quick searching and usability.

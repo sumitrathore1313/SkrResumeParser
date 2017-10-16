@@ -1,0 +1,213 @@
+<ba>
+Alluri N
+
+Android Developer - All State Insurance
+
+North Carolina - Email me on Indeed: indeed.com/r/Alluri-N/a1c8a833d6854758
+<su>
+• In depth experience over 7 years in Android application design, development, testing, deployment in both
+consumer and enterprise based applications.
+• Extensively worked on different stages of application development right from collecting the requirements,
+providing  guidelines  for  design,  creation  of  application  architecture,  implementation  that  includes  various
+stages in development, code signing and release into the market.
+•  Profound  experience  in  Software  Development  Life  Cycle  (Requirements  Gathering,  Project  Design,
+Development and maintenance phases)
+• Skilled in developing APIs for middle ware Framework modules for mobile platforms using Java.
+• Extensively worked with Android SDK, Android Studio and Eclipse IDE along with Android ADT plug in.
+•  Extensive  experience  in  building  mobile  applications  using  Android  framework  APIs  such  as  (Location,
+Camera, Animations, Maps)
+
+• Designed GUI and interfaces with services for mobile applications.
+
+• Experience in using Fragments, Activity workflow, Action Bar Navigation, Menu designs and view controls,
+and Loaders.
+• Experience in designing UI layouts using Linear Layout, Relative Layout, Frame Layout, Table Layout and
+using Android Widgets and custom Widgets.
+
+• Experience in using Storage options in Android like Shared Preferences.
+
+• Designed GUI and interfaces with services for mobile applications, Asynchronous Programming in Android
+(such as Thread pool, Tasks and services) . Implemented the monetization of apps, which has capabilities
+to do in-app purchases.
+• Experienced in integrating payments in apps such as PayPal, Authorized.net.
+• Hands on experience using media framework using Android API and skills like multimedia usage, video,
+sound and graphics, networking.
+• Excellent in troubleshooting and debugging software applications, creating, executing and documenting test
+cases for Android app.
+• Experience in using SQLite Database, Content Providers and Sync Adapters for mobile data management.
+• Experience in working with XML parser's, RESTful API's and server side technologies like Apache and PHP.
+• Solid understanding of interfacing to back-end system using XML/JSON, REST API, OAUTH, etc.
+• Expertise in using Design patterns and object oriented methodologies to design software for mobile phones.
+• A valued team member with strong written communication, verbal communication skills, problem solving
+skills, customer service and interpersonal skills.
+• A self-driven, goal oriented, customer focused software professional with proven ability to successfully work
+in all phases of Software development lifecycle.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+All State Insurance  -  Northbrook, IL - April 2014 to Present
+App Name: Allstate℠ Mobile
+
+The Allstate Corporation is the third largest personal lines insurer in the United States (behind State Farm
+and GEICO) and the largest that is publicly held. The company also has personal lines insurance operations
+in Canada.
+Application provides customer services like fuel outage, towing, tire changing and locks out cases. User can
+request a service and pay for it, and then service provider reaches the location and finishes the service.
+Link in the Google Play - https://play.google.com/store/apps/details?id=com.allstate.view
+
+Responsibilities:
+• Involved in requirement gathering, UI design and development.
+•  Worked  on  innovative  background  reflecting  the  user  account  status  that  changes  according  to  user's
+account.
+• Worked closely with the testing team.
+• Designed screens related to Categories and Detail description for Tablet for both 7 inch and 10-inch devices
+by customizing views as per mockup. Created Master-Detail Interface for tablet implementation.
+• Updated backend validations to meet tablet specific requirements.
+• Implemented unique design for portrait and landscape mode.
+• Used web views, list views & populated lists to display the lists from database using simple adapters.
+• Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information
+• Added parser classes for Tablet, which involved parsing JSON feeds.
+• Used Github repository to run the Jenkins job for continuous integration.
+• Implemented data caching mechanism.
+• Created UI & functionality for authentication feature.
+• Involved in development and enhancements of features to restrict the usage based on Authorization and
+Authentication tokens.
+• Provided subsequent releases, which included feature changes, enhancements and bug fixes.
+Environment: Android SDK, Java, Eclipse IDE, JSON, REST Web Services, XML, GIT-HUB and Jenkins.
+
+Android Developer
+Charter Communications Inc  -  St. Louis, MO - February 2014 to March 2015
+
+App Name: Spectrum TV
+Play Store Link: https://play.google.com/store/apps/details?id=com.charter.tv
+Description:
+Spectrum TV app enables users to watch over 46 live channels. You can also download movies, TV shows
+and watch them on the go. By sign in with charter.net email user can access personalized features of the app
+such as Watch List, Downloads and Favorites.
+Responsibilities:
+● Assisted in designing the User Interface (UI/UX) and overall look and feel of the app.
+● Implemented Fragments to make the app usable on both Smart phones and Tablets.
+● Involved in adding the gestures to the app to show the Top Level view, Categorized View and the detailed
+view of the RSS Feeds.
+● Worked on Generic Grids and Custom List Views to list the XML feeds.
+● Developed the app to adapt to different orientations (Landscape/Portrait) and various resolutions (ldpi/mdpi/
+hdpi) based on the device.
+● Integrated and used third party libraries to cache image data and improve performance of the application.
+● Developed and implemented the XML Parser for feeds from various sources and displayed the parseddata
+in the app.
+
+● Responsible for design of user interface using various custom layouts, buttons, dialog boxes, alert boxes
+and different form of widgets.
+● Added suitable code to capture the various button and text field events and implemented the desired action
+for each of the widgets.
+● Used web views, list views & populated lists to display the lists from database using simple adapters.
+● Sync data using Sync Adapter by retrieving data from the server via Retrofit and updating data locally via
+Content Provider.
+● Successfully developed secure communication between the client and the server and using algorithms to
+encrypt data.
+● Performed Unit testing on the various modules/functions to ensure that the output is as expected.
+
+Environment: Eclipse, Android SDK, Java, SQLite, SVN, XML
+
+Android Developer
+Verizon Telematics  -  Atlanta, GA - December 2012 to January 2014
+
+App Name: Verizon my FiOS, https://play.google.com/store/apps/details?id=com.verizon.oxygen&hl=en
+Description:
+The MY FiOS App gives existing customers easy access to their Verizon account and services with useful
+and amazing interactive features. The App is available to both FiOS and other residential customers, and the
+features will vary depending on your services.
+Responsibilities:
+• Implemented Fragments on the main screen, On Click of each fragment takes to another tab.
+• Contributed to application requirement analysis for achieving the specifications provided by the client.
+• Involved in developing the UI for the app using TextViews, Buttons, Check boxes, Alert dialogs, Action bar
+and spinners for various layouts.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Implemented Alert Dialogs to alert the user when a coupon is about to expire via push notifications.
+• Handled time constraint issues, exception and error handling for the application.
+• Collaborated with web services team to implement the backend support.
+• Designed and developed the request and response data to and from database.
+• Implemented SQLite databases to monitor shipments.
+• Implemented customized web view component to load an SWF file and HTML data.
+• Involved in unit testing, integration testing and user acceptance testing.
+• Performed Unit testing on the various modules/functions to ensure that the output is as expected
+• Used JIRA to track issues.
+Environment: Eclipse, Android SDK, Java, SQLite, Google Maps API, SVN
+
+Android Developer
+Infologitech Systems pvt ltd - November 2011 to October 2012
+
+App Name: Spotways
+Description:
+Spotways  is  a  location  based  field  force  task  automation  and  geo-intelligence  product-platform.  It  helps
+organizations with sales/field force, feet-on-street, customers/retailers, moving assets etc, manage the work,
+organize their travel/movement, optimize their geographies etc. Using the platform, Spotways provides geo-
+intelligence  for  growth  decision  enabling.  Spotways  uses  mobile  technologies  and  cloud  for  a  seamless
+anywhere-anytime experience. Spotways is a B2B product deployed as SAAS
+Link in the Google Play - https://play.google.com/store/apps/details?id=com.infologitech.spotways
+Responsibilities
+● Worked on an Open Source project for tracking module for continuous tracking.
+
+● Worked on Collecting Location Data from GPS and Showing it on map using Google Maps API.
+● Worked with Web Team to Communicate with Server using Restful Web-services.
+● Involved in development of Dynamic Form Builder with the received JSON from Web Server.
+● As part of Dynamic Form Building worked on features like Image Capture, Barcode and QR-code Scanning.
+● Build Sync logic to send collected data to Server.
+● Developed EMI Calculator as part of one of the requirement.
+● Troubleshooting Sync Issues and Conducted Analysis to improve performance.
+● Worked on JAVAMAIL API for sending mail in background.
+● Worked on Update patches with bug fixes.
+
+Environment: Android SDK, Eclipse IDE, Java, XML, SQLITE, Restful web services, JAVA Mailing API, SVN,
+PHP, MYSQL.
+
+JAVA Developer
+Inforlinx Solutions Private Limited  -  Hyderabad, Andhra Pradesh - July 2009 to October 2011
+
+Description: Inforlinx is an ISO 9001:2008 certified Web & Mobile Application Development Company. They
+help companies manage their IT needs for Web Development Solutions & Internet marketing. The core aim is
+to provide Web based Solutions and e-strategic modules to the people across the globe, with a distinct quality
+and in a cost-effective module for enhancing their business competencies.
+
+Responsibilities:
+• Analyzed the requirements of the client and designed the architecture.
+• General Designs and Detailed Designed were reviewed along with peers.
+• Development of UI screen with HTM and JSP.
+• Work closely with UI/UX teams and backend teams.
+• Implement the UI/UX customizations.
+• Implemented Push notifications to notify user for all crucial information.
+• Involved in unit testing, integration testing and user acceptance testing.
+• Wrote Stored Procedures in MQSQL Database.
+• Team coordination for different issues and referrals.
+• Provided Onsite Support after the system went Live.
+• Worked under the UNIX environment.
+
+Environnent: Java, Servlets, JSP, EJB, JDBC, MQSQL, UNIX, Tomcat.
+<ed>
+EDUCATION
+
+Bachelor of Technology in Electronics and Communications Engineering
+Jawaharlal Nehru Technological University
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.allstate.view
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills:
+
+Android OS Android 2.3 to Android 5 (Gingerbread, Honey comb, Ice cream sandwich, Jellybean, Kit Kat and
+Lollipop)
+Languages Java, C
+Scripting Language PHP, JavaScript
+Web Designing HTML5, CSS, XML, JavaScript, JQuery
+IDE Eclipse, NetBeans, Android Studio
+Web/Application Servers Tomcat, IBM WebSphere
+Framework Struts, Junit, AJAX, Angular JS, Espresso
+Version Control Tools CVS, SVN, GIT, Jenkins
+Databases SQLite, MySQL
+
+

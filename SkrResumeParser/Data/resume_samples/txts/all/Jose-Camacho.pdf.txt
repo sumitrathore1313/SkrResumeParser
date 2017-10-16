@@ -1,0 +1,56 @@
+<ba>
+José Camacho
+
+Toa Alta, PR, 00960, US - Email me on Indeed: indeed.com/r/Jose-Camacho/f278c4b6bfc8f8c8
+</ba>
+<su>
+My objective is to work for a company that allows me to sharpen my skills and at the same time make a
+meaningful contribution.
+
+Having learned everything already by myself and having gone beyond the extent the university takes me, I
+have the ability to create high quality applications and I can provide a small test project or images of previous
+projects if requested.
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Solutions by Design - April 2015 to Present
+
+Developed  several  responsive  websites  using  Visual  Studio  with  Angular,  Entity  Framework,  Bootstrap,
+Material, OData, etc.
+
+Application Developer
+Warren del Caribe - December 2012 to November 2013
+
+• Developed an application that manages all lighting related reports, databases and notifications in an easy
+to use interface.
+• Managed webstore and catalog item database, helped with design and structure.
+</we>
+<ed>
+EDUCATION
+
+Computer Science
+Universidad de Puerto Rico Bayamon  -  Bayamón, PR
+</ed>
+<sk>
+SKILLS
+
+Java (6 years), C# (4 years), Javascript (2 years), CSS3 (Less than 1 year), CSS (2 years), HTML (2 years),
+Entity Framework (Less than 1 year), Angular (Less than 1 year), Angular Material (Less than 1 year),
+Bootstrap (Less than 1 year), Android Development Kit (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+SKILLS
+• Learn new concepts quickly, work well under pressure and communicate ideas clearly
+• Fully bilingual - Oral and writing skills in English and Spanish
+• Exceptional knowledge with computers and programming languages such as Java, C#, Ruby, HTML, CSS,
+PHP, Javascript, etc. and applications such as Visual Studio and Eclipse.
+• A lot of experience developing videogames mostly out of self-improvement and entertainment. Mostly used
+Unity3D but have touched UDK and JMonkey Engine.
+• Some experience using Blender to learn how to make my own meshes for my games, though not nearly as
+extensive as my knowledge with coding.
+</sk>
+

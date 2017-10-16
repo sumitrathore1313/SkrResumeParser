@@ -1,0 +1,40 @@
+<ba>
+Aleksey Charapko
+
+Web Developer - Elyk Innovation, Inc
+
+Saint Augustine, FL - Email me on Indeed: indeed.com/r/Aleksey-Charapko/3208c8bd93533033
+
+To get a position of a developer.
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Elyk Innovation, Inc - 2011 to Present
+
+Skills and Related Experience
+• Developing and maintaining web applications with HTML5, CSS3, PHP, ASP, XML, JavaScript, AJAX.
+•  Designing,  developing  and  maintaining  MySQL  databases  using  PHPMyAdmin,  MySQL  Workbench  and
+Toad Data Modeler.
+• Designing, implementing and deploying custom web-applications.
+• Utilizing Agile development methodologies.
+• Utilizing Object Oriented Programming, Design and Analysis techniques.
+• Managing Apache and IIS web servers.
+• Knowledge and Understanding of Java, including Android Mobile Platform
+• Knowledge of C/C++, VB 6.0, VB.NET, C#.
+• Working with various Integrated Development Tools (IDEs), such as Eclipse, Netbeans, Adobe Dreamweaver
+and Microsoft Visual Studio
+
+• Some experience with Unix-like operating systems.
+• Experience with all major office software, including Microsoft Office and OpenOffice.org
+• Customer service experience in retail setting.
+</we>
+<ed>
+EDUCATION
+
+Master of Science in Computer Science
+University of North Florida  -  Jacksonville, FL
+
+
+</ed>

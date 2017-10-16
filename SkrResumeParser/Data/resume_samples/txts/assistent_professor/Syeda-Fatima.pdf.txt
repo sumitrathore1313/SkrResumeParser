@@ -1,0 +1,87 @@
+Syeda Fatima
+
+Assistant Professor
+
+- Email me on Indeed: indeed.com/r/Syeda-Fatima/432e29ae2814a988
+
+To teach quality education at at a highly reputed and eminent educational institute and to gain exceptional
+career move ahead through long efforts and performance regularity
+
+WORK EXPERIENCE
+
+Assistant Professor
+Gandipet Himayatnagar, C.B  -  Hyderabad, Andhra Pradesh - January 2011 to May 2015
+
+500 075
+
+Duties and responsibilities
+
+➢ Thought at graduate level in areas allocated by the head of department and reviewed from time to time by
+the head of department
+➢ Contributed to the development, planning and implementation of a high quality curriculum.
+➢ Assisted in the development of learning materials, preparing schemes of work and maintaining records to
+monitor student's progress, achievement and attendance.
+➢  Participated  in  Department  and  faculty  seminars  aimed  at  sharing  research  outcomes  and  building
+interdisciplinary collaboration within and outside the department.
+➢ Provided pastoral care and support to students.
+➢ Participated in the administration of the department's programmes of study and other activities as requested.
+
+Engineering Instructor
+Glitz Academy  -  Hyderabad, Andhra Pradesh - 2011 to 2014
+
+Hyderabad, AP
+
+Duties and responsibilities
+Coach students of Engineeriing, intermediate (Mathematics, Physics and Chemistry), SSC, ICSE and CBSE
+by using the relevant teaching aids.
+Major Projects
+
+Glitz Academy - 2012 to 2012
+
+Platform: MATLAB
+➢ Purpose: To represent the action videos based on learning spatially related human body posture prototypes
+using Self Organizing Maps (SOM). Fuzzy distances from human body posture prototypes are used to produce
+a time invariant action representation. Multilayer perceptrons are used for action classification. The algorithm
+is trained using data from a multi-camera setup.
+➢ Software Requirements: Windows XP 
+A Medical Image Archive Solution in a Cloud
+
+Purpose - 2010 to 2010
+
+To create storage to the solution of long term Medical Image Archive using cloud. Using Windows Azure we
+deploy the application on the cloud. Dicom servers to store/query/retrieve/ requests, this in turn stores the data
+into the SQL Azure database using DICOM image indexer.
+
+➢ Software Requirements: Windows Azure, .Net Technology (ASP.NET, ADO.NET, C#.NET), SQL Server.
+
+EDUCATION
+
+Master of Technology in Computer Science and Engineering
+Jawaharlal Nehru Technological University  -  Hyderabad, Andhra Pradesh
+
+Bachelor of Engineering in Computer Science and Engineering
+Osmania University  -  Hyderabad, Andhra Pradesh
+
+Certificate
+Board of Secondary Telengana
+
+ADDITIONAL INFORMATION
+
+Technical Profile
+
+➢ Languages: C, C++, Java, SQL, PL/SQL,
+➢ Databases: Oracle […]
+➢ Web Development: XHTML, HTML, CSS, XML, JavaScript, PHP, Dynamic Html,
+➢ Operating Systems: Windows […] UNIX, LINUX.
+➢ Application Suite: Microsoft Office […]
+
+Summary of Qualifications
+➢ Consistent academic records throughout education
+➢ Strong understanding of the underlying principles of the subject and its relevancy to other domains
+➢ In-Depth knowledge of various techniques and approaches applied at a research project
+➢ Perfect knowledge about the common job duties of a teacher and ability to perform them efficiently
+➢ Superb efficiency at computer aided teaching, research tools and the web search engines
+➢ Highly innovative in depicting the subject matter to the students/ audience, using traditional methods as
+well as modern aids
+
+

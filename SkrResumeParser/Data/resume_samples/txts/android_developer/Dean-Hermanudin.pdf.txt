@@ -1,0 +1,72 @@
+<ba>
+Dean Hermanudin
+
+Android Developer
+
+San Diego, CA - Email me on Indeed: indeed.com/r/Dean-Hermanudin/e9823c5a0eb49685
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Z-Integrated Digital Technologies  -  San Diego, CA - March 2016 to Present
+
+• Developed a prototype Bluetooth Low Energy Android application that continuously reads data from medical
+device (Java, XML)
+• Customized the base project for a commercialized product.
+
+Android Developer
+Neural Interaction Lab  -  La Jolla, CA - September 2015 to March 2016
+
+Developed an Android application that connects with Intel Edison for data transferring using Bluetooth
+(Java, Python)
+• Handled strings of data that was transferred from Intel Edison to be represented as a graph for data
+visualization. (Java)
+• Improved the overall Android application by adding an open source graph view project to add data
+visualization. (GraphView)
+• Added feature to the Android application which saves the data to the internal storage (Java)
+RELEVANT COURSEWORK
+Advanced Data Structures • Design and Analysis of Algorithms • Software Engineering
+Mobile Development/Entrepreneurship • Computer Organization & Systems • Operating Systems
+<ed>
+EDUCATION
+
+B.S. in Computer Engineering
+University of California San Diego  -  San Diego, CA
+2015
+
+A.S.
+Diablo Valley College
+2013
+<ba>
+LINKS
+
+http://github.com/dhermanu
+
+http://linkedin.com/in/dhermanu
+
+ADDITIONAL INFORMATION
+<sk>
+TECHNICAL SKILLS
+Languages: Java, XML, C/C++, HTML, CSS, JavaScript, Python
+Libraries: Retrofit, Picasso, GraphView, YouTube Android Player
+Other: Android Studio, IntelliJ, Eclipse, Git/Github, Vi/Vim, Sketch, Sketch, Adobe Illustrator, Adobe Photoshop
+<pr>
+PROJECTS
+
+Popular Movies - github.com/dhermanu/PopularMoviesI May 2016
+• Developed a responsive Android mobile application that displays popular and top rated movies retrieved
+from TheMovieDB API. Also the application saves and displays favorite movies (Java, Retrofit, Picasso)
+• Built the UI for both tablet and phone (XML)
+
+M's Code - github.com/dhermanu/mscode-app August 2015
+• Designed and developed an Android mobile application that encodes and decodes Morse's code into texts,
+light, or sound (Java)
+• Responsible for the UI/UX design and frontend of the Android application (XML)
+
+Telecom Customer Web Application March 2015
+• Developed a dynamic web application using Spring Framework that allows customers to have their own
+billing accounts.
+• Responsible for testing the application using JUnit (Java)
+• Applied different software design patterns such as the Singleton, Model View Control, and Strategy pattern
+
+

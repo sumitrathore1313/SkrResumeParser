@@ -1,0 +1,216 @@
+<ba>
+Shivram r
+
+Sr Android Developer
+
+Columbus, OH - Email me on Indeed: indeed.com/r/Shivram-r/4a146b9cc4a2f0de
+<su>
+•  7+years  of  IT  experience  with  focus  on  Android  Application  development  and  all  phases  of  Software
+Development Life Cycle including Analysis, Design, Application Development, Testing and Maintenance.
+•  In-depth  understanding  of  Android  SDK  and  experience  in  developing  mobile  applications  on  Android
+platform, building Custom UI using Views, ViewGroups, Layouts, Widgets and graphics that scale based on the
+screen size using 9-patch images, localization, testing and publishing the applications to the Android Market.
+• Experienced in developing applications with sophisticated User Interfaces using XML Layouts, Animation,
+Notifications and User Interaction.
+• Experience in developing consumer as well as enterprise level mobile apps using Android SDK (Froyo, Ginger
+Bread, Jelly Bean, KitKat and Lollipop).
+• Experience in Android UI toolkit (basic/picker/list views, adapters, dialogs, menus) and Layout Managers.
+Proficient in Android application framework: Activities, Intents, Services, Content Provider. Experienced with
+Android SDK tools: Debugger (DDMS), Device Manager (AVD).
+• In-depth understanding of Android APIs and Frameworks such as Content Providers & Intents, Broadcast
+Receivers, Media Player, Camera, Sensors and Location based features.
+• Good Knowledge in Activities, SQLite and Google Maps integration.
+• Experience in RSS Parsing, Social Media Integration.
+• Experience in Core Java, Servlets , JSP, JavaScript, JMS, JDBC, JNDI, Web Services, MVC, Struts, EJB,
+Java Mail, XML, XSLT, JUnit, HTML, Tag Libraries, Custom Tags, and Design Patterns.
+• Good hand-on experience in Eclipse IDE and debugging tools such as ADB/DDMS /LogCat.
+• Extensive experience with C/C++, Java, JavaScript, XML and SQL.
+•  Experienced  with  Agile  software  development  processes  with  focus  on  Design  and  Development
+methodologies.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Progressive Insurance  -  Mayfield, OH - November 2014 to Present
+
+Description: The project involved adding more features to the Progressive Auto App.
+Features provided by Progressive Auto App:
+• View coverages, ID cards and policy details of the vehicles.
+• Report a claim and take and add photos to it.
+• Get in touch with the agent and claims rep.
+• Pay bill by credit card, debit card, or checking account.
+• View billing history and upcoming payment schedule.
+• Monitor Snapshot progress (in eligible states).
+• Access policy documents.
+• Find a Service Center.
+Link: https://play.google.com/store/apps/details?id=com.phonevalley.progressive&hl=en
+
+Environment: Android SDK 1.5 and up, Eclipse 3.7, SQLite DB, XML, Java,
+
+Responsibilities:
+• Refactored existing code and redesigning structures to improve performance of the entire app.
+• Designed the login activity with dynamic layouts and custom buttons, while working extensively with Eclipse,
+Java and Android SDK frameworks.
+• Worked on performance enhancements and fixed the bugs by closely working with testing team.
+• Used services, Async tasks and Alert Notification API to implement event reminder feature into the mobile
+app.
+• Used Volley library to get JSON objects and arrays from server.
+•  Upgraded  the  mobile  app  from  Jelly  bean,  so  that  it  will  be  compatible  with  Android  KitKat  and  Lollipop
+Versions.
+• Used Expandable List Views to create drop-down lists using custom objects.
+• Developed connection with server using Open Source libraries, Asynchronous Http Client for Android.
+• Designed user session management with Persistent Cookie Store parsing JSON response.
+• Utilized Shared Preferences to store and maintain user information.
+• Designed User Interface, such as login view with username and password Edit Texts.
+• Utilized SQLite DB for storage of raw queries.
+• Responsible for designing and implementation of custom UIs, animation and graphic rich interfaces.
+• Updated patches, elements and components to fix bugs, while adhere compliance & mitigate security risks.
+• Conversed with back-end development team to integrate front- and back-end code.
+• Communicated effectively with stakeholders to manage expectations.
+
+Android Developer
+WRAL  -  Raleigh, NC - October 2013 to November 2014
+
+Description: The WRAL Weather App allows users to get access to all the weather information needed in
+Raleigh  and  other  neighboring  cities.  It  includes  a  7-day  forecast,  interactive  radar  map,  interactive  menu
+options, a status bar, and background audio giving users a more richer experience.
+
+Link: https://play.google.com/store/apps/details?id=com.mylocaltv.wralwx&hl=en
+Responsibilities:
+• Customized various list views, adapters, fragment & back stack, reusable custom dialogs & view components.
+• Created a Refresh button that was added to weather & traffic images.
+• Integrated Google Map's API for users to search weathers of nearby cities.
+• Worked with Fiddler, a tool used to debug & execute GET & POST API calls & Responses.
+• Generated HTTP GET and HTTP POST requests and parsing the response in different formats.
+• Re-designed and Developed the UI for the "News & Events" Android App.
+• Used Eclipse IDE as a development environment and deployed on JBoss 6 server, involved in code review,
+debug and testing using tools like JUnit, participated in demo and presentation the functionalities of the project.
+• Worked with Audio format (MP3, 3GP, MP4, M4A, AAC, and WAV) video codec (MPEG-4 SP, H.263, H.264
+AVC, and VP8), Web sockets, and Binary Streaming.
+
+Android Developer
+MACYS  -  Natick, MA - January 2013 to September 2013
+
+Description: The project was an upgrade of the current Macys mobile application, whereby enhancing a more
+lucrative user authentication, improving page performance and providing customers with a richer, interactive
+navigational experience.
+Link: https://play.google.com/store/apps/details?id=com.macys.android&hl=en
+
+Environment: Android SDK 1.5 and up, Eclipse 3.7, SQLite 3, node.js, XML, java
+
+Responsibilities:
+•  Developed  heterogeneous  list  views,  adapters,  fragment  &  back  stack,  reusable  custom  dialogs  &  view
+components, styles & themes
+• Customized reusable shopping cart components and UIs using simple adaptors
+• Worked with web services, web views and populated list from databases using simple adaptors and cursor
+adapters.
+• Integrated Google Map's API for users to find nearby branches.
+• Managed session using Shared Preferences and Alarm Manager to every activity - allowing customers to
+stay signed in for longer sessions of inactivity.
+• Used Shared Preferences for login session and handlers for set timers.
+• Assigned services, async tasks and Alert Notification API to implement event reminder feature into the mobile
+app.
+• Implemented feature for uploading user reviews and photos of diagram.
+• Created multiple threads to boost the performance of the My Wallet feature on the app.
+• Upgraded checkout Activity into one activity for faster ordering process.
+• Integrated barcode feature and also made a provision for typing a barcode.
+• Participated in the quality assurance of the app including, testing of the User Interface and testing the app
+on different mobile devices.
+• Developed update patches, modules and components to fix bugs, adhere compliance & mitigate security
+risks.
+• Configured security of the app with HTTP and SSL connection.
+• Developed connection with server using Open Source libraries, Asynchronous Http Client for Android.
+• Contributed in production release deployment, certifying release features, monitoring production logs and
+fixing production issues on demand.
+• Involved in designing user-friendly tool to be used by deployment team on verifying content management
+in Production/Lower environments.
+
+Android Developer
+Farmers Insurance, LA, CA - November 2011 to December 2012
+
+Description: Farmers-Auto App, based on Android OS, is developed for corporate internal use. The application
+was  developed  specifically  for  Field  offices  and  Sales  team.  It  serves  the  sales  team  and  Field  office
+representatives to use their corporate tablet devices at the client locations to market different Organization as
+well as Individual policies. The application can also provide Quote & Proposal based on the client choices.
+Apart from the new business, it can also help representative to manage a client's existing coverage. It can
+provide a dashboard view of the client's enrollment, overall claims history and the service history.
+
+Environment: Android SDK 1.5 and up, XML, Java, Eclipse 3.7, SQLite
+
+Responsibilities:
+• Involved in gathering business requirements and designing Use Case diagrams
+• Developed UI wireframes for prototypes using the WireframeSketcher.
+• Designed and developed the actual layouts for the application
+• Worked with Android Media player to access and playback various multimedia formats for demonstrating an
+overview of various policies.
+•  Access  Enterprise  level  SOAP  based  web  services  to  retrieve  policy  specific  data  and  display  it  within
+appropriate layouts
+• Worked closely with different web application teams and the SOA team to display a composite view of the
+policy information
+• Worked with Location-based services to list the nearby Field and sales offices
+
+• Worked with background services, content providers and SQLite database to export locally stored data onto
+the enterprise server. The service was optimized to run only when connected to a wireless network
+• Worked with various resources to handle the orientation as well as localization for UK clients.
+• Unit testing was done using the JUnit and JUnit extensions
+• Stress testing was done using the Monkey tool
+
+Software Developer
+Logic Bridge  -  Hyderabad, Andhra Pradesh - August 2008 to October 2011
+
+Project: Invoice Management System (IMS)
+Description: IMS is designed to help manage and track the approval of vendor invoices for the firm from the time
+it is received by the firm until the time it is processed for payment by Accounting Services. IMS centralizes and
+automates the various spreadsheets containing invoice information currently maintained by each department
+and will eventually replace all such decentralized spreadsheets throughout the firm.
+Environment: JDK1.4 /J2EE, Eclipse IDE, JSP 1.2, Servlets 2.3, Struts 1.2, Applets, DHTML, JavaScript, CSS,
+JDBC, SQL Server 2000, Web Logic 8.1, Bootstrap, Database Spy, JBuilder 8 Enterprise Edition, Window NT,
+PHP 5, HTML, CSS, JavaScript, JQuery, Tomcat, Oracle 9i.
+
+Responsibilities:
+• Responsible for development, modification and maintenance of Invoice Management System (IMS) which is
+used to streamline invoice processing, tracking and reporting.
+• Developed the GUI in JSP using HTML/DHTML and CSS.
+• Extensive use of HTML/PHP for the presentation layer along with JavaScript for the client side validations.
+•  Achievements  include  faster  vendor  payments,  efficient  tracking  of  invoices,  management  reporting
+functionalities, transparency in processing and establishment of a platform to enable automation.
+• Development & enhancement of Business Components for order processing application.
+• Developed Servlets and Java classes to communicate with the Database using JDBC.
+• DHTML, CSS, JavaScript, JSP was used for designing the screens and validation of front-end.
+• Worked with the users to gather requirements and worked in Analysis and designing part.
+• Trained and assisted other members of the team to support Invoice management system.
+• Participated in project planning, documentation, testing and validation procedures.
+• Client side layout using custom made bootstrap UI and JQuery.
+• Developed Web-tier authentication consisting of HTTP basic authentication, form-based authentication, and
+HTTP mutual authentication.
+• Created database including tables, views, functions, constraints etc.
+• Used Tomcat as App server and Oracle as the database to develop and deploy the application.
+<ed>
+EDUCATION
+
+Bachelor of Technology in Technology
+Indian Institute of Technology Jodhpur  -  Jodhpur, Rajasthan
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.phonevalley.progressive&hl=en
+
+ADDITIONAL INFORMATION
+<sk>
+TECHNICAL SKILLS:
+
+Android Development Android SDK, Android NDK, ADT plug-in, Google API's, Android Studio, Eclipse IDE,
+JDK, Java, XML, JSON.
+Programming C, C++, Java and PHP.
+Web Development HTML, CSS, JavaScript, jQuery, Ajax, Angular JS, HTML5.
+Parsing Techniques JSON, XML
+Databases SQL, SQLite, MySQL, Oracle.
+Operating Systems Windows, Linux and Mac.
+Version Controller GIT, SVN, Source Tree, Tortoise SVN, CVN, Bit Bucket.
+Methodologies and Models Waterfall Model, Sequential, Iterative and Agile Scrum
+Third Party Tools Phone Gap, Xamarin, Urban Airship, JIRA, JAMA, and Fiddler
+Editors Eclipse, Android Studio, edit plus, Management Studio, phpMyAdmin.
+
+

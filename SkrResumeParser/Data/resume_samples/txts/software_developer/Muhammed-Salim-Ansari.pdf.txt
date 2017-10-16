@@ -1,0 +1,158 @@
+Muhammed Salim Ansari
+
+Software Engineer - Team Computers Pvt Ltd
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Muhammed-Salim-Ansari/780e9242af762850
+
+2+ Year experience as Software Engineer.
+- 6 Month intern-ship as Application Developer from Cetpa Infotech Pvt. Ltd Lucknow, India.
+Willing to relocate
+
+WORK EXPERIENCE
+
+Software Engineer
+Team Computers Pvt Ltd  -  Gurgaon, Haryana - November 2015 to Present
+
+Responsibilities: Web Application Development, API, Plugins, Programming, Database Design.
+Technologies: Php, Mysql, Codeigniter(MVC), Drupal, Wordpress, HTML, CSS, JavaScript
+Tools: Apache, XAMPP, Sublime Text 3, Adobe Dreamweaver
+
+Web Developer
+Goweb99, Vaishali Gaziabad - February 2014 to November 2015
+
+Responsibilities: Website Development, Programming, Database Design
+Technologies: Php, Mysql, Codeigniter(MVC), HTML, CSS, JavaScript
+Tools: Apache, XAMPP, Sublime Text 3, Adobe Dreamweaver
+
+Web Developer (Internship)
+CETPA Info Tech  -  Lucknow, Uttar Pradesh - January 2013 to June 2013
+
+Responsibilities: Creating Web Application, Designing, Programming, Database
+Technologies: Php, Mysql, HTML, CSS, JavaScript, jQuery
+Tools: Apache, Wamp, XAMPP, Adobe Dreamweaver.
+
+Professional Projects
+1) - Teamcomputers
+Role - Programming, Frontend, Database Design
+Team Size - Individual
+Technologies - Wordpress, PHP, MySql, Mobile friendly Website
+URL: http://www.teamcomputers.com/
+
+1) -Luxury Miami Cars (Florida USA based)
+Role - Programming, Database Design
+Team Size - 2
+Time Period - 2 Months
+Technologies - PHP, MySql, Html, Css, Jquery, Bootstrap 3.0, Mobile friendly Website
+Description - Exotic Rides of Miami offers premium luxury car rentals in Miami, Florida. Exotic Rides of Miami
+offers the most competitive rates and prices. An exclusive fleet of luxury rental cars available for anyone looking
+to cruise around Miami's beautiful beaches in class and style.
+This site was developed to provide easy rentals and make a reservation for your Miami Car or Luxury Travel
+needs.
+Url: http://www.luxurymiamicars.com/
+
+2) -Love and Peace (Switzerland based)
+Role - Programming, Database Design
+Team Size - 2
+Time Period - 1.15 Months
+Technologies - Drupal 7
+Description  -  Love  n  Peace  is  a  team  that  organizes  parties  for  events,  including  exclusive  club  entries
+with lounge reservation and free entries for your invited guests. It's a Switzerland based event management
+company.
+Url: http://www.lovenpeace.ch/
+3)-Hampton House Properties (Corona, New York based)
+Role - Programming, Database Design
+Team Size - 1
+Time Period - 2 Months
+Technologies - CodeIgniter(MVC), MySql, Html, Css, Jquery, JavaScript, Bootstrap 3.0
+Description - Hampton House Properties is owner operated. Homes are available for winter season rentals,
+Holiday rentals. Hampton House Properties is a place of private luxury and exclusivity, whose discreet cachet
+has attracted the likes of top business executives, entertainers and professional athletes.
+Url: http://www.hamptonhouseproperties.com/
+4)-Puerto Vallarta Rentals (Mexico, Based)
+Role - Programming, Database Design
+Team Size - 2
+Time Period - 1 Month
+Technologies - Core Php, MySql, Html, Css, Jquery, JavaScript, Bootstrap 3.0
+Url: http://www.puertovallartapremiumrentals.com/
+5) -Le Cartier (Montrel Canada based)
+Role - Programming, Database Design
+Team Size - 3
+Time Period - 30 Days
+Technologies - PHP, MySql, Html, Css, Jquery, Bootstrap 3.0, Mobile friendly Website
+Url: http://www.bblecartier.com /
+6) -Property Solution Real State (Mexico based)
+Role - Programming, Database Design
+Team Size - 2
+Time Period - 1 Month
+Technologies - CodeIgniter(MVC), MySql, Html, Css, Jquery, JavaScript, Bootstrap 3.0
+Url: http://www.propertysol.com/
+7) -Luxury Lake Simcove Vacation Home (Simcoe, Ontario Canada based)
+Role - Programming, Database Design
+Team Size - 2
+Time Period - 1 Month
+Technologies - CodeIgniter(MVC), MySql, Html, Css, Jquery, JavaScript, Bootstrap 3.0
+Url: http://www.simcoevacationhome.com/
+
+8) -Budget Holidays Corfu (Greece, Europe based)
+Role - Programming, Database Design
+Team Size - 2
+Time Period - 1 Month
+Technologies - CodeIgniter(MVC), MySql, Html, Css, Jquery, JavaScript, Bootstrap 3.0
+Url: http://www.budgetholidayscorfu.com/
+
+9)-Long Beach Vacation Rentals (Southern Calfornia based)
+Role - Programming, Database Design
+Team Size - 2
+Time Period - 1 Month
+Technologies - CodeIgniter(MVC), MySql, Html, Css, Jquery, JavaScript, Bootstrap 3.0
+Url: http://www.411seasideway.com/
+
+Some Other Projects
+http://vacationrentalsprovincetown.com/
+http://www.palmcovebeachclub.com/
+http://www.villaconiglio.com/
+http://www.fllvacationhomes.com/
+http://iceageminerals.com /
+
+EDUCATION
+
+Certificate in Master of Computer Applications
+Indira Gandhi National University  -  Delhi, Delhi
+2015
+
+Bachelor
+Indira Gandhi National University  -  Delhi, Delhi
+2009 to 2012
+
+Diploma of Computer Application in Computer World Luck now
+Z.P Inter College  -  Lakhimpur, Uttar Pradesh
+2005
+
+SKILLS
+
+Mysql, php, Mvc, Drupal, Wordpress, Sql, Oracle, Html5, Css3, Software Development
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+-Web Technologies: - PHP.
+-Language: - Core Java, C, OOPS, QlikView, Dashboard.
+-Database:- MySql, DBMS, RDBMS.
+-CMS:- Drupal 7, Wordpress.
+-Framework: - CodeIgniter, CakePhp.
+-API: - RESTFul API, SOAP, Facebook Login, Twitter Login, Google Map API etc.
+-Web and Application server: - XAMPP, WAMP.
+-Tools/ IDE:- M.S Office, SublimeText3, Adobe Dreamweaver
+-Operating System: - Microsoft Windows.
+-Web Hosting: - Apache, FTP, Linux Server, DOMAIN, Cpanel, WHM, .htaccess(Apache).
+
+Key Skills
+
+-Hands on experience in Coding, Testing, Implementation/Maintenance Support in PHP and MySQL.
+-Positive attitude, organized nature, assertive.
+-Design & Requirements Documentation.
+-Understand the business and functional requirements.
+-Handled the CMS (Front End programming), Mobile Friendly Websites.
+
+

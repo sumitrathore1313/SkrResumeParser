@@ -1,0 +1,100 @@
+<ba>
+Radhika M
+
+Sharepoint Developer
+
+New York, NY - Email me on Indeed: indeed.com/r/Radhika-M/ec7ff65863243942
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer III
+Christus Health, TX - May 2012 to Present
+
+CHRISTUS Health is an international Catholic, faith-based, not-for-profit health system comprising almost 350
+services and facilities, including more than 60 hospitals and long-term care facilities, 175 clinics and outpatient
+centers and dozens of other health ministries and ventures. Its corporate headquarters are in Irving, Texas.
+
+The  project  is  to  migrate  Christus'  old  SharePoint  environment  (SP  2003)  to  SharePoint  2010.  We  used
+Metalogix migration tool for the team site migration. This portal was mainly used for Content management.
+
+The corporate portal is the entry point from which all Clients and Employees can get the latest corporate-wide
+information. The department portal consists of independent sites for each department. Employees can use
+these sites to access news, events, announcements, documents, and any information related to their specific
+teams.
+
+Responsibilities:
+• Involved in all the phases of SDLC from Software Requirements Phase to Design, Implementation, testing,
+debugging and Documentation.
+• Customized the look and feel of the sites by developing custom master pages and custom site themes.
+• Performed Content Migration of contents from SharePoint 2003 to SharePoint 2010 using Metalogix migration
+tool.
+• Some of the migrated contents are Document Streams (files), Metadata, Access Controls, Workflows, User
+Policy, Web Parts, and Site Definitions etc.
+• Used SharePoint 2010 object model to perform various tasks like creation of lists, site columns, retrieving
+data from various lists & constructing a web part.
+• Used InfoPath forms to develop online forms for the Portal.
+• Used BCS to migrate the Data from external data source into SharePoint Lists.
+• Worked with SharePoint Designer 2010 for UI Development for Master Pages and to maintain InfoPath forms
+in new Christus look and feel.
+
+Environment:
+SharePoint 2010, InfoPath 2010, Microsoft Office SharePoint Designer 2010, IIS 7.0 and MS SQL Server
+2008R2
+</we>
+<ed>
+EDUCATION
+
+Master of Science
+Computer Science
+</ed>
+<sk>
+SKILLS
+
+SharePoint Technologies\ .NET Technologies\ Windows SharePoint Services 3.0 (WSS), \ .NET Framework
+2.0, 3.5 & 4.0, C#, \ Microsoft Office SharePoint Server 2007 \ ASP.NET, ADO.NET, Web Services/WCF
+\ (MOSS 2007), Share Point 2010, \ SharePoint Designer 2007, Microsoft \ InfoPath 2007, Microsoft Visio
+2010 \ Programming Languages\ Scripting Languages\ C, C++, C#\ Java Script, PHP\ Web Technologies
+\ Database Access Methods\ HTML, CSS, XML, ASP.NET, SOAP, WSDL\ ADO. NET\ RDBMS\ Reporting
+Tools\ SQL Server 2005/2008/2008R2, \ SQL Server Reporting Service\ MS Access and Oracle 9i\ Web
+Servers\ Operating Systems\ IIS 6.0, SharePoint Server 2007/2010\ MS-DOS, Windows 95/98/NT/XP/
+Vista/7\ Development Environment\ VS.NET 2005/2010, Visual Source Safe 2005, \ Google’s Version
+Control\
+</sk>
+<ca>
+CERTIFICATIONS/LICENSES
+
+Microsoft .NET Framework 2.0 – Application Development Foundation
+
+Web Applications Development with Microsoft .NET Framework 4
+</ca>
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+SharePoint Technologies\ .NET Technologies\
+Windows SharePoint Services 3.0 (WSS), \ .NET Framework 2.0, 3.5 & 4.0, C#, \
+Microsoft Office SharePoint Server 2007 \ ASP.NET, ADO.NET, Web Services/WCF\
+(MOSS 2007), Share Point 2010, \
+SharePoint Designer 2007, Microsoft \
+InfoPath 2007, Microsoft Visio 2010 \
+
+Programming Languages\ Scripting Languages\
+C, C++, C#\ Java Script, PHP\
+
+Web Technologies\ Database Access Methods\
+HTML, CSS, XML, ASP.NET, SOAP, WSDL\ ADO. NET\
+
+RDBMS\ Reporting Tools\
+SQL Server […] \ SQL Server Reporting Service\
+MS Access and Oracle 9i\
+
+Web Servers\ Operating Systems\
+IIS 6.0, SharePoint Server […] MS-DOS, Windows […]
+
+Development Environment\
+VS.NET […] Visual Source Safe 2005, \
+Google's Version Control\
+</sk>
+

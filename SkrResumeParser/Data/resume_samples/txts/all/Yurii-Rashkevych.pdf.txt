@@ -1,0 +1,61 @@
+<ba>
+Yurii Rashkevych
+
+Android Developer - Symphony Solutions, Lviv
+
+Regina, NM - Email me on Indeed: indeed.com/r/Yurii-Rashkevych/ec8afb9ecc3604ca
+<su>
+● Competent, motivated and trustworthy employee who values the concepts of work ethics
+● More than 2 year of theoretical and practical experience in Android development
+● Highly organized and results oriented
+● Reliable and dependable - high personal standards and attention to details
+● Proven ability to meet deadlines and work under pressure
+● Positive and pro-active - able to work independently and on a team
+Willing to relocate: Anywhere
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Symphony Solutions, Lviv - August 2016 to Present
+
+Android Developer
+VindiTek, Lviv - January 2015 to May 2016
+<ed>
+EDUCATION
+
+Master of Mathematical and Сomputer Modelling in Lviv, Ukraine
+Lviv Polytechnic National University
+September 2015 to December 2016
+
+Diploma of a Bachelor in Applied Mathematics
+Lviv Polytechnic National University
+September 2011 to July 2015
+
+Lviv IT School
+October 2014 to January 2015
+<ba>
+LINKS
+
+https://www.linkedin.com/in/yuriy-rashkevych-8a7863b9
+<sk>
+ADDITIONAL INFORMATION
+
+● Java Core
+● Android
+● OOP principles
+● MVC, MVP
+● SQLite
+● XML
+● Rest API
+● Square (Dagger, Retrofit, Glide, Sqlbrite, Butter knife, EventBus)
+● Social API(Facebook, Twitter)
+
+● Data Binding
+● In-app Billing
+● Unit Test(JUnit, Robolectric, Espresso, UI Automator)
+● Instant Messaging (Quickblox)
+● Parse
+● SocketIO
+● Google Analytics
+
+

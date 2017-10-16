@@ -1,0 +1,244 @@
+<ba>
+Jesse Gueco
+
+Android Developer - JPMorgan Chase & Co
+
+Livermore, CA - Email me on Indeed: indeed.com/r/Jesse-Gueco/3c6b5c2208beba3e
+<su>
+• 7 years of IT experience in mobile software development, web solutions, and desktop software development.
+• 5 years experience in Android application development, including design development.
+• Experience in developing Android application using Eclipse IDE, SQLite, Java, JSP, XML, JSON, Android
+SDK, JIRA, Stash, Jenkins, GIT and ADT plug in.
+• Understand Object Oriented Design pattern and implemented in Android.
+•  Worked  in  Activities,  Fragments,  Android  Binding,  Android  Framework,  AsyncTask,  Intent  Services,
+Broadcast Receiver, Rest API, Location Manager.
+• Experience in working with SQLite Database, Google Maps API, GPS Location Data, and Push Notifications.
+• Expertise in use of popular public APIs such as Google, Facebook, YouTube, PayPal, Kindle, and twitter.
+•  Knowledge  of  Windows  server  2003,  Window  server  2008,  Windows  server  2010,  Linux,  Oracle  11g,
+JavaScript.
+• Experience using web servers like Apache running on Linux distribution and Windows web server running
+on windows distribution.
+• Experience in using web based application used for managing test and defect tracking using firebug, W3C.
+• Experience in Messaging, Bluetooth and Wifi connectivity with android devices.
+• Hands on experience in client/server and web based applications.
+•  Working  knowledge  of  graphic  design  and  handling  various  kinds  of  media  using  Photoshop,  Illustrator,
+Premiere and flash.
+• Experience in the System Development Life Cycle (SDLC) for applications and understanding of business
+rules. Worked on Scrum and Waterfall.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+JPMorgan Chase & Co  -  San Francisco, CA - January 2014 to Present
+
+Description: The application is created in dynamic environment, supports different android version up to the
+latest android mobile operating system. It supports English and Spanish language. Customer will be able to
+monitor their banking accounts, perform transactions, manage and receive account alerts, and manage credit
+cards.
+
+Responsibilities:
+• Participate with business analysts and development manager in the requirements definition process and
+estimation.
+•  Translate  business  requirements  into  viable  technical  architectures  and  designs  Understand  the  current
+applications and technical architecture and provide technical and programming support
+• Work with users, contractors and technical personnel to meet project milestones
+• Implement the designs (design, code, test, deploy). Support the deployed applications through debugging,
+fixing, and maintenance releases.
+• Stay abreast of new technologies and methods to optimize development process
+•  Have  a  thorough  understanding  of  software  development  lifecycle  and  the  ability  to  implement  software
+following the structured approach.
+• Very strong organizational, task management and prioritization skills
+• Strong troubleshooting and problem solving skills
+
+• Ability to work well with peers and all levels of management
+• Ability to work with minimal supervision in a fast paced, dynamic environment
+• Design, Build and operate scalable software systems and services for Android smart phones and tablets,
+other connected devices, cloud services and client applications.
+• Java, Rest Web Services,
+• Design and Develop client applications utilizing the Android SDK
+• Very good knowledge and experience with Android development tools such as DDMS, ADB and Draw-9-
+Patch is required
+• Experience consuming Restful web services and JSON.
+• Unit Test, Secure and Deploy the applications to the internal app store.
+• Work with version control tools like GIT and project tracking tools like JIRA in a team setting.
+
+Environment: Android SDK 5.0, Android DDBMS, Java 1.7, Eclipse 4.3, Android Studio 0.8.11, ADT Plugin,
+Stash, JIRA, GIT, Jenkins, REST Web Services, Location Services, JSON.
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.chase.sig.android
+
+Android Developer
+Beyond Menu  -  Dublin, CA - December 2012 to November 2013
+
+Description:  The  application  allows  you  to  search  restaurants,  order  for  pickup  or  delivery,  and  make
+reservations online. It also offer to see what are in the restaurant menu, reviews, and explore coupons.
+Responsibilities:
+• Designed and Implemented Views and Layouts for User Interaction.
+• Developed the UI layers for Activities and implemented Fragments within UI.
+• Used Multi-threading to implement parallel processing.
+•  Worked  in  Agile  environment  and  participate  in  different  phases  of  the  project  cycle  like  design  and
+development.
+• REST web service interaction utilizing OAUTH authentication and JSON
+• Extensively tested alpha releases with JUNIT 3 and Robotium.
+• Worked closely with another mobile app developer, leading the other platform development.
+• Used Android SDK 4.3 (Software Development Kit), Eclipse IDE (Integrated Development Environment),
+Dalvik  Debug  Monitor  Server,  Android  Virtual  Device,  and  Android  Debug  Bridge  for  development  and
+debugging tool.
+• Worked with PHP, MySQL, SQL, MyPhpAdmin, and SQLite.
+• Use design pattern like singleton and adapter
+• Use version control such as SVN and GIT.
+• Photo editing using 9Patch, Photoshop, and Illustrator for android.
+
+Environment: Android SDK 4.3, Java 1.6, SQLite 3.0, Eclipse IDE 3.6, Android Studio, ADT Plugin, SVN, GIT,
+REST, Google Maps API, ARM, Intel HAXM.
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.beyondmenu
+
+Android Developer
+The Weather Company  -  Atlanta, GA - January 2012 to November 2012
+
+Description: Weather Channel application is a trusted forecasting technology with the most accurate weather
+forecast.  It  has  been  ranked  as  the  number  1  most  downloaded  weather  app.  Design  and  Develop  the
+application for Android devices where user can browse into the devices and see weather information for desired
+location.
+
+Responsibilities:
+
+• Complete Redesign of application for Android phones, tablets, and kindle fire.
+• Developed different features for the application such as: Forecast Page, Detail Forecast page, Now Page,
+Manage Location Page for both tablets and phones.
+• Innovative background ads reflecting the weather change for the location.
+• By entering the zip code or location name user can search the weather in a particular area. This is linked
+with Google Maps to provide the layered weather map.
+• Refactored the code base to optimize start - up time and memory usage.
+• Key resource for layout and UI work utilizing XML, shape drawable, adapter views, activities, fragments,
+custom views, (Video View, TextView, EditText).
+• Use the SVN for the version control.
+• Have worked in Agile Methodologies environment where we focus on the adaptability and satisfaction of the
+application outcome.
+• Photo editing using 9Patch, Photoshop, and Illustrator for android.
+
+Environment: J2EE, Android SDK 4.2, Eclipse, JSON, JQuery, HTML5, CSS3. SVN, GIT, Google Maps API,
+ARM, Intel HAXM.
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.weather.Weather
+
+Android Developer
+ShopRite  -  Winooski, VT - October 2010 to November 2011
+
+Description: With the newest ShopRite App for Android you can browse and purchase all your ShopRite grocery
+needs from your phone, and continue to use all the great tools to help you get things done at your ShopRite
+store; view weekly specials, create and edit your shopping list, clip coupons, view recipes, and everything you
+expect from ShopRite.
+.
+Responsibilities:
+•  Involved  in  full  life  cycle  of  the  application  including  wireframe  design,  server  development  and  client
+development
+•  Worked  on  developing  various  features  such  as  value  product  of  the  day,  browse  products  from  store
+inventory and navigate to the nearest store.
+• REST web service interaction utilizing OAUTH authentication and JSON
+• Used Android NDK, Android SDK, Eclipse IDE, Dalvik Debug Monitor Server, Android Virtual Device, and
+Android Debug Bridge for development and debugging tool.
+• Worked on UI design and Backend Development using SQLite.
+• Used fragments and activities
+• Involved in analysis, specification, design, and implementation phases of Software Development Life Cycle
+(SDLC). Followed the Agile methodology to develop the project.
+• Photo editing using 9Patch, Photoshop, and Illustrator for android.
+
+Environment: Android SDK 3.1, Java SDK 1.6, SQLite 3.0, Eclipse IDE, ADT Plugin, SVN, GIT, REST, Google
+Maps API, ARM, Intel HAXM
+
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.mywebgrocer.ShopRiteCircular
+
+Android Developer
+iTriage  -  Denver, CO - September 2009 to August 2010
+
+Description: iTriage LLC is a global health care technology company founded in 2008. It will help you find the
+most appropriate treatment, facility, doctor, find nearest hospitals with average wait time. It provides check in
+from your mobile to select Hospital Emergency rooms and urgent care facility.
+
+Responsibilities:
+• Designed and developed mobile health application for Android mobile devices with extensive user interface
+development. Responsible for design of user interface using various custom layouts, buttons, dialog boxes,
+alert boxes and edit boxes.
+• Inserted suitable code to capture the various button and text field events and implemented the desired action
+for each of the applications.
+• Used web views, list views & populated lists from database using simple adapters.
+• Used services, AsyncTask and Alert Notification API to implement event reminder feature into the mobile app.
+• Embedded Google Maps API, GPS Location Data into app with zooming controls.
+• Saved data such as personal healthcare facilities, doctors, diseases, medications, insurance information,
+and health plans in the SQLite database.
+• Designed downloading files and images by showing Progress Bar Activities.
+• Experience in developing apps handling XML data using efficient parsing techniques such as DOM parser.
+• Implemented the required GUI by making modifications to the xml files.
+• Experience with REST with OAUTH and SOAP web services.
+• Worked on debugging the application using Logcat, DDMS
+• Used GIT for project management and version control.
+• Participated in all the phases of SDLC from design, development through testing, porting and support of
+application. Use waterfall approach to ensure success of the project.
+
+Environment: Android SDK 2.2, SQLite 3.6, Eclipse IDE 3.5, Android API's, JDK 1.6, XML, JSON, GPS, ADT
+Plug-in, SVN, Logcat, DDMS console, ARM, Intel HAXM.
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.healthagen.iTriage
+
+Pioneer Global International, Golden Mile Tower, Singapore Jan 2006 - Apr 2007
+Information Technology Specialist
+
+Responsibilities:
+• Configure and install computer software, hardware, and network equipment.
+• Maintains integrity and security of system with McAfee anti-virus.
+• Performs system backup, recovery backup and system failures.
+• Onsite and remote technical support. Lays and test cable for computer network and phone lines.
+• Maintain all work orders using Spiceworks and prepare weekly report with disposition or recommendations.
+•  Maintain  company's  VOIP  system  (assigning  extensions,  mailboxes,  forwarding  calls  and  Conference
+Bridge).
+• Managing domain policies and security. Apply access control to files and folders on a file server using Active
+Directory users, groups, and local groups. Maintain Microsoft Windows 2003 and 2008 server.
+• Defining Printers and peripheral devices.
+• Configure, maintain, and troubleshoot wireless access point(point to point and point to multipoint)
+• Developed PHP applications and algorithms which seamlessly integrated applications and database in a
+very efficient manner.
+• Developed PHP web services to be used by the classes for obtaining Application data.
+• Applied Web Services using SOAP API Services in PHP and Java.
+• Developed the Utility classes for reusability components.
+• Worked with teams in designing and developing server optimization techniques like caching, output stream
+compression etc.
+• Created static and responsive html pages with the Dream Weaver and tweaked the images with the Gimp/
+Photoshop. Develop interfaces with HTML, CSS, SAAS, and JavaScript.
+
+• Worked with the Database Schema design and normalization in designing new databases for the expanding
+applications.
+• Implemented Session Handlers to be persisted into the MySQL database tables.
+• Involved in User Training with users and Product Delivering.
+• Created and used SQL Queries, Scripts and Stored Procedures for data validations.
+.
+<ed>
+EDUCATION
+
+Master of Science in Information Technology
+University of Texas-Pan American  -  Edinburg, TX
+
+Bachelor of Science in Computer Science
+AMA University
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+Languages Java, J2EE, JSP, C#, C++, C, PHP, JavaScript, SQL.
+Frameworks Java Development Kit (JDK), .NET, C standard Library, jQuery, Android SDK.
+Web  Technologies  PHP,  JSON,  JavaScript,  HTML4/5,  XHTML,  CSS/CSS/CSS3,  XML,  Apache,  Tomcat,
+FileZilla.
+Development Tools
+Android Studio ,Eclipse, Visual Studio 2010, Dreamweaver CS5, Photoshop CS5, Fireworks CS5, Illustrator
+CS5,Flex  Builder  CS5,Microsoft  Office  2013,Netbeans,  Scratch,  Lego  Mindstorms,  Notepad++,  Putty,
+WordPress, Python, Flash.
+
+Databases SQLite, MySQL, Oracle.
+Network Technologies Frame-relay, ACL, NAT, PAT, RIP, OSPF, EIGRP, BGP, MPLS, VTP, SMTP, ARP,
+TCP, UDP, VLAN, DHCP, WSUS.
+Monitoring Tools VMware, Spiceworks, Radwin, Kaspersky, IBoss, Zscaler, Barracuda.
+Connectivity  &  Hardware  Exchange  Server,  DNS  Servers,  DHCP  Servers,  Web  Servers  Ethernet,  Fast
+Ethernet, WAN, LAN, TCP/IP, RAID systems, Cisco ASA 5500.
+Enterprise Technologies
+Windows  […]  Exchange  […]  DNS,  WINS,  Microsoft  Office  2013,  Linux,  Scanners,  Desktop  and  Network
+Printers,  MAC,  LogMeIn  Central,  GPMC,  RDP,  Internet  Information  Services,  VMware,  Citrix  XenServer,
+Virtualbox, Incode, Postini spam filter, Google Email.
+
+

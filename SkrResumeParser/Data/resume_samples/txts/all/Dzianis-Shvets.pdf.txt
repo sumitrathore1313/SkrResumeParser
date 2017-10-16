@@ -1,0 +1,102 @@
+<ba>
+Dzianis Shvets
+
+Software Engineer
+
+Stamford, CT - Email me on Indeed: indeed.com/r/Dzianis-Shvets/1d3a1d93fd425adb
+<su>
+Innovation-driven IT professional with diverse experience in developing software, designing data processing
+applications,  and  customizing  new  functionality.  Proven  expertise  in  translating  client  requirements  to
+successfully align development results within expectations. Accomplished in delivering long-term resolutions,
+navigating  programming  challenges,  and  resolving  issues  by  designing  and  implementing  the  latest
+technologies. Successful in following the Software Development Life Cycle (SDLC), Software Test Life Cycle
+(STLC), and defect life cycle management. Permanent US resident with a green card. Fluent in Russian with
+strong proficiency in English.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android developer
+Independent Developer - 2012 to January 2017
+
+Creation of my own applications
+
+The following 20 applications have been completed fully by myself (idea, idea analysis, design, programming,
+testing, launch, maintain, promotion):
+https://play.google.com/store/apps/developer?id=DSD&hl=en
+https://play.google.com/store/apps/developer?id=DSN+Inc.
+In “Fitness trainer”, “Pilates” - I used 3d animation (Blender), Photoshop
+“Woman diary (calendar)” - more than 3.5 million downloads
+
+• Designed the screens using MVC pattern for the application with Eclipse IDE. 
+• Designed the application from scratch. 
+• Implemented Fragments, Activities. 
+• Developed different features for the application. 
+• Worked on linear, frame and relative layouts. 
+• Implemented Notification Manager to display updates on the notification bar. 
+• Implementing Broadcast Receivers for Android. 
+• Utilized GPS location-based services and Google Maps API to enable Google map search for locations in
+close proximity. 
+• Enabled GPS/Wi-Fi to detect user location from where to begin searching. 
+• Refactored the code base to optimize start-up time and memory usage. 
+• Integral in internationalizing of the app to support different languages. 
+• Key resource for layout and UI work utilizing xml, Views, Webview, ListView, Menu Item, Activities, Fragments,
+Frame, Animations, Notifications, Push Notifications etc. 
+• Integrated Google map v1 and v2 to load the store locations on map. 
+• Used web view to show HTML5 pages. 
+•  Tested  the  app  across  different  versions  of  Android  and  different  android  phones  to  assure  quality  and
+performance.
+
+Android Studio
+<sk>
+APIS
+SQLite
+Instructional Design
+Analytical Skills
+Advertising
+Adobe Photoshop
+Blender
+3D Animation
+Git
+JSON
+REST
+JavaScript
+CSS
+HTML
+Windows Server
+Windows
+Eclipse
+XML
+Java
+Android SDK
+<we>
+Software Engineer
+Lida City Unitary Enterprise of Housing and Public Services - March 2008 to January 2017
+
+Address: Belarus, Lida
+Position: Software Engineer
+Used skills: Development and support of accounting software, administration windows server 2008.
+
+Software Engineer
+Production Republican Unitary Enterprise Neman Plant - 2004 to March 2008
+
+Used skills: Development and support of accounting software, foxpro.
+<ed>
+EDUCATION
+
+Bachelor in IT
+Belarusian-Russian University  -  Mogilev
+September 1999 to June 2004
+<sk>
+SKILLS
+
+Android Studio APIS SQLite Instructional Design Analytical Skills Advertising Adobe Photoshop Blender 3D
+Animation Git JSON REST JavaScript CSS HTML Windows Server Windows Eclipse XML Java Android
+SDK (5 years)
+<ba>
+LINKS
+
+https://www.linkedin.com/in/dzianis-shvets-274919141
+
+

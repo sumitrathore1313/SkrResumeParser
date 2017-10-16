@@ -1,0 +1,253 @@
+<ba>
+Akhil Sri
+
+Android Developer
+
+Tempe, AZ - Email me on Indeed: indeed.com/r/Akhil-Sri/e53049ffaadbe09a
+<su>
+•  Over  8  years  of  Software  Design  and  Development  Experience  and  over  5+  years  in  Android  based
+applications  with  equivalent  knowledge  in  Java  development.  3  years  of  experience  in  Java  Applications
+development and programming languages like C, C++. Over 1 and half year of experience in Web services
+development and Android SDK
+• Expertise in developing Applications using Android Studio and Eclipse IDE and worked on ADT plug-ins of
+Android like SQLite.
+• Expertise in integrating API with SDK of versions from 2.1 to latest Lollipop 5.1
+• Proficient in App UI design for both Android Widget (using RemoteViews) and the app itself using the Material
+Design which includes RecyclerView, GridView, NavigationDrawer, Scroll Tab, Swipe Tab, Fragment, Dialog
+Box, Animations, Vector Drawable, ListView, and so on.
+• Experience in applying System Development Life Cycle (SDLC) and Object-oriented analysis and design
+(OOAD) for applications and understanding of business rules.
+• Proficient with common Android framework APIs (Location, Camera, Notifications, Maps)
+• Experience managing apps and Memory Management using Paging and Hash mapping.
+• Knowledge of Data Synchronization and Data Manipulation techniques
+• Worked with UX Designers, Architects & Developers to build enterprise mobile solutions.
+• Good understanding of SOAP, Web Services, XML Parsing and JSON.
+• Experience in Web Technologies like HTML5, CSS, AngularJS, JQuery, J2EE
+• Highly proficient in dealing with Threads and Multi-threading concepts such as Synchronized
+• Proficient in Bootstrapping with XML based applications.
+• Expertise in shaping the project structure using UML diagrams with help of Rational Rose
+• Expert in building Client/Server computing with basic TCP and UDP Socket Programming, web-based n-tier
+architecture, Database design and development of applications using J2EE Design Patterns like Singleton,
+Session Facade, Factory Pattern and Business Delegate.
+• Experience with GIT, JIRA, Sonar, Maven, Jenkins tools
+• Had working knowledge on messaging related technologies like GCM, SMS, MMS, XMPP, SMTP Skilled in
+working on Database Schemas with MySQL, Oracle 11g and Microsoft Access
+• Working knowledge on Database arranging software like Informatica, DataStage
+• Experience in writing and executing unit test cases using JUnit Testing Framework and debugging.
+• Knowledge on various deployment processes like Continuous Integration, Delivery.
+• Experience in using GIT as control of source for most android applications
+• Experience in low-energy Bluetooth technology.
+• Worked closely with Business Analysts and QA team members to understand requirements, design, and
+ensure system meets business and technical objectives.
+• Experience working in on-off shore models.
+• Experience in working automated tests and writing into manual test cases
+<we>
+WORK EXPERIENCE
+
+Android Developer
+ASSA ABLOY  -  Tempe, AZ - November 2015 to Present
+
+Description: With ASSA ABLOY Mobile Access powered by Seos, you can securely store your keys in your
+Android phone and open doors by holding it to a compatible contactless lock.
+
+Please  note  that  you  need  to  be  signed  up  with  an  enabled  access  control  service  provider  to  receive
+Seos digital keys/credentials to the app. If you are interested in ASSA ABLOY Mobile Access, please visit
+www.assaabloy.com/seos to find your local contacts and learn more.
+
+Responsibilities:
+• Worked on ASSA ABLOY custom libraries for generating views and layouts and integrated them into App
+• Responsible for all video activities in App like Splash Screen and Video tutorials
+• Integration of third party API's for Mobile Access using NFC in Mobile
+• Worked on Seos powered mobile access for security systems
+• Created JSON serializable interface for description of data
+• Compatible from Android Gingerbread to Marshmallow versions.
+• Created a Menu layout for easy access throughout the app accessibility
+• Created a log data accessible through REST API for any Warnings in case of any illegal access
+• Responsible for documenting data based on Agile Methodology SCRUM basis
+• Responsible for UI Design and Layout integration in Seos Mobile Access
+• Worked in team with other departments within App development for knowledge sharing
+• Responsible for Demo and Project Presentation in the meetings.
+
+Environment: Android Studio SDK, Eclipse IDE, REST API, Maven, Android API 16-23, XML, JSON, Java UI,
+SCRUM, Third party API's
+
+Android Developer
+Verizon Wireless  -  Irving, TX - July 2014 to October 2015
+
+Description: Family Locator app uses the current working Verizon account to locate their family members who
+are already in his Account. Main Features of this App are to give directions to his/her family members. Stay
+connected automatically and send automatic updates of where and when information.
+
+Responsibilities
+• Responsible for designing mode for different android devices.
+• Responsible for designing all the GUI elements by making required modifications to the xml.
+• Android compatibility to all the devices from API level 16 to 22.
+• Worked on various NDK apps for material design layouts.
+• Responsible for working on Custom UI widgets for summary
+• Responsible for implementing splash screen, end user agreement and introduction of app with FRAGMENTS.
+• Worked on android lock pattern, sure-swipe, Touch-ID for user authentication for user preference.
+• Worked on camera for user profile picture when signed in UI.
+• GPS technology based trigger geo-fence experience.
+• Responsible to update with latest versions API's and integrate with SDK
+• Worked with testing the application on SauceLabs on different levels of android devices and versions.
+• Responsible for successful user logout.
+• Worked on user keep-alive, customer cookies and save profile Reference ID for user.
+• Worked on Emulator and Device tracking with enabling ADB and debugging methods
+• Responsible for testing the application on various android devices and debugging the issues using DDMS
+and Logcat.
+• Involving in handling the issues Related OOB Device Encryption, porting networking items such as DHCP
+and VPN.
+• Responsible for Demo and Project Presentation in the meetings.
+
+Environment:  Android  SDK,  Notepad++,  Eclipse,  Android  Studio,  XML,  JSON,  Material  Design,  Virtual
+Machine, API's, Lollipop, Java script, JQuery, Web Services (REST, SOAP, JSON, Server)
+
+Android Developer
+Fidelity Investments  -  Merrimack, NH - December 2012 to June 2014
+
+Description:  The  NetBenefits®  smartphone  app  gives  you  convenient  access  to  workplace  benefits  from
+Fidelity like retirement plans, stock options, and health insurance.
+
+Responsibilities
+• Participated in complete Software Development Life Cycle (SDLC) for proper analysis, development, testing,
+deployment and enhancement of the code.
+• Designed custom layouts with Bootstrapping and HTML5
+• Designed complex User Interface screens using views and widgets.
+• Used fragments to build small re-usable pieces that are easier to manage and allow for a more fluid visual
+design and can adapt to tablet and phone resolutions.
+• Experience in C++ language for native coding.
+• Implemented sorting options for search items based on categories (Relevance, Price, and Rating).
+• Enhanced search functionality by adding auto fill and search history features.
+• Created a local database using SQLite to store and retrieve the data (generally for the recently searched
+history of their credits).
+• Used shared preferences to store and retrieve persistent key value pairs across user sessions.
+• Redesigned the cart checkout process with enhancements such as the accordion-style interface that acts
+as guide to complete user purchase.
+• Used subversion for branching and merging new features without disrupting mainline development on trunk.
+• Created a credit calculator, which helps them to invest money before deadline.
+• Setup alert notifications for near bill to be paid.
+• Implemented a domain which helps in future opportunities in investing money.
+• Implemented a GUI for Account login, Bank Account managing and transferring money securely.
+• Worked on Emulator and Device tracking with enabling ADB and debugging methods
+• Responsible for testing the application on various android devices and debugging the issues using DDMS
+and Logcat.
+• Implemented videos for detailed explanation of various investment choices and published articles of experts.
+• Involved in debugging and porting the application on various mobiles.
+• Implemented Fragments in Activities.
+• Implemented a summary of all profile recent activities with Fidelity Investments.
+
+Environment:  Android  SDK,  Maven,  AngularJS,  Eclipse  IDE,  Java,  SQLite,  Subversion,  XML,  J2EE,  C++,
+JQuery, SOAP, REST, GUI, FX Applications, Front controller design pattern, JQuery, Soap UI, CXF, Core Java
+
+Android Developer
+State Farm Insurance  -  Dunwoody, GA - August 2011 to November 2012
+
+Description: Pocket Agent App delivers user to view about customer's insurance and financial status and gives
+defined alarms for it. It also responsible for search options like searching any agent near you, help you with
+your contact details. Paying your insurance bills and repairing facilities.
+
+Responsibilities
+• Implemented List View, to show the different shipments and maps as a form of list.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Worked on SDK apps for better performance
+
+• Worked on Xamarin for other applications which supports NDK
+• Worked closely with the testing team using Junit.
+• Collaborated with web services team to implement the backend support.
+• Designed the web services to communicate with the Android application by using RESTful web services with
+the Spring 3 API, and JSON Parsing for the received responses.
+• Integrated the Payment Gateway in the app for processing Credit Card Payments for mail orders.
+• Implemented customized web view component to load an SWF file and HTML data.
+• Created test cases and test data for testing the application using JUnit Extensions.
+• Performed Unit testing on the various modules/functions to ensure that the output is as expected.
+• Used Inversion of control in Spring Framework for dependency injection.
+• Published XML data using XSLT.
+• Used XML Web Services for transferring and retrieving data from different applications.
+• Used Xamarin Studio for developing Apps in C# environment.
+• Implemented XML technologies like DTD schemas, XSL style sheets and XSLT for transformations.
+
+Environment: Android SDK, Eclipse 3.6, ADT Plug-in, SQLite, XML, Java, Google-Map kit, Subversion, Junit,
+C#, Quality center tool, Hibernate, Log4j, SOAP Web Services, EJBs. Front controller design pattern, JQuery,
+Ajax, Soap UI, CXF, Core Java
+
+Java/ Android Developer
+Bart & Associates - December 2009 to June 2011
+
+Description: Bart & Associates is Client serving enterprise for software solutions providing valuable service to
+homeland security and valuable suggestions to various business-systems.
+
+Responsibilities
+• Co-Ordinate with the Onsite Team to execute the Project based on On-Site - Off-shore model
+• Involved in requirement gathering, UI design and development
+• Involved in Analysis, design and coding.
+• Used Spring Frame work for Service layer and DAO layer.
+• Configured JMS listeners using Spring JMS.
+• Used WSDL to describe Web Services.
+• Used Data Synchronization as Message System
+• Used SOAP to exchange information with external systems.
+• Followed MVC Architecture.
+• Created Maven scripts for the complete module.
+• Worked on spring batch in reading data from database and posting it to MQ.
+• Involved in writing JavaScript, HTML and CSS for dynamic manipulation of the elements on the screen and
+to validate the input.
+• Designed and implemented the user interface using servlets, java script, java beans, struts and EJBS.
+• Used CVS for version controlling.
+• Used Maven as build and deployment tool.
+• Data access using Hibernate and DAO access.
+• Implemented Spring IOC.
+
+Environment: J2EE 1.5, Servlets, Spring Batch, Spring JMS, UML, Microsoft Visio, XML, WSDL, SOAP UI,
+Eclipse IDE, Tomcat 6.0, JBoss, TestNG, Maven 2.x.
+
+Software Engineer
+Cybage Software Pvt Ltd  -  Hyderabad, ANDHRA PRADESH, IN - May 2008 to October 2009
+
+Description:  Cybage  Software  Pvt.  Ltd.  is  a  technology  consulting  organization  specializing  in  outsourced
+product engineering services. As a leader in hi-tech and product engineering space, Cybage works with some
+of the world's best Independent Software Vendors (ISVs). Our solutions are focused on modern technologies,
+and are enabled by a scientific, data driven system called Excelshore. Model of Operational Excellence. This
+unique model de-risks our approach, provides better predictability, and ensures a better value per unit cost
+to our clients.
+
+Responsibilities
+• Implemented web-service integration from SOA using SOAP, WSDL and REST web services.
+• Responsible for developing the user interface using JSF, JSP, Java Script and HTML.
+• Developed Action classes and Java classes for the corresponding Struts Actions.
+• Designed and developed web based Configuration tool, data source for database connection.
+• Used Log4J logging framework to write log messages with various levels.
+• Involved in fixing bugs and minor enhancements for the front-end modules.
+• Used VSS for version control and Maven to build the application.
+• Used Eclipse IDE for the development environment.
+• Experienced in Networking Socket Programming like TCP/IP, UDP protocols.
+
+Environment: OOAD, UML, Java, J2EE, Servlets, Struts (MVC), Spring Framework, Swing, Hibernate 3.0,
+WebSphere 6.0, Eclipse IDE, CSS, JQuery, XML, Oracle 11g
+<ed>
+EDUCATION
+
+Bachelor's
+Vasavi College of Engineering  -  Hyderabad, ANDHRA PRADESH, IN
+<sk>
+SKILLS
+
+ECLIPSE (8 years), JAVA (8 years), XML (8 years), ANDROID (7 years), SOAP (7 years)
+<ba>
+LINKS
+
+http://www.assaabloy.com/seos
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Programming Languages JAVA, C, C++, C#, JavaScript, HTML, JavaScript, JSON, ASP.NET, Android SDK,
+NDK
+Platforms Windows, Android, LINUX
+Web Technologies Ruby on Rails, XML, Bootstrap, AngularJS, SOAP, Servlets, Swings, Spring Frameworks,
+JSP, JDBC
+Networking TCP/IP, HTTP, HTTPS, DNS, FTP, Ethernet Connections (TCP, UDP), CISCO Certified CCNA
+program
+IDE Eclipse, Android Studio, JGrasp, Visual Studio
+Software Microsoft Office […] Flash, DreamWeaver, Photoshop, VMWare, Firebug
+
+

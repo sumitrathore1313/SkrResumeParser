@@ -1,0 +1,99 @@
+<ba>
+Colby Johnson
+
+Web Developer - Commonplaces
+
+Manchester, NH - Email me on Indeed: indeed.com/r/Colby-Johnson/ff906790d00867ad
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Commonplaces  -  Manchester, NH - August 2014 to Present
+
+Managed projects as a technical lead using, Drupal and Wordpress
+➔ Maintained and supported Magento projects
+➔ Deployed features through Git/SVN across multiple environments
+➔ Programmed automation services using Bash
+➔ Developed fullstack custom PHP solutions for multiple clients
+
+Web Application Developer
+2KR Systems  -  Manchester, NH - December 2013 to November 2016
+
+Developed custom MVC framework using Ruby on Rails
+➔ Deployed software using Heroku cloud platform
+➔ Designed UX using Balsalmiq
+➔ Managed solutions with Github
+
+Tech Consultant
+University of New Hampshire  -  Manchester, NH - September 2013 to December 2014
+
+Developed web services for assignment submissions and project deployment
+➔ Maintained department's Wiki infrastructure
+➔ Tutored students in various CIS course work
+
+Information Technology Specialist
+Army National Guard  -  Manchester, NH - October 2008 to October 2014
+
+Maintained a secret security clearance
+➔ Configured & troubleshooted Cisco routers and switches
+➔ Designed secret and unclassified network diagrams/layouts
+➔ Assisted with helpdesk requests
+➔ Worked with fiber optic networking hardware and fabricated Ethernet cables
+
+Quality Assurance Analyst
+ASA Automotive  -  Merrimack, NH - October 2013 to July 2014
+
+Provided QA for large scale accounting software
+➔ Tracked defects with Bugzilla and JIRA
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Computer Information Systems
+University of New Hampshire  -  Manchester, NH
+December 2014
+</ed>
+<sk>
+SKILLS
+
+NETWORKING (6 years), SECURITY (6 years), MODEL VIEW CONTROLLER (2 years), MODEL-VIEW-
+CONTROLLER (2 years), MVC (2 years)
+
+ADDITIONAL INFORMATION
+
+Skills
+Java
+JavaScript
+SVN/GIT
+AJAX
+
+Bash/shell
+Google APIs
+REST/SOAP
+Linux/Ubuntu
+
+MySQL
+Drupal
+Ubuntu
+PHP
+
+CSS3
+Wordpress
+LESS/SASS
+Perl
+
+HTML5
+Custom PHP MVC
+Ruby on Rails
+C, C++
+
+➔ Operating Systems
+
+➔ Information Security
+➔ Mobile Application Development
+➔ Networking Concepts
+➔ Fund. of Computer Information Systems
+➔ Computer Law and Ethics
+</sk>
+

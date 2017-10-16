@@ -1,0 +1,126 @@
+Roma Rajan
+
+Software Developer - GreenClouds.in
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Roma-Rajan/48dcfcabd47885c8
+
+To handle projects which acquire knowledge and experience in Designing and Development
+Of Software Products, that provides opportunities to bring the best.
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Software Developer
+GreenClouds.in - July 2015 to Present
+
+Job Profile Developing web based projects using Javascript, Jquery, HTML, CSS, NodeJs, MongoDB.
+Work July - 2015- till now.
+
+EMPLOYMENT DETAILS
+
+Software Developer
+Progentys.com - July 2014 to July 2015
+
+Job  Profile  Developed  Automation  based  projects  using  Javascript,  HTML,  CSS,  JBoss,  Fusion,  Jquery,
+Asp.Net.
+Work July - 2014 to July- 2015.
+
+TRANNING DETAILS
+
+Web Developer
+Applied Cognition Systems Pvt. Ltd - 2014 to July 2014
+
+Work Profile Developed Web based projects using ASP.Net (4.0) C#, MS-Sqlserver, Web Service, with Ajax,
+JQuery, Javascript.
+Duration 6 month
+
+EDUCATION
+
+B.C.A
+BRA Bihar University  -  Muzaffarpur, Bihar
+December 1971
+
+MCA
+Manipal Institute of Technology
+
+Diploma in communication
+Bihar Board  -  Patna, Bihar
+
+SKILLS
+
+Javascript,NodeJs,Asp,Jquery,Html,css,MongoDB,SQL (2 years)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+Language Javascript, Jquery, C#
+Web Technologies JavaScript, ASP, Ajax, HTML, CSS, SQL
+General Software Word, Excel, PowerPoint, Notepad++, Latex
+Web / Application Servers .Net, NodeJS
+Development Tools Visual Studio, eclips
+Database SQL Server 2008, MongoDB
+Platform Windows 7
+
+Project #1: text Editor Tool for Blog Implementation
+Role: Developer
+Environment: Javascript, HTML, CSS, Json, MongoDB, NodeJs
+Description: A tool to design web presence and services to host a high performance website and also design
+and manage your website with little or no technical help.
+
+Role and Responsibility:
+1. Responsible for creation of user friendly TextEditor Tool for Designing the website.
+2. Responsible for creating Javascript for complete project.
+3. Responsible for give the support to client
+
+Project #2: Fusion Implementation for Reconciliation and journal
+Client: Tsebo Dynamics Ax
+Role: Developer
+Environment: Javascript, HTML, CSS, JBoss, Fusion, JQuery, Ajax
+Description:  Fusion  software  enables  business  operations  to  be  agile  and  cost  effective  through  rapid
+automation  of  manual,  rules  based,  back  office  administrative  processes,  reducing  cost  and  improving
+accuracy by creating a "virtual workforce".
+
+Role and Responsibility:
+2. Responsible for creation of user friendly customized panel
+1. Responsible for creating java scripts for complete integration
+2. Responsible for creating workflows as per the design document
+3. Responsible for coding as per the best practices shared within industry
+4. 'Took initiative to upgrade the skill within the project timeline
+5. Responsible for documenting the project flow
+Responsible for give the support to client
+
+Project #3: Client Validation for Apcog Application Framework
+Environment: C#, Asp.net, Javascript, JQuery
+Role: Developer
+Description: Client validation is a process of validating the input which is correct, complete and delivering the
+correct output. It displays only one error at a time, so that it can be focused more on the wrong field.
+
+Roles and Responsibilities:
+1. Coded 4 modules in the project:
+Patient Registration: Patient Registration is a system in which we can record every patient detail.
+Appointment: In Here the patient takes the date and time to visit the doctor.
+Visit: Here any one can visit for any reason like staff meeting, health treatment, etc.
+
+Consultation: It contains all the medical history and family history of the patient.
+2. Written the developer specification.
+3. Coded the client side using javascript and server side using .NET technology
+4. Responsible for developer testing
+5. Resolved all the bugs on modules during Quality Testing
+6. Responsible for documenting the project flow
+
+STRENGTHS
+Willingness to learn, adherence to commitments and deadlines, positive attitude, flexible and adaptable with
+good communication and interpersonal skills.
+
+INTEREST
+Internet Surfing
+
+DECLARATION:
+
+I hereby declare that the information furnished above by me is true to the best of my knowledge.
+
+Place: New Delhi
+Name: Roma Rajan
+Date: […]
+
+

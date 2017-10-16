@@ -1,0 +1,153 @@
+Prateek Tripathi
+
+Professional J2EE Developer cum Support
+
+Delhi, Delhi - Email me on Indeed: indeed.com/r/Prateek-Tripathi/e0aca4f5660f4cc1
+
+★ Professional J2EE Software Developer with 4.5 years of experience in entire Software
+Development Life Cycle (SDLC) including Requirement Analysis, Design, Development,
+Testing, Implementation, Documentation and Support of software application using
+Java/J2EE Technologies and Related Databases.
+★ Exposure to multiple industry domains like Banking, Airlines, NGO, Government Bidding
+Portals.
+★ Designed and modeled projects using techniques in UML Use Cases, Class Diagrams etc.
+★ Interaction with onfield officers for understanding clients requirement for developing
+Management Information System (MIS)
+★ Expertise in Core Java with solid background and working knowledge of Object
+Oriented Concepts like Inheritance, Polymorphism, Exception handling,
+MultiThreading and Collections.
+★ Good experience in J2EE technologies like Servlets, JSP, JDBC, Java Beans and Web
+Services.
+★ Expertise in application development frameworks like Spring and Hibernate.
+★ Experienced in creative and effective frontend development using JSP, JavaScript,
+HTML5, DHTML, XHTML, JQuery and CSS.
+★ Developed web applications based on different Design Patterns such as
+ModelViewController (MVC), ClientSever etc.
+★ Have excellent Relational Database understanding and experience with Oracle 10g/11i,
+MySQL 5.0/5.5.
+★ Strong experience in database design, writing complex SQL Queries and Stored
+Procedures.
+★ Experienced in parsers like DOM, JDOM, XML Beans, and JSON.
+★ Experienced in using Version Control Tools like SVN and GITHUB.
+★ Experience in using issue and bug tracking tools like JIRA.
+
+WORK EXPERIENCE
+
+Software Engineer
+SouthWest Airlines, HCL Technologies, Noida, DelhiNCR - June 2014 to July 2015
+
+Description: HCL works on various self developed as well as client projects, South West Airlines
+is one of the client for HCL, for which HCL gives tech support work and other services like enhancements on
+already written code base.
+
+Responsibilities:
+❖ Responsible for L2 and L3 support work for Java applications.
+❖ Read and analysis of business processes and their integration.
+❖ Maintenance and update knowledge documents from used cases.
+❖ Interaction with clients for knowledge transfer.
+❖ Daily meeting for the updates and do's for next day
+❖ Documented applications detail and processing for L3 support.
+
+❖  Worked  with  Agile  software  lifecycle  methodologies.  Create  design  documents  when  and  as  required.
+Perform coding, debugging and testing.
+❖ Solved Remedy tickets and Service Requests on regular basis
+❖ Unit testing and debugging of method flows
+❖ Deploy services on distributed environments, CheckIn and CheckOut of services
+❖ Status Reporting with onsite counterparts
+❖ Presentations and discussions on knowledge acquired of systems
+❖ Prepared knowledge documents for new learned systems
+❖ Used SOAPUI for testing the Web services by sending an SOAP request.
+❖ Executing UNIX scripts on distributed systems to get instance of running services and their outcomes.
+❖ Successfully executed all the test cases and fixed any bugs/issues identified during the test cycles.
+Environment: Java 1.7, Spring IOC 3.2, Hibernate 4.3, RESTful Services, JMS, TIBCO, SVN, MySql
+5.0, STS, Maven, JUnit, Spring AOP, UNIX Scripts
+
+J2EE Developer
+Gunvacci Consultancy Services  -  Lucknow, Uttar Pradesh - April 2012 to February 2014
+
+Description:  Gunvacci  Consultancy  Services  operates  web  development  and  software  product  labs  for
+organizations that rely on revenue generating online business models. In the field of application
+development, system integration, and consulting, the company offers outsourced information
+technology services.
+
+Responsibilities:
+❖ Developed J2EE applications using core servlets and JSP with Tomcat application server.
+
+❖ Collaborating with field workers to have clear and specific requirement for application
+development.
+❖ Designed Class diagrams and database models for application flow.
+❖ Explained and demonstrated application flow to client and gather requirements for any
+changes or modifications.
+❖ Involved in designing of HTML pages for application layout and response pages, using CSS and javascript
+frontend technologies.
+❖ Maintenance of developed applications and tech support work for applied systems.
+❖ Logging and debugging instances of applications.
+❖ Involved in MIS development for Government firm.
+❖ Generating performance report for applied systems.
+Environment: Java 1.5, JSP, Servlets, Oracle 9i, XML, TOMCAT, HTML/CSS, javascript, Mysql
+
+Software Engineer
+Finacus Solutions  -  Mumbai, Maharashtra - September 2011 to March 2012
+
+Description: Finacus Solutions Pvt. Ltd. is a solution provider to the Banking and Financial
+Institutions across the globe, fulfilling the needs of specialist product requirements of this
+industry.
+
+Responsibilities:
+❖ Responsible for maintaining and optimizing various banking software applications used in various
+❖ cooperative banks of Gujarat and Maharashtra
+❖ Was Indulged in development and designing of Online Banking System for client
+❖ Worked on various phases of Core Banking System
+❖ Assisted in deploying system on client side
+
+❖ Designed transactional pages for Online Banking System.
+❖ Discussion of security and secure system for transactions.
+❖ Prepare Initial level design documents & physical and logical design.
+
+Web Developer
+Abstract Systems  -  Lucknow, Uttar Pradesh - January 2010 to December 2010
+
+Description: Abstract Systems is IT Consultancy firm changed its name now as Gunvacci
+Consultancy Services is a IT consultancy firm. Development process combines the most powerful
+aspects of research, design, technology and marketing to deliver elegant interfaces, thoughtful
+features and positive ROI.
+
+Responsibilities:
+
+❖ Learned frontend and backend technologies.
+❖ Used MasterClient design pattern for developing web applications.
+❖ Designed web applications from scratch using HTML/CSS, javascript and MySql.
+❖ Deep introduction of online portals like examination portal and their diversities.
+❖ Discussion on various technologies and their real time effects on application systems.
+❖ Got trained for six months in frontend development writing basic HTML/CSS and javascript
+❖ Introduced to various server side technologies viz. php, asp, java and python
+❖ Worked on various database modules and integration
+❖ Learned object oriented aspect of programming and done basic coding in part of the projects
+assigned.
+❖ Responsible for business development in the Projects channel.
+Environment: HTML/CSS, javascript, Oracle, PHP, Java, JDBC.
+
+Technical Skills:
+Operating Systems: Windows 7, Windows XP, Windows Server 2003, Linux
+Languages: Java, SQL, C++.
+Java/J2EE Technologies, JDBC 2.0/3.0, JMS, JNDI, Servlets 2.3/2.4, RMI, and Web Services
+Frameworks Spring [ ] JSF 1.2, Hibernate [ ] JPA 2.0, Apache Camel
+Build Tools Ant 1.5/1.6, Maven 2.x
+Design Patterns, Singleton Pattern, Business Delegator Pattern, Controller Pattern, MVC Pattern,
+Factory Pattern, Abstract Factory Pattern, Session Façade Pattern, DAO Pattern, Template
+Pattern, Builder Pattern.
+Databases: Oracle 11i/10g, SQL Server, MySQL, MS Access, PL/SQL.
+Web Technologies JavaScript, Web Services, JavaScript, CSS, JQuery, JSON.
+Technologies XML, DOM, DTD, JAXB.
+Development Tools Eclipse, STS.
+Version Control: Subversion SVN (subclipse, tortoise), Github.
+Web Services: Spring Web Service, XSD, WSDL, SOAP.
+Web/App Server: Apache Tomcat
+
+EDUCATION
+
+btech in information technology
+punjab technical university  -  Jalandhar, Punjab
+2006 to 2010
+
+

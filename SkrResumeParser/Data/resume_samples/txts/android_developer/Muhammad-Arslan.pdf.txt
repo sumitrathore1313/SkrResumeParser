@@ -1,0 +1,63 @@
+<ba>
+Muhammad Arslan
+
+- Email me on Indeed: indeed.com/r/Muhammad-Arslan/f0bec766a19f9c94
+<we>
+WORK EXPERIENCE
+
+Android Developer
+- November 2011 to Present
+
+Shut App
+Secure Communication
+Encryptions, decryption and compression using Bouncing
+Castle
+• C-Community
+Voice over IP
+Instant Messaging
+File Transferring
+Using XMPP
+• Deal Buster
+Server and Client Site Deal Aggregator
+• Bling dar
+Client\Server:
+https://play.google.com/store/apps/details?
+id=com.app.blingdar
+• DAM (Download A MixTape)
+Client\Server: A UK based Music Application Used to play Audio n video songs collection on online stream.
+• Konecti
+Client\Server: A XMPP based Application used for instant messaging using XMPP.
+• Almutandi Forums
+Client\Server: An Arabic application of discussion
+forums and HTML based Chatting.
+• Secure Message
+A client server application used to communicate with the users encryptdly using RSA and AES encryptions
+
+Android Developer
+Ozitechnology - January 2011 to September 2011
+
+Air Control Runway
+• Talking Pooch the Dog
+• Talking Fun Boy
+• Talking Simon Chemistry Lab
+• Gunssmoke
+<sk>
+ADDITIONAL INFORMATION
+
+SKILLS
+• Android SDK, Eclipse, JAVA, JAVA Web Application
+• Strong Understanding Of OOP
+• Good Understanding of multi resolution UI designs.
+• Strong with C, C++ programming concepts.
+
+• XML and JSON encoding
+• SQL lite Data base
+• Libraries: XMPP(Smack), Google Maps, Bouncing
+Castle,
+• Fluent in English, Urdu and Punjabi.
+• Good in communication skills and have good
+persuasion skills.
+• Expert in MS Word, Excel, PowerPoint, Access and
+front page and flow charts designing
+
+

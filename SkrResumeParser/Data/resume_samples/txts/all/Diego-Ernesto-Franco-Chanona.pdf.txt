@@ -1,0 +1,72 @@
+<ba>
+Diego Ernesto 
+Franco Chanona
+
+Farmington Hills, MI - Email me on Indeed: indeed.com/r/Diego-Ernesto-Franco-Chanona/
+f1718137862239e7
+<su>
+Mid-Senior level Android Application Developer whit 4+years of experience with Android SDK.
+Developed serveral applications with Android SDK for diverse client of public and private sectors in Mexico
+City. Roles included application design and development.
+Very strong knowledge and work experience with Android SDK, Android Architecture, using synchronous and
+asynchronous models, process in background with Asynctask, Threads and Services and data storage with
+databases in Sqlite. 
+Good experience with Web Services Restful and JSON objects.
+Strong knowledge with Locations services based on Google Maps v2 for Android.
+Solid experience with Device Sensors, Android Support Libraries, using APIs as Facebook, Twitter, Foursquare
+and Parse API along with the Facebook API.
+Excellent implementation of solutions based on Push Notification Services and XMPP protocols
+Great experience in MVC and Dependency injection models and other developer patterns.
+Very strong knowledge in JSON Parsing for creates models/objects.
+Strong  experience  with  Google  APIs  as  Google  Maps,  G+,  Google  Analytics,  Google  Translate  API  and
+Youtube API.
+Analyst researcher and problem solving developer with the ability to find and deliver solutions, always willing
+to learn new things in every project and improve it.
+Excellent resource management for mobile applications as images, colors, styles and layouts.
+Experience with application Layout resources for different screen sizes.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Gravitiy Solutions  -  Novi, MI - January 2014 to Present
+
+I’m  currently  development  project  with  Android  SDK  for  the  help  HR  to  control  of  employees  attendance,
+integrate all information for create monthly formats for the invoices of employees of the company.
+I’m developed a back end for application, this module works according to the needs of the project, since it
+requires the app to run in background and make sending data asynchronously to the company servers.
+Gravity Solutions has employees in different geographical locations and the work in different time zones. The
+mobile Application will let our IT employees who work from those locations, check in and check out through
+their phone. After check in, employees will log in into a web application.
+The Android application works for HR department to feed and maintain our company’s data base, and to have
+a real-time control of their attendance by providing reports.
+This project works whit Geofences in Android SDK, has implemented a system for check in and check out
+depends  of  your  location,  the  geofences  have  a  center  with  coordinates  and  we  can  put  a  radio  for  the
+geofences works fine in the application.
+The application has been optimized to support different screen sizes of the same way they have handled the
+theme styles for the application as colors, images and resources
+
+Android Developer
+Sophitech  -  Ciudad de México, D. F. - March 2013 to December 2013
+
+Responsibilities
+
+In Sophitech company development diverse projects for different client, my role in these company included
+applications  mobile  design  and  development  for  diverse  client  public  and  private  sectors.  I  used  current
+technologies and different resources for the applications as different APIs and libraries for the projects.
+In the company learn to use various technologies, and the management of different APIs, this helped the
+projects were working as easy to develop and solve problems faster and with good results for client.
+<ed>
+EDUCATION
+
+Instituto Tecnologico de Tuxtla Gutierrez in Ing. en Sistemas Computacionales
+Instituto Tecnologico de Tuxtla Gutierrez  -  Tuxtla Gutiérrez, Chis.
+2008 to 2013
+<sk>
+SKILLS
+
+Programming Languages: Android, Java Databases: SQLite XML Technologies: XML and XSL Operative
+Systems: Android, iOS, Windows, MAC OS Office Tools: MS Office (Word, Excel, Power Point, Outlook)
+Design & Dev Tools: Balsamiq Mockups, Photoshop, Eclipse, NetBeans, Android SDK and TomCat. APIs:
+Facebook, Twitter, G+, Google Maps, Google Analytics, Google ADMob, Parse of Facebook, Foursquare.
+
+

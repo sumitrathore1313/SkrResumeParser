@@ -1,0 +1,160 @@
+<ba>
+Jeffin Sajan
+
+Android Developer - Philips
+
+Boston, MA - Email me on Indeed: indeed.com/r/Jeffin-Sajan/cbb0d700aa6d07df
+<su>
+• Around two years of experience in Android app development with Android SDK. •
+• • Experience in developing applications for android wear and tab.•
+• • Experience with Bluetooth Low Energy (BLE). •
+• Experience in interacting with RESTful web APIs and JSON. •
+• Made use of communication between common data between apps over network requests
+• using Retrofit and Volley. •
+• Worked with GSON and Jackson to parse the JSON •
+• Implemented SQLite database, Realm, SharedPreferences and Content Provider in
+application data management. •
+• Experience with LeakCanary in order to find memory leaks, optimize and
+improve the performance. •
+• Good Knowledge of Material Design including: RecyclerView, CardView, SnackBar,
+FABs, Navigation Drawer, ToolBar, etc. •
+
+• • Experience of working in Agile methodology.•
+• Adept at quickly to the new environment, new technologies and facing new challenges. •
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Philips - August 2016 to Present
+
+Project: Winston
+Description
+Winston  application  in  an  android  wear  based  project.  This  application  helps  to  evaluate  the  heart  rate,
+respiration rate and posture of patient. The application enables to pair a sensor to the
+patient and collects his/her vitals and sends it to the server using a bridge. And this bridge will sends
+the vitals to the back end. Whenever the vitals of a patient goes beyond the threshold value, the caretaker
+will be notified through the watch.
+
+Roles and responsibilities
+
+• Worked as a part of the team to define and implement solutions. •
+• Implemented Client Server Communication using REST API, JSON parsing to retrieve
+the data. •
+• Implemented broadcast receivers and services.•
+• Used advance networking, multithreading and image loading libraries for efficient
+• communication like Retrofit and Picasso. •
+• Utilized Jira as the issue tracking tool. •
+• • Used fragments and tabs to improve the navigation user experience •
+• Worked in the new design, gave a new look and feel in the app, applying styles and themes. •
+• Used the SQLiteOpenHelper to connect with the local database and perform CRUD
+
+operations. •
+• Implemented unit testing using Espresso.•
+• Used Code collaborator for code review•
+• • Used SonarQube for static code analysis•
+• • Debugged and tested the application on device. •
+• Resolved issues, fixed bugs and optimized the application •
+
+Project: SNF
+Description
+SNF is a mobile based application that helps to evaluate the heart rate of a patient in the hospital. It enables
+pairing a sensor to a patient and collects the heart rate, and sends it to the server.
+The server then evaluates the data and check if the heart rate is high. If the heart rate is more than
+120 for 20 seconds, it will notifications.
+Roles and responsibilities
+
+• Worked as a part of the team to define and implement solutions. •
+• Implemented Client Server Communication using REST API, JSON parsing to retrieve
+the data. •
+• Implemented FCM notification.•
+• • Utilized Jira as the issue tracking tool. •
+• • Used fragments and tabs to improve the navigation user experience •
+• Worked in the new design, gave a new look and feel in the app, applying styles and themes. •
+• • Debugged and tested the application on device. •
+• Resolved issues, fixed bugs and optimized the application •
+
+Project: KenSci
+Description
+KenSci application helps to evaluate the health of a patient out of hospital. It enables pairing
+a sensor to a patient and collects the heart rate, respiration rate, posture, step count every second and sends
+it to the server. The server then evaluates the data and sends a score back every 5 minutes
+between 0 and 100. Lower the health score, better the patient is.
+
+Roles and responsibilities
+
+• Worked as a part of the team to define and implement solutions. •
+• Implemented Client Server Communication using REST API, JSON parsing to retrieve
+the data. •
+• Used AsyncTask for multithreading•
+• Used broadcast receivers and services•
+• Utilized Jira as the issue tracking tool. •
+• • Used fragments and tabs to improve the navigation user experience •
+• Worked in the new design, gave a new look and feel in the app, applying styles and themes. •
+• Used the SQLiteOpenHelper to connect with the local database and perform CRUD
+• operations. •
+• • Debugged and tested the application on device. •
+• Resolved issues, fixed bugs and optimized the application •
+
+Android Developer
+WiSilica - June 2015 to June 2016
+
+Project: WiSe Connect
+https://play.google.com/store/apps/details?id=com.wisilica.Home&hl=en
+
+Description
+WiSe Connect enables devices to connect to the Internet of Things by using Bluetooth
+Low Energy (BLE) along with the mesh technology. Wisilica builds an array of Bluetooth Low
+Energy based smart devices ranging from lighting bulbs, switches, plugs and sensors having
+support for Bluetooth 4.1 as well as for Wireless Mesh technology. Irrespective of whether the user
+is sitting in his office or home, the WiseHome App provides the user with the flexibility to scan, and control
+devices both locally and remotely. Using WiseHome, the user can manage each device
+individually via cloud service with enhanced data security. With this App the user can scan for new
+devices, add them to a group and control single or multiple devices under a group.
+
+Roles and responsibilities
+
+• Worked as a part of the team to define and implement solutions to connect the devices to the Internet of
+Things by using the Bluetooth Low Energy (BLE) protocols. •
+• Implemented Client Server Communication using REST API, JSON parsing to retrieve
+the data. •
+• Used advance networking, multithreading and image loading libraries for efficient
+• communication like Volley and Picasso. •
+• • Utilized Crashlytics as the issue tracking tool. •
+• • Used LeakCanary in order to find memory leaks, optimize and improve the performance. •
+• • Used fragments and tabs to improve the navigation user experience •
+• Worked in the new design, gave a new look and feel in the app, applying styles and themes. •
+• Used the SQLiteOpenHelper to connect with the local database and perform CRUD
+• operations. •
+• • Debugged and tested the application on device. •
+• Resolved issues, fixed bugs and optimized the application •
+<ed>
+EDUCATION
+
+Bachelor of Engineering in Computer Science
+Rajagiri School of Engineering and Technology  -  Kochi, Kerala
+<sk>
+SKILLS
+
+Android (2 years), Bluetooth (1 year), JSON (2 years), REST (2 years), Retrofit (1 year)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+Languages: Android, Core Java, C, C++, SQL.
+IDE & Tools: Android Studio.
+
+Framework: Android SDK.
+
+Android Specifics: Android Studio, Fragment, Intents, Layouts, User interfaces, custom layout,
+Bluetooth Low Energy, Material Design, Recycler View, CardView, Camera, REST/JSON web
+
+services, JSON parsers like GSON and Jackson, Retrofit, Volley, Picasso, LeakCanary, Broadcast
+Receiver, Android data storage like Shared Preferences, SQLite, Realm, Content Providers, SD card.
+Databases: SQLite, Realm.
+
+Android versions: KitKat, Lollipop, Marshmallow.
+Android wear versions: Android wear 1.5, Android wear 2.0.
+
+

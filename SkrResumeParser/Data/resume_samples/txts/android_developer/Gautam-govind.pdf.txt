@@ -1,0 +1,231 @@
+<ba>
+Gautam govind
+
+Android Developer
+
+Philadelphia, PA - Email me on Indeed: indeed.com/r/Gautam-govind/430dd0e7636604cb
+<su>
+•  Over  8+  years  of  IT  experience,  with  5+  years  experience  in  Mobile  Applications  using  Android,  and
+experience in analysis, design and development on Java Technologies.
+• Experienced in different phases of software development life cycle (SDLC) like designing, programming,
+testing and meeting the requirements of the clients.
+• Extensive experience in design, development and deployment of Android Applications.
+• Proficient with Java, C++, Android SDK version Android 1.5 to Android 7 (Gingerbread, Honey comb, Ice
+cream sandwich, Jellybean, Kit Kat, Lollipop, Marshmallow, N) and Android NDK.
+• Expertise in developing applications for android operating system using Eclipse IDE, SQLite, Java, XML,
+Android SDK and ADT plug-in.
+•  Extensive  experience  in  building  mobile  applications  using  Android  framework  APIs  such  as  (Location,
+Camera, Animations, Maps)
+• Experience in developing applications using Social Networking APIs such as Facebook and Twitter.
+• Extensively worked with Android SDK and Eclipse IDE along with Android ADT plug in.
+• Hands on experience using media framework using Android API and skills like multimedia usage, video,
+sound and graphics, networking.
+• Worked with MOCKEY, an fake service manager which helps in running the app when the services are
+unavailable. Also for testing.
+• Also worked with the third party library "Flow and Mortar" frame work. Other than fragments.
+• Experience on Android UI components such as TextView, List View, Customized List View, Menus, Edit
+boxes,  Buttons,  Checkboxes,  Dialog  boxes,  Alert  boxes,  Action  bars,  and  Spinners  for  various  layouts  in
+Application development.
+• Expertise in developing applications for android operating system using Eclipse IDE, SQLite 3.6, Java1.6,
+XML, Android SDK 2.2 and ADT plug-in.
+• Expertise in Application development in IDE's like Eclipse Android SDK, Dreamweaver.
+• Experience in parsing the web response data in both XML and JSON format.
+• Experience in Developing Applications using Java, J2EE, Servlets, JSP, XML, Eclipse, JDBC, Web Services,
+AJAX, Oracle, MySQL, SQL, HTML, and CSS.
+• Experience in using SQLite Database for mobile data management, SQL SERVER database for web data
+management.
+• Experience with profiling, tuning, and optimizing Java applications.
+• Experience working with different operating systems like Windows and Linux.
+• Good understanding in Testing Mobile applications and bug tracking for the production team fixing.
+• Strong at problem solving and understanding new technical concepts quickly and produce meaningful results.
+•  Self-motivated  and  excellent  abilities  to  learn  new  languages  and  other  concepts  quickly,  excellent
+interpersonal skills and abilities to communicate with team players.
+Willing to relocate: Anywhere
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Synchronoss Technologies Inc  -  Philadelphia, PA - January 2016 to Present
+
+Responsibilities:
+• Working in a Joint venture Project with two different teams
+
+• Developed applications on a secure platform
+• Applications at enterprise level similar to Gmail, Drive and Chrome under a secure platform
+• Worked in an Agile Environment
+• Connecting with off-shore team for support on applications.
+• Moving closely with the QA team in bug fixing and Issue handling
+• Developed applications using Socket level connection.
+• Writing Unit test cases for each and every change in the code.
+• Used Life Boat as an alternate source for Analytics instead of Google or Splunk
+• Worked simultaneously on three different applications using a separate Framework under security
+• Enable applications Tablet layout (similar to the mail applications available in App store)
+• Formatting Notifications, Used Inbox style for grouping the notifications instead of spreading them throughout
+the status bar
+• Worked on Chromium build for the browser application
+•  Worked  on  third  party  libraries,  integrating  and  working  with  the  external  SDK's  for  better  product
+improvement.
+• Used GIT as version control for Source code.
+
+Environment: Android SDK, GIT, Agile Methodology, Life Boat, Eclipse, AVD shell commands.
+
+Android Developer
+JPMorgan Chase & Co  -  Columbus, OH - April 2015 to December 2015
+
+Responsibilities:
+• Involved in developing a Application which has Push Notifications enabled services.
+• Used GCM services for Push notifications.
+• Worked on a Third Party Library Flow & Mortar Framework with respect to Fragments.
+• Used Mockey as Fake Server for getting the response from the server side.
+• Worked with two different teams and quick analysis of the code.
+• Worked in an Agile based environment.
+• Worked Closely with the testing team and helped them with the integration of frame work and Installation
+Process for APPIUM Tool.
+• Animating the cards and their view when they flip and sorting of the merchants.
+• Worked with the services team in finding the solution and JSON content.
+• Handled many error scenarios in the way they happen and find a quick solution for the bugs.
+• Used JIRA for tracking the Issues and ALM (Application Life Cycle Management) for tracking server side
+issues.
+• Worked on Alert dialog boxes and JSON Parsing of the response from the server side.
+• Geo location for finding the nearby Chase ATM's and Banks.
+• Implemented content URL for getting the Agreements loaded from the web itself.
+• Worked on Recycler view for displaying merchant list and cards also offers.
+• Worked on overriding the talk back with content description for ADA ( Americans with Disability Act)
+• Followed Splunk as an analytics apart from Google analytics.
+
+Environment: Android SDK, GCM, C2DM, Appium, Flow and Mortar Frame work, Mockey, Google Maps, Web
+Services, AVD, DDMS, Google Analytics, Eclipse.
+
+Android Developer
+Mercedes Benz  -  Detroit, MI - May 2014 to March 2015
+
+Responsibilities:
+• Involved in Developed a multi-platform (Android and iOS) application.
+
+• Implemented Fragments on the main screen, On Click of each fragment takes to another tab.
+• Implemented List View, so as to show the different locations and maps as a form of list.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Worked closely with the testing team.
+• Worked in an Agile based environment.
+• Collaborated with web services team to implement the backend support.
+• Designed the web services to communicate with the Android application by using RESTful web services with
+the Spring API, and JSON Parsing for the received responses.
+• Designed and developed the request and response data to and from database.
+• Implemented SQLite databases to monitor shipments.
+• Implemented customized web view component to load an SWF file and HTML data.
+• Created test cases and test data for testing the application using JUnit Extensions.
+• Performed Unit testing on the various modules/functions to ensure that the output is as expected.
+• Used JIRA to track issues.
+Environment: Android SDK, Android NDK, iPhone SDK 4.x, SQLite, Oracle, AXIS 2, SOAP & REST Web
+Services, XML, Isgl3D.Eclipse IDE, DDMS, AVD, Android ICS Version, SMS, MMS and CMAS Eclipse IDE,
+Google Maps, SQLite Databases, JUnit, GPS Services
+
+Android Developer
+AARP  -  Washington, DC - May 2012 to April 2014
+
+Responsibilities:
+• Design inf XML Schemas for the application.
+• Developed Web Services clients using AXIS 2 framework.
+• Development of Front End (UI) using HTML/CSS, JavaScript, JQuery, SQL, Objective-C, iOS
+• SDK, HTML5/CSS3, PhoneGap, Flash MX 6.1, Macromedia Dream Weaver MX and performed
+Validations using Java Script and AJAX.
+• Developed Rich media management to streaming, video, and PDF
+• Developed 2D and 3D images using WebGL, WebCL
+• Developed High polished UI components
+• Development of server side layer using XML, XSD, SOAP, JAXB, JDBC, JMS, JDK, JNDI, EJB and DAO
+patterns using Eclipse IDE
+•  Extensively  involved  with  end  users  in  functional  discussions,  business  review  meetings,  requirements
+gathering. Worked with multiple technical teams for design and development SCRUM development.
+• Worked on SQL, SQLITE, Stored Procedures, Triggers, Inner vs. left join, Indexes/performance,
+• Batched SQL on Oracle
+• Involved in production support, monitoring server and error logs and Foreseeing the Potential
+• Issues, and escalating to the higher levels.
+Environment: Android SDK, Android NDK, SQLite, Oracle, AXIS 2, SOAP & REST Web Services, XML, Eclipse
+IDE, DDMS, AVD, Android ICS Version, SMS, MMS and CMAS, Html, HTML5, JavaScript, CSS3, JQuery,
+SQL, HTML5/CSS3, Flash MX 6.1, Macromedia Dream Weaver MX
+
+Android Developer
+Voxox  -  CA - February 2011 to March 2012
+
+Responsibilities:
+• I was involved in building the sip library and integrate with the app.
+• I was also involved in server iterations to make changes in client to adopt server changes.
+• Worked on single sign one implementation. I was involved in building co-branded apps.
+• Implemented Mix panel push notifications.
+• Worked on improving performance.
+
+• This application has more than 100, 000 downloads.
+• Integrated SIP Library with the Application.
+• Used Little Eye tool for analyzing the application.
+• Used GCM for push notifications from server.
+• Added support for In-App billing.
+• Single Sign-On Support for co-branded apps.
+• Involved in technical discussion with server to change the client to adopt server changes.
+• Involved in Scrums and Sprints for Day to Day activities.
+• Followed MVC (Model View Controller) for designing the applications.
+Environment: Java, Android SDK 4.2.2, 4.1.2, 4.0.3, 2.3.3, 2.2, 2.1, Eclipse IDE 3.5, SVN, Emulator, SQLite,
+GCM, Fragments, Mix panel, Espresso, Little Eye
+
+Android Developer
+Coca-Cola  -  Mumbai, Maharashtra - September 2009 to November 2010
+
+Responsibilities:
+• Designed the database model in MySQL.
+• Worked with the Android SDK, and implemented Android Bluetooth and Location Connectivity components.
+• Implemented Google Maps API v2 with forward and reverse geo-location.
+• Used SQLite to cache the data received from the RESTful web services.
+• Constructing http requests, fetching server response and parsing feeds wherever required.
+• Analysis of mobile application code for re-engineering.
+• Involved in requirement gathering and designing of the application.
+• Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Used logcat, DDMS (Dalvik Debug Monitor Server) and trace view for debugging and detecting memory
+leaks.
+• Implemented unique design for portrait and landscape mode.
+• Handling XML data using efficient parsing techniques such as DOM parser.
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+• Tested the application on various Android devices.
+Environment: Java, Android SDK, JRules, J2EE, Oracle WebLogic, JQuery, Ant, XML, CSS, cTests
+
+Java Developer
+Sunmarg Soft Tech - July 2007 to July 2009
+
+Responsibilities:
+• Involved in the project full development life cycle including requirements gathering, design, implementation,
+and its deployment.
+• Worked in the team to develop the application from specifications.
+• Enhanced the loans application to support the new client GE Money by analyzing the existing functionality.
+• Preparation of Functional Specification Document with cases representing the requirement.
+• Prepared the designing sequence diagrams, TDS (Technical design specification) for each process and class
+diagrams using UML/ Rational Rose.
+• Developed user interface modules using JSP/HTML/JavaScript using the MVC struts1.2.
+•  Simulated  API  interface  for  developing  and  test  environment  using  JMS,  MQSeries  by  designing  and
+implimenting API (Mainframe/AS400) Simulator.
+• Creation of Stored procedures and triggers in Oracle 9i, PL/SQL generate reports.
+• Packaged and deployed application on WebSphere Application Server and automated building process.
+
+• Written ANT scripts for the build and deployment of the application in Tomcat Server
+• Implemented framework classes to convert report data to be saved in Adobe Acrobat 7.0 documents format.
+Environment: Java, J2EE, Struts, JSP, JavaScript, HTML, XML, Oracle 9i, WebSphere Application server,
+RAD, JMS, MQ Series, Ant, Rational Rose, UML.
+<ed>
+EDUCATION
+
+B.Tech in Electronics & Communication Engineering
+JNTU  -  Hyderabad, Andhra Pradesh
+<sk>
+ADDITIONAL INFORMATION
+
+Software Tools Android SDK, Android NDK, Eclipse IDE 4.3, Android Studio, MS Office 2013, SVN and GIT,
+Appium.
+Languages C, C++, JAVA/J2EE, SQL, PL/SQL, PHP
+Web Technologies HTML, DHTML, CSS, AJAX, JQUERY, JSON, Javascript, Bootstrap, Angular.JS
+
+Methodologies Agile methodology, Waterfall model
+Data Management Oracle 10g/11g, MySQL 5.6, SQLite 3.8.5
+
+Operating Systems Windows, Linux, Mac
+
+

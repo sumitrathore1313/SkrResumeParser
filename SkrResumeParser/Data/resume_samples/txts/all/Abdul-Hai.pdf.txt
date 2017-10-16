@@ -1,0 +1,70 @@
+<ba>
+Abdul Hai
+
+Jodhpur, Rajasthan - Email me on Indeed: indeed.com/r/Abdul-Hai/be3a72ce3b0dc984
+<su>
+Improve constantly; promote innovations and flexibility for achieving organizational goals and set standards
+for others to emulate
+<we>
+WORK EXPERIENCE
+
+Fresher
+
+Twitter feeds Analytics
+JAQL-Hadoop
+Details:- Working on Twitter feeds JSON DATA analytics using JAQL Technics
+
+➢ Sales Data Analytics
+HIVE-Hadoop
+Details:- Working on Sales DATA (CSV Data) analytics using HIVE Technics
+
+➢ Max Temp. Finding
+MapReduce -Hadoop
+Details:- This project is used to find Max Temp of city using MapReduce Functionality
+
+Java Project Development.
+
+❖ IBM KVCH Noida (U.P.)
+Duration: 6 months.
+Experience: Big Data and Hadoop.
+<ed>
+EDUCATION
+
+M.C.A in Computer Science
+Lachoo Memorial College Of Science and Technology  -  Jodhpur, Rajasthan
+2017
+
+B.C.A in Computer Science
+Lachoo Memorial College Of Science and Technology  -  Jodhpur, Rajasthan
+2014
+<sk>
+SKILLS
+
+Jaql,Hive,Pig,Bigsql,sqoop and flume,map reduce,hdfs, java,xml,html,css,java script,jquery mobile (Less
+than 1 year)
+<ca>
+CERTIFICATIONS/LICENSES
+
+IBM Certification
+January 2017 to Present
+IBM Big Insights Hadoop, Android Studio, Eclipse , IBM_RSA
+
+BIG DATA Analytics Using IBM Biginsights Infospare, Android
+
+ADDITIONAL INFORMATION
+<sk>
+Software Packages IBM Big Insights Hadoop, Android Studio, Eclipse, IBM_RSA
+Programming Languages MapReduce, HDFS, Hive, Pig, JAQL, Sqoop and flume, BIG SQL Java, XML, HTML,
+CSS, Java Script, J-Query mobile
+Database Big SQL, IBM-DB2, MYSQL
+Familiar OS Android, Linux, Windows, Ios
+Familiar Technology BIG DATA Analytics Using IBM Biginsights Infospare, Android
+
+Personal Skills:
+❖ Easily co-ordinate with team members.
+❖ Ability to upgrade latest technology.
+❖ Good communication skill.
+❖ High Leadership Quality.
+❖ Good logical thinking & reasoning.
+
+

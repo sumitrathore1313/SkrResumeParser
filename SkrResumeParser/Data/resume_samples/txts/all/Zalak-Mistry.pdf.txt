@@ -1,0 +1,135 @@
+<ba>
+Zalak Mistry
+
+Web Developer
+
+Austin, TX - Email me on Indeed: indeed.com/r/Zalak-Mistry/6d92a8ecbf175323
+</ba>
+<su>
+Seeking an entry-level position as Front-End Developer and Software Engineer
+where I can apply my technical skills and contribute to the growth of the organization
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+IMEXResearch  -  Sanjose, CA, US - November 2016 to January 2017
+
+Developing website for IMEXResearch
+• Using HTML5, CSS3, JavaScript, Bootstrap for UI designs
+• Working on submaping of existing images of enewsletters
+Internship
+
+tryIt.com - September 2016 to December 2016
+
+Working on Spring MVC with STS tool
+• Using HTML5, CSS3, JavaScript and JSP Servlet for Front-End
+• For database connectivity working with Hibernate Java framework
+• Implementing upload photo feature
+• For checkout will going to use payment web API
+• Handling UI part and helping 3 team members for backend, testing and database parts
+
+Restaurant Menu - September 2015 to November 2016
+
+Designed  individual  class  project  for  restaurant  to  provide  information  to  their  customer  about  available
+beverages, contact information and reservation services of Restaurant
+• Used Java for back-end to design layout
+
+Used Selenium Web Driver
+Restaurant Menu - September 2015 to November 2016
+
+Sep, 2015-Nov, 2016)
+• Create and maintain database for online job portal for job seekers and recruiters
+• Worked in SQL with the contribution of four team members
+• Apply Aggregation functions, set operations, join queries and normalization process to maintain
+all the records
+
+Design and Develop a basic search scenario for yelp website
+• Used Selenium Web Driver
+• Worked in TestNG and Ruby both
+• Open an assigned Web Browser and maximize browser
+
+PROJECT LINKS
+JavaScript with OOPS Concept: http://zalakmistryhw10.herokuapp.com/
+Boot Strap with HTML5 and CSS3: http://zalakmistryhw9.herokuapp.com/
+Validation form in HTML5: http://validationsform.herokuapp.com/
+
+Github: https://github.com/zalakmistry/tryit.com.git
+LinkedIn Profile: https://www.linkedin.com/in/zalak-mistry-599842113
+
+Designer and configuration manager in the project team
+Brisbane School of Distance Education  -  Brisbane QLD - February 2012 to November 2012
+
+Brisbane, QLD, Australia(Feb, 2012-Nov, 2012)
+• Deigned a web-based tool for math teachers to take online quiz of multiple choice questions with 3 team
+members
+• Worked as a Designer and configuration manager in the project team
+• Designed a tool layout with CSS and HTML5 for front-end
+
+team member
+HighQ Solutions  -  Ahmedabad, Gujarat - February 2010 to May 2010
+
+Ahmedabad, India (Feb, 2010-May, 2010)
+• Deigned a web based service to book online flight tickets, hotels and travel packages with one
+team member
+• A website is able to maintain data of users about past and future travel booking information and personal
+information
+• A user can pay online with redirected link to the PayPal
+• The website was designed with HTML for front-end
+• Created database in SQL and ASP.NET(VB) for back end
+
+Santa Softech  -  Ahmedabad, Gujarat - March 2009 to May 2009
+
+A windows base system to get information about bus routes, ticket information and timings of bus updated
+by admin of the system
+• Designed a tool layout with HTML for front-end
+• Created database in SQL and ASP.NET (VB) for back end
+
+MASTER PROJECTS:
+</we>
+<ed>
+EDUCATION
+
+M S in Computer Science
+Northwestern Polytechnic University  -  Fremont, CA
+December 2016
+
+B E in Information Technology
+Griffith University
+December 2012
+
+Diploma in Information Technology
+Nirma University
+June 2010
+</ed>
+<sk>
+SKILLS
+
+HTML5 (2 years), DATABASE (1 year), JAVASCRIPT (1 year), SQL (1 year), FRONT END (1 year)
+</sk>
+<ba>
+LINKS
+
+http://zalakmistry.webs.com
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILL SET
+• UI Technologies: HTML5, CSS3, Bootstrap, JavaScript, AngularJS(Beginner)•
+• Programming Language: Java, Ruby(Beginner), swift(Beginner)•
+• Tools and Techniques: J2EE, JSP, Servlet, REST APIs, Web Services, JDBC, Spring MVC,
+Maven•
+• Testing Tools: Selenium WebDriver and IDE, JUnit, TestNG•
+• Databases: Oracle 11g, MySQL, PL/SQL, Hibernate•
+• IDE Tools: Eclipse, STS, Android SDK, NetBeans, XCode, Microsoft Visual Studio•
+• Operating System: Windows XP/Vista/7/8/10, Mac and Linux•
+
+COURSE WORK
+Web Front-end Programming for Mobile Devices, Web Services Techniques and REST
+Technologies, Software Quality Assurance and Test Automation, Advanced Database
+Design and Analysis, Java and Internet Applications, Mobile Applications on iPhone
+Platform, Mobile Computing for Android Mobile Devices
+</sk>
+

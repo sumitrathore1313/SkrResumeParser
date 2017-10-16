@@ -1,0 +1,35 @@
+Ravi Kamboj
+
+Software Developer
+
+Delhi, Delhi - Email me on Indeed: indeed.com/r/Ravi-Kamboj/c8db5f9c19392e72
+
+2.3 years of experience in web based application development on .NET technologies.
+- Proficient in analysis, designing and development of web based applications.
+
+WORK EXPERIENCE
+
+Software Developer
+Sapple System Pvt. Ltd - June 2010 to June 2010
+
+Jun 2010 onwards.
+Key Responsibilities:
+
+Web Application development
+- 2008 to 2008
+
+2008, AJAX, JQuery, JavaScript, Telerik.
+• Analyze and develop solutions/coding as per Development Guidelines.
+• Designing and maintaining SQL databases, tables, procedures and functions.
+• Development of classes & Core functions.
+
+EDUCATION
+
+MCA in Software Engineering, Coding/Debugging, and Performance Engineering
+Uttar Pradesh Technical University
+
+SKILLS
+
+c#, asp.net,c,c++,wcf,wpf,telrik controls,jquery,java script
+
+

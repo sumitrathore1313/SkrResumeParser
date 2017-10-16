@@ -1,0 +1,101 @@
+Jitendra Gadhwal
+
+Software Engineer
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Jitendra-Gadhwal/4ed6bfb8ed6faf33
+
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Software Engineer
+Hoodoo, Finnler Technologies Pvt. Ltd  -  New Delhi, Delhi - November 2015 to December 2016
+
+• Bitmap Image compressing using RGB Color Combination (keeping the Aspect Ratio fixed) and appropriate
+image rotation
+• Written an algorithm to reduced the image size to an extent for easy and efficient data
+transfer using JSON data format and reducing the load on server side
+• I have not completed whole app, I just stabilized the app by using above techniques
+(reducing load on main thread)
+
+Software Engineer
+Iron Play Technologies Pvt Ltd.  -  New Delhi, Delhi - May 2016 to July 2016
+
+• Designed and developed a Software as a Service (SaaS) product for company Engine Chief
+• Incorporated back-end of SAAS in NodeJs back-end script by using MySQL database and cloud hosting
+• Implemented SaaS product in a manner that can be scale-up in future & will manage user- base efficiently
+
+Software Developer
+Indria Labs Pvt. Ltd.  -  Delhi, Delhi - January 2016 to March 2016
+
+• Collaborated with team to develop mobile software for Delhi Police to keep track of all
+missing vehicles
+• Software is customized and easy to use for Delhi Police and will recognize number plates
+automatically with 70-80% accuracy with the help of in-build camera app
+• Connected with Delhi police's central database to get information for each registered
+number plate
+• Also created one another app (Indria Cam's Business App)
+
+Mobile and Web Application Developer
+Easyflaire, Easyflaire Pvt. Ltd  -  New Delhi, Delhi - December 2015 to January 2016
+
+• Devised Rental Platform to re-invent retail market by easy access to virtual wardrobe
+• Lead team of 3 to design & manage products on different platforms
+• Integrated mobile application in native Java handling Memory Leaks efficiently
+• Customized web application in Javascript with other wireframes: NodeJs, MySQL database,
+AngularJs, google analytics, crash reporting
+
+Mobile Application Developer
+VSolveX Technologies Pvt. Ltd  -  New Delhi, Delhi - May 2015 to July 2015
+
+• Designed and developed a "Mobile application" and website to relive user from their daily
+chores for Runner bee
+• Incorporated back-end of application in PHP back-end technology, MySQL database and
+AWS hosting with MD-5 Hashing encryption
+
+• Planned and executed the task with a team of 5 to boost company sales and market reach to an extent with
+the help of discount and reward/referral system
+• Implemented Client side UI in Java in collaboration with different Application 
+Programming Interface (API)
+
+B.Tech Thesis , Simulation using Machine Learning Approach: July, 2016 - Dec, 2016
+IIT Delhi  -  New Delhi, Delhi
+
+• Made a cross platform Graphical User Interface (GUI) application to collect data of various reactors for ML
+• Applied ML on this data to get the favourable condition for a given user case of reactor to enhance efficiency
+and productivity by reducing operating cost
+• Used SVM (Support vector Machine) and ANN (Artificial Neural Network) models
+
+EDUCATION
+
+Certificate in Chemical Engineering
+Indian Institute of Technology  -  Delhi, Delhi
+2013 to 2017
+
+Class XII in Krishna Vidya Mandir
+Senior Secondary School  -  Sikar, Rajasthan
+2011 to 2012
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+• Core Programming: C++, Java and Python
+• Web Development (front-end): HTML, CSS, Bootstrap, JavaScript and AngularJs
+• Web Development (back-end): NodeJs, Express, PHP, Laravel, Python, Django
+• Android Development (front-end): Java, XML and various API's for android
+• iOS Development (front-end): Swift and various API's for iOS
+• GUI Programming: Python (Tkinter)
+• Server/Cloud Hosting: Amazon Web Service (AWS) and Digital Ocean
+• Databases: MySQL, PostgreSQL, NoSQL and SQLite
+• Softwares: Android Studio, Photoshop, FileZilla, Putty, AutoCAD, MatLab and Xcode
+• Operating Systems: Linux (Ubuntu), Windows and Mac OS X
+
+POSITION OF RESPONSIBILITY
+Trips and Sports Executive Apr, 2014 - Mar, 2015
+Chemical Engineering Society, IIT Delhi
+• Organized Fresher's and Farewell Party for Department's freshers and Seniors
+• Coordinated events like Career Counselling workshop, Chem e-car event at Tryst, Industrial
+trip to IOCL, Panipat
+• Coordinated with the team to publish first ever Chemical Dept. Journal, ChemInsider
+
+

@@ -1,0 +1,143 @@
+Vijeet Meshram
+
+Java Programmer
+
+Pune, Maharashtra - Email me on Indeed: indeed.com/r/Vijeet-Meshram/6e222bf48a66d568
+
+•  A  result-oriented  professional  with  more  than  2+  years  of  experience  in  application  development  &
+enhancement, service delivery and client relationship management.
+• Sound knowledge of OOPS Concepts and Design Patterns.
+• Good exposure of Java, J2EE, and other related technologies.
+• Good experience of Web Development using JSP, Servlet, JavaScript, jQuery, Ajax, Spring, AngularJS.
+• Managing, maintaining and deploying websites and databases.
+• Good knowledge of DBMS.
+• Experience in SDLC and Agile development environment.
+• Working as a lecturer from last 3 years in IT and Computer Science Department.
+• Published technical books on Operating Systems & Compiler Construction.
+Willing to relocate to: Pune, Maharashtra
+
+WORK EXPERIENCE
+
+Assistant Professor
+Dr. Ambedkar College  -  Nagpur, Maharashtra - July 2015 to Present
+
+Nagpur
+
+Assistant Professor
+Kamla Nehru Mv  -  Nagpur, Maharashtra - July 2014 to April 2015
+
+Nagpur
+
+Application Developer
+Unique Technologies  -  Nagpur, Maharashtra - August 2011 to December 2013
+
+Nagpur
+
+Technical Skills
+Technologies: Java, J2EE, JDBC, JSP, Servlet, Spring.
+Scripting languages: Javascript, jQuery, Angular JS.
+Mark-up languages: HTML5, CSS3, Bootstrap.
+Web Hosting: Cpanel, FileZilla, Parallel Plesk
+Languages: C, C++, SQL, PL/SQL, VB 6.0, VB.NET, C#.NET, ASP.NET.
+Database Tools: ORACLE, MySQL, SQL Server, MS Access.
+
+EDUCATION
+
+Bachelor of Education in Education
+R.T.M Nagpur University  -  Nagpur, Maharashtra
+2014
+
+Master of Science in Computer Science
+R.T.M Nagpur University  -  Nagpur, Maharashtra
+2011
+
+Bachelor of Science in Computer Science
+R.T.M Nagpur University  -  Nagpur, Maharashtra
+2009
+
+Higher Secondary School
+2006
+
+Maharashtra State Board
+2004
+
+SKILLS
+
+.NET (2 years), DATABASE (2 years), J2EE (2 years), JAVA (2 years), JAVASCRIPT (2 years), Spring (2
+years)
+
+ADDITIONAL INFORMATION
+
+Operating Systems: Windows, LINUX and Macintosh.
+Web Server Package: XAMPP, WAMP
+Version Control: SVN, TortoiseHG, TortoiseSVN, Git
+IDE: NetBeans, Ellipse, PLSQL Developer, Sublime Text,
+Microsoft Visual Studio.
+
+Project Details
+
+Project: Inventory Management System Company: National Event Management & Décor
+Role: Software Developer Duration: August 2011 - May 2012
+Project Description: The software was made to manage the quantity of items in the company's
+warehouse. With the help of this software they could exactly get the items of decoration in hand and
+know the place where the items were being used.
+Technologies: Java, J2EE, Swing, MySql
+Responsibilities:
+• Requirement gathering
+• Requirement analysis
+• Designing and Developing Database
+• Designing search
+1. Project: www.redsusee.com Company: Redsusee
+Role: Web Developer Duration: May 2012 - September 2012
+Project Description: The website was made with the intention of giving military training to the
+interested students by Mr.Suseendranathan who is a retired officer from Indian military. The website
+could register students' interest on the website and provide all the information about the courses being
+conducted and the schedule of the same.
+Technologies: JSP, Servlets, HTML, CSS, MySQL
+Responsibilities:
+• Designing and developing database and pages.
+• Styling all pages.
+• Using Google Api.
+• Creating domain using WHM and uploading site using CPanel.
+• W3C validation
+
+2. Project: www.alchemgroups.com Company: Alchem Group
+Role: Lead Web Developer & Database Designer Duration: September 2012 - February 2013
+Project Description: The website provides details of each of their services including organisation of
+small events and job services. The webpages have a enquiry form on which the visitor can enquire about
+their services and even create a login through which they can upload their CV's.
+Technologies: JSP, Servlets, JQuery, MySQL, HTML
+Responsibilities:
+• Designing the registration page
+• Developing and designing database
+• E-mail functionality
+• Social network integration
+
+3. Project: www.srimatoshri.org Company: Srimatoshri Organisation
+Role: Lead Web Developer & Database Designer Duration: February 2013 - July 2013
+Project Description: The website provides information about the events organised by the organisation
+from time to time by the orphanage. Camps and visits planned by the organisation and online
+registration of the interested people, was also done within the website.
+Technologies: JSP, Servlets, MySQL, HTML, Javascript
+Responsibilities:
+• Search page design and development
+• CMS system for editing website content
+• Unit testing and front end testing
+• Feedback page development
+
+4. Project: www.sktechnology.co.in Company: S.K. Technologies
+Role: Lead Web Developer & Database Designer Duration: July 2013 - December 2013
+Project Description: The website provides details of the packages for hosting and developing websites
+Website also provides services for making custom made softwares.
+Technologies: JSP, Spring, MySQL, HTML, CSS, JQuery
+Responsibilities:
+• Requirement Analysis.
+• Designing Databases and project structure and flow.
+• Development.
+• Documentation.
+Books Published
+
+• Data Structures under the publication Central Techno Publications with ISBN - […]
+• Compiler Construction under the publication Central Techno Publications.
+
+

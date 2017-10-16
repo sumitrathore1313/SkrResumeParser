@@ -1,0 +1,183 @@
+<ba>
+Shruthi Gandham
+
+Android Developer - PayPal
+
+- Email me on Indeed: indeed.com/r/Shruthi-Gandham/ba60caed534fcf8f
+
+• Over 7 years of experience in the field of Software Development with result oriented approach.
+• Over 5 years of experience in Mobile Applications Development (Android based applications).
+• Experienced Android developer with strong understanding of Android applications.
+• Extensive knowledge in the application frameworks like Intents, Services, Activities, and Content Provider.
+• Hands-on experience in handling Android UI toolkit and Layout Managers.
+• Experienced with Debugger (DDMS), Device Manager (AVD).
+• Experience in using Menu Designs, Activity Workflow, Fragments, Controls and Loaders, and Action Bar
+Navigation.
+• Good experience in Android application development using Restful web services, JSON, Localization, SQLite,
+Location service.
+• Extensively worked on push notifications, multiple screen support, data offline usage, accounts and sync
+on Android.
+• Expertise in developing applications for Android operating system using Android Studio, Eclipse IDE, SQLite,
+Java/J2EE, and ADT plugins.
+• Experience in developing Applications using Java, Applet, Swing, Servlets, JSP, XML, Eclipse, JDBC, JDK,
+Java Script, MySQL, and CSS.
+• Hands-on experience in developing databases such as MySQL, SQLite
+• Knowledge in working with e-commerce applications
+• Experienced with complete Software Development Life Cycle (SDLC) process.
+• Good knowledge in working with Async task, Threads and Services in android
+• Experience in Agile, Scrum, and Waterfall methodologies
+• Experienced in deploying the mobile applications in play store
+• Experience in using web services like RESTful and SOAP
+• Good experience in version control tools such as GIT, BitBucket, and STASH
+• Able to work independently as well as in a team environment
+• Passionate to learn new technologies and can easily adapt to the changing needs
+• A hardworking person with excellent communication skills, interpersonal and problem solving skills
+<we>
+WORK EXPERIENCE
+
+Android Developer
+PayPal  -  San Jose, CA - October 2014 to Present
+
+Description: PayPal is an American company, which operates worldwide online payments. PayPal is one of
+the world famous Internet payment companies. It carries the tag "Pay smarter, Pay simpler, pay anywhere".
+PayPal is the safer way to pay online using the digital wallet. Our application helps to send and request money,
+manage accounts, shop and pay online.
+Link: https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile&hl=en
+Responsibilities
+• Used GPS service for searching nearby stores which accept the payments through PayPal
+• Included payment gateway for purchasing with encryption layers
+• Implemented navigation bar for faster communication
+• Integrated Google maps API for locating stores
+• Implemented expandable list view for displaying different features available in the app
+
+• Used shared preferences for login activity in the app
+• Features like send and request money helps the user to transfer the money between the friends instantly
+• Implemented a grid view to display various banking features available in the app
+• Implemented camera access for displaying or modifying profile picture
+• Created a broadcast receiver for popping up any notifications received
+• Used RESTful webservices to verify the credentials.
+Environment: Eclipse Android SDK, Android Studio, SQLite, Logcat, Shared preferences, lollypop material
+design, JSON, GPS service
+
+Android Application Developer
+Citi  -  Dallas, TX - February 2013 to August 2014
+
+Description:  Citi,  the  leading  global  bank,  provides  a  wide  range  of  financial  products  and  services  to
+customers, corporations, governments and institutions. Its services also include consumer banking and credit,
+corporate and investment banking, securities brokerage, transaction services, and wealth management. Citi
+Mobile® 7.3.1 is an enhanced version of our smart phone application which helps the consumer to login to
+their account and handle their transactions.
+Link: https://play.google.com/store/apps/details?id=com.citi.citimobile
+Responsibilities
+• Involved in redesigning and refactoring the existing code to improve the application performance
+• Designed the login activity with dynamic layouts and custom buttons.
+• Used Shared Preferences for login session and handlers for set timers.
+• Implemented RESTful Web Services to verify login credentials of the user.
+• Efficiently used Activity, Intents, fragments, services, Broadcast receivers, notifications and content-providers
+for building the app.
+• Designed and developed the user interfaces, Designed Dynamic UI with Fragments using Google Material
+design
+• Designed Custom buttons, Custom listviews, Gridview and Menus.
+• Used different layouts to design the UI
+• Designed and implemented database contract, database helper and provider classes to work with content
+providers.
+• Used services, Async tasks and Alert Notification API to implement event reminder feature into the mobile app
+• Integrated location based services using Google Maps API to display locations of different branches
+• Consumed RESTful web services and parsed JSON responses to provide content data to the app using the
+GSON library.
+• Used Android content providers for implementing features like sending E-mails, SMS, etc., from the app and
+designed suitable GUI for these applications
+• Stored data using SQLite database or shared preferences using open Helper classes.
+Environment:  Android  SDK,  Android  Framework  API,  Google  play  services,  Git,  Android  Studio,  SQLite,
+Logcat, Genny motion Emulator, Web Services, RESTful, Java, XML, JSON, lollypop material design
+
+Android Developer
+Walgreens  -  San Jose, CA - July 2011 to November 2012
+
+Description: Walgreens is one of the big firms in health industry dedicated to meet the needs of members.
+Developed an app that can be used by the customers to Refill Prescriptions, view orders, Locate Pharmacy,
+check prices and view pills at any time needed.
+
+Link: https://play.google.com/store/apps/details?id=com.usablenet.mobile.walgreen&hl=en
+Responsibilities
+• Participated in overall development activities including requirements elaboration, design and coding.
+
+• Implemented SOAP Web Services to verify login credentials of the user.
+• Worked with the concepts like Intents, Services.
+• Designed and developed the user interfaces, and Dynamic UI with fragments
+• Designed Custom buttons, Custom listviews, Gridview and Menus.
+• Designed and implemented database contract, database helper and provider classes to work with content
+providers and stored data in SQLite
+• Used services, Async tasks and Alert Notification API to implement event reminder feature into the mobile
+app.
+• Utilized the Picasso library for image downloading, caching and rendering to UI.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Tuned components for high performance and scalability using techniques such as caching, code optimization,
+and efficient memory management
+Environment: Android 5.0, Google Play Services, Java/J2ee, Agile Development, Git, Picasso, Parse Library,
+Android Studio, Logcat, SQLite.
+
+Java/Android Developer
+Siemens  -  Alpharetta, GA - January 2010 to April 2011
+
+Description:  Siemens  AG  Company  headquartered  in  Berlin  and  Munich.  The  principal  divisions  of  the
+company are Industry, Energy, Healthcare, and Infrastructure & Cities, which represent the main activities of
+the company. The company is a prominent maker of medical diagnostics equipment and its medical health-
+care division, which generates about 12 percent of the company's total sales, is its second-most profitable
+unit, after the industrial automation division.
+Responsibilities
+• Involved in developing a new tool using java servlets in Eclipse. This would help me out in creating all the
+respective options wherein we can connect from one functionality to another functionality that is inter servlet
+calls.
+• The functionalities of this tool involved adding, deleting, updating, bulk updating and bulk deleting of the
+users. All of these functionalities have been done using java servlets.
+• All the visual stuff was done using JavaScript.
+• Involved in the designing of Java Server Pages required for the application
+• Involved in the unit testing of the application
+• Implementing the business logic required for the application.
+• Developed JSPs and Servlets to dynamically generate HTML and display the data to the client side.
+• Extensively used JSP tag libraries.
+• Developed the code according to the functional specifications, detailed design, and coding and efficiency
+standards. Execute the unit test cases.
+• Developed Ant builds script and ant task classes to clean, compile, copy, run, and doc, deploy, jar, war and
+ear files, and develop web service.
+• Used JDBC API to access database
+Environment: HTML, CSS, JavaScript, JSP, CSS3, JQuery, AJAX, JSON, J2EE, Hibernate, J2EE 1.5, Tomcat
+6.0, Core Java, Eclipse IDE, XML.
+
+Web Developer
+Tripod Technologies  -  Hyderabad, Andhra Pradesh - June 2008 to November 2009
+
+Description: Tripod is a software development company which develops and delivers the required software's
+to its clients within the budget, time and produces the results that the business needs. It usually follows three
+stages namely Reveal phase, Render Phase, and Realize phase while developing and rendering the projects
+to its clients.
+Responsibilities
+
+• Analyzed, Designed and developed the system to meet the requirements of business users.
+•  Participated  in  the  design  review  of  the  application  to  come  up  with  UI  and  provide  best  possible
+Recommendations for the application from UI standpoint.
+• Implemented presentation tier using HTML, CSS by utilizing the mockups that were created by design team.
+• Developed screen functionality using HTML, CSS, JavaScript.
+• Used AJAX for implementing part of the functionality for Customer Registration, View Customer information
+modules.
+• Developed UI using JavaScript, HTML, CSS, JavaScript validations and XML.
+• Implemented interaction between frontend and backend using the JSON object.
+• Wrote Cross Browser code of CSS and JavaScript for Internet Explorer and Firefox.
+• Written CSS to provide table free layout to user interface screen.
+Environment: HTML, CSS, JavaScript, jQuery, AJAX, JSON, JAVA, J2EE.
+
+ADDITIONAL INFORMATION
+<sk>
+Technical Skills
+Frameworks Android SDK, Java, .Net
+
+Operating Systems Windows XP/ 7/ Vista, Mac OSX, Ubuntu, Linux
+Mark-Up Languages HTML, HTML 5, CSS
+Web Languages JavaScript, Jquery, JSON, RESTful webservices
+Development IDE's Eclipse/Android Studio, Visual Studio
+Databases SQLite, MySQL, Oracle,
+Web Servers Apache Tomcat 6.0 server
+Web Services SOAP, RESTFUL, JSON, XML
+
+

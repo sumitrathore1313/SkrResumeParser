@@ -1,0 +1,97 @@
+<ba>
+Kalyxthus Utsalo
+
+Android Developer
+
+Atlanta, GA - Email me on Indeed: indeed.com/r/Kalyxthus-Utsalo/489c88b58bc5101c
+<su>
+* 3 years of diverse experience in mobile software development.
+* 3 years of experience in Android application development with Android SDK.
+* Complete understanding of System Development Life Cycle (SDLC) for applications and understanding of
+business rules, highly experienced in Agile or Scrum software development methodology.
+* Adept at quickly adapting to new environments, new technologies and facing new challenges.
+* Hands on experience implementing multi-threading in Android using Asynchronous (Async) task, thread and
+handler and communicating with the UI Thread.
+* Understanding of Object-Oriented design pattern and successfully implemented the concepts in Android.
+*  Strived  for  elegance  and  simplicity  in  code  while  focusing  on  scalability,  readability  and  standards
+compliance.
+* Experienced in Object Oriented Programming concepts and implementation using Java.
+* Knowledge of Android app components
+* Good team player, good design skills and excellent learning skills.
+* Extensive knowledge designing and developing adaptive UI components for Android phones with different
+screen resolutions.
+* Experienced in integrating Google API's and other third party API's such as OkHttp API.
+* Experience designing custom UI based on wire-frames in xml, worked with Activities, fragments, custom
+layouts (using relative layout, linear layout, Frame layout, Grid Layout, Table Layout), custom themes, list
+views, widgets, action bars, animation, dialogs and notifications.
+* Hands on experience debugging an app in android studio.
+* Hands on experience creating and consuming REST based web services.
+* Hands on experience with parsing JSON data.
+* Excellent debugging and problem solving skills.
+* Knowledgeable of SVN and code reviews using Github.
+* Multitask - oriented with strong competitive drive and work ethic to succeed.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+GrubMarket  -  San Francisco, CA - January 2015 to January 2017
+
+Description:
+GrubMarket is a mobile application developed to order local farms product in the Bay Area and nationwide.
+Responsibilities:
+* Responsible for developing Android Activities, Fragments and display modes.
+* Implemented web views, list views & populated lists to display the lists from database using simple adapters.
+* Responsible for designing the user screens with Android UI design (including custom views).
+* Worked with ButterKnife, Font Awesome, Gson.
+* Handle network call with OKHTTP and parse data using GSON Library.
+* Implemented CardViews and RecyclerViews
+* Customized views and layouts
+* Worked closely with designing the design team in getting the screens, app icons and image assets.
+
+* Implemented customized web view component to load HTML data.
+* Responsible for working with REST Web services and JSON data parsing
+
+* Environment: Android SDK, Android Studio, JSON, Restful API.
+
+Project Link: https://play.google.com/store/apps/details?id=com.grubmarket
+
+Android Developer
+The TechEdge Group, GA - February 2014 to November 2014
+
+Responsibilities:
+* Developed Android Activities, Fragments and display modes.
+* Designing the user screens with Android UI design (including custom views).
+* Implemented web views, list views & populated lists to display the lists from database using simple adapters.
+* Handle network call with OKHTTP and parse data using GSON Library.
+* Worked with ButterKnife, Font Awesome, Gson.
+
+* Environment: Android SDK, Android Studio, JSON, Restful API.
+<ed>
+EDUCATION
+
+Bachelor of Science in Computer Science
+Covenant University
+2013
+<sk>
+SKILLS
+
+ANDROID (2 years), ANDROID SDK (2 years), HTML (2 years), FRAMEWORKS (Less than 1 year), JAVA
+(Less than 1 year), JDK (Less than 1 year), MS OFFICE (Less than 1 year)
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.grubmarket
+
+ADDITIONAL INFORMATION
+<sk>
+SOFTWARE SKILLS
+
+Languages: Java
+Frameworks: Android SDK, Java Development Kit (JDK), C standard Library.
+Web Technologies: HTML 5
+Development & Testing Tools: Android Studio, MS Office.
+IDEs: Android Studio, IntelliJ
+
+

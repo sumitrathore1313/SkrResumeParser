@@ -1,0 +1,147 @@
+<ba>
+Yang Lu
+
+Android Mobile Development
+
+Carlisle, PA - Email me on Indeed: indeed.com/r/Yang-Lu/baca22d037cd99a9
+<su>
+• 5 years of excellent IT experience with 4 years of Android application development
+• Experienced s in several android platform, such as: […]
+•  Full  software  development  lifecycle  experiences,  including  requirement  analysis,  development,  testing,
+debugging and support.
+• Familiar with MVC design pattern and web services
+• Experience in Agile development methodology, practice in unit testing and work with QA to make codes
+stylized and better
+• Creation of apps with both phone and tablet support
+• Familiar with UI components including GridView, ListView, ViewPager, BaseAdapters, Fragments, Spinner,
+GoogleMaps
+• Animations of UI components
+• Taking pictures from cameras, having them saved asynchronously on external storage.
+• Management of data: Shared Preferences, SQLite, internal and external storage.
+• Experience in collecting data with hardware sensors such as:gyroscope, light sensor, acceleration sensor,
+tilt detection and orientation sensor, etc.
+• Explicit intents for interactions among activities, sharing data, and implicit intent for browsing, making phone
+calls
+• Proficient in JSON parsing. Experiences in themoviedb.org and Yelp web API JSON parsing.
+• Notification and alarm management in Services and via Broadcast Receiver.
+• Proficient with ContentProviders for interactions with databases, and as a data source for other apps
+• Version control with Git management.
+• Good communications skills and cooperation with colleagues and managers.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+LivingBetter FirstTek - March 2015 to Present
+
+This application helps users improve his daily life quality by recommending options on food, entertainment,
+and shopping locally. Through one-click, the activity selected will be added to a to-do list. The to-do list alone
+also works to help users with time management. After activity added to the to-do list, simple financial analysis
+will be displayed to the user for budget management.
+• Clean login panel and sign up capability
+• Left drawer to select among the three components: Search, ToDoList, and Finance
+• Asynchronous JSON parsing from API of Yelp for recommended items.
+• Custom GridView, Tab menu (food, entertainment and shopping) for displaying recommended items.
+• Database support for Login, ToDoList and Finance
+• Sort recommended items by rating, distance when searching.
+• Good map support for details of recommended items.
+• Pie chart or barchart support for financial analysis
+Environment: Android 6.0Marshmallow, API level 23
+
+Android Developer
+Popular Movies FirstTek - July 2014 to February 2015
+
+This application recommends users with the top most populous or highest rating movies, with details displayed
+by a simple touch. Movies can be marked as favorite, and favorite movies can be displayed only.
+• Aimed at recommending movies
+• Asynchronous JSON parsing from API of themoviedb.org.
+• Menus options of sorting movies by popularity or voting.
+• Parsed movies information saved to database via Content Provider, with custom helper methods.
+• Three tables created constrained with foreign key: movie Id
+• Movie trailer URL can be opened and shared via Intent Chooser.
+• Both Tablet and phone are supported
+• Phone support: two Activities, one for general display in a GridView, and the other for details
+• Tablet support: two fragments, one for general display in a GridView, and the other for details
+• Custom models of movie, movie review, movie trailer, and custom adapters of GridView and ListView
+• Shared Preferences and database support for favorite status of a movie
+Environment: Android 5.0 Lollipop
+
+Android Developer
+ToDoList FirstTek - December 2013 to May 2014
+
+This application helps users organize what to do. Users can choose to display to-do items sorted by deadline,
+priority, title or created time and date. Click items to edit, and long click them to mark them as completed or
+deletion. Different animations and colors are applied according to status of to-do items.
+• Two kinds of to-do item built with 2 kinds of to-do item model: a simple one and detailed one
+• Simple to-do items contain properties: id, title, time created
+• Detailed to-do items contain properties: id, title, time created, deadline, priority, description. Color of title bar
+will be changed according to priority selected.
+• Date and Time picker for deadline input, and spinner for priority options (1-10).
+• All to-do items displayed in a ListView, on which long press will pop up an alert dialog box for "marked as
+complete" and "delete"
+• To-do items marked as complete will be green and automatically moved to the end of the list
+• Four fragments used to display complete/incomplete detailed/simple to-do items
+• Menu options include:
+• Display: with animations, complete, incomplete detailed/simple to-do items only, and all
+• Sort: by popularity, voting, title, and deadline. Default by DESC. Selected twice for ASC
+• Alarm management for the deadline: via onReceive() handler on IntentService
+• Database management via ContentProvider (insert, delete, query, and update), and also via custom helper
+methods
+• Custom TextView with custom drawable xml file.
+Environment: Android 4.4 KitKat
+
+Android Developer
+BeverlyHillsFirstTek  -  Los Angeles, CA - May 2013 to November 2013
+
+Government of Los Angeles
+This application help tourists in LA get familiar with Beverly Hills, even before actually going there. Events of
+Beverly Hills are updated timely and organized monthly, so that tourist won't miss one with such an app.
+• Help tourists explore Beverly Hills in their mobiles and tablets.
+• Asynchronous downloading pictures
+• ListView for different menu options
+• Both phone and tablet support.
+
+• SeachView to search events with specific keywords
+• TableLayout for future events in a calendar
+• Tab menu for 12 months. Left drawer to display event names.
+• Google map support based on event location
+• Agile development.
+• Suggest use of Fragments instead of Activity to meet flexible UI requirements.
+Environment: Android 4.4 KitKat
+
+Android Developer
+Alphabet FirstTek - July 2012 to March 2013
+
+This application helps users quickly learn alphabets of 11 different languages, and works as a dictionary for
+language enthusiasts for further review.
+• The app composed of four parts: Learning, Test, Review and ScoreBoard
+• Custom left drawer (and adapter of ImageView for national flag and TextView for language names in native)
+for 11 languages alphabet options
+• Menu options for Uppercase and Lowercase letters displayed on GridViews.
+• onClick() event of every alphabet to trigger pronunciation (sound file played in service) and animations (for
+strokes in sequence)
+• onItem LongClick() event of every alphabet to mark that letter as favorite, for later Review use
+Environment: Android 4.3 Jelly Bean
+
+Web Applications:
+WASPEC training on C# and MVC design pattern 05/2011 ~ 01/2012
+This website will introduce Chinese top 10 tea of all time and sell different brands of them at the same (mock).
+Building small shopping websites on China tea store using MVC design pattern in C#
+• Apply dependency injection, Inversion of Control
+• Use Linq for SQL Server database management
+• Combine partial views to render Views
+• Email confirmations for each newly made orders
+• Admin control - Edit, Delete, Create, Image Upload - of different tea
+• Using Online Visual Studio for cooperation with teammates and version control
+Environment: ASP.NET MVC 4.0
+<sk>
+SKILLS
+
+Android
+
+ADDITIONAL INFORMATION
+
+Skills: Android, Java, Git, C#, jQuery, HTML, CSS (Bootstrap), SQLite, SQL
+
+

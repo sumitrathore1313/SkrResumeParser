@@ -1,0 +1,62 @@
+<ba>
+Sandhya Naiku
+
+Pune, Maharashtra - Email me on Indeed: indeed.com/r/Sandhya-Naiku/1294b97680256d0c
+<su>
+To learn and function effectively in an organization and be able to deliver to the bottom-line. To constantly
+upgrade my knowledge and skills and make a difference in whatever I do.
+<we>
+WORK EXPERIENCE
+
+Fresher
+- July 2017 to Present
+
+• Work in Maharashtra YMCA School, Pune as computer teacher.
+<sk>
+TECHNICAL DETAILS
+
+Programming Language: C, C++, VB, Java
+Operation System: Windows XP, Windows 7
+Database: Mysql
+Web Technologies: PHP, jQuery and HTML
+Others: Eclipse, Manual Testing, SDLC.
+PROJECT DETAILS
+<pr>
+Project Title "Petrol Pump Inventory System "
+Technologies Used Java, JSP, Javascript, CSS, MYSQL 5.6
+Software Used Eclipse
+Duration 6 Months
+Team Size 2
+Responsibilities Requirement Analysis, Designing, , Development, Documentation, Testing
+Project Details
+The project gives the detail inventory about Petrol pump. System are stored using MYSQL. .The inventory
+reports are generated daily.It also keep record of employee attendance.
+<ed>
+EDUCATION
+
+Msc in computer science
+Pune University  -  Pune, Maharashtra
+May 2016
+
+Bsc in computer science
+Pune University  -  Pune, Maharashtra
+April 2012
+
+HSC
+Maharashtra Board
+February 2009
+
+SSC
+Maharashtra Board
+March 2007
+
+YEAR OF PASSING
+
+UNIVERSITY / BOARD
+<ca>
+CERTIFICATIONS/LICENSES
+
+anroid
+August 2012 to Present
+
+

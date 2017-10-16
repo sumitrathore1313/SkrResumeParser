@@ -1,0 +1,91 @@
+<ba>
+Roberto Mejia
+
+Web Developer
+
+Houston, TX - Email me on Indeed: indeed.com/r/Roberto-Mejia/14a5f011b2048af7
+</ba>
+<su>
+Driven Full-stack web developer with expertise in creating and managing websites with a focus on good coding
+standards, responsiveness, conversion optimization, SEO, user experience, and speed optimization. Quick
+learner and committed scholar with strong leadership qualities with a passion to help the company succeed.
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+EVgo Services  -  Houston, TX - November 2016 to Present
+
+Developed websites, one-page applications, and web based tools to improve current web assets. Worked on
+projects to improve conversion optimization, performance, analytics tracking, and user experience.
+
+Director of Technology
+Bonafide  -  Houston, TX - January 2013 to Present
+
+Acted  as  web  developer,  project  manager,  and  SEO  expert  for  an  Internet  marketing  agency.  Developed
+websites,  Maintained  and  updated  websites,  web  apps,  managed  all  website  builds,  focusing  on  SEO,
+conversion optimization, content strategy, and user experience. Helped with SEO and other inbound marketing
+techniques as needed.
+
+Owner
+Purple Frog Enterprises  -  Corpus Christi, TX - August 2010 to Present
+
+Managed a successful web development and Internet marketing business. Provided web development, app
+development, web design, UX, conversion optimization. Provided on-going support for site analytics, SEO,
+content strategy, and other inbound marketing techniques to meet business goals.
+Selected Contributions:
+• Mastered inbound marketing including SEO, content, SEM, and conversion strategies to generate traffic and
+sales to SeikoWatchesUSA.com, an e-commerce website with over 3000 pages and consistent growth trends.
+• Developed and managed SEO, link building, and content strategies to generate traffic and link authority.
+• Tested and improved conversion strategies on search engine results and on product pages to increase sales
+• Designed site architecture to ensure best user experience while maintaining an easy to crawl linking structure.
+• Created and managed PPC campaigns with minimal budget optimizing for cost per click to increase profits.
+• Managed all aspects of running an online business including finances, marketing, and website development.
+• Created and manages several websites including a small blog network to generate link authority and traffic.
+
+Web Developer
+DEALERWEBB  -  Houston, TX - January 2015 to June 2016
+
+Developed  modern,  responsive  websites  in  the  automotive  industry  using  cutting  edge  technologies  while
+focusing on speed optimization, SEO, browser compatibility, and conversion optimization. Built widgets and
+web apps, using APIs and our own proprietary automotive system.
+</we>
+<ed>
+EDUCATION
+
+Business Management
+
+University of Phoenix
+2008 to Present
+
+Associate of Arts in Business
+Axia College
+2008 to 2010
+
+Computer Science
+University of Houston  -  Houston, TX
+1999 to 2004
+</ed>
+<sk>
+SKILLS
+
+PHP, JavaScript, Python, jQuery, Angular, MySQL, SQLite HTML5, CSS3. SEO, User Experience, Project
+Management (9 years)
+
+ADDITIONAL INFORMATION
+
+• Full-Stack Web Development
+• Conversion Optimization
+• CSS3, HTML5, Bootstrap
+• JavaScript, jQuery, AJAX, Angular
+• PHP, ASP.NET, C#
+• Ecommerce, CTR optimization
+• Search Engine Optimization (SEO)
+• User Experience (UX)
+• MySQL, MS-SQL
+• Management & Leadership
+• Speed Optimization
+• Project Management
+</sk>
+

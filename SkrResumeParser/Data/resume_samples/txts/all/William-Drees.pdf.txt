@@ -1,0 +1,180 @@
+<ba>
+William Drees
+
+Web Developer
+
+Orlando, FL - Email me on Indeed: indeed.com/r/William-Drees/9fd6512ac4136b4d
+</ba>
+<su>
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Web On The Run  -  Orlando, FL - May 2015 to Present
+
+Accomplishments
+Have you ever dreamed of playing a real life version of Mario Kart? We developed a fun and interactive version
+called Web on the Run. Using remote control cars enhanced with impact sensors and infrared technology,
+allowing you to disrupt racers and use power-ups. Just like in Mario Kart. Implementing various technologies
+and  utilizing  the  Internet  Of  Things,  we  were  able  to  create  a  truly  one  of  a  kind  experience,  with  highly
+competitive  capabilities  that  include  displaying  scores,  lap  numbers,  health,  damage  and  even  predictive
+probabilities of obtaining a victory.
+
+Skills Used
+Arduino, HTML5, CSS, AngularJS, nodeJS, and many others.
+
+Developed by: Steve Drees, Chris Lynch, Victor Cabieles, Jonathan Ortiz
+
+Web Developer
+Project Atom  -  Boca Raton, FL - November 2015 to November 2015
+
+Responsibilities
+Codeday Boca is a 24-hour event where students get together and build cool things together! You pitch ideas,
+form teams, and build a cool app or game in 24 hours!
+
+We developed a web application that allows you to put together different elemental compounds, along with
+earn "molecules" (aka points) with a game play that teaches you how to make different compounds.
+
+Accomplishments
+1st Place - Top Overall
+
+Skills Used
+AngularJS, HTML5, CSS3, Firebase, Express, nodeJS, Adobe Photoshop, Adobe Illustrator, and many more...
+
+Web Developer
+Project Unknown  -  Orlando, FL - April 2015 to April 2015
+
+Responsibilities
+Create data aggregators and visualizations of asteroid data in meaningful ways that can educate the public
+about  the  need  to  explore  asteroids  and  protect  the  Earth  from  them.  Extract  data  from  existing  asteroid
+databases and create clear, beautiful visualizations with them to show the power of asteroid exploration. You
+can develop code that establishes connections to asteroid data sources, create data visualizers that translate
+retrieved asteroid data into meaningful plots or presentations; and integrate the communications and data
+visualization code into an interactive educational website.
+
+Accomplishments
+With a database containing over 600,000 records of orbital elements, that contain headings, and information
+that may be difficult to read, and interpret. We have added the data into a non-relational database that can
+parse and give us greater querying capabilities. We created the closest NEAs scaled down to a 1:275,000km,
+starting from the closest and moving to the furthest NEA. Also with administrative capability to modify all of
+the data inserted and exported out of the database. An administrative CMS system was added later on in
+development for updates on all 600,000+ records.
+
+Skills Used
+nodeJS, Express, AngularJS, HTML, JavaScript, SASS, MongoDB
+
+Developed by: Steve Drees, Chris Lynch, Victor Cabieles, Jonathan Ortiz
+
+Web Developer
+Work Overload  -  Orlando, FL - January 2015 to January 2015
+
+Accomplishments
+We created a web based application called Work Overload which is a fast paced hand-eye coordination game
+where you are given specific instructions every step of the way in which you may have to match color with color,
+word with color, or word with word. You can share the link with as many friends as you like so you can compete
+against each other for a high score. It’s fun and exciting!! Simply register with your Google account and Login.
+Then send the link to your friend and Play Now!! You have 48 hours to get the highest score. Ready, Set, Play!
+
+Developed by: Steve Drees, Chris Lynch, Victor Cabieles, Donald Page
+
+Skills Used
+HTML5, CSS, Javascript, Git, AngularJS
+
+Developed by: Steve Drees, Chris Lynch, Victor Cabieles, Donald Page
+
+Personnel Administration Clerk
+United States Marine Corps  -  Parris Island, SC - December 2001 to December 2009
+
+Implemented new concepts and modified programs to exceed traditional perceptions, and meet diverse needs
+• Planned, directed, and coordinated supportive services of the organization: recordkeeping, mail distribution,
+telephone reception and other office support services
+• Proficient at scheduling, time management, and organization
+•  Knowledge  of  administrative  and  clerical  procedures  and  systems:  word  processing,  managing  files  and
+records, designing forms, and other office procedures and terminology
+• Knowledge of the structure and content of the English language including the meaning and spelling of words,
+rules of composition, and grammar
+• Knowledge of basic economic and accounting principles and practices, and reporting of financial data
+
+Information Systems Coordinator
+United States Marine Corps  -  Parris Island, SC - December 2001 to December 2009
+
+Served as liaison between the Networking Company and the computer users to ensure hardware/software
+was being used properly
+• Made sure all computers were upgraded per the Networking Company's request
+• Helped resolve computer questions, errors, and network connectivity problems
+
+• Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software,
+including applications and programming
+
+Terminal Area Security Officer
+Marine Corps-wide database  -  Parris Island, SC - December 2001 to December 2009
+
+Ensured that all personnel were equipped with the proper permissions to view their junior members' information
+on the Marine Corps-wide database
+• Updated personnel permissions in the Marine Corps-wide database
+• Served as liaison between Headquarters Marine Corps and the Marine Corps-wide database users to ensure
+proper permissions were granted
+</we>
+<ed>
+EDUCATION
+
+Web Design and Development in The Web Design & Develpment degree covers both
+front end and back end development
+Full Sail University  -  Winter Park, FL
+2013 to 2016
+
+Associate of Arts in General Studies
+Lake-Sumter Community College  -  Leesburg, FL
+2009 to 2011
+</ed>
+<sk>
+SKILLS
+
+PHP (2 years), nodeJS (2 years), Html5 (3 years), CSS (3 years), Javascript (3 years), MySQL (2 years),
+Microsoft Office (10+ years), Python (3 years), MongoDb (2 years), JQuery (3 years), Adobe Photoshop (2
+years), Adobe Illustrator (2 years), Web Design (3 years), Web Development (3 years)
+</sk>
+<ba>
+LINKS
+
+http://stevedrees@website.com
+</ba>
+<ex>
+MILITARY SERVICE
+
+Service Country: US
+Branch: United States Marine Corps
+Rank: Corporal
+December 2001 to December 2009
+</ex>
+<ca>
+AWARDS
+
+International Space Apps Challenge - 2nd Place
+April 2015
+The International Space Apps Challenge is an international mass collaboration focused on space exploration
+that takes place over 48-hours in cities around the world. The event embraces collaborative problem solving
+with a goal of producing relevant open-source solutions to address global needs applicable to both life on
+Earth and life in space. This year we have over 25 challenges in four areas: Earth, Outer Space, Humans and
+Robotics. NASA is leading this global collaboration along with a number of government collaborators and over
+100 local organizing teams across the globe.
+
+International Space Apps Challenge - People's Choice
+April 2015
+Created data aggregators and visualizations of asteroid data in meaningful ways that can educate the public
+about  the  need  to  explore  asteroids  and  protect  the  Earth  from  them.  Extract  data  from  existing  asteroid
+databases and create clear, beautiful visualizations with them to show the power of asteroid exploration. You
+can develop code that establishes connections to asteroid data sources, create data visualizers that translate
+retrieved asteroid data into meaningful plots or presentations; and integrate the communications and data
+visualization code into an interactive educational website.
+
+Top Overall - Codeday Boca Raton
+November 2015
+It's a 24-hour event where students get together and build cool things together! You pitch ideas, form teams,
+and build a cool app or game in 24 hours!
+</ca>
+
+
+

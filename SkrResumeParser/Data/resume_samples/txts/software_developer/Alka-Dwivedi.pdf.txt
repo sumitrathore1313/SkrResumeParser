@@ -1,0 +1,149 @@
+Alka Dwivedi
+
+- Email me on Indeed: indeed.com/r/Alka-Dwivedi/6ff5b22eaeae8b91
+
+• 2.5 Years of Professional experience in Application Development & Web Development.
+• Recently working in India Document Solutions Pvt.Ltd, Noida
+• Strong knowledge of ASP.NET with C# and SQL Server 2005, 2008, ADO.Net Reporting (RDLC & Crystal
+Report)
+• Strong Knowledge of Java Technology and java script
+• Strong knowledge in MS-SQL Server 2005, 2008 Database Development like writing Stored Procedures,
+Triggers, Views and other database object.
+• I am good team player and having ability to work in a team or individual environment.
+• Have strong sense of urgency to set and meet aggressive goals and objective.
+• Has the motivation to take independent responsibility as well as ability to contribute and be a productive
+team member.
+
+WORK EXPERIENCE
+
+Software Developer
+Girnar Soft Technoligies  -  Noida, Uttar Pradesh - January 2012 to August 2012
+
+Jan2012 - Aug 2012)
+GirnarSoft is a business value focused IT company working on offshore products and outsourced software
+development. Its emphasis is to create business value for its clients through innovations and their speedy
+implementations. GirnarSoft, founded in 2007, is an ISO 9001 certified company. It is being run by alumnus
+of IITs & IIMs, the most premier educational and professional institutes in India, who have over 12 years of
+software development experience.
+
+Project: -
+Event Dekho.com
+
+Tools: [ASP.Net, C#, SQL Server 2005, Java Script, HTML].
+Team Size: 6
+Role: Involved in design and coding.
+
+Event Dekho Portal is a web portal. This web portal is developed to establish the communication between
+customer and the partners. And one main thing is that to remove the paper work. By this portal a customer or
+end user of this portal can easily identified the resources and their budget of the event.
+
+AMS (Appriasal Management System)
+Tools: [ASP.Net, C#, SQL Server 2005, Java Script, HTML].
+Team Size: 3
+Role: Involved in design and coding.
+
+AMS is also a java project. I had worked in it on many modules as a Team member. It is an in in-house desktop
+application to calculate the productivity of an employee so that higher authorities can make decisions regarding
+appraisal of the employees.
+
+Web Developer
+Varchasva Technologies Pvt. Ltd  -  Jaipur, Rajasthan - January 2010 to January 2012
+
+Varchasva Technologies Pvt. Ltd. previously known as VarchasvaTechnologies is a leading Internet brand
+with a significant presence in all major verticals including Jobs, Social Networking, Business Directories, Video
+Sharing, Classifieds, etc. Varchasva Technologies was founded in year 2008 and we renovate ourselves into
+Varchasva Technologies Pvt. Ltd. in year 2010
+
+Project: -
+Online Shopping Site
+Tools: [ASP.Net, C#, ADO.Net, SQL Server 2005, Java Script, HTML]
+Team Size: 3
+Role: Involved in Requirement analysis, Design and coding
+
+The website is basically designed for E-shopping. It gives us complete information of the E-shopping. It is
+designed and developed for buying products of famous brands through internet. The products are divided into
+categories so that searching becomes easy. You can order a product using this Website for yourself. Various
+types of products are available at very reasonable cost. Online Shopping Site is an online platform where you
+can buy customized and personalize products. The main objective of the website is to make the process of
+online shopping easy and user friendly.
+
+Biodata Management System
+Tools: [ASP.Net, C#, ADO.Net, SQL Server 2005, Java Script, HTML]
+Team Size: 3
+Role: Involved in Requirement analysis, Design and coding
+The software is simple and Biodata Management system with all the basic functions necessary for a company
+and has a direct approach and thereby this reduces the efforts of the person desiring/requiring the information.
+The system is ready to function properly full access to all the records and information is available to use. The
+system is providing these basic facilities to the employee:-
+Raj Tours and Travels.com
+Tools: [Java Script, HTML Using Dreamweaver]
+Team Size: 3
+Role: Involved in Requirement analysis, Design and coding
+
+rajtourtravels.com is a website through which users can plan their holidays as per their specifications. This
+website not only suggests tour, also give the complete cost detail for particular package. The system will be a
+web-based solution that can provide easy and faster access and posting of information related to any package
+for tour according to user's requirements, with the compatibility of other sites.
+
+Software Developer
+Document Solutions Group Inc DSG
+
+DSG,  a  Clinical  Software  and  Services  provider  of  technologies  for  the  pharmaceutical  industry.  DSG  is
+the  oldest  and  most  trusted  provider  of  EDC  solutions  in  the  industry.  DSG  pioneered  CRF  document
+management software, setting an industry standard. Its best-of-breed CaseLink allowed individuals to build
+CRF's electronically, greatly reducing the amount of time it takes to run a clinical trial. CaseLink became the
+industry standard, and has been trusted and utilized world-wide by the top 4 pharmaceutical companies since
+1992.
+
+Project - eCaseLink
+
+Introduction: eCaseLink. With eCaseLink, data is submitted instantaneously to the server, without any client
+software plug-ins required. This unique feature is reserved only for DSG, and its customers report the cleanest
+
+data, in the shortest amount of time, resulting in millions of dollars in cost savings. eCaseLink's data entry
+screens are programmed to mimic paper CRFs, making the switch from paper to electronic data entry easy.
+eCaseLink allows sponsors to run their clinical trial operations on a single, global platform without needing
+to install different versions of the software for different languages. All data managers and clinicians can work
+together collaboratively using a single, centrally-managed global database regardless of geographic location
+or language.
+
+Tools/Environment: ASP.NET, JavaScript, XML 4.0, HTML, SQL Server 2005
+
+EDUCATION
+
+MCA
+IGNOU
+2010
+
+MSC
+University of Rajasthan  -  Jaipur, Rajasthan
+2007 to 2009
+
+BSc
+University of Rajasthan  -  Jaipur, Rajasthan
+2004 to 2007
+
+Rajasthan Board of Secondary Education  -  Ajmer, Rajasthan
+2001 to 2004
+
+Higher Secondary Education
+
+ADDITIONAL INFORMATION
+
+TECHNICAL KNOWLEDGE
+Operating System: - DOS, Windows […]
+
+Server side Scripting: - ASP.NET, ADO.NET and ASP, JSP.
+
+Scripting Languages: - Java Script, Ajax and JQuery.
+Databases: - MS Access, SQL Server.
+
+Languages: - C, C++, Java, SQL.
+
+Internet Technologies: - HTML, VB Script, Java Script.
+
+Web Server: - Apache Tomcat, IIS.
+Debugging Tool: - Firebug.
+IDE: - Ecllipse, Visual Studio 2005, 2008 and 2010.
+
+

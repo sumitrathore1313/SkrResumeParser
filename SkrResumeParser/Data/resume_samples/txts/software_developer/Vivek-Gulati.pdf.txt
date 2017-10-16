@@ -1,0 +1,94 @@
+Vivek Gulati
+
+Software Developer
+
+Noida, Uttar Pradesh - Email me on Indeed: indeed.com/r/Vivek-Gulati/df2d85425ac19872
+
+* B.Tech IT fresher with course successfully completed in 2016.
+* Completed 3 internships in the fields Web Development, Business and Client Management.
+* Worked on front and back end technologies.
+* Strong analytical and communication skills.
+* Wide problem-solving and troubleshooting capabilities.
+
+WORK EXPERIENCE
+
+Software Developer
+VSB Technologies Pvt. Ltd - 2015 to September 2015
+
+The role of development and maintenance of their product 'Unibuzz'.
+Responsibilities:
+* Understanding requirements.
+* Development of front end of their web application.
+
+Environment: HTML, CSS, JavaScript, AngularJS, PHP, MySQL.
+VSB Technologies Pvt. Ltd
+(Software and Business Development)
+
+Role: Software and Business Developer
+The role of development and business growth of their applications.
+Responsibilities:
+* Understanding and gathering requirements by client interactions.
+* Search Engine Optimisation.
+* Digital Marketing and Promotion.
+* Business Development Strategy formation.
+
+Environment: HTML, CSS, JavaScript, AngularJS, PHP, MySQL.
+18th Feb., 2016- 30thJune, 2016
+
+Web Developer
+Aakash Paper Board Pvt. Ltd - May 2015 to July 2015
+
+Aakash Paper Pvt. Ltd. has established itself as a leading importer and wholesaler of all kind of imported
+paper and Board. We can provide you all kind of Imported Paper and Board which includes Release Wood free
+paper, C1S, C2S, Duplex Board (Grey Back and White Back), SBS, FBB, Kraft Liner Board, Coloured Board,
+LWC, Release Paper for label industry, and all types of waste paper etc. It has a wide range of application
+in various industries.
+Responsibilities:
+• Managing three stages of the Software Development Lifecycle, namely Requirement Gathering, Design and
+Coding.
+• Required to interact with the client to understand and freeze the client's requirements for the project.
+• Form Designs based on the gathered requirements and get them approved by the client.
+• Code to build the product based on the finalised designs.
+
+Environment:
+HTML, HTML5, CSS3, PHP
+
+EDUCATION
+
+CBSE
+Ryan International School  -  New Delhi, Delhi
+2016
+
+Human Value Quarter
+Amity University
+2014
+
+CBSE
+Ryan International School  -  New Delhi, Delhi
+2010
+
+B.tech in (IT) /AICTE
+Amity University  -  Noida, Uttar Pradesh
+June 1998
+
+SKILLS
+
+C, C++, HTML, CSS, JAVASCRIPT (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+* Languages: C, C++
+* Technologies: HTML, HTML5, CSS, Java Script, JQuery, AJAX, PHP
+* Databases: MySQL
+* Tools: Eclipse, SQL Developer
+* Frameworks: Ionic Framework, AngularJS
+
+Functional Skills:
+* Good documentation skills and technical writing abilities.
+* Handling various technical aspect like software design and coding of software.
+* Team player, always willing to help/support team efforts and organizing team events.
+* Able and willing to work independently with minimal supervision.
+* Attention to detail.
+
+

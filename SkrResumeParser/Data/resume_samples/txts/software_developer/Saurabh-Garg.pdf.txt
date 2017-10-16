@@ -1,0 +1,107 @@
+Saurabh Garg
+
+Ward Manager
+
+Delhi, Delhi - Email me on Indeed: indeed.com/r/Saurabh-Garg/addcd8f5716783c3
+
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Software Engineer
+SocialCops  -  Delhi, ON
+
+Ward Manager
+Vision India Foundation - December 2015 to January 2016
+
+My responsibilities include influencing MCD politicians into getting to signup on Samvaad App which we made
+for public complaint hearing online through the App. I
+get to learn to convince politicians that is a whole
+different experience.
+NAME
+POSITION
+
+Skills and Competences
+HTML, C, C++, Javascript, CSS,
+
+Chief Technical Officer, Co-founder
+HumanFOX - November 2015 to November 2015
+
+NAME SocialCops
+DATES June - August
+
+User Interface Developer and Query Handling Team
+SRM Search Engine - August 2014 to September 2015
+
+User Interface Developer
+Football Scores Crawler
+Django Developer
+
+TYPE OF BUSINESS
+Funded by the The National Internet Exchange of India,
+It aims to create a India centric search engine with clustered results, advanced knowledge database and a
+different UI.
+NAME
+
+Web Developer
+- July 2015 to July 2015
+
+-Self Made API's to grab data from govt. websites
+-Web Development and implemented API's on the website to create a common portal.
+TYPE OF BUSINESS
+It helps people and officials verify people's identity just
+a click away. It helps people avoiding forgery.A
+
+common platform to verify various IDs which has not
+been unified before altogether. This is improved UI and hassle free application. We made our own API's based
+on Python CGI for the verification on the basis of PAN,
+Aadhaar, Voter and Driving License
+
+NAME
+
+EDUCATION
+
+CERTIFICATION
+Institute of Engineering and Technology  -  Mumbai, Maharashtra
+March 2016 to May 2016
+
+CERTIFICATION
+IIT Madras - NPTEL - Hasura  -  Chennai, Tamil Nadu
+
+CERTIFICATION
+John's Hopkins University
+
+ORGANISATION
+IIM Lucknow  -  Lucknow, Uttar Pradesh
+
+ORGANISATION
+MIT GSW
+
+B-plan in Competition
+IIM Lucknow  -  Lucknow, Uttar Pradesh
+
+B-plan in ORGANISATION
+IIM Bangalore  -  Bangalore, Karnataka
+
+B-plan in Competition
+IIT Kharagpur  -  Kharagpur, West Bengal
+
+B-plan in ORGANISATION
+IIM Calcutta  -  Kolkata, West Bengal
+
+SKILLS
+
+AngularJS (2 years), BootStrap (Less than 1 year), Git (Less than 1 year), jQuery (Less than 1 year),
+MongoDB (2 years), Javascript (4 years), NodeJS (3 years)
+
+ADDITIONAL INFORMATION
+
+SKILLS
+jQuery, Linux, Python, Git, Github,
+AngularJS, NodeJS, Web
+Development, BootStrap, PHP,
+MySQL, MongoDB
+
+LANGUAGE SPOKEN English, Hindi, French
+
+

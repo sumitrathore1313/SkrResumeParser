@@ -1,0 +1,140 @@
+<ba>
+Michael Templeton
+
+Full-stack Web Developer
+
+Wichita, KS - Email me on Indeed: indeed.com/r/Michael-Templeton/32db7e6addb3ce72
+</ba>
+<su>
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Nevnant  -  Wichita, KS - February 2017 to Present
+
+Writing well designed, testable, efficient code by using best software development practices.
+Creating website layout/user interfaces by using standard HTML/CSS practices.
+Gather and refine specifications and requirements based on technical needs.
+Be responsible for maintaining, expanding, and scaling our site.
+Stay plugged into emerging technologies/industry trends and apply them into operations and activities.
+
+Web Developer
+Freelance  -  Wichita, KS - November 2016 to Present
+
+Writing well designed, testable, efficient code by using best software development practices.
+Creating website layout/user interfaces by using standard HTML/CSS practices.
+Gather and refine specifications and requirements based on technical needs.
+Be responsibile for maintaining, expanding, and scaling our site.
+Stay plugged into emerging technologies/industry trends and apply them into operations and activities.
+
+Social Media Marketing Manager
+Wichita Auto LLC  -  Wichita, KS - May 2016 to April 2017
+
+Possess knowledge of essentials for optimizing content for SEO.
+Strategically target potential customers based on results of analytical research.
+Controlled and integrated auctions based on price points for success.
+
+Sales Operations Executive
+Internet-based Business (eBay)  -  Wichita, KS - January 2014 to December 2015
+
+Executed sales on popular auction website eBay.
+Added value through great customer service via email.
+Performed all packaging and shipping duties.
+Compare and decide proper selling prices for products based on trending average.
+
+Sales Consultant
+Sprint  -  Wichita, KS - August 2013 to December 2013
+
+Built rapport with new and existing customers to increase their satisfaction with the company.
+Recommended services that fit customer lifestyles after building rapport.
+Respond to inbound calls.
+Continuing knowledge on the latest technology and company products.
+Effectively demonstrate company products and services to help determine the needs of a customer.
+Inventory company devices and products.
+Help with retail store planogram to improve customer experience.
+
+Computers & Tablets Consultant
+Best Buy Co., Inc - March 2013 to August 2013
+
+Provide expert knowledge regarding available products.
+• Possess the desire to openly communicate with potential clients
+• Effectively analyze customer needs and wants to provide them with the product that best suits them.
+• Ability to speak clearly to customers ranging from novice users to professionals.
+
+Media Blogger/Webmaster
+MOG Music Network - July 2010 to August 2011
+
+Develop placement strategies for online advertising units to drive company sales.
+• Display advanced knowledge of Web Development Programming languages.
+• Establish and maintain cooperative relationships.
+• Design and implement web site security measures.
+
+Photographer/Assistant
+WBPTL Media LLC - 2004 to 2008
+
+Adjust apertures, shutter speeds, and camera focus.
+• Determine desired images and picture composition.
+• Use knowledge of multi-media technology.
+</we>
+<ed>
+EDUCATION
+
+BS in General Studies
+Butler Community College  -  Andover, KS
+2013 to 2015
+
+Sports Medicine
+Hutchinson Community College  -  Hutchinson, KS
+2012 to 2012
+
+Wichita Heights High School  -  Wichita, KS
+2008 to 2012
+
+Management Information Systems
+Wichita State University  -  Wichita, KS
+2016
+</ed>
+<sk>
+SKILLS
+
+Microsoft Office 2010, HTML, CSS, Javascript, Node.js, SQL, PHP, Wordpress, Google Analytics, SEO,
+Dreamweaver, Photoshop, Sketch 3, Illustrator, Webflow, Web Design, Web Development, Github, Git, FTP,
+Hosting
+</sk>
+<ba>
+LINKS
+
+http://www.github.com/michaeltempleton
+
+http://www.michaeltempleton.com
+
+http://www.nevnant.com
+
+https://www.linkedin.com/in/michael-templeton-03950395/
+</ba>
+<ex>
+PUBLICATIONS
+
+Overcome: A Short Guide on How To Quickly Find Peace and Happiness In Any Stressful
+Situation
+https://www.amazon.com/Overcome-Quickly-Happiness-Stressful-Situation-ebook/dp/B016X9P4CK/
+ref=sr_1_9?ie=UTF8&qid=1495761268&sr=8-9&keywords=michael+templeton
+October 2015
+A short book written by myself to get a deeper understanding of how internet marketing works.
+</ex>
+<sk>
+ADDITIONAL INFORMATION
+
+Skills
+• Adobe Photoshop & Illustrator
+• Front-end Development
+• Back-end Development (on Node.js)
+• Git
+• Wordpress
+• Microsoft Excel
+• Team Communication Software (Trello, Slack, etc)
+</sk>
+

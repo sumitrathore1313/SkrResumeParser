@@ -1,0 +1,68 @@
+<ba>
+Supriya Mahale
+<su>
+Certified software tester having knowledge of SQL, PLSQL, HTML, CSS,Core Java.
+Currently seeking for job in software testing profile or analyst profile. Ready to
+relocate.
+<we>
+WORK EXPERIENCE
+
+Fresher
+<pr>
+1. B.Sc. (Computer Science) Project:
+Project Title: Service Center
+Duration: 3 Months
+Technologies used: Front End - PHP, Back End-MySQL
+Description: This system is developed for Service Center to properly maintain the records in Service Center.
+It maintains information about Customer Details, Billing details, Available Services, Maintainance.
+Role: System Designer, Developer
+Team Size: 2
+
+2. M.C.A (Management) Projects (Internship):
+Project Title: Goddhod
+Duration: 4 Months
+Technologies used: PHP, HTML
+Description: This project is an e-commerce website related to all sweets and dry fruits .It contains informational
+pages like OTP (one time password), Create Account, Shopping Cart and Invoice. The Home page gives
+information of all the products.
+Team Size: 1
+<mi>
+PERSONAL INTEREST
+✓ Playing Hand Ball
+✓ Dancing
+<ed>
+EDUCATION
+
+MCA in Management
+Sinhgad Institute Of Management,Pune  -  Pune, Maharashtra
+July 2014 to July 2016
+
+Bcs in Computer science
+K.K.Wagh College of arts,science and computer science college,Nasik  -  Nashik, Maharashtra
+June 2011 to October 2013
+
+HSC
+K.T.H.M. College  -  Nashik, Maharashtra
+2010
+
+SSC
+
+Maratha High School  -  Nashik, Maharashtra
+2008
+<sk>
+SKILLS
+
+HTML,Core JAVA,Manual testing,Sql,PlSql,Agile methodology
+<ca>
+CERTIFICATIONS/LICENSES
+
+Core JAVA
+December 2016 to March 2017
+Completed certification of Core Java which includes all core java concepts with OOPS concepts
+
+Software Testing
+May 2017 to August 2017
+Completed course of software testing from Qspider Institute,Pune. Which includes SDLC,STLC,Bug Life cycle,
+Writing test cases, Writing test scenarios.
+
+

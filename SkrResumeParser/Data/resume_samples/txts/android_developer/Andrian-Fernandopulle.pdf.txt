@@ -1,0 +1,180 @@
+<ba>
+Andrian Fernandopulle
+
+Android Developer - Addteq Inc
+
+Princeton, NJ - Email me on Indeed: indeed.com/r/Andrian-Fernandopulle/293246be87ea77df
+<su>
+Three years of experience in Software & Web Programming in Java and Android and PHP. 
+Involved in the full Software Development Life Cycle from Requirements Gathering to Testing and familiar with
+Agile software development methodologies as well. 
+Experience with developing Android Apps for different API levels (API 9 GingerBread - API 20 KitKat ).
+Expertise in developing application for Android Operating System using Eclipse IDE / Android Studio Java,
+Android SDK and ADT plug-in.
+Experience  in  working  with  Android  SMS  Manager,  Location  Manager,  Google  Maps  APIs  and  SQLite
+Database
+Experience in using SSLSocketFactory class for implementing SSL validations.
+Developed  applications  utilizing  Third-Party  APIs  such  as  YouTube  and  Social  Networking  such  as
+Instagram,Facebook and Imgur photo share.
+Experience in using UI design tools such as Balsamiq and Protoshare to meet the requirements of projects
+and show the results to client.
+Self-motivated and excellent abilities to learn new programming language and other concepts quickly. 
+Experience in debugging Android applications and fixing bugs in existing applications. 
+Excellent interpersonal and communication skills.
+Experience in using SQLite Database for mobile data management. 
+Experience in using MYSQL Database for web data management. 
+Good understanding and experience of interfacing to back-end systems using XML/JSON, REST API, OAUTH,
+etc.. 
+Experience in handling JSON responses from different web servers.
+Experience in branching, pushing and merging codes with remote repository such as Git. 
+Experience in Atlassian tools such as JIRA and Confluence to manage and keep track on progress of project.
+Experience in using Atlassian-Stash to maintain software version control and peer-peer code review.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Addteq Inc.  -  Princeton, NJ - February 2012 to Present
+
+Addteq Inc, Princeton, NJ Feb 2012 to Present
+Client : Sony Inc, herndon, VA Jan 2014 to Present
+Title: Android Developer
+Project Title: Stix Android Application
+Versions of the app involved: 1.2-1.5
+Project Description:
+Stix Android Application allows user to monitor Atlassian Bamboo web service on Continuous Integration and
+Release Management. The application enables user to stay in-touch with their server although they are away
+from their computer. It allows to view stages, commits and plan summary, including important statistics and
+graphical analysis of their projects. The user can also interact or share information with other developers and
+colleagues and can also send a feedback or send crash reports. The application is compatible with different
+versions of Atlassian Bamboo (4.0 - 5.4). It also provides the option to kick off or restart builds directly from
+the application. 
+
+Responsibilities:
+Involved in the Requirement gathering phase and UI design phase using Balsamiq.
+Designed the XML layout of List View and Expandable List View.
+Designed XML layouts for both android mobile and tablets implementation of the app.
+Used customized expandable list views to display data in a JSON response from an Atlassian Bamboo server.
+Created customized AlertDialogs to display different messages to the user.
+Involved in the XML layout designing for the main login screen of the app.
+Used Shared Preferences to store and maintain user information. 
+Worked with preserving sessions after user closes the applications, enabling user to stay signed in and stay
+in Dashboard Activity.
+Used Android Asynchronous Http Client library, a third-party library for server call and persistent cookie storage
+Reading  JSON  response  from  an  Atlassian  Bamboo  server  and  assigning  those  values  to  different  data
+structures such as ArrayLists and HashMaps
+Utilized button style and edit text background, added background selector. 
+Resolved the layout conflict issue when user clicks on the password text field.
+Customized the droid config file to specify the api key and other necessary parameters for the app to connect
+to JIRA.
+Tested and debugged application.
+Used ActionBarSherlock library for action bar customization for Android devices using API 10 to 15
+Implemented SSL verification for the URL's entered by users. Used SSLSocketFactory to do these validations.
+
+Client : Bluemountain Inc, New york, NY Sep 2013 - Jan 2014
+Position: Android Developer
+Project Title: Iris Android Application
+Version of the app involved: 1.0
+Project Description:
+The Iris Android application provides user access to Iris website on their android phone. Iris allows employees
+to  submit  their  weekly  time-sheet  and  expenses  and  feedback  from  colleagues.  Connection  between
+application and website is established by Asynchronous HTTP connection. The mobile application manages
+session whenever user logs in and allow submission of time-sheet and monthly payroll. In user-profile interface,
+user are able to view and edit their profile information and upload time-sheet image using mobile camera or
+Select from Photo Gallery, if it already stored. In contact interface, application allow user to search known
+contacts, add new contact, email or call contact. The iris mobile application mimics the Website and display
+activity feed in the Dashboard Activity in the android app. The activity feed allow to interact with the user posting
+the status, either by liking or commenting the post.
+
+Responsibilities:
+Documenting client requirements on Atlassian Confluence and designing mock ups using Balsamiq.
+Implemented XML layout designs for the main login screen. 
+Implemented XML layouts for status updating in the main Dashboard of the application. 
+Used AssyncHttpClient external library to make server requests to the IRIS web server. 
+Used customized list views to display the user status messages and user comments for each status message.
+Developed the functionality to attach files by accessing camera and selecting image from SD card storage.
+Handled user session management with PersistentCookieStore .
+Used Shared Preferences to store and maintain user information.
+Implemented a SSL certificate validation using SSLSocketFactory class.
+Used SQLite database to store several user and application information.
+Implemented customized AlertDialogs to display different messages to the user.
+Developed the functionality to upload files by sending encoded string from image files by POST method.
+
+Used Atlassian JIRA for issue tracking and bug reporting through out the project period.
+Used Chrome developer tools to monitor server and API calls for debugging purpose.
+
+Client : University of the District of Columbia, Washington DC Jun 2013 to Sep 2013
+Web Developer
+Architect and developed web based Rainfall Analysis Tool using PHP, HTML, CSS and JavaScript.
+Designed database schema accessing 100K+ records.
+Built the MySQL database using the schema design.
+Implemented Stored Procedures using MYSQL/phpmyadmin.
+Integrated Google maps API
+
+Client : Alien Communications, Bethesda MD Jan 2013 to Jun 2013
+Web Developer
+Built  internationalization  for  Taiwan  Uniqlo  (large  retails)  website.  Including  compatibility  with  non-western
+character sets using HTML and CSS.
+Created SASS pre-processing style sheets.
+Developed Rails CMS administrative interface using Active Admin gem.
+Rails 3.2 experience.
+Developed  social  strategy  for  corporate  facebook,  twitter,  google  plus.  Including  monitoring  reports  and
+ongoing strategy document. 
+
+Client : SmartNoter LLC, Falls Church VA Feb 2012 to Dec 2012
+Software Developer
+Worked as a Content Provider for native based mobile application
+Assisting in the process of Project Management
+Involved in designing user-interfaces for the mobile application
+Performed web training on CMS system.
+
+Android Developer
+Individual Android App Development  -  Princeton, NJ - December 2011 to February 2012
+
+Project Title: Individual Android App Development Dec 2011 to Feb 2012
+Project Descriptions:
+Daily Tasks Manager
+Developed an application, which is used to manage the daily tasks.
+Useful to maintain the list of to do tasks and completed tasks.
+Provided options to set the deadline for the task and classify of tasks as Personal or Work.
+Used SQLite database to persistently store and handle these details.
+
+GPS Location Tracker
+Application such as GPS Tracker devices working with SMS commands. When two application send each
+other same pin number in certain format, the service is started. One application keeps sending SMS with user
+location information from GPS so that the other application can keep track of user's location by getting location
+messages every five minutes.
+Used Location API, BroadcastReceiver, Services and SQLiteDatabase.
+Get and send SMS by BroadcastReceiver.
+Implemented one application just with service running in background who is sending user's location.
+Implemented sending SMS every five minutes using Timer and Timer task.
+Stored all the location from SMS to SQLiteDatabase.
+Sending location as latitude and longitude using Location API(Location manager)
+
+Call Monitor
+An application which monitor call states and saves information to database.
+Used Telephony API, SQLiteDatabase and Content Provider 
+Implemented Content provider so the other application can use the database.
+Distinguished different kind of calls and show images depends on the calls(Incoming, outgoing and missed
+calls) by Telephony API
+
+Imgur Image Uploder
+An application that users can choose image from the gallery and Upload them to the Imgur web site.
+Display image in an Image View after users choose the image from the gallery.
+Upload the image to the Imgur website as an anonymous user.
+Used Imgur API to get permissions to the server and make a post request
+<ed>
+EDUCATION
+
+BS in Information Technology
+University of the District of Columbia
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills:
+• Programming Language: Java/JDK 1.6, Android SDK, PHP 5, HTML, CSS, JavaScript, MySQL, SQLite
+• Operating System: Windows XP/Vista/7, UNIX, Linux(Ubuntu), Mac OS
+• Tools: Eclipse IDE, NetBeans, Microsoft Visual Studio, Atlassian Tools(JIRA, Confluence, Stash, Bamboo),
+Balsamiq, PHPmyadmin (XAMP), SQLyog, Cisco Packet Tracer
+• Applications: Microsoft Office
+
+

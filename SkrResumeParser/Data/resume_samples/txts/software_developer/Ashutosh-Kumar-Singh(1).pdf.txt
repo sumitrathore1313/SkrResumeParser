@@ -1,0 +1,59 @@
+Ashutosh Kumar Singh
+
+Software Engineer
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Ashutosh-Kumar-Singh/1df37827decbc1e5
+
+MCA with working experience in extensively on MVC5, Angularjs framework,HTML5,Entity Framework, C#,
+SQL SERVER 2008, ASP.NET 4.0, ADO.NET.I worked as a developer for my application with interactions
+with client side for requirement gathering, design discussions, status, development progress & issue fixes.
+
+WORK EXPERIENCE
+
+Software Engineer
+Smartchip Pvt. Ltd.  -  Noida, Uttar Pradesh - March 2017 to Present
+
+Software Engineer
+India CyberLearning Pvt. Ltd.  -  Noida, Uttar Pradesh - September 2016 to March 2017
+
+Web Developer
+Element94 Media Sol. Pvt. Ltd.  -  Noida, Uttar Pradesh - October 2014 to September 2016
+
+Experience on Microsoft Technologies..
+Worked on MVC 5.0 Razor and Angularjs, JQuery, ADO.NET Entity Model
+Coding and development
+Working as a team member to understand the business requirements.
+Design and develop the technical solution for the project.
+
+Sotware Developer
+StepStone Marketing Pvt. Ltd.  -  New Delhi, Delhi - February 2014 to October 2014
+
+Responsibilities
+My Responsibility is write code in ADO.net,ASP.net,C# and also use Sql Server 2008 to write Query to show
+data in Grid view and also use javascript/jquery to validate the form and also having little knowledge to design
+the form using HTML/CSS.
+
+Accomplishments
+Here I learn how to write a standard coding and also learn how to handle the database and make scripting
+of  database  and  there  tables  and  how  to  make  relation  b/w  two  table.And  also  learn  how  to  write  store
+procedure.And having good knowledge on grid view to insert,update & delete the data from the grid view.
+
+Skills Used
+Asp.net 4.0,ADO.net, SqlServer 2008,C#,HTML,CSS.
+
+EDUCATION
+
+MCA in Computer Applications
+Mahatma Gandhi Kashi Vidyapith  -  Varanasi, Uttar Pradesh
+2010 to 2013
+
+BCA in Computer Application
+Integral University  -  Lucknow, Uttar Pradesh
+2007 to 2010
+
+SKILLS
+
+ADO.net,Asp.net,C#,HTML,CSS,Jquery/Javascript,Crystal Report,MVC5,Angularjs, HTML5,Entity
+Framewok (3 years)
+
+

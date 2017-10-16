@@ -1,0 +1,67 @@
+<ba>
+Chirag Kumbhani
+
+Fresher
+
+Ahmedabad, Gujarat - Email me on Indeed: indeed.com/r/Chirag-Kumbhani/50bf6962d4765814
+<su>
+o Looking forward to an opportunity for working in a dynamic, challenging environment where I can utilize my
+skills for developing my career and for the growth of the organization.
+
+o To have strong desire to grow with achievement of company objectives and my goals.
+<we>
+WORK EXPERIENCE
+
+Fresher
+Gas Agency Management System - December 2014 to April 2015
+
+Softweb Technologies
+o Duration: 6 Months. (Dec, 2014 to Apr, 2015)
+o Environment: JSP, SERVLETS, MySQL, Apache Tomcat, Windows7
+o Role: Project Developer
+Description:
+GAMS is website for Customer we can make online Registration for online refillbook as well as make online
+payment and customer can transfer request.
+
+➢ Logistic System:
+
+o Environment: Core Php, MySQL, XAMMP, Windows7
+o Duration: As per academic calendar
+o Role: Project Developer
+
+Fresher
+<ed>
+EDUCATION
+
+BCA in Computer Science
+Bhavnagar University  -  Bhavnagar, Gujarat
+April 2013
+
+S.S.C
+Shree Radhe-shyam High School
+March 2008
+
+ADDITIONAL INFORMATION
+<sk>
+TECHNICAL QUALIFICATION
+
+➢ Web Development & Software Development Languages:
+
+o C & C++, ASP.NET
+o Core JAVA, JSP & SERVLET, MVC
+
+o HTML 5, CSS & JAVA SCRIPT
+o Core PHP
+
+➢ DATABASE
+
+o MYSQL
+o ORACLE
+o MS ACCESS
+
+➢ OS
+o Windows XP
+o Windows 7
+
+
+

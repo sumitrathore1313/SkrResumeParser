@@ -1,0 +1,76 @@
+<ba>
+Jared Godfrey
+
+Riverside, CA - Email me on Indeed: indeed.com/r/Jared-Godfrey/6bb253a0471a0ee2
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+UCR Extension Center  -  Riverside, CA - September 2014 to Present
+
+Postgres and MSSQL conversions for enterprise level web application. QA and unit testing for UCR Extension
+faculty used web application components.
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Computational and Applied Mathematics
+University of California Riverside  -  Riverside, CA
+2010 to Present
+</ed>
+<ba>
+LINKS
+
+http://www.github.com/TheSighing
+
+http://www.linkedin.com/in/jaredev
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL  SKILLS  Programming:  C/C++,  Python  (Django),  Javascript  (Node.js,  Angular.js,  Jquery,
+Express.js),
+SQL (PostgreSQL and MySQL), NoSQL (MongoDB), Java, PHP (Zend), Shell Scripting
+(Bash and Zsh), HTML5/CSS3
+Operating Systems & IDE: UNIX (Linux, Mac OS), Windows, Vim, Sublime Text, Cygwin
+Other: Object Oriented Programming, TCP/IP, HTTP, SMTP, SVN, Git/Github, AJAX,
+Network Programming
+</sk>
+<we>
+WEB DEVELOPER UCR Extension, Riverside California September 2014 - Present
+Web Developer
+• Working as part of a development team to initiate needed changes to the networking
+enterprise level application used by the faculty of UCR Extension and facilitating its
+conversion to version two.
+• Assembling test harness and unit tests for various web modules for Quality
+Assurance using Selenium (Node.js and Python).
+• Collaborating with development team and improving legacy PHP code within the
+Zend Framework.
+• Updating and maintaining web applications for various departments at extension
+center of UCR on a part-time basis including admissions, financial services and
+student records.
+• Converting applications to facilitate the transition for connecting to MSSQL and
+PostgreSQL databases from one Oracle Database.
+Citrus-hack Competition, Riverside California Winter 2014
+
+Programmer and Project Manager
+• Managing project and conceptualizing an idea into a finished product.
+• Created a server, utilizing knowledge of network programming and C++, as part of a
+two person team.
+• Worked 32 hours, adapting and researching.
+• Extended knowledge of Network Programming.
+Personal Projects (GitHub or BitBucket)
+Flashcard Website Ongoing
+• Creating websites and servers using MEAN stack as well as Python (Django and
+Tornado).
+• Utilizing Firebase and MongoDB for data persistence.
+
+LEADERSHIP Summer Search, Nicaragua Summer 2010
+Student Delegate and Leader
+• Organized the day's goals to facilitate the best use of time.
+• Expanded world view over month long stay in Nicaragua.
+• Tutored english to help the mobile schools initiative.
+• Helped to provide to food to impoverished areas of Nicaragua.
+</we>
+

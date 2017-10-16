@@ -1,0 +1,176 @@
+Anuja Patole
+
+Assistant Professor
+
+Satara, Maharashtra - Email me on Indeed: indeed.com/r/Anuja-Patole/04f4c2280219856b
+
+Seeking an opportunity in a company where I can develop myself and achieve personal as well as organization
+goals.
+
+WORK EXPERIENCE
+
+Assistant Professor
+KSS college , Shikrapur.  -  Pune, Maharashtra - December 2016 to July 2017
+
+Domain: C++, DBMS, Software Engineering.
+Projects - Project Name
+Company Name
+Team Size
+Designation/Position
+Responsibilities
+
+Joomla Website (Jobsoboard)
+Spiderweb
+2 People
+Jr. Developer
+➢ Analysing requirements
+➢ Implementation of requirements.
+➢ Testing of requirements
+Description of the Work: Jobsonboard is a website made for jobseeker.Implementation of application form of
+Job seeeker In the form they required the repeated fields for entering data. Storing data in my-sql.
+Skills/Technologies Used: Joomla, PHP, My-sql, JS, JQuery.
+
+Project Name
+Company Name
+Team Size
+Designation/Position
+Responsibilities
+
+Joomla website (islandcigarfactory)
+Spiderweb
+3 People
+Jr.Developer
+➢ Analysing requirements
+➢ Executing requirement.
+Description of the Work: Done CSS by using Javascript.Chnaging the style sheet by using Javascript.
+Skills/Technologies Used: JavaScript, CSS.
+
+Project Name
+Company Name
+Team Size
+
+Designation/Position
+Responsibilities
+
+Joomla website (Easylend)
+Spiderweb
+2 People
+Jr. Developer
+➢ Analysing requirements
+➢ Testing the necessary functionality
+➢ Finding Defect
+➢ Solve the defect
+Description  of  the  Work:  Detecting  the  issues  regarding  lending  and  borrowing  and  solve  them.  Website
+Enhancement.
+Skills/Technologies Used: Joomla, PHP.
+
+Project Name
+Company Name
+Team Size
+Designation/Position
+Responsibilities
+
+Joomla website (Finbee)
+Spiderweb
+2 People
+Jr. Developer
+➢ Analysing requirements
+➢ Testing the necessary functionality
+➢ Finding Defect
+➢ Enhancement of website.
+Description of the Work: Website enhancement.
+Skills/Technologies Used: PHP, My-Sql, JS.
+
+Project Name
+Company Name
+Team Size
+Designation/Position
+Responsibilities
+
+Soccer App
+Spiderweb
+2 People
+Jr. Developer
+➢ Handled Players data through database
+Description of the Work: Save, delete, update the data.
+Skills/Technologies Used: Angular JS, PHP, MY-sql.
+
+Project Name
+Company Name
+Team Size
+
+Quiz.
+CEC Skill bridge.com
+1
+Description of the Project: This project is like any aptitude test conduct by colleges, companies, also generate
+result.
+Skills/Technologies Used: Mysql, Dreamweaver, PHP.
+
+Project Name
+College Name
+Team Size
+Designation/Position
+Responsibilities
+
+Image Based Human Edge Estimation.
+KBP college of engg. & Poly. Satara.
+4 People
+Analysis, Testing and Documentatin.
+➢ Analysing requirements
+➢ Finding Defect.
+➢ Final Documentation.
+Description of the Project: This application estimate the approximate age of human based on their image file
+by placing 68 point of face area on image. This application can be used in Hospitals, Army selection etc.
+Skills/Technologies Used: Java, Netbeans IDE 6.8.
+Declaration:
+
+I  hereby  declare  that  the  above  mentioned  information  is  correct  up  to  my  knowledge  and  I  bear  the
+responsibility for correctness of the above mentioned particulars.
+Yours Faithfully,
+
+Jr. Developer
+Spiderweb  -  Satara, Maharashtra - March 2015 to May 2016
+
+- Got trained for Joomla on Ubuntu 11.10 at the beginning of 1 month. After training company gave me the
+opportunity to work in Joomla.
+- Create MVC component, plugins by using PHP, JS, JQuery, My-SQL database in Joomla projects.
+-  Also  I  have  basic  knowledge  and  1  month  experience  in  Angular  JS,  Done  basic  operation  with  My-Sql
+database using HTTP (get, put functions)
+- Got project as a Jr. Developer in Joomla on the website of Finbee (online lending), Website of madiston
+(lending, borrowing, loan)
+
+Company Name: Spiderweb Joom Solution, Satara.
+Designation / Position: Jr.Developer.
+Start Date: March 2015 - May 2016
+Domain: Joomla (PHP, JS) on linux
+
+Data Uploader
+CEC Skill Bridge.com  -  Bikaner, Rajasthan - July 2014 to September 2014
+
+- Data Uploading on company Website http://cecskillbridge.blogspot.in/
+- Managing Social Media sites of company (Facebook Page, Google +)
+
+Company Name: CEC Skill Bridge.com, Bikaner, Rajsthan.
+Designation / Position: Data Uploader.
+Start Date: July 2014 - Sept 2014
+
+EDUCATION
+
+BE in Computer science
+KBP College of Engg. And Poly. Satara Shivaji University.  -  Satara, Maharashtra
+May 2014
+
+H.S.C.
+YC College Satara, Shivaji University  -  Satara, Maharashtra
+June 2010
+
+SKILLS
+
+Joomla,PHP,JS,JQuery,My-SQL (1 year)
+
+CERTIFICATIONS/LICENSES
+
+Website development in PHP My-SQL
+July 2014 to August 2014
+
+

@@ -1,0 +1,33 @@
+Mrityunjay Ravi
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Mrityunjay-Ravi/51e7ee7e1821a126
+
+WORK EXPERIENCE
+
+Software Engineer (Web Developer)
+IVTR Pvt. Ltd  -  Gurgaon, Haryana - February 2017 to July 2017
+
+In this company my role is to develop website based on spring and hibernate. Here i done whole backend
+coding  for  project,  Shopping  jhola.  In  this  project  whole  backend  working  is  Done  by  me.  In  this  I  am
+using  Spring-4.2.6  and  Hibernate-4.3.11  for  backend  coding,  JQuery,  AJEX  and  JSON  for  frontend  data
+communication, Spring Security for website security and MySQL Database as a Database. It is fully annotation
+based project.
+
+EDUCATION
+
+B.Tech in Information Technology
+A.I.M.T G.NOIDA  -  Gautam Budh Nagar, Uttar Pradesh
+August 2012 to July 2016
+
+SKILLS
+
+Java-8 (Less than 1 year), J2EE (Less than 1 year), Spring-4.2.6 (Less than 1 year), Hibernate-4.2.6 (Less
+than 1 year), Spring Boot (Less than 1 year)
+
+CERTIFICATIONS/LICENSES
+
+Professional Java Developer
+June 2015 to December 2015
+I am completed my 6 month Professional Java Developer, Training Certification from DUCAT Noida in 2015.
+
+

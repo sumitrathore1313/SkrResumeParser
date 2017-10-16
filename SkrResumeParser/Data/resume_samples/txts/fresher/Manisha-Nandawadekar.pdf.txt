@@ -1,0 +1,39 @@
+<ba>
+Manisha Nandawadekar
+
+Pune, Maharashtra - Email me on Indeed: indeed.com/r/Manisha-Nandawadekar/26efef659c89c301
+<we>
+WORK EXPERIENCE
+
+Fresher
+<sk>
+M.Sc. Thesis Title: "Prediction For Rice Crop Yield In Semi- arid Climatic Zone Of India"
+Platform: Java, NetBeans, MS-Access, Ms-Excel (Macros)
+B.Sc. Project Title: "Bookstall Management System"
+Platform: VB.NET and MS-SQL server
+<ed>
+EDUCATION
+
+Master of Science in Computer Science
+University Of Mumbai  -  Mumbai, Maharashtra
+July 2016
+
+Bachelor of Science in Computer Science
+Shivaji University  -  Kolhapur, Maharashtra
+May 2014
+<sk>
+SKILLS
+
+C++ (Less than 1 year), DATABASE (Less than 1 year), DRAFTING (Less than 1 year), HTML (Less than 1
+year), JAVA (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Computer Skills
+Computer language: C, C++, JAVA, XML, Macro, VB.Net
+Framework: VB.Net
+Database: Oracle 10g, SQL Server 2008, MySQL
+Web Development: HTML
+Simulation and Drafting: MATLAB
+
+

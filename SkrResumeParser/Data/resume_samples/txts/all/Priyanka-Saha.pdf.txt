@@ -1,0 +1,49 @@
+<ba>
+Priyanka Saha
+
+Gurgaon, Haryana - Email me on Indeed: indeed.com/r/Priyanka-Saha/64556ca26f54fb70
+<su>
+To  obtain  a  creative  and  challenging  position  in  an  organization  that  gives  me  an  opportunity  for  self-
+enhancement, while contributing to the symbolic growth of the organization with my pioneering, innovative
+and logical skills.
+<we>
+WORK EXPERIENCE
+
+Fresher
+
+• 2 years successful experience into teaching diverse group of students with an extensive pool of knowledge.
+( School From January, 2014 to January, 2016)
+<sk>
+TECHNICAL SKILLS
+Application:
+• MS-Office, Basic Computer Knowledge, C, C++, Java, VB 0.6, Oracle, php, Html, DBMS.
+Platforms:
+• Windows- all format, Linux
+<pr>
+PROJECT DETAILS
+• Online Railway Reservation System using Oracle at the backend & VB at the frontend.
+• Student Placement Management System using php as the primary scripting language & MySQL Database
+for backend support & Notepad++ IDE for development and design.
+<ed>
+EDUCATION
+
+M.Sc. in Comp. Sc
+University of Burdwan  -  Barddhaman, West Bengal
+2013
+
+B.Sc. in Comp. Sc
+University of Calcutta  -  Kolkata, West Bengal
+2011
+
+B.Sc. in Computer science
+Calcutta University  -  Kolkata, West Bengal
+2006
+
+M.Sc. in Computer science
+Burdwan University  -  Barddhaman, West Bengal
+<sk>
+SKILLS
+
+Javascript, Jquery, Php, Bootstrap, C, C++, Html, Css
+
+

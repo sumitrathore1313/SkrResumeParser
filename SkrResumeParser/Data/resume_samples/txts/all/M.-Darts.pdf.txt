@@ -1,0 +1,40 @@
+<ba>
+M. Darts
+
+Web Developer - Army Game Studios
+
+Huntsville, AL - Email me on Indeed: indeed.com/r/M-Darts/ff8541cb77726dd3
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Army Game Studios - August 2015 to Present
+
+Building the web presence for Americas Army Game - Proving Grounds
+
+Freelance / Web Developer
+Strategy 6  -  Dothan, AL - January 2015 to Present
+
+Building client sites with Wordpress, also Web/Mobile applications using various frameworks.
+
+Freelance / Web Developer
+- February 2013 to Present
+
+Building client sites with Wordpress and other PHP and JS Plugins.
+</we>
+<ba>
+LINKS
+
+http://github.com/mandrewdarts
+
+http://twitter.com/mandrewdarts
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+SKILLS
+WEB DEVELOPMENT CSS HTML JAVASCRIPT TYPESCRIPT NODEJS
+FRAMEWORKS ANGULAR REACT METEOR IONIC EXPRESSJS LARAVEL ADONIS
+</sk>
+

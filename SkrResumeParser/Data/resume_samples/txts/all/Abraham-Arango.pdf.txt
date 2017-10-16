@@ -1,0 +1,138 @@
+<ba>
+Abraham Arango
+
+Web Developer - Real Clear Media Group
+
+Elgin, IL - Email me on Indeed: indeed.com/r/Abraham-Arango/b6ba8a9ee6a2731c
+
+Full stack developer currently working mainly working with web centered technologies such as MySQL, PHP,
+JavaScript with the ability to develop from database design layers all the way up to UX and UI design. I work
+with an open mind to learn just about any other technology or software building tools to be a better programmer
+and build better software faster.
+Willing to relocate to: Elgin, IL
+Authorized to work in the US for any employer
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Real Clear Media Group - March 2016 to Present
+
+Much of the work is heavy LAMP work for creating entirely custom CMSs for all of the sites the company has.
+On the public side of the sit, Javascript, Jquery and JSON files are used to dynamically update the site on
+html files published from our PHP CMSs.
+
+Below are some of the projects I have worked on:
+• Created the entire browser push notifications system entirely custom to tie in with the RealClearPolitics CMS.
+◦ Notifications are sent from our system so that editors can easily send out notifications for current content.
+◦ User subscriptions to notifications is completely custom.
+◦ Analytics for how notifications do and subscription rates.
+
+• Developed the entire CMS for RealClearInvestigations.com and the several features on the public side such
+articles with embeds and the donations feature that ties in with PayPal.
+◦ The article embeds is based on membership system that only allows registered domains to grab our content
+and embed it on their site.
+◦ Donations to PayPal are done using their rest API and is completely custom.
+
+• Worked on the redesign of several sites that had an old outdated design and an outdated CMS.
+• Worked on a new multisite CMS that replaces every different CMS we have for each site. The technology
+used for this new multisite CMS is Laravel for server side code and Vue js for user side code.
+◦ This new CMS is meant to have one single CMS for all sites rather than 15 different CMSs.
+◦ It is also meant to be built with new technology to make it sleeker with SPA modules, responsive designs,
+and stronger security.
+
+Web Developer
+Drive & Shine, Inc - September 2015 to March 2016
+
+• Only software engineer to develop both the software that customers utilize such as the website and company
+online store as well as internal software that employees use to accomplish their work.
+• Developed a LAMP based maintenance tracking system to be used company wide. Some key features are
+as follows:
+◦ Different website experience depending on employee role.
+◦  Each  store  being  able  to  submit  issue  tickets  to  notify  all  maintenance  personnel  of  a  problem  at  each
+location.
+
+◦ Complete list and historical data of issues and tasks done to equipment its related components for each
+location.
+◦  Time  based  maintenance  repeating  tasks  that  recreate  themselves  and  set  themselves  due  based  on
+specified time frames.
+
+• Developed an inventory tracking system for store supplies. Some key features are as follows:
+◦ Store items have set max order amounts for a certain time frame.
+◦ Form automatically blocks the ordering items that have already reached their time frame limit and will reset
+the item once the time frame is reached.
+◦ Ordering historical data pages with multiple dynamically made graphs to analyze ordering trends.
+◦ Inventory tracking of items amounts at warehouse from where items are ordered from.
+Move on to Real Clear Media Group because the work circumstances did not allow for skill growth and the
+work was stagnant lacking direction.
+
+Production Control Analyst
+Specialty Products & Polymers, Inc - February 2007 to September 2015
+
+• Analyze and direct production schedule with the orders from customers.
+• Work with production supervisors and plant manager to manage production employees and efficiently meet
+customer orders.
+• Committed to giving customers great customer service by answering their questions in detail and resolving
+any problems that they may have.
+• Responsible for all outbound shipments to be shipped on time and with the correct documentation.
+• Keep inventory of all packaging materials such as plastic sheeting and cardboard boxes.
+
+Web Developer Internship
+Kitchology, Inc - July 2014 to December 2014
+
+• Developed web based systems using PHP, HTML, CSS, Javascript, and SQL.
+• Worked remotely being responsible for completing and accomplishing my work without supervision.
+• Communicate efficiently through email and weekly Skype conference meetings.
+
+Wordpress and Web Developing Internship
+J&S Coatings / Vortex Spray Liners - April 2012 to August 2012
+
+• Developed a new Wordpress managed company website based off their previous static HTML one.
+• Developed several Wordpress managed websites for their "dealers" customers.
+• Modify HTML, CSS, and PHP in Wordpress themes for custom needs.
+• Organize their web media content for future quick searching and usability.
+</we>
+<ed>
+EDUCATION
+
+Bachelor's degree in Computer Information Systems in Computer programming
+Ferris State University  -  Big Rapids, MI
+September 2012 to May 2015
+
+Associate's degree in Applied Science in application development
+Southwestern Michigan College  -  Dowagiac, MI
+August 2007 to August 2012
+
+Dowagiac Union High School  -  Dowagiac, MI
+August 2002 to June 2006
+
+High School diploma
+Attained High School
+</ed>
+<sk>
+SKILLS
+
+CSS (3 years), Excel (Less than 1 year), html (3 years), Javascript (3 years), PHP (3 years)
+
+ADDITIONAL INFORMATION
+
+SKILLS
+Hard Skills
+• Familiar with the following programming languages: PHP, JavaScript, SQL, HTML, CSS, and XML.
+• PHP frameworks of Code Igniter and Laravel.
+• Javascript frameworks of Vue js.
+• Familiarity with Git and version controlling software.
+• Building ES5 and ES6 Javascript with Node JS, Babel and Webpack
+• Proficiency in Microsoft office products such as Word, Excel, Access, PowerPoint, etc.
+
+Soft Skills
+• Strong interpersonal empathetic communicator.
+• Able to listen and accept any feedback about my quality of work.
+• Respectfully assertive when it is necessary.
+• Highly self-motivated to work hard to accomplish goals independently.
+• Always looking for ways to make software work better
+• Love to work independently with the purpose to benefit the whole team with my work.
+• Always working hard to learn and better myself.
+
+
+</sk>

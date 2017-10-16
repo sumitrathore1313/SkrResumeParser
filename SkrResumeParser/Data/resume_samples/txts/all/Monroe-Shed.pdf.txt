@@ -1,0 +1,61 @@
+<ba>
+Monroe Shed
+
+Android Developer
+
+Dallas, TX - Email me on Indeed: indeed.com/r/Monroe-Shed/8f2e2b7e873c0492
+<su>
+Undergraduate degree in Computer Science. Freelance Android Developer for clients in the DFW area. Four
+plus years of experience developing Android mobile applications for Android smart phones and tablets. Android
+zealot.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+SavageKing Mobile  -  Dallas, TX - August 2012 to Present
+
+• Designed and developed mobile applications using the Android Native SDK from Gingerbread to Nougat.
+
+• Strong understanding of the Activity, Fragment, and Service lifecycle. 
+
+• Used OpenGL ES 2.0 - 3.0 to create dynamic and unique User Interface. 
+
+• Proficient in creating beautiful Android User Interface using Material Design concepts and the latest best
+practices.
+
+• Expert at quickly integrating third party libraries into the application.
+
+• Developed Android applications using wide range of Android API's ( Bluetooth, Google Maps, SQLite ).
+
+• Expertise in application development using Android Studio Integrated Development Environment.
+
+• Strong understanding of (OOP) Object Oriented Principles using the Java programming language. 
+
+• Capable of debugging software.
+<ed>
+EDUCATION
+
+Master of Business Administration in Business Administration
+University of North Carolina  -  Fayetteville, NC
+
+Bachelor of Computer Science in Certifications
+Campbell University  -  Buies Creek, NC
+<sk>
+SKILLS
+
+Android SDK (4 years), Android Studio (3 years), Java (4 years), OpenGL ES 2.0 - 3.0 (4 years), Third Party
+Libraries (4 years)
+<ba>
+LINKS
+
+http://www.linkedin.com/in/monroeshed
+
+https://github.com/SavageKingApps
+
+ADDITIONAL INFORMATION
+
+Sample code available for previewing on Github: https://github.com/SavageKingApps
+
+

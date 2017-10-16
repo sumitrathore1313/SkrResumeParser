@@ -1,0 +1,181 @@
+<ba>
+Harika G
+
+Web Developer - Cigna Corporate Services
+
+Philadelphia, PA - Email me on Indeed: indeed.com/r/Harika-G/772458f99de8d681
+</ba>
+<su>
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Cigna Corporate Services  -  Philadelphia, PA - July 2013 to Present
+
+HealthEview - The HealthEview system is used by CIGNA Clinical IT to support holistic health management.
+HealthEview enhances the effectiveness and efficiency of Staff who coordinate Services for the customers.
+Health E View collects information of each customer from different sources like health assessment, screening,
+lab results, behavioral, medical and pharmacy and stores it.
+Health Advocates use HealthEview system to locate customer information and to help provide services for
+which they are eligible. Health advocates use this information to find out the best path and makes the advocacy
+plan  based  on  the  goals  and  preferences  for  customer's  health  improvement.  Cigna's  Health  Advocacy
+programs and services provide a comprehensive "whole-person" approach to health management.
+Responsibilities:
+• Involved in day-to-day tasks of working with Spring Framework.
+• Worked as a lead developer in sprint teams in an Agile environment.
+• Used JBOSS FUSE and Apache Camel to build an application.
+• Implemented Spring batch to run daily and monthly batches.
+• Developed Front end using AngularJS and Flex.
+• Worked with AngularJS filters in expressions and directives to filter data rendered in the UI.
+•  Worked  with  AngularJS  Forms,  Validations,  Modules,  Factory  Services,  DOM,  Events,  Expressions,
+Directives, Controllers, filters, HttpRequest.
+• Used various AngularJS filters against data sets to filter and formatted data currency, strings rendered in
+the UI.
+• Used Angular JS HttpRequest to read data from web servers and process JSON data to render in the UI.
+• Involved in writing application level code to interact with APIs, Web Services using AJAX, JSON and XML.
+• Developed server-side services using Spring, Java.
+• Wrote code to handle XML and JSON objects.
+• Handled back end using Mybatis and developed Procedures/Functions using PL/SQL.
+• Handled the Sprint releases and performing fixes for Production Support.
+• Develop and execute Unit Test plans using Junit, TestNG, Jasmine ensuring that results are documented
+and reviewed with Quality Assurance teams responsible for integrated testing.
+• Provided extensive pre-delivery support using bug fixing and code reviews
+• Create builds using Jenkins and Maven for build automation tool.
+
+Environment:  Spring  MVC,  Spring  Batch,  Spring  Integration,  Spring  Core,  AngularJS,  Flex,  XML,  XPATH,
+XSTL, Maven, iBatis, PL/SQL, Java, JBoss Fuse, Apache Camel, JUnit, TestNg, Log4j, Agile Methodology,
+Jasmine, Karma.
+
+Java Developer
+Verizon Sourcing LLC - June 2011 to July 2013
+
+APC is provisioning system, which is responsible for the provisioning of high capacity circuits and collating the
+order entry status from disparate order entry systems. This web-enabled system provides end users the ability
+to view the end to end provisioning order status and managing task assignment configuration and based on
+Verizon's VZCommon Architecture.
+Responsibilities:
+
+• Extensively worked on JQuery, ExtJS to develop plugins and front end scripting.
+• Extensively used Bootstrap and CSS3 media queries for RWD.
+• Built cross-platform and multi-device applications in AngularJS, using the HTML5, CSS3 and Bootstrap.
+• Utilized HTML5 local Storage, geolocation, canvas, input types, and tags.
+• Designed dynamic and browser compatible pages using HTML5/HTML, DHTML, CSS 3.0 and JavaScript.
+• Created reusable templates and style sheets based on UI standards and guidelines; Performed functional
+tasks using specifications and wireframes.
+• Extensively used Debugging JavaScript using Chrome developer Toolbar, Firebug.
+• Worked on JQGrid to customize it to suit business demands.
+• Used ExtJS framework to develop the front end applications.
+• Developed an application using Struts2, Hibernate.
+• With JSPs and Servlets, developed Business logic and presentation logics.
+• Used Java Persistent API (JPA) as persistence layer.
+• Used GIT as version controller.
+• Used MVC architecture to develop application.
+• Hibernate Transaction Manager has been used to manage transactions.
+• Used JUNIT for unit testing.
+•  Created  Stateless  Session  Beans  for  retrieving  data  and  Entity  Beans  for  maintaining  User  Profile
+Responsible for generating JSP Tag libraries embedded with client specific.
+
+Environment: IBM WebSphere , Java, J2EE, Enterprise Java Beans, Struts 2, Restful Web Services, XML,
+Oracle, DB2, ExtJS, AJAX, JQuery, Hibernate , HTML5, CSS3, DOJO, JSP, JSTL, Log4j, Tortoise, SDLC with
+Waterfall methodology.
+
+J2EE Developer
+Tata TeleServices Limited - April 2009 to June 2011
+
+Description:
+The  Product  Portfolio  Management  (PPM)  is  the  application  that  has  been  developed  mainly  for  Product
+Configuration and Portfolio Management and Distribution. The application is intended for creation, modification
+and  deletion  of  the  Products  or  Entities  such  as  Billing  Packages,  Schemes,  Deposit  Packages,  Handset
+Packages, CUG and F&F as individual entities associating one with other via Rules Engine. Also the application
+intends to distribute all the products configured in PPM to different systems via an integration application (Epos,
+Metasolve, CRM, ARBOR) so that the Products or Entities configured in the PPM are reflected in the other
+systems.
+
+Responsibilities:
+• Redesign, reconstruct and optimize the existing UI screens using Struts.
+• Used jQuery extensively for performing client side validations and for enhancing the current functionality of
+the screens.
+• Used Java's collection framework extensively for managing the data across the application.
+•  Developed  and  enhanced  around  fifty  UIs  and  used  JavaScript,  HTML/DOM  and  Ajax  based  support
+methods.
+
+• Experience in using SQL on Oracle 10g and 11g databases to create test data and perform data verification.
+Used Stored procedures to perform database related operations.
+• Used CSS, HTML and JSP extensively to create uniform look and feel of the new Web User screens.
+• Performed extensive testing to minimize the browser compatibility issues.
+
+Environment:  Tomcat  5.5,  Eclipse  Helios/Indigo/Juno,  JSP  2.0,  Struts  2,  Servlets,  jQuery  ,  Ajax,  XML,
+JavaScript, HTML, HTML DOM, XSLT, SQL, PL/SQL , Oracle 10g/11g, UNIX, Putty.
+
+JavaScript Developer
+Tata Consultancy Services - August 2007 to April 2009
+
+Description:
+Tata Consultancy Services Technologies Limited is a global IT services company, offering services including
+software IT solutions, enterprise transformation, remote infrastructure management, engineering and R&D
+services.
+Responsibilities:
+
+• Closely worked with business system analyst to understand the requirements to ensure that right set of UI
+modules been built.
+• Developed all the UI pages using HTML, DHTML, XSL/XSLT, XHTML, DOM, CSS, JSON, JavaScript, jQuery,
+Ajax.
+• Using advanced level of jQuery, AJAX, JavaScript, CSS and pure CSS layouts.
+• Used JQuery to traverse through a DOM tree and manipulated the nodes in the tree.
+• Used JQuery plug-ins for Drag-and-Drop, Widgets, Menus, User Interface and Forms.
+• Involved in developing HTML and JavaScript for client side presentation and, data validation on the client
+side with in the forms.
+• Developed SQL Queries to interact with Oracle database.
+• Successfully executed all the test cases and fixed any bugs/issues identified during the test cycles.
+
+Environment: HTML, CSS, JavaScript, JQuery, AJAX, JSON, MS Office, PL/SQL and SVN.
+
+ADDITIONAL INFORMATION
+</we>
+<sk>
+Technical Skills:
+Programming Languages Java, SQL, HTML, XML, PL/SQL, Unix Shell Scripting, C, C++, FUSE
+
+Technologies 
+
+HTML,HTML5, 
+
+Methodologies Waterfall, Agile SCRUM model
+J2EE Technologies Servlets , JSP , JDBC,Struts,Java,J2EE
+Frameworks Spring 3.0, Spring MVC, Hibernate 3.0
+Web 
+CSS,CSS3,AngularJS,JSON,AJAX,DHTML,DOM,Restful WebServices
+Application/Web Servers WebLogic , JBoss, Apache Tomcat, JBOSS FUSE,APACHE CAMEL
+Web Services REST WebServices, JAX-RS
+Databases Oracle ,MySQL,
+IDE Tools Eclipse Kepler Mars, Net Beans, Flex Builder
+Version Control CVS, SVN
+
+DHTML, 
+
+JavaScript 
+
+with 
+
+JQuery, 
+
+ExtJS, 
+
+AJAX,
+
+Operating Systems Windows , UNIX
+Logging and Testing Tools Ant, Maven, JUnit, Log4j, SOAP UI
+Database Tools TOAD, MySql
+
+APIs Spring Core, Spring JDBC, Spring Web, Spring MVC, Log4J, Servlets, Spring Batch
+Scripting JQuery, Java Script, Shell Script, Unix Commands
+Design Patterns Singleton, MVC, Factory, Session Façade, DAO, Business delegate
+Design Methodologies UML, Rational Rose,
+Protocols SOAP, LDAP, HTTP, HTTPS, FTP, SMTP
+
+Projects:
+</sk>
+

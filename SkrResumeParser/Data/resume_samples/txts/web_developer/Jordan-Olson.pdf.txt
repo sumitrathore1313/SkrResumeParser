@@ -1,0 +1,47 @@
+<ba>
+Jordan Olson
+
+Web Developer
+
+Provo, UT - Email me on Indeed: indeed.com/r/Jordan-Olson/f7f244116836f369
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+- November 2013 to March 2016
+
+1 year of C++
+1 year of C#
+3 years with Wordpress
+Eli Kirk
+Web Developer, Nov 2013- March 2016 4 + years working with Adobe Photoshop
+2 years working with sass
+Skills developed: 2 years working with git
+HTML: Creating email templates
+CSS: Using CSS to update banners, home pages, and events
+PHP: Writing scripts displaying and organizing data within arrays PERSONAL SKILLS
+Wordpress: Used ACF to build new templates for wordpress
+Javascript: Manipulating the DOM displaying information Solving / diagnosing problems
+Jquery: Using methods to display information and style pages Positive attitude
+Communication
+Other: Reliability
+Volunteering to assist team members with projects. Completing Quick learner
+projects on time. Extensive QA process. Testing data before Team player
+sending to live site.
+</we>
+<ed>
+EDUCATION
+
+Associates in Science in Hard work environment
+Utah Valley University  -  Provo, UT
+2010 to 2013
+</ed>
+<ba>
+LINKS
+
+http://jordanodesign.com
+
+http://jordanolson1@gmail.com
+</ba>
+

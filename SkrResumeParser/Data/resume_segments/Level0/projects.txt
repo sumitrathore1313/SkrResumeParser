@@ -1,0 +1,429 @@
+ADDITIONAL INFORMATION
+
+Technologies: Perl
+Team: Product Creation Tool (PCT)
+Role: Developing and Testing
+Description:
+The binary compatibility analysis tool will check two releases of software components of Symbian OS, and
+report if there is any break, which is required to maintain the software components, so that the third party
+application work properly. The script extracts the library symbols and its ordinals, and report if any change
+appears when compared with new releases of the library.
+
+OpenVPN LoadTest Software July 2006 - Sept 2007
+Client: OOMA, US
+Employer: Wipro Technologies, Pvt. Ltd. Bangalore
+Environment: C, Posix Threads, OpenVPN software, Linux
+Role: requirement gathering, designing, developing software & system testing
+Description:
+Open VPN loadtest software application is designed to load Open VPN software and asses its capabilities
+in terms of client connections. Measure the performance of the client connections with respect to stability,
+loss of packets over communication channel, latency per client when load on server is high and band width
+for the clients. The Open VPN tunnel allows secure connection between clients and server using SSL. The
+requirement was to analyze Open VPN software, design application to load the Open VPN server with as much
+clients as possible from single machine till system can't handle and measure the client-server communication
+performance parameters like latency, throughput and packet loss.
+
+Multi Sensor data Fusion software for AKASH SAM System. Jan 2005 - Jun 2006
+Employer: DRDO , Bangalore
+Environment: Lynx RTOS, C & VME Backplane Communication
+
+Role: Developer and integration with other sub systems
+Description:
+Multi Sensor data fusion software is the master software on the Battery Command Center (BCC) controlling
+the AKASH Surface to Air Missiles, where in the information given to commander sitting at the console, should
+be able to see and take decision based on the real time threats of the targets. The target reports are coming
+from two sensors viz. Battery Level Radar (BLR- Fire control radar) and Battery Surveillance Radar (BSR)
+which need to be fused and presented to commander as one target in consolidated complete air picture. The
+fusion process is combination of correlation and association process. The data seen at BCC should also be
+sent to a master GCC using serial communication in real time.
+
+Group Command Center (GCC) simulator for BCC. Sept 2004 - Jan 2005
+Employer: DRDO , Bangalore
+Environment: C, C++, Window XP
+Role Designer, Developer and integration with the system.
+Description:
+BCC is single system with fire control radar of some Km range and some degree in azimuth coverage. The
+GCC takes four to eight such BCC's and give a more complete and better air picture over a wider area. Thus
+integration & testing with such system for proper development of BCC MSF software is needed. So, simulator
+is needed for real time communication with BCC to show the correctness of BCC software by both online
+display and offline-logged data after extraction and analysis. A simulator was developed which runs two parallel
+threads for input and output. Queues were maintained maintaining I/P and O/P buffers. The communication
+incorporates full handshake through serial ports.
+
+PROJECTS
+
+Popular Movies - github.com/dhermanu/PopularMoviesI May 2016
+• Developed a responsive Android mobile application that displays popular and top rated movies retrieved
+from TheMovieDB API. Also the application saves and displays favorite movies (Java, Retrofit, Picasso)
+• Built the UI for both tablet and phone (XML)
+
+M's Code - github.com/dhermanu/mscode-app August 2015
+• Designed and developed an Android mobile application that encodes and decodes Morse's code into texts,
+light, or sound (Java)
+• Responsible for the UI/UX design and frontend of the Android application (XML)
+
+Telecom Customer Web Application March 2015
+• Developed a dynamic web application using Spring Framework that allows customers to have their own
+billing accounts.
+• Responsible for testing the application using JUnit (Java)
+• Applied different software design patterns such as the Singleton, Model View Control, and Strategy pattern
+
+Projects
+• ERP system which consists of:
+- Local management system.
+- ADSL customer management (Internal web application to manage ISP customers, reducing the paper work
+and automating the ADSL order process).
+- Reporting system.
+- Ticketing system.
+- Users and permissions management system (role and user level).
+• Websites:
+http://www.runnet.sy
+http://standsworld.com/
+http://hseworld.net 
+http://www.consultationteam.net
+http://tareksaada.com/
+http://fallouh.net/
+http://latakiacc.org
+
+• Web application to manage GSM modem and other web services.
+PROJECTS
+--------------------------------------
+1. TweetBlog
+
+• Created a Java Enterprise Web Application that allows users to maintain the group blog.
+• Established system had a public “front page” showing the most recent blog in reverse chronological order,
+along with the author and timestamp of each blog.
+• Developed and maintained user interface for the application based on product requirements.
+• Enabled the users to create an account providing their username and password, later allowing those users
+to create a new blog if logged in successfully.
+• Used the “Model 2” MVC architecture combining the Servlets, JSPs and Maven dependencies.
+-------------------------------------
+2. Medical Record System Software (MRSS) 
+
+• Built an interactive real time web application from scratch to store and manage patient’s information online
+• Designed, developed and administered login and registration forms and created user interface layout using
+standard HTML/CSS practices. 
+• Executed functional testing using Selenium IDE and modified unit tests using JUnit framework.
+-------------------------------------
+3. Ensuring Distributed Accountability for Data Sharing in Cloud.
+
+• Successfully offered security to data which data owner uploaded on cloud
+
+• Developed and maintained front end functionality of the system.
+• Experienced writing test plans, developing test scenarios along with test cases and performed manual testing
+of the system.
+• Published a research paper in the International Journal of Engineering Research and Technology
+URL: http://www.ijert.org/view-pdf/7938/data-sharing-ensure-accountability-distribution-in-the-cloud
+---------------------------------------
+4. Metrics is Agile: SCRUM, XP and other Agile Methods
+
+• Mentored the team of four people.
+• Analyzed and demonstrated different concepts of agile methodologies.
+---------------------------------------
+5. Weather Application
+• Developed a weather application using an Open Source API which gives current weather data for any location
+on Earth including over 200,000 cities.
+ADDITIONAL INFORMATION
+
+SUMMARY OF QUALIFICATIONS
+• Databases, and Client/Server Applications Expertise (MySQL, MS SQL and Access)
+• Advanced education in Software and Hardware
+•  Excellent  communication,  analytical,  interpersonal,  and  presentation  skills;  expert  at  managing  multiple
+projects simultaneously.
+• Designed front-end, back-end and middle tier applications
+• Extensive experience working with survey packages (SPSS)
+• In-depth knowledge of Rational Unified Process (RUP); risk engineering; data modeling and mapping; and
+design using UML, and Visio
+• Strong knowledge in the Internet Technology and E-commerce
+• Knowledge in programming: HTML, Java/JSP, C/C++, Visual Basic.Net, JavaScript, PHP, ASP.Net, ASP
+and CSS
+
+ANALYTICAL/ORGANIZATION/RESEARCH
+
+• Researched, compiled, prepared and presented reports, business requirements and other relevant material
+to groups and individuals
+• Interfaced with business users to prepare and update Business Process Requirements (BPR) and Software
+System Requirements (SSR). Created test cases and test scripts.
+• Conducted System design and development required for business process 
+• Assimilated and analyzed complex issues and concepts in order to dissect, simplify and resolve problems,
+both in hands-on and simulated scenarios
+• Applied change requests, versions, and addendums.
+
+COMMUNICATION/PRESENTATION/PUBLIC RELATIONS
+
+• Communicated with all levels of authority on matters related to technical and non-technical issues through
+the effective use of interpersonal, written and verbal communication skills
+• Prepared and delivered numerous speeches in front of large number of delegates
+• Organized and coordinated social events and club activities between other clubs while in the position of Lead
+Mentor
+• Communicated verbally and in writing with different departments.
+
+TECHNICAL CAPABILITIES
+Databases and Data Modeling
+• Developed back-end databases for web applications (MS SQL) 
+• Modeled project prioritization data and helped to develop databases
+
+• Developed tools to automate the storage and presentation of environmental data, as well as to provide for
+data entry and reporting. These were client-server applications of PC desktop tools that used data from remote
+servers. (Microsoft Access, Excel, MS SQL on Windows) 
+•  Managed  data,  including  data  entry  oversight,  statement  of  work  preparation,  data  modeling,  report
+development 
+Web Development
+• Assorted web development projects mostly involving PHP access to a MySQL database, with considerable
+HTML design and JavaScript enhancement
+• Developed an e-commerce site - both back-end administration pages and customer interfaces using ASP.Net,
+MS SQL, and VB.Net
+•  Applied  graphic  design  principles  to  produce  innovative  print  documents  and  Websites  (Macromedia
+Freehand, Fireworks, and Dreamweaver)
+• Designed layouts for web interfaces using a combination of web technologies including Macromedia Flash
+Programming
+• Object-Oriented Programming, Data Abstraction and Problem Solving with Java 
+•  Distinguished  theoretical  and  practical  knowledge  of  Object-Oriented  methodologies,  Object-Oriented
+Analysis and Design, UML, Use-Case-driven development, the Unified Software Development Process, and
+the full Software Development Life Cycle (SDLC)
+• Created system architecture and design using the UML Analysis Model and Design Model
+• Developed business applications with data-entry operations and other design perspectives using VB.Net
+Major project: Hybrid cloud approach for data secure authorised deduplication.
+Team Size: 2
+Platform: J2EE, Java script, JSP
+
+Mini project
+Title: Company information tracking system
+Team Size: 2
+Platform: J2EE, Java script, JSP
+TRANNING & TECHNICAL SKILL
+• Attended Workshop on WEB DESIGNING By ERUDITE IT SOLUTION in Aryabhata Institute of Technology
+& Science.
+• I Attended the project work of government of telangana.CENSES & ADDHAR LINK WITH VOTER ID
+Main Project (M Tech):
+
+Title: DATA ALLOCATION ON WIRELESS CHANNEL USING KEYWORDS
+Environment: core java.
+
+Description:
+
+The  rapid  development  of  wireless  network  and  powerful  portable  computer  technologies  has  accelerated
+the development of mobile computing technologies and wireless information systems, thus resulting in the
+increased and widespread use of mobile computing devices. A large number of mobile users carrying portable
+devices will be able to access the information from anywhere and at any time. Energy-and latency-efficiency
+are two critical issues in wireless data broadcast system. Two basic performance metrics namely access time
+and tuning time are used to measure energy-and latency-Efficiencies. In Wireless Environment broadcasting
+is an effective and scalable technique to disseminate information to large number of mobile clients. Several
+Indexing  techniques  are  there  for  accessing  data  items  on  Broadcast  channel,  It  reduces  the  tuning  time.
+Previously indexing methods were proposed for full text searches they are targeted for data in disk storage.
+For text searches in wireless broadcast channel, index scheme using keyword search will be implemented with
+the help of inverted list index method and full-text search algorithm. And analysis of index scheme performance
+will be done with respect to latency and energy usage. Index scheme will be implemented by using IEEE
+802.11.g as communication media.
+Solution Provided:
+In Wireless environments data broadcasting is widely used for information delivery services due to its beneficial
+characteristics such as bandwidth efficiency, energy efficiency and scalability. This project a novel indexing
+scheme which is and latency efficient for text retrieval queries on the wireless broadcast data stream has been
+implemented. The Text retrieval on the disk storage is different from wireless one.
+
+First, a simple, inverted list-style index method is constructed. In order to reduce the tuning time overhead (i.e.
+Energy waste) caused by the sequential scan of the inverted list, an additional level of index structure, which
+is the index tree for the inverted list is added. For both methods, their extended versions have been devised,
+wherein the inverted list and the index tree are replicated: (1, α) and (1, α (1, β)) methods.
+Calculations of access time and Tuning time will be done in both the methods and results shows that Tuning
+time of (1, α (1, β)) method is less compare to Tuning time of (1, α) method. Therefore by using two level
+index structure (inverted index list and tree index) Full Text search operation can be done faster compare to
+single level index structure (inverted index list)
+
+Main Project (B Tech):
+
+Title: Two Way Messaging
+Environment: Asp.Net, C#.Net, SQL Server 2005.
+
+Description:
+
+Two  Way  Messaging  platform  which  allows  you  to  receive  SMS,  besides  sending  SMS.  This  allows  you
+complete  flexibility  in  managing  your  incoming  message.  You  can  modify/alter  or  delete  these  received
+messages  as  per  your  need.  The  Two-Way  SMS  feature  works  using  a  'KEYWORD'  as  identifier  of  your
+messages. The keyword should be greater than 4 characters. When an SMS message is received, the gateway
+will evaluate the content of the message, and can either execute a program, or connect to an HTTP URL,
+based upon the content of the message.
+The  decision  of  how  to  process  a  received  message  is  based  upon  the  first  "word"  of  the  received  SMS
+message. In the terminology of gateway, this first word of the received message is called the "SMS Command
+Prefix". Based upon this "SMS Command Prefix", the gateway will execute a command associated with the
+prefix.
+
+Solution Provided:
+So many websites which gives information is not up to "user satisfaction". There is a lot of information resources
+on internet but nothing can be communicated through cell phones. There is no possibility to send reply to
+source. So, we are having ability to send information to users directly to their cell phones which is the most
+effective way of advertising. It is also used for institutes, social welfare groups etc. It is satisfactory in security
+concerns by building Admin and Gateway modules.
+
+The whole process of the Two Way Messaging application is basically divided in three main modules.
+
+1. Advertiser module
+1. Admin module and
+2. Gateway module
+PROJECT DETAILS
+• Online Railway Reservation System using Oracle at the backend & VB at the frontend.
+• Student Placement Management System using php as the primary scripting language & MySQL Database
+for backend support & Notepad++ IDE for development and design.
+Project 1:-
+
+Project Title: cyber security management
+Duration: 1 1 year
+Front end: PHP
+Back end: MY SQL
+Responsibility: analyzing, designing programming and testing
+
+Project 2:-
+
+Project Title: digital F.I.R
+Duration: 1 year
+Front end: Android+PHP
+Back end: MY SQL
+Responsibility: analyzing, designing programming and testing
+PROJECT:
+Title: Universal pizza management, Medical store
+
+DESCRIPTION:
+This Universal pizza management project can be used by different peoples who worked at pizza centers and
+who are booking pizza which keeps a detail computerized of all customers and products has been supplied.
+
+PROJECTS UNDERTAKEN
+
+PROJECT TITLE E-logistics for Warehouse Management
+
+TECHNOLOGY Jsp, Mysql
+
+DESCRIPTION
+The aim of the project is warehouse management of goods for enabling
+Customer satisfaction there by achieving firms objectives
+Language of implementation: C++
+Operating system: Windows 98/XP/07
+Description: This Supermarket Billing System will handle all the activities of super market.I have
+learned from this project is to convert the existing manual system to automated sales process system.With
+this project salesperson can manage data automatically.
+Project name: E-GURU
+Language of implementation: PHP
+Operating system: Windows 98/XP/07
+Description: The purpose of this E-Learning Management System project is to develop a back-end
+application for e-learning applications and queries using graphical user interface It allows for flexible data
+format and delivery of its data so that each analysis application can receive only the information it needs
+and in the format required.
+1. B.Sc. (Computer Science) Project:
+Project Title: Service Center
+Duration: 3 Months
+Technologies used: Front End - PHP, Back End-MySQL
+Description: This system is developed for Service Center to properly maintain the records in Service Center.
+It maintains information about Customer Details, Billing details, Available Services, Maintainance.
+Role: System Designer, Developer
+Team Size: 2
+
+2. M.C.A (Management) Projects (Internship):
+Project Title: Goddhod
+Duration: 4 Months
+Technologies used: PHP, HTML
+Description: This project is an e-commerce website related to all sweets and dry fruits .It contains informational
+pages like OTP (one time password), Create Account, Shopping Cart and Invoice. The Home page gives
+information of all the products.
+Team Size: 1
+Academic Project:
+➢ Project Title: Request Dispatching for Cloud Data Centers
+
+➢ Duration: 4 Months
+
+➢ Web Application: JSP, JavaScript, HTML
+
+➢ Database: SQL Server 2000
+
+➢ Team size: Single
+Project Details:-
+Online Examination System
+Role Programmer
+Technology Asp.NET, C#.NET, SQL SERVER 2012
+Team Size 4
+Key Features Used in Project: Stored procedure, Trigger, Cursor, AJAX Control Tool kit, DB Constraints
+Description
+The computer based solutions are being developed as per the requirements of our day to day jobs. Earlier the
+ONLINE EXAMINATIONs had to face so many problems during worked manually in ONLINE EXAMINATIONs
+that's why Staffs were also facing the same problems.
+But now with the help of this software we can open any type of Student detail like:- Name, Address, date of
+birth, Contact number, Student registration number, Exams Paper etc.
+Beside  all  of  these  this  software  also  stores  the  information  about  all  Examiners  of  the  ONLINE
+EXAMINATIONs.  Such  as-  Examiner  Name,  Specialty,  Address,  Examiner  registration  number,  Contact
+number etc.
+PROJECT DETAILS
+• Online Railway Reservation System using Oracle at the backend & VB at the frontend.
+• Student Placement Management System using php as the primary scripting language & MySQL Database
+for backend support & Notepad++ IDE for development and design.
+B.E Project:
+
+• Title: WiFi Enable Indoor Position System.
+• Description: The application finds the indoor position of client using WiFi like GPRS in perticular building.
+• Technology Used:Android.
+
+T.E Projects:
+
+➢ Project 1
+• Title: Attendance Management System.
+• Technology Used: Front-End:-Vb.net, Back-End: - Oracle 10g.
+
+➢ Project 2
+• Title:Result Analysis System.
+• Technology Used: Front-End:- Asp.net, Back-End: - Oracle 10g.
+
+Mini-Project: Online Voting System - Organizational basis Duration: 90 days
+Team Size: 3
+Language used: HTML, PHP, JavaScript
+Database: MySQLi
+A web-based application that enables an organizational level online voting system which provides security in
+the sense that voter 's token number is confirmed before the vote is accepted in the main database confirming
+his/her vote goes to correct candidate.
+
+Main Project: Open Road Tolling by Pattern Recognition - Toll Automation Duration: 90 days
+Team Size: 4
+Language used: HTML, Java, JavaScript, Android, Swing
+Database: MySQL Workbench 6.3 CE
+A  web-based  application,  mobile  application  and  a  swing  application  for  admin,  user  and  booth  operator
+respectively enables to keep an eye on the vehicles passing through a booth, if applicable pull in details from
+Motor Vehicle Department, and have a QR-code scanned for the toll payment; which means people can go
+cash-free help save time, avoids fuel loss and monitors the traffic, and as a future enhancement can add in
+theft-alert.
+PROJECT Criminal Face Identification System (B. Tech - 7th Sem)
+
+Project Details
+
+: This software generally contains personal information about particular person along with photograph. To
+identify  any  Criminal  we  need  some  identification  regarding  person,  which  are  given  by  eyewitness.  To
+overcome this sort of problem we are developing software.
+Tools & Technology: Java (Java Swing, AWT), Oracle 10g
+Team Size: 2 Members
+Responsibility: Developer (Back-end coding)
+
+STRENGTHS
+
+➢ Quick learner, adaptive
+➢ Self-motivating & positive attitude
+➢ Punctuality
+➢ Good analytical & logical skills
+➢ Like to work in a team
+➢ Responsible, dedicated & hard working
+
+Projects
+Online Mobile Billing and Customer care system in PHP
+Minor Project: Online Student Attendance System
+Team Size: 3 members
+Duration: 2 months
+Description: Online website based student attendance system capable of taking student's attendance of a
+particular class, branch and semester. Project has 2 user domains faculty domain and student domain.
+
+Industrial Training:
+Company/ Organization: Ducat
+Project Name: Warehouse
+Technology Used: Salesforce
+Project Title "Petrol Pump Inventory System "
+Technologies Used Java, JSP, Javascript, CSS, MYSQL 5.6
+Software Used Eclipse
+Duration 6 Months
+Team Size 2
+Responsibilities Requirement Analysis, Designing, , Development, Documentation, Testing
+Project Details
+The project gives the detail inventory about Petrol pump. System are stored using MYSQL. .The inventory
+reports are generated daily.It also keep record of employee attendance.

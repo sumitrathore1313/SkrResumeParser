@@ -1,0 +1,47 @@
+<ba>
+Liyang Ye
+
+Web Developer
+
+East Lansing, MI - Email me on Indeed: indeed.com/r/Liyang-Ye/a868cd4edd7759f6
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Lishui, CN - May 2015 to August 2015
+
+- Lishui, Zhejiang, China
+A small company need to improve its website to make it simple and smart, so people can shop on the website
+easily. I worked with two other people and my job was to build the shopping system, basically was just
+connecting each links.
+Coded www.mpsj99.com websites using HTML.
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Computer Science
+Michigan State University  -  East Lansing, MI
+2017
+
+Design
+Primary and secondary storage management
+</ed>
+<sk>
+SKILLS
+
+PROBLEM SOLVING (Less than 1 year), XCODE (Less than 1 year), C++ (Less than 1 year), UI (Less than
+1 year), USER INTERFACE (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Skills
+Basic knowledge of python, C and C++
+Basic knowledge of UI
+Quick learning
+Familiar with Xcode and use it to build a mobile
+application.
+Advanced problem solving skills
+Troubleshooting and debugging
+</sk>
+

@@ -1,0 +1,68 @@
+Arockia S
+
+Assistant Professor - Nagaphooshanam Fastners
+
+Tirunelveli, Tamil Nadu - Email me on Indeed: indeed.com/r/Arockia-S/a637b4d381c9239a
+
+I am a highly motivated person who's ready to use my educational background and skills to impart knowledge
+to learners by using modern and traditional approaches to develop the learner's skills.
+
+WORK EXPERIENCE
+
+Assistant Professor
+Nagaphooshanam Fastners  -  Tiruchchirappalli, Tamil Nadu - July 2010 to Present
+
+Pavendar Bharathidasan College of Engineering and Technology, Trichy since July 2010 onwards
+
+Computer Skills
+
+• C, C++
+• Matlab
+
+• Java
+• C# and .Net
+
+Area of Interest
+
+• Data Structure
+• Operating System
+• Distributed Systems
+• Component Based Technology
+
+PG - Academic Project
+SECURE  DISTRIBUTED  CLIENT  CACHE  INVALIDATION  ON  TRUST  BASED  WIRELESS  MOBILE
+NETWORKS
+A mobile ad hoc network (MANET) is a self-configuring infra structureless network of mobile devices connected
+by wireless. Each device in a MANET is free to move independently in any direction, and will therefore change
+its links to other devices frequently. Each must forward traffic unrelated to its own use, and therefore be a
+router. These mobile devices are characterized by limited resources, high mobility, transient availability, and
+lack of direct access to the data source. Data caching is essential in MANET because it increases the ability
+of mobile devices to access desired data, and improves overall system performance.
+Maintaining the data consistency between cache client and source is the main issue in MANET because of
+frequent updates in the data of source. In general three types of cache consistency mechanisms are used.
+They are push based (server-based), pull based (client-based) and hybrid (both) mechanisms. In Proposed
+System pull based algorithm to provide strong consistency for the data.
+
+Administrative Officer
+Nagaphooshanam Fastners  -  Tiruchchirappalli, Tamil Nadu - July 2008 to Present
+
+2008 to
+
+EDUCATION
+
+Master of Engineering in Computer Science and Engineering
+Pavendar Bharathidasan College of Engineering and Technology, Anna University  -  Chennai, Tamil Nadu
+2014
+
+Bachelor of Engineering in Computer Science and Engineering
+SCAD College of Engineering and Technology, Anna University  -  Chennai, Tamil Nadu
+2008
+
+Higher Secondary School at ST Joseph Higher Secondary School
+2004
+
+SSLC
+ST Joseph Higher Secondary School
+2002
+
+

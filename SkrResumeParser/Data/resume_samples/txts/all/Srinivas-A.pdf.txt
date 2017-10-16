@@ -1,0 +1,205 @@
+<ba>
+Srinivas A
+
+Atlanta, GA - Email me on Indeed: indeed.com/r/Srinivas-A/72f24f86875b7a18
+<su>
+•  6+  years  of  experience  in  building  extremely  scalable  application  with  high  up-times  and  to  excel  in
+technological
+• 3 years of experience in Mobile Application Development using Android Technology.
+• Experience in Developing Native Android Applications and Integration
+• Experience in Broadcast Receivers, Content Providers.
+• Experience in Service Communication
+• Conceptual Knowledge in NDK.
+•  Expertise  in  developing  applications  using  Core  Java,  XML&  JSON  Parsing  and  working  experience  in
+Android API's. 2.2 (Froyo), 2.3 (Gingerbread)) and above
+• Good integration experience in WebServices(SOAP, REST Services)
+• Working experience in Parsing Techniques like DOM & SAX
+• Working experience with SQLite (on Android) Databases
+• Involved in the design and development of Mobile Applications
+• Involved in Testing of Mobile Apps in Android Emulator (ADT), Soap UI.
+• Extensive hands on experience on Java, JDBC, Servlets, JSP, Struts.
+• Working experience in Development Environments Like Eclipse IDE, Android
+Studio
+• Good Experience on Version Control using Subversion, CVS and PVCS (Polytron Version Control System).
+• Good knowledge in RDBMS concepts (Oracle 11g, MS SQL Server 2000) and strong SQL, PL/SQL query
+writing skills (by using TOAD & SQL Developer tools), Stored Procedures and Triggers.
+• Good knowledge in preparing technical documents MD070 and deployment document MD120.
+• Ability to Learn in a fast paced environment and a team person to the core.
+• Possess excellent presentation, interpersonal skills with a strong desire to achieve specified goals.
+
+Appreciations
+
+• Received appreciation from client (Gas South) in designing of Gas South Android App.
+• Received Shining Star, Maverick and Feather on my Cap Awards from Wipro
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+GAS SOUTH  -  Atlanta, GA - May 2015 to Present
+
+Project Name: Gas South
+Project Description: Gas South is Georgia's fastest growing natural gas provider. Gas South application helps
+you pay your bill on time and manage future payments from the convenience of your Android smart phone.
+
+Key Features on the App -
+• CONVENIENCE: Store and access all of your Gas South accounts and payment methods to make quick
+future payment from your device.
+• ACCOUNT BALANCE: Would like to know how much you need to pay? Amount due information is sent
+directly to the app
+
+• PAYMENT METHODS: Pay using your bank account, VISA and MasterCard credit/debit cards
+• SAME-DAY PAYMENTS: Make immediate, same-day post payments to your Gas South account
+• PAYMENT HISTORY: Payment receipts sent directly to your email inbox and view past in-app payments
+right from your App.
+• LOCATIONS FINDER: Find a Gas South authorized payment locations near you.
+
+Role: Android Developer | Environment: Android Studio, Java, Oracle 11g
+
+Responsibilities:
+1. Implemented complex custom layout design for Gas South application.
+2. Responsible for integrating from the internal server and made application flexible to update changes at any
+point of time.
+3. Implemented application to handle orientations and support different screen sizes.
+4. Handled web services consumption for fetching content from the Weblogic Server.
+5. Integrated Facebook.
+6. Integrated Google Map-kit for showing the payment locations.
+7. Used subversion as version control.
+
+Android Developer
+CISCO SYSTEM  -  San Jose, CA - January 2014 to May 2015
+
+Project Name: X1 Sourcing
+Project Description: Large scale services (LSS) Supply Chain -Oracle Applications -R12 is the initiative to
+migrate all Supply Chain Oracle Applications 11i processes to standard tools of Oracle Applications R12 and
+improve tools availability and ability to respond to business requests. As part of this initiative the new projects -
+cost automation and mobile applications are developed to automate the certain type of request for information
+(RFI), Request for Quote (RFQ), sourcing rules, externalize the agreements to cisco manufacturing partners
+to provide better online rates and easy way to approach the system.
+
+From your phone, anywhere and anytime, take quick action on approval requests across functional areas in
+Oracle E-Business Suite Sourcing module.
+
+Key Features on the App -
+• Quickly filter approval requests by sender, subject, or type
+• Review at a glance header and line item details, action history, attachments, and comments
+• Approve or reject with or without comments, or request more information
+• Upload csv files and get the quotes by email.
+
+Role: Android Developer | Environment: Eclipse, Android Studio
+
+Responsibilities:
+1. Conduct proof of concepts on the solution.
+2. Understanding the existing system and transforming that into new system.
+3. Designing solution and preparing Technical Design Document.
+4. Co-coordinating with offshore explaining solution and technical approach to ensure the on-time deliverables.
+5. Responsible for on-time deliverables.
+6. Ensure the dependent team's needs are satisfied.
+7. Responsible for overall excellent souring and costing solution design for the Cisco.
+8. Ensuring code maintenance in PVCS
+9. Co-coordinating with business for testing.
+
+10. Go-Live and Post Go-live supporting
+
+Wipro Design - March 2013 to January 2014
+
+Project Description: Wipro Design is a first of its kind Lighting Design App launched by Wipro Lighting.
+
+Key Features on the App -
+• Users can do the Lighting Design for Offices and Industries.
+• Users can create BOQs of the Lighting Design.
+• Users have an option to get a copy of the BOQ on their email id.
+• Users can see our latest LED and Conventional product offerings
+• Users can view their Designs and see how the designed area would look like
+
+Role: Android Developer | Environment: Android Studio, Oracle 11g
+
+Responsibilities:
+1. Implemented custom layout design for Wipro Design application.
+2. Implemented application to handle orientations and support different screen sizes.
+3. Handled web services consumption for fetching content from the Weblogic Server.
+4. Designing solution and preparing Technical Design Document.
+5. Used CVS as version control.
+6. Responsible for on-time deliverables.
+7. Go-Live and Post Go-live supporting
+
+App Link: https://play.google.com/store/apps/details?id=com.wipro.wiprolighting&hl=en
+
+CISCO SYSTEM - May 2012 to March 2013
+
+Project: RCDN Migration and Enhancements on Java Applications
+
+Project  Description:  RCDN  Migration  project  involves  the  migration  of  applications  from  San  Jose  to
+Richardson. The Richardson data center has WAS 6.1 so all the applications needs to be migrated from WAS
+5.1 to WAS 6.1 with necessary connectivity changes. Moreover, at new da ta center at Richardson applications
+will be protected by Oracle Access Manager which was earlier getting protected by SiteMinder at San Jose.
+Migrating few Oracle forms from one server to other server. And Enhancements of all the migrated applications
+in new environment.
+
+Role: Java/J2EE Developer | Environment: Eclipse, Oracle R12, Toad
+
+Responsibilities:
+1. Requirements analysis and Design phase.
+2. Coding on Java, Servlets, JSPs and struts framework.
+3. Server and Client side validations.
+4. Migrating all the java/j2ee applications from SJ to RCDN in Stage environment.
+5. Code review.
+6. Unit testing and problem analysis and fixing.
+7. Discussion and meeting with client for requirements.
+8. Preparation of Test Cases and Test Review reports.
+
+MasterCard  -  Hyderabad, Andhra Pradesh - December 2011 to May 2012
+
+Project Name: MasterCard PayPass Locator
+
+Project Description: Find merchants who accept MasterCard PayPass around the world with your Android's
+GPS, by entering an address or an airport location, from wherever you happen to be. The MasterCard PayPass
+locator makes it fast and easy for you to locate the closest PayPass locations. And because the app is location
+aware, there's no need to input your address or current location. The PayPass locator lets you tailor your
+search by category and merchant name.
+
+Key Features on the App -
+• Finds PayPass merchants near your current location.
+• Finds PayPass merchants near any address or airport location in the world.
+• Provides you with the distance between your chosen location and the PayPass enabled merchants.
+• Provides you with driving directions and a map to the nearest PayPass merchant locations.
+•  Filters  your  PayPass  search  based  on  the  type  of  merchants  you  need:  convenience  stores,  fast-food
+restaurants, retail, transportation, automotive, and many more.
+
+Role: Android Developer | Environment: Eclipse
+Responsibilities:
+1. Implemented custom layout design of App.
+2. Implemented application to handle orientations and support different screen sizes.
+3. Handled web services consumption for fetching content of Locations.
+4. Designing solution and preparing Technical Design Document.
+5. Integrated Google Map-kit for showing the payment locations
+6. Used CVS as version control.
+7. Responsible for on-time deliverables.
+8. Go-Live and Post Go-live supporting
+
+App Link: https://play.google.com/store/apps/details?id=com.mastercard.paypass&hl=en
+
+CISCO SYSTEM - March 2010 to December 2011
+
+Project: Enhancements on Java Applications
+Project  Description:  Manufacturing  Reporting  Analysis  Project  (MRAP)  is  an  automated  daily  virtual  close
+reporting tool for use by Manufacturing Finance and for Manufacturing Operations. Add 2 columns [Account
+Number and Posted/Unposted Journal Status] in the GL Totals. Adding the GL Details Report on MRAP tool
+for better reporting and enhancing Business user's capability. Add an Account column in Perpetual Totals
+excel (that gets generated when user clicks on Perp Totals) on the GL Details Report on MRAP tool for better
+reporting and enhancing Business user's capability. Add "Account" Column on the MRAP Tool on the Flash
+report for better reporting and enhancing Business user's capability.
+
+Role: Java/J2EE Developer | Environment: Eclipse, Oracle R12, Toad
+
+Responsibilities:
+1. Requirements analysis and Design phase.
+2. Coding on Java, Servlets, JSPs and struts framework.
+3. Server and Client side validations.
+4. Developing application using java/j2ee.
+5. Code review.
+6. Unit testing and problem analysis and fixing.
+7. Preparation of Test Cases and Test Review reports.
+
+

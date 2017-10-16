@@ -1,0 +1,1847 @@
+SKILLS 
+Operating System Windows 7 Vista XP Mac OSX Android Ubuntu 
+Languages JAVA C C JSON 
+Scripting Language JavaScript 10 15 
+Databases SQL SQLite MySQL 
+Web Designing HTML5 CSS XML UML Web Logic 6 
+Version Control Tools CVS SVN 
+Web Application Servers Tomcat IBM WebSphere 
+Framework STRUTS spring Junit AJAX 
+Android Skills Android SDK 15 to 42 Tablets Smartphone ADT 
+Other Skills Dreamweaver Photoshop FlashSKILLS 
+Android 3 years 
+TECHNICAL SKILLS Android Development Android SDK Android NDK ADT plug in Google API s Android Studio Eclipse IDE 
+JDK Java XML JSON 
+Programming C C Java and PHP 
+Web Development HTML CSS JavaScript jQuery Ajax Angular JS HTML5 
+Parsing Techniques JSON XML 
+Databases SQL SQLite MySQL Oracle 
+Operating Systems Windows Linux and Mac 
+Version Controller GIT SVN Source Tree Tortoise SVN CVN Bit Bucket 
+Methodologies and Models Waterfall Model Sequential Iterative and Agile Scrum 
+Third Party Tools Phone Gap Xamarin Urban Airship JIRA JAMA and Fiddler 
+Editors Eclipse Android Studio edit plus Management Studio phpMyAdminSKILLS 
+Android SDK Phone Gap SQL HTML Java 
+ADDITIONAL INFORMATION 
+SOFTWARE SKILLS 
+Languages Java Objective C C C JavaScript PHP SQL Action Script 30 
+Frameworks Android SDK Java Development Kit JDK NET C standard Library jQuery Mobile 
+Web Technologies HTML 5 CSS 3 XHTML 11 XML 18 JavaScript 185 jQuery AJAX RS Jersey Apache 
+Tomcat 
+Development Testing Tools J Unit TestNG Robotium Dreamweaver CS5 Photoshop CS5 MS Office Open 
+Office Suite 
+Databases SQLite SQLite Mobile MySQL Oracle 10g 
+IDEs Eclipse Android ADT NetBeans XCodeSKILLS 
+Android 2 years Eclipse Less than 1 year GIT Less than 1 year Java 2 years 
+ADDITIONAL INFORMATION 
+Skills 
+Languages Java JavaS cript Kotlin JSON XML 
+Tools GIT Jira VIM Android Studio Eclipse Visual Studio Code 
+Library Retrofit Dagger Guava OKHTTP GSON RxJava Junit Butter KnifeSKILLS android developer Less than 1 year 
+ADDITIONAL INFORMATION 
+Communication SkillAbility to communicate at all levels 
+Oral Communication enhanced through presentations during my academic Career 
+Areas of InteresApplication Development Android 
+Social NetworkingAREAS OF STRENGTH 
+Android Application Development Web Services Database Design Data Structure Algorithms Project 
+Management Software Lifecycle Development Design Patterns Requirement Analysis Front Back End 
+Design Testing Troubleshooting Debugging Social Media Integration Location Services Integration 
+CORE SKILLHighly experienced in full lifecycle development of the application from planning requirements gathering development testing 
+Designed and Developed web services using RESTful and SOAP which implemented majority social media 
+APIs like Twitter Facebook and GoogleDesigned Up to date UI Layouts implemented Action Bar Fragment Widget Swipe Views etc using the 
+Android SDK and real Android Device 
+Extensive knowledge in Activity Lifecycles Intent Bundle Fragment Permissions Process Lifecycles 
+Hands on experience in background Services Multimedia Map Locations Shared Preference GPS Sensor systems and transferring data from one device to another 
+Used Multi Threading to handle the long running operations that need to be performed at the background asynchronously 
+Performed unit testing with JUnit and determining the application functionality 
+Experienced in GitHub for version control and source code management 
+TECHNICAL COMPETENCIES 
+Languages Android Java J2EE 
+Web JSP JSF PHP REST APIs RabbitMQ SOAP AWS SNS JSON XML CSS3 HTML5 JavaScript 
+Ajax jQuery APIs 
+Tools Android Studio Eclipse NetBeans Google Map API GitHub Android UI GPS Sensor and Map services JUnit SDK Manager Mksdcard AVD Manager Android Emulator Device Monitor Android 
+Debug Bridge ADB Dalvik Debug Monitor Server DDMS SQLite 3 LOGCAT OpenGL ADT Plugins 
+Virtual Box 
+Databases Oracle MySQL SQLite 
+Platforms Windows Linux 
+SDLC Agile Scrum Waterfall 
+Design patterns Observer Command Iterator Strategy State Fa ade Factory SingletonADDITIONAL INFORMATION 
+Technical Knowledge 
+Android Development iOS Development Xamarin Development Java Swift C SKILLS 
+Android 4 years Android SDK 4 years Java 2 years testing 2 years XML 4 years JSON 4 years 
+TECHNICAL SUMMARY 
+Google Certified Android Developer years of IT experience with 4 years of Android application design and development testing debugging 
+Good Understanding of Data Structures and Algorithms object oriented programming concepts and usage with Java C C 
+Experience in Android UI toolkit basic picker list views adapters dialogs menus and Layout Managers 
+Proficient in Android application framework Activities Intents Services and Content Provider 
+Experience in developing Android enterprise applications for mobiles and tablets building multithreaded applications using Threads Handlers and AsyncTask and Debugger DDMS Logcat 
+Experience with multiple data storage techniques using SQLite Shared Preferences Content Providers and 
+Local Storage 
+Developed Android Applications using Java Android APIs Data Storage Connectivity Location 
+Notifications Android SMS Manager and deployed in Google Play Store 
+Solid Understanding of Mobile Design Patterns 
+Extensive understanding of Material Design guidelines and Performance Tuning using Hierarchy Viewer 
+Android Monitors Heap Viewer and SysTrace 
+Understanding and experience using web service protocols JSON HTTP and REST 
+Experience in writing Unit tests using Expresso 
+Hands on experience with Android Wear 
+Familiarity with SDLC TDD Agile Methodology Scrum and GIT 
+Team player quick learner excellent analytical design and problem solving skills 
+TECHNICAL SKILLS 
+Languages C C Java JavaScript SQLite Oracle MySQL XML 
+Technologies Android SDK Java JDK J2EE HTML5 CSS3 
+Android App 
+Mobile Development 
+Activities Recycler View List Views Adapters SQLite Horizontal scrolling Notification Manager Contacts 
+Content Provider Location Maps HTTP Client GSON JSON based Web Services Camera API Facebook 
+API 
+Debugging and Testing Tools DDMS Logcat Junit Expresso 
+IDEs Eclipse Android Studio 
+Web Services JSON RESTful API 
+Version Control Tools GIT 
+Applications Microsoft Office 
+Project Management Tools JIRA RallySKILLS 
+Programming Languages Android Java Databases SQLite XML Technologies XML and XSL Operative 
+Systems Android iOS Windows MAC OS Office Tools MS Office Word Excel Power Point Outlook 
+Design Dev Tools Balsamiq Mockups Photoshop Eclipse NetBeans Android SDK and TomCat 
+APIs 
+Facebook Twitter G Google Maps Google Analytics Google ADMob Parse of Facebook FoursquareTechnical Skills 
+Programming Languages Java 
+Databases SQLite3 SQL Server 2012 MS Access 2012 DBMS IBM DB2 Oracle 10g MySQL 
+Web Technologies XML ASPNET HTML5 401 CSS3 JavaScript JSON 
+JavaScript Libraries JQuery Mobile jQuery Bootstrap AngularJS Modernizer NodeJS Handlebars 
+Development Tools 
+Xcode 4 5 Android Studio Eclipse Interface Builder Instruments Microsoft Visual Studio 2010 2012 
+NetBeans IntelliJ Idea Community Edition 13 Adobe Dreamweaver CS 6 
+Frameworks 
+Android SDK Google Maps Android API v2 UIKit MessageUI MapKit CoreLocation CoreData SQLite 
+CoreAudio AVFoundation ASPNET MVC Entity 
+Version Control Github SVNOperating Systems Android OS Windows Vista 7 8 UNIX Ubuntu 1404 
+Web Service Frameworks SOAP RESTADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Operating System Windows Xp 200 NT Professional MAC OS X Android 15 to 51 
+Languages Core Java J2EE JDBC JSP JDK 15 17 C C JQuery 
+Scripting Language JavaScript 10 15 
+Databases SQLite MySQL Oracle DB2 
+Web Designing HTML5 CSS XML UML 
+Version Control Tools CVS SVN 
+Web Application Servers Tomcat IBM WebSphere 
+Android Skills Android SDK 15 to 51 Tablets Smartphone 
+IDE Eclipse NetBeans MyEclipse InteliJ Android StudioSKILL 
+Application Servers Tomcat WebSphere 60 
+IDE Eclipse 3x Net Beans 5x 6x 7x Android Studio Eclipse Visual 
+Studio X Code GDB Android AccessWeb Technologies HTML CSS AJAX Backbonejs JQuery Angular JS 
+OS Android Windows 2008 UNIX 
+RDBMS SQLite 36 Oracle 9i 10g MySQL 
+Concepts OOPS MVC MVP 
+Web Servers Tomcat 60 Apache HTTP Server Apache ANT Maven 
+Design Tools Dreamweaver Illustrator Photoshop Flash 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+SKILLS 
+Strong Knowledge on Object Oriented Programming Created 7 plus user friendly aesthetically pleasing and fully functional applications Proficient with common Android framework APIs Location Camera 
+Notifcations Excellent problem solving communication and collaboration skills Involved at every project phrase from concept creation to play store deployment Experience in working with SQLite Database 
+Experience in designing flexible UI using Fragments Working experience of JSON and XML parsers 
+Expertise in working with public APIs such as Facebook Google Very good understanding of Android 
+Back end and UI guidelines Expert in the interaction between various devices and different versions 
+Regarded as a self motivated and well organized team player Tested applications on device simulators and actual devices to fine tune products 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Languages C JAVA 
+IDE tools Eclipse Android Studio IntelliJ GenyMotion GitHub Subversion Issue Tracking tools JIRA 
+Crashlytics Applause 
+Automation tools Cucumber Robotium Junit 
+Build servers Jenkins Framework Android SDK Java Development Kit JDK 
+Android Specifics Android Studio Gradle Maven ADB User Interfaces Animation Custom Views Google 
+Support libraries Material Design RecyclerView REST JSON Broadcast Receiver Shared Preferences 
+SQLite rd party library integration RetroFit Volley GSON Picasso EventBus Parceler ButterKnife AppCompat 
+Crashlytics Google Zxing 
+Android versions Jelly Beans KitKat Lollipop MarshmallowAPIS 
+SQLite 
+Instructional Design 
+Analytical Skills 
+Advertising 
+Adobe Photoshop 
+Blender 
+D Animation 
+Git 
+JSON 
+REST 
+JavaScript 
+CSS 
+HTML 
+Windows Server 
+Windows 
+Eclipse 
+XML 
+Java 
+Android SDK 
+SKILLS 
+Android Studio APIS SQLite Instructional Design Analytical Skills Advertising Adobe Photoshop Blender 3D 
+Animation Git JSON REST JavaScript CSS HTML Windows Server Windows Eclipse XML Java Android 
+SDK 5 years 
+SKILLS 
+Java 7 years JSON 5 years XML 5 years Javascript 5 years PHP 4 years Oracle 4 years 
+MySQL 5 years Web Services 3 years Android 3 years SQL 5 years HTML 5 years Spring 3 years C 2 years Wordpress 2 years Joomla 2 years Jsp 3 years Angular JS 3 years C 3 years CSS3 3 years 
+Technical Skills 
+Programming language Java PHP C C C SQL XML HMTL JSP C NETWeb Technologies Struts Hibernate Spring JPA Joomla WordPress HTML DHTML XML XSD XSLT 
+JavaScript CSS Web Services JSON AngularJS 
+Database SQL server MySQL PostgresSQL SQLite Oracle 
+IDE Tools Eclipse Android Studio NetBeans JUnit Github JIRA 
+Operating systems MacOS Window Linux Android OS 
+Others Servers Web Logic Application servers Oracle Application server Apache Tomcat 
+Soft skills 
+Well communication in team 
+Problem solving 
+Task oriented 
+Working under high pressure 
+Time managementSKILLS 
+ANDROID 8 years ANDROID SDK 8 years ECLIPSE 7 years JAVA 3 years API 2 years 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Programming C C Java Objective C 
+Tools 
+Android SDK 2X 3X 4X Android studio Eclipse IDE 44 MS Office 2013 Adobe Dreamweaver CC 
+Photoshop SVN 187 EGIT 341 and Maven 321 
+Operating Systems Windows XP Vista 7 8 Linux Mac OS X 
+Development API Android SDK API Core Java API 
+Development Eclipse Visual Studio Android Studio 
+Testing Manual Unit TestingTECHNICAL SKILLProgramming Languages Java 
+Scripting Languages JavaScript Python 
+Operating Systems Windows Unix 
+Databases My SQL 
+Mark up languages HTML XML and CSS3 
+Other Tools Eclipse MS Office Axure RP 
+PROJECTS 
+True Weather App https playgooglecom store apps details id comtandonaishwaryweather April 2015 
+July 2015 
+Created a weather application that displays real weather data by connecting to an internet backend by using 
+OpenWeatherMapApi 
+Added permissions initiated network I O Used Content Provider as an abstraction layer and Loaders to asynchronously load data Created Adapters to bind UI components to Content Providers 
+Implemented Background services and alarms to schedule background tasks background data transfers with Sync Adapters and notifications to interact with users 
+Identified and resolve integration points including offline server integration and validated user input 
+Applied material design principles to activity transitions keylines and layouts and implemented resizable widgets and immersive wallpaper imagesSKILLS 
+ECLIPSE 8 years JAVA 8 years XML 8 years ANDROID 7 years SOAP 7 years 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Programming Languages JAVA C C C JavaScript HTML JavaScript JSON ASPNET Android SDK 
+NDK 
+Platforms Windows Android LINUX 
+Web Technologies Ruby on Rails XML Bootstrap AngularJS SOAP Servlets Swings Spring Frameworks 
+JSP JDBC 
+Networking TCP IP HTTP HTTPS DNS FTP Ethernet Connections TCP UDP CISCO Certified CCNA program 
+IDE Eclipse Android Studio JGrasp Visual Studio 
+Software Microsoft Office Flash DreamWeaver Photoshop VMWare FirebugTECHNICAL SKILLS 
+Operating System Windows Xp 200 NT Professional Linux Ubuntu MAC OS X Mountain Lion Android 15 to 
+Android 44 Gingerbread Honey comb Ice cream sandwich Jellybean Kit Kat 
+Languages Core Java J2EE JDBC JSP JDK 15 17 C C JQuery 
+Scripting Language JavaScript 10 15 
+Databases SQLite MySQL Oracle DB2 
+Web Designing HTML5 CSS XML UML Web Logic 6 
+Version Control Tools CVS SVN 
+Web Application Servers Tomcat IBM WebSphere 
+Framework STRUTS spring Junit AJAX 
+Android Skills Android SDK 15 to 42 Tablets Smartphone ADT 
+IDE Eclipse NetBeans MyEclipse InteliJ 
+ADDITIONAL INFORMATION 
+Skill Set 
+OS Windows 8 7 Vista XP Mac Android Ubuntu and Kali 
+Languages JAVA C C Objective C Cocoa Ruby JSON JQuery and JavaScript 
+Markup Language HTML CSS HTML5 and XML 
+Development Tools Android Studio Eclipse Luna NetBeans Xcode MS Visual Studio Aptana 
+Databases Mongo DB SQLite SQL ORMLite MS AccessFrameworks JDK Android SDK Phone gap Spring Live Chat Urban Airship Google 
+Analytics BackboneJS Require JS 
+Virtual Software Genymotion VMware workstation Oracle Virtual box 
+Web Servers Tomcat 60 WAMP Apache HTTP Server 
+Other Tools Software Dreamweaver Photoshop Alice 3Ds Max Notepad MSOfficeADDITIONAL INFORMATION 
+Technical Skills 
+Languages Java 
+Mobile technology Android 
+SDK s and plugins Android SDK Android NDK Android ADT 
+IDE Android Studio NetBeans 
+Web PHP HTML JSON REST JAVASCRIPT CSS 
+Databases SQLite MySQLSKILLS 
+Android 6 years Android SDK Less than 1 year Architecture Less than 1 year Debug Less than 1 year deployment Less than 1 year 
+ADDITIONAL INFORMATION 
+SKILLS 
+Native Android Development Java XML 
+RESTful Networking Retrofit OKHttp GSON JSON 
+Butterknife Calligraphy Glide Picasso 
+Reactivex RXJava RXAndroid 
+Material Design Leanback Design 
+Java Design Patterns Android Design Patterns 
+Android Studio 
+Android Framework Android SDK Android TV Leanback 
+Android Debug Bridge ADB JUnit Testing Instrumented Testing Espresso 
+Object Oriented Programming OOP 
+Gradle configurations Jenkins automated build and deployment 
+Fabric Crashlytics 
+Agile Development 
+Mobile memory management 
+GIT GITHub Atlassian Bitbucket Jira Confluence 
+Asynchronous Processes 
+Model View Presenter ArchitectureADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Languages Java Android 
+Operating System Windows 7 Linux Ubuntu 
+Tools Expertise Eclipse Android Studio Microsoft Office 
+PROFESSIONAL SKILLPossess comprehensive problem solving abilities 
+Takes initiative and responsibility 
+Willingness to learn and a team facilitator 
+Quick and Enthusiastic learnerSKILLS 
+Android 2 years Android SDK Less than 1 year CSS Less than 1 year Eclipse Less than 1 year IOS 
+Less than 1 year 
+ADDITIONAL INFORMATION 
+OPERATING SYSTEMS iOS Mac OS X Android SDK Windows 
+TOOLS AND TECHNOLOGIES iOS SDK Interface Builder Android SDK Eclipse XML HTML CSSAndroid Studio 
+LANGUAGES 
+Soft Skills 
+Communications teamwork organization sense of urgency leadership fiscal responsibilityADDITIONAL INFORMATION 
+Technical Skills 
+OS Windows 7 Vista XP Mac OSX Android Ubuntu 
+Languages JAVA C C JavaScript PHP JSON jQuery 
+Markup Language HTML CSS HTML5 XML 
+Development Tools 
+Eclipse Galileo Kepler Netbeans 5x MS Visual Studio Android Studio PhoneGap IBM Worklight 
+Photoshop Sublime Text XCODE 
+Databases SQLite MySQL Oracle 
+Frameworks Java Development Kit JDK jQuery Android SDK 
+Web Servers Tomcat 60 Apache HTTP Server WAMP 
+Enterprise Technologies 
+Windows Microsoft Office Suite Linux Scanners Desktop and Network Printers MAC LogMeIn Central 
+GPMC RDP Internet Information Services VMware Citrix XenServer Virtual box Incode Google Email 
+Other Tools Software Pro Engineering Photoshop Matlab LabviewSKILLS 
+ANDROID 2 years ANDROID SDK 2 years HTML 2 years FRAMEWORKS Less than 1 year JAVA 
+Less than 1 year JDK Less than 1 year MS OFFICE Less than 1 year 
+SOFTWARE SKILLS 
+Languages Java 
+Frameworks Android SDK Java Development Kit JDK C standard Library 
+Web Technologies HTML 5 
+Development Testing Tools Android Studio MS Office 
+IDEs Android Studio IntelliJADDITIONAL INFORMATION 
+TECHNICAL SKILLLanguages Java JDK SQL C C C JSP Servlets JSP EJB JDBC JMS Web Services JSF JNDI 
+Database Environments Oracle 10g 11g SQL Server IBM DB2 PL SQL My SQL SQLite Sybase 
+TOAD JDBC ODBC MS Access 
+Design Protocols Object Oriented Client Server Agile methodologies RDBMS Design Documentation 
+Coding Standards HTTP TCP IP UML 
+Operating Systems Windows Unix Linux Mac 
+Web Service Technologies REST SOAP XSD Apache Axis WSDL UDDI 
+Version Control Tools CVS Clear Case SVN GIT 
+IDEs Eclipse Android Studio Visual Studio Emacs Vim JBuilder Xamarin IntelliJ IDEA Dreamweaver 
+Web Services Parsing Techniques SOAP REST XML SOAP API JSON Restful API OAUTH DOM 
+SAX 
+Other Tools JUnit SQLite DDMS Trace View ADB XML Debugger Beyond Compare QT Creator 
+Genymotion Android EmulatorSKILLS android developer Less than 1 year 
+ADDITIONAL INFORMATION 
+Communication SkillAbility to communicate at all levels 
+Oral Communication enhanced through presentations during my academic Career 
+Areas of InteresApplication Development Android 
+Social NetworkingSKILLS 
+Android 6 years Android SDK 6 years Java 8 years JSON 6 years XML 6 years 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Technologies Android SDK NDK J2EE Springs 20x 25x Hibernate MFC ATL STL Web Services 
+JavaBeans Java script JSP Eclipse 
+Build Tool Ant Maven Gradle 
+Servers JBOSS Apache Tomcat Web logic Web Sphere 
+CI tools Jenkins 
+SCM Tools SVN and GIT 
+Web Technologies HTML5 JavaScript CSS XML UML Weblogic6 
+Operating Systems Windows XP Vista 7 Linux Android Mac OS Windows 2000 XP Professional Windows 
+Windows 8 Ubuntu Fedora Macintosh 
+Framework STRUTS spring Junit AJAX JDK 
+Database System Mysql Sqlite Oracle DB2 
+Others Amazon Web Services AWS jQuery JSON REST full Web services SOAPSKILLS c c java python PHP Javascript HTML CSS Pygame android Less than 1 year 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Languages C C Java python android 
+Web Technologies HTML PHP Javascript 
+Databases MySql 
+Operating System Linux and Unix 
+Elective courses 
+Adhoc wireless Networks 
+Data science 
+Distributed operating systems 
+Cyber Security 
+Projects And Patents 
+Informaton Feedster provisional patent granted Final patent under pending 
+Address Book A Personal place to store ur important addresses and to retrieve it efficiently using java swings and sql 
+Database design for college Hostel Management systedesign of a basic vi editor with features like underline highlight for linux platform using C 
+ResponsiblitieTeam Leader Developer Web Master and Member for Decoders A programming club recognized by IEEEMember of IEEE From september 2012 to september 2013SKILLS 
+C Less than 1 year JAVA Less than 1 year LINUX Less than 1 year PYTHON Less than 1 year 
+UNIX Less than 1 year Android Less than 1 year ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Operating System Windows 2000 XP Professional Windows 8 Windows 10 Ubuntu Mac Pro Fedora 
+Macintosh 
+Multi threading technologies Handler AsyncTask and Thread 
+Mark up language HTML5 and XML 10 JSON REST 
+Android App 
+Mobile Development 
+SDK 2x 3x 40 42 Android API Activities List Views Adapters SQLite Horizontal scrolling Notification 
+Manager Contact Content Provider Map HTTP Client 
+Eclipse IDE ADT plugin Android SDK 23 Java 
+XML SQLite GIT 
+IDE Eclipse 3x Android Studio Microsoft Visio 2007 
+Servers Application Servers IBM WebSphere Application Server v70 Web servers Apache Tom cat 55ADDITIONAL INFORMATION 
+Technical Skills 
+Operating Systems Windows 7 Vista XP Mac OSX Android 
+Languages JAVA Objective C JavaScript PHP 
+Markup Language HTML CSS HTML5 XMLDevelopment tools Eclipse Galileo Kepler NetBeans 5x MS Visual Studio 
+Databases SQL SQLite MS Access 
+Frameworks JDK Android SDK Hibernate30 Spring20x Phone gap React Native 
+Web Servers Tomcat 60 Apache HTTP Server WAMP 
+Mainframes IBM z VM 
+Other Tools Software 
+Eclipse Visual Studio 2010 Dreamweaver CS5 Photoshop CS5 Fireworks CS5 Illustrator CS5 Flex Builder 
+CS5 Microsoft Office 2013 NetBeans Notepad WordPressADDITIONAL INFORMATION 
+Software Tools Android SDK Android NDK Eclipse IDE 43 Android Studio MS Office 2013 SVN and GIT 
+Appium 
+Languages C C JAVA J2EE SQL PL SQL PHP 
+Web Technologies HTML DHTML CSS AJAX JQUERY JSON Javascript Bootstrap AngularJS 
+Methodologies Agile methodology Waterfall model 
+Data Management Oracle 10g 11g MySQL 56 SQLite 385 
+Operating Systems Windows Linux MacSKILLS 
+Android 2 years Bluetooth 1 year JSON 2 years REST 2 years Retrofit 1 year 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Languages Android Core Java C C SQL 
+IDE Tools Android Studio 
+Framework Android SDK 
+Android Specifics Android Studio Fragment Intents Layouts User interfaces custom layout 
+Bluetooth Low Energy Material Design Recycler View CardView Camera REST JSON webservices JSON parsers like GSON and Jackson Retrofit Volley Picasso LeakCanary Broadcast 
+Receiver Android data storage like Shared Preferences SQLite Realm Content Providers SD card 
+Databases SQLite Realm 
+Android versions KitKat Lollipop Marshmallow 
+Android wear versions Android wear 15 Android wear 20ADDITIONAL INFORMATION 
+Technical Skills Android OS Android 23 to Android 5 Gingerbread Honey comb Ice cream sandwich Jellybean Kit Kat and 
+Lollipop 
+Languages Java C 
+Scripting Language PHP JavaScript 
+Web Designing HTML5 CSS XML JavaScript JQuery 
+IDE Eclipse NetBeans Android Studio 
+Web Application Servers Tomcat IBM WebSphere 
+Framework Struts Junit AJAX Angular JS Espresso 
+Version Control Tools CVS SVN GIT Jenkins 
+Databases SQLite MySQLSKILLS 
+Android Studio 6 years Android 50 6 years Java 6 years Eclipse 5 years Linux 5 years 
+SQLITE 5 years HTTP 4 years OOP 5 years WINDOWS 4 years JSON 5 years GIT 4 years 
+PERFORCE 3 years SHELL 5 years DATA STRUCTURE 5 years HTML 5 3 years XML 4 years 
+ANDROID SDK 6 years ANDROID NDK 4 years 
+ADDITIONAL INFORMATION 
+SKILLS 
+OPERATING SYSTEM Android 15 Android 50 Linux Ubuntu Windows 
+LANGUAGES Java 
+EXPERTISE KNOWLEDGE Object Oriented Programming Design Patterns Data Structures 
+WEB TECHNOLOGY HTTP HTML XML JSON 
+DATABASE SQLite3 SQLite Browser 
+SCRIPTING Shell scripting 
+PROTOCOLS MS Exchange Active Sync protocol HTTP 
+CONFIGURATION MANAGEMENT Git Perforce SVN Clear Case 
+IDErawal Android Dveeloper H1B transfer Android Studio Eclipse Vim GradleTECHNICAL SKILLS 
+Programming Scripting Languages C C Java J2EE JDBC HTML XML XSL XSLT JavaScript JSP 
+Java Servlets C net Perl Python PHP Android Application Development 
+Web Services SOAP REST JSON XML 
+Operating Systems Windows Linux UNIX Mac OSX Android 
+Office Tools Microsoft PowerPoint Microsoft Excel Microsoft Word Microsoft Outlook 
+Database technologies MySQL PL SQL Oracle SQLite 
+IDE s Used NetBeans Android Eclipse IDE with ADT Eclipse and their Debuggers Android Studio IntelliJ 
+Tools Jenkins ANT ADT Maven IBM Rational Rose 
+Version Control Tools CVS Git SVN Bit Bucket 
+Web Application Servers Apache TOMCAT 
+Frameworks AJAX Spring Junit STRUTS 
+Methodologies Agile SCRUM WaterfallSKILLS 
+Android 1 year SQL 2 years HTML Less than 1 year Java 2 years 
+ADDITIONAL INFORMATION 
+SkillGood in Java HTML C and Python 
+Proficient in Oracle SQL MYSQL PHP and Android studio 
+Can work with NetbeansExcellent interpersonal skills 
+Analytical thinker and quick learner 
+Capable of organizing managing and Working with teams efficiently 
+Always prepared to try something newSKILLS 
+API 5 years J2EE 4 years Linux 4 years Oracle 4 years SQL 6 years 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Languages J2EE J2SE J2ME 
+Application technology Andriod Tablet 
+Web Technologies JSP Servlet JSTL Tag libraries XML XSD Xerces Xalan 
+DOM and Design Patterns Gang of Four GOF Singleton Factory Observer Command Fa ade 
+Databases Oracle DB2 My SQL 
+App Servers WebLogic JBoss Tomcat 
+API Framework Log4J Spring Struts IBatis Hibernate 
+OS UNIX Linux Windows 
+Version Control Clear Case CVS VSS SVN TFS Team Foundation Server SKILLS 
+Android SDK 50 SQLite 36 Eclipse IDE 35 Android API s RESTFUL Web service DOM Parser JDK 
+XML JSON HTML CSS GPS service Log cat Windows 7 ADT Plug in GIT version control DDMS console ADB server emulator and Base device G1 HTC EVO Java Android SDK 44 XML JSON Ajax 
+JQuery Genymotion Postman REST Client Stash JIRA Android SDK Web Services 8 years 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Programming Scripting Languages C C Java J2EE JDBC HTML XML XSL XSLT JavaScript JSP 
+Java Servlets C net Perl Python PHP Android Application Development 
+Web Services SOAP REST JSON XML 
+Operating Systems Windows Linux UNIX Mac OSX Android 
+Office Tools Microsoft PowerPoint Microsoft Excel Microsoft Word Microsoft Outlook 
+Database technologies MySQL PL SQL Oracle SQLite 
+IDE s Used NetBeans Android Eclipse IDE with ADT Eclipse and their Debuggers Android Studio IntelliJ 
+Tools Jenkins ANT ADT Maven IBM Rational Rose 
+Version Control Tools CVS Git SVN Bit Bucket 
+Web Application Servers Apache TOMCAT 
+Frameworks AJAX Spring Junit STRUTS 
+Methodologies Agile SCRUM WaterfallSKILLS 
+Java 4 years Android 4 years 
+ADDITIONAL INFORMATIOSpecialties Application development Android SDK Android Development Tools Mobile platform 
+Programming Languages Java SQL XML HTML 
+IDE Eclipse Intelij IDEA Android Studio 
+RDBMS SQLite 
+OS MS Windows Linux 
+VCS SVN GIT 
+Bug tracking systems JIRA Trello Redmine YoutrackTechnical Skills 
+OS Windows 7 Vista XP Mac OSX Android 
+Languages JAVA Objective C JavaScript PHP 
+Markup Language HTML CSS HTML5 XML 
+Development tools Eclipse Galileo Kepler Netbeans 5x Xcode MS Visual Studio Aptana 
+Databases SQL SQLite MS Access 
+Frameworks JDK Android SDK Hibernate30 Spring20x Cordova PhoneGap 
+Mainframes IBM z VM 
+Web Servers Tomcat 60 Apache HTTP Server WAMP 
+Other Tools Software 
+Eclipse Visual Studio 2010 Dreamweaver CS5 Photoshop CS5 Fireworks CS5 Illustrator CS5 Flex Builder 
+CS5 Microsoft Office 2013 Netbeans Notepad WordPressADDITIONAL INFORMATION 
+SKILLS 
+C C Objective C Gradle Build Process and Dependency managemenJava Maven Build Process and Dependency management 
+Swift REST SOAP Web Services 
+HTML CSS XML JavaScript JQuery AngularJS Git GitHub SourceTree 
+Nodejs Meteorjs Expressjs Databases 
+Native Android SDK Development 
+Android Studio Unit and Instrument testing 
+CORE STRENGHTS 
+Native Android Development Experience 
+Experience in using third party libraries like ButterKnife Retrofit Roboelectric Dagger2 Picasso Espresso 
+RX Java etc 
+Experience with Android Geo Location services 
+Knowledge of Android software components libraries and Gradle build process 
+Knowledge of Android material design principles 
+Experience with AsyncTask Intent Services Broadcast Receiver Location Manager Push Notifications 
+Adapters 
+Familiar with data storage options ie 
+Shared Preferences SQLite GCM Realm Firebase Internal and 
+External storage 
+Experience in using Google Facebook Instagram YouTube and other popular social media based API s 
+Experience inDeveloping Custom UI Elements Example Tab bar buttons Custom Table view Cells 
+Efficient storage of data using File System Core Data Realm Firebase and SQLite 
+Familiar with UI design implementation using Auto layout Storyboards and XIB files 
+Experience in Interface builder Instruments 
+Experience with collaborative source control systems like SourceTreeand Git GitHub 
+Familiar with SOAP and REST web services 
+Familiarity with SDK development and library management 
+Familiar with Unit testing and Instruments testing frameworks like Junit XCTest and Robotium etc 
+Experience in mobile Analytics integration using AppsFlyer Google Analytics and Aptelignet etc 
+Experience Using Adhoc testing using Test Flight HockeyApp etc 
+Experience in Store App deployment process Google 
+Mobile Analytics using AppsFlyer HockeyApp Aptelignet Google Analytics 
+Integration and class implementation of Payment gateways ie 
+Braintree AuthorizenetSKILLS 
+Android 3 years Java 3 years Javascript Less than 1 year Web Development 1 year Python Less than 1 year Agile 1 year XML 2 years Testing 1 year Git 2 years 
+SKILLS 
+Java Less than 1 year OOP Less than 1 year Android Less than 1 year IoT Less than 1 year 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Programming Scripting Languages C C Java J2EE JDBC HTML XML XSL XSLT JavaScript JSP 
+Java Servlets C net Perl Python PHP Android Application Development 
+Web Services SOAP REST JSON XML 
+Operating Systems Windows Linux UNIX Mac OSX Android 
+Office Tools Microsoft PowerPoint Microsoft Excel Microsoft Word Microsoft Outlook 
+Database technologies MySQL PL SQL Oracle SQLite 
+IDE s Used NetBeans Android Eclipse IDE with ADT Eclipse and their Debuggers Android Studio IntelliJ 
+Tools Jenkins ANT ADT Maven IBM Rational Rose 
+Version Control Tools CVS Git SVN Bit Bucket 
+Web Application Servers Apache TOMCAT 
+Frameworks AJAX Spring Junit STRUTS 
+Methodologies Agile SCRUM WaterfallSKILLS 
+Languages C C Good Java Good Matlab Intermediate Python Beginner Frameworks and Libraries 
+Eclipse Visual Studio OpenGL OpenCV Android SDK Intel TBB Unity 3D 
+ADDITIONAL INFORMATION 
+HIGHLIGHTS OF QUALIFICATIONS 
+Languages C C Good Java Good Matlab Intermediate Python Beginner 
+Frameworks and Libraries Eclipse Visual Studio OpenGL OpenCV Android SDK Intel TBB Unity 3DSKILLS 
+Android Programming 6 years ADDITIONAL INFORMATION 
+TECHNICAL SKILL 
+Web related Languages 
+Java Swing Servlets JPA Spring Hibernate JDBC RMI C HTML XSL JavaScript JSP Developer 
+SQL PL SQL SQL Plus AJAX XML 
+Operating Systems Android OS UNIX AIX Sun Solaris HP UX Linux and Windows 
+Databases Oracle 8i 9i 10g SQL Server MySQL Sybase and MS Access SQLite and IBM DB2 
+GUI Tools MS Frontpage2000 TOAD Oracle Forms Reports Discoverer 
+Application Servers Web Sphere 5x 6x Web Logic 8x 9x and JBOSS 4x 5 
+Networking Protocols TCP IP FTP HTTP UDP SMTP RCP Rlogin and SSH2 
+IDE RAD 7 75 NetBeans 5x 6x Eclipse 3x Intelliji 
+Design Tools Rational Rose 
+Frame Works JakartaStruts 10 20 ANT JUnit MVC Spring and Hibernate 
+Version Control IBM Team Server CVS PVCS and Visual Source Safe Clear caseSKILLS 
+Android 3 years Design Patterns Less than 1 year Eclipse Less than 1 year UI 3 years USER 
+INTERFACE 3 years 
+SKILLS 
+Java Android Android Studio Eclipse REST XML JSON SOAP OOP OOD LeakCanary Retrofit Volley 
+OkHttp Espresso Mockito 
+RxAndroid RxJava Dagger Agile Scrum Design Patterns GIT Gradle SQLite MySQL HTML PLM 
+Samsung Print UI Automator Unit tests Junit RoboElectric Appium Integration tests Perforce Jenkins HudsonTechnical Skills 
+Frameworks Android SDK Java Net 
+Operating Systems Windows XP 7 Vista Mac OSX Ubuntu Linux 
+Mark Up Languages HTML HTML 5 CSS 
+Web Languages JavaScript Jquery JSON RESTful webservices 
+Development IDE s Eclipse Android Studio Visual Studio 
+Databases SQLite MySQL Oracle 
+Web Servers Apache Tomcat 60 server 
+Web Services SOAP RESTFUL JSON XMLADDITIONAL INFORMATION 
+SKILLS 
+Android SDK Eclipse JAVA JAVA Web Application 
+Strong Understanding Of OOP 
+Good Understanding of multi resolution UI designs 
+Strong with C C programming conceptsXML and JSON encoding 
+SQL lite Data base 
+Libraries XMPP Smack Google Maps Bouncing 
+Castle 
+Fluent in English Urdu and Punjabi 
+Good in communication skills and have good persuasion skills 
+Expert in MS Word Excel PowerPoint Access and front page and flow charts designingSKILLS 
+ANDROID 2 years JAVA 1 year ECLIPSE 1 year JAVASCRIPT 1 year XML 1 year 
+ADDITIONAL INFORMATION 
+SKILLS 
+Java JSF JS R Matlab XML XSL Primefaces HTML 5 C and C CSS JavaScript JQuery Bootstrap 
+AJAX Eclipse Android Studio MySQL Oracle11g Glassfish GitHub Jenkins Agile SCRUM TDD Google 
+Maps RESTful Retrofit Picasso Glide YouTube Espresso Robolectric OpenStreetMap Flurry Analytics 
+Facebook SDK Twitter Fragments JUNIT MVC MVP Tomcat WAS WebLogic UML Netbeans IDE 
+Wireshark PhotoshopSKILLS analyzer 2 years Android 2 years EAP Less than 1 year Eclipse 2 years Java Less than 1 year 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Languages Android programming Java 
+Operating Systems Windows XP Linux 
+Tools 
+Tortoise SVN used to manage different versions of source code 
+JIRA a bug tracking issue tracking and project management software 
+Eclipse memory analyzer tool to perform memory analysis 
+EAP tool to create UML diagrams for different workflows 
+Environment Eclipse IDE Android studioSKILLS 
+Android 8 years Android SDK 7 years API 6 years Eclipse 7 years XML 8 years 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Operating System Windows 2000 XP Professional Windows 8 Windows 10 Ubuntu Mac Pro Fedora 
+Macintosh 
+Multi threading technologies Handler AsyncTask and Thread 
+Mark up language HTML5 CSS and XML 10 JSON REST 
+Android App 
+Mobile DevelopmentSDK 2x 3x 40 42 Android API Activities List Views Adapters SQLite Horizontal scrolling Notification 
+Manager Contact Content Provider Map HTTP Client 
+Eclipse IDE ADT plugin Android SDK 23 Java 
+XML SQLite GIT 
+IDE Eclipse 3x Android Studio Microsoft Visio 2007 
+Servers Application Servers IBM WebSphere Application Server v70 Web servers Apache Tom cat 55SKILLS 
+Java 2 years Git 1 year Android 1 year C 1 year Linux 2 years HTML 1 year CSS 1 year 
+Photoshop 6 years Indesign 5 years Illustrator 5 years Graphic Design 6 years 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Operating System Windows 7 Vista XP Mac OSX Android 
+Languages JAVA C XML HTML5 Python JSON 
+Development Tools Eclipse Ganymede Kepler Netbeans 5x Github 
+Databases SQL SQLite 
+Frameworks Struts11 20 Hibernate30 Spring20x 
+Design Tools Dreamweaver Illustrator Photoshop Flash 
+Webservers Tomcat 60 Apache HTTP Server IIS WebserverADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Languages Java J2EE JSP C C C PHP JavaScript SQL 
+Frameworks Java Development Kit JDK NET C standard Library jQuery Android SDK 
+Web Technologies PHP JSON JavaScript HTML4 5 XHTML CSS CSS CSS3 XML Apache Tomcat 
+FileZilla 
+Development Tools 
+Android Studio Eclipse Visual Studio 2010 Dreamweaver CS5 Photoshop CS5 Fireworks CS5 Illustrator 
+CS5 Flex Builder CS5 Microsoft Office 2013 Netbeans Scratch Lego Mindstorms Notepad Putty 
+WordPress Python Flash 
+Databases SQLite MySQL Oracle 
+Network Technologies Frame relay ACL NAT PAT RIP OSPF EIGRP BGP MPLS VTP SMTP ARP 
+TCP UDP VLAN DHCP WSUS 
+Monitoring Tools VMware Spiceworks Radwin Kaspersky IBoss Zscaler Barracuda 
+Connectivity Hardware Exchange Server DNS Servers DHCP Servers Web Servers Ethernet Fast 
+Ethernet WAN LAN TCP IP RAID systems Cisco ASA 5500 
+Enterprise Technologies 
+Windows Exchange DNS WINS Microsoft Office 2013 Linux Scanners Desktop and Network 
+Printers MAC LogMeIn Central GPMC RDP Internet Information Services VMware Citrix XenServer 
+Virtualbox Incode Postini spam filter Google EmailSKILLS 
+Windows 2000 XP Professional Windows 8 Windows 10 Ubuntu Mac Pro Fedora Macintosh 
+Handler 
+AsyncTask and Thread 
+HTML5 and XML 10 JSON REST 
+SDK 2x 3x 40 42 Android API Activities 
+List Views Adapters SQLite Horizontal scrolling Notification Manager Contact Content Provider Map 
+HTTP Client 
+Eclipse IDE ADT plugin Android SDK 23 Java XML SQLite GIT 
+Eclipse 3x Android 
+Studio Microsoft Visio 2007 
+Application Servers IBM WebSphere Application Server v70 Web servers 
+Apache Tom cat 55 7 years 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Operating System Windows 2000 XP Professional Windows 8 Windows 10 Ubuntu Mac Pro Fedora 
+Macintosh 
+Multi threading technologies Handler AsyncTask and Thread 
+Mark up language HTML5 and XML 10 JSON REST 
+Android App 
+Mobile Development 
+SDK 2x 3x 40 42 Android API Activities List Views Adapters SQLite Horizontal scrolling Notification 
+Manager Contact Content Provider Map HTTP Client 
+Eclipse IDE ADT plugin Android SDK 23 Java 
+XML SQLite GIT 
+IDE Eclipse 3x Android Studio Microsoft Visio 2007 
+Servers Application Servers IBM WebSphere Application Server v70 Web servers Apache Tom cat 55Technical Skills 
+Languages 
+Java 
+React Native 
+Kotlin 
+C 
+Swift 
+Platforms 
+Android iOS 
+Database 
+MySQL SQLite SQL Server Realm 
+Other technologies 
+JSON XML 
+RxJava 
+RTMP Streaming 
+Chat Map Video Game SDK 2D Firebase Push notification Authentication Real time Database 
+Continuous Integration Jenkins Automatically build and distribute to store 
+Good at Android Java core MYSQL SQLite 
+Moderate React Native Kotlin iOS Swift HTML JavaScript Computer networking 
+SKILLS 
+Java 5 years Android 5 years 
+ADDITIONAL INFORMATION 
+Libraries and concepts Clean architecture MVP architecture RxJava RxAndroid Retrofit Realm Gson Otto 
+Dagger ButterKnife Picasso Glide NFC Firebase Google Play Services Android Studio JUnit Git FlowADDITIONAL INFORMATION 
+Technical Skills 
+Languages JAVA C C JavaScript SQL 
+IDE Eclipse 3x 4x Net Beans Android Studio 
+Web Technologies HTML CSS AJAX JSON XML Flask Laravel Django 
+OS Android Windows Mac OS X 
+RDBMS SQLite 36 Oracle MySQL 
+Editors Notepad Sublime Text Text Wrangler 
+Web Servers Tomcat 60 Apache HTTP Server 
+M thodologies Agile Methodology 
+Design Tools PhotoshopADDITIONAL INFORMATIOJava Core 
+Android 
+OOP principles 
+MVC MVP 
+SQLite 
+XML 
+Rest API 
+Square Dagger Retrofit Glide Sqlbrite Butter knife EventBus 
+Social API Facebook TwitterData Binding 
+In app Billing 
+Unit Test JUnit Robolectric Espresso UI Automator 
+Instant Messaging Quickblox 
+Parse 
+SocketIO 
+Google AnalyticsADDITIONAL INFORMATION 
+Technical Skills 
+Languages Java 14 15 16 C SQL 
+JEE J2EE Technologies Servlets JNI JSP JSF JDBC JSTL JAXB JAXP JAXRPC JAX WS 
+Mobile Technologies Android 23 60 Phone Gap Xamarin 
+Open Source Frameworks Hibernate Struts ZeroMQ 
+Web Technologies HTML DHTML CSS AJAX JQuery JSON JavaScript Angularjs Bootstrap PHP 
+Databases SQLite Oracle DB2 SQL Server MYSQL 
+Web Servers Apache Tomcat 
+Application Servers BEA s WebLogic and IBM s Web Sphere JBossVersioning Software SVN CVS and GIT 
+Operating Systems Windows Ubuntu Fedora Macintosh 
+Tools ADT ANT JUnit Cruise Control Maven 
+Parsing Techniques XML SOAP API JSON RESTful API 
+IDEs Eclipse Android Studio IntelliJ NetBeansSKILL SET 
+Operating Systems Android Windows Unix Linux 
+Languages Java C C C SQL 
+Web Technologies ASPNET REST JavaScript HTML XML Web Services 
+Tools Android Studio IntelliJ Visual StudioADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Android OS Android 15 to Android 51 Android NDK 
+Languages Java C C Objective C 
+Scripting Languages JavaScript JQuery Python R 
+Web HTML5 CSS XML AJAX Node JS Angular JS 
+Frameworks Struts Spring MVC 
+Database SQLite MySQL Oracle DB2 MongoDB 
+IDE Android Studio EclipseADDITIONAL INFORMATION 
+Technical Skill Set 
+Languages C C objective c java XML java script HTML5 
+Scripting Languages Perl Bash Shell Script 
+Platforms Linux Windows Unix WM6 OS X Xen Server android 
+Tools and Utilities MS Visual Studio Xcode Eclipse clear case clear quest Bullseye GDB lcov gcov 
+Valgrind 
+Concepts 
+Linux Internals Context aware Computing system software development mobile S W development machine learning Open Mobile Alliance Device Management 
+Open Source S W Raptor gpsd Open SSL PCRE light httpd AceDB Android Open Source 
+Android Applications 
+Calendar 
+Link https playgooglecom store apps details id comsumitcalendar 
+This is a demo calendar application 
+It allows user to add and delete events 
+It uses SQLite as data base and 
+GridView to display the calendar 
+Calorie Burn Calculator 
+Link https playgooglecom store apps details id comsimsumitcaloriecalculator 
+Calorie Burn Calculator is an android application 
+Users can use this application to measure the amount of calorie burnt while running in open space 
+It uses GPS coordinates to measure the distance 
+Projects UndertakenTECHNICAL SKILLS 
+Languages Android iOS Swift C C Java JSP JavaScript PHP 
+Databases MySQL Oracle MS Access 
+Frameworks Spring Swing Struts Hibernate 
+Tools IDE s Android studio Gradle Eclipse NetBeans Visual Studio Xcode Espresso Appium 
+Web HTML 5 CSS 3 XML JSON 
+Servers Apache Tomcat 
+Operating Systems Windows Linux Macintosh 
+Relevant Courses Software Engineering Advance Java Technology Algorithms Computer Network 
+Database Systems 
+Repositories SVN GitHubSKILLS 
+ECLIPSE 3 years XML 3 years JAVA 3 years ANDROID 3 years ANDROID SDK 3 years 
+ADDITIONAL INFORMATION 
+Technologies 
+Java JDK JSP 12 20 Servlets 23 24 EJB 20 Android SDK 22 Spring 21 Spring 30 Hibernate 
+JDBC 30 JavaScript 18x CSS3 JSON Web Services 
+Android App 
+Mobile Development 
+SDK 2x 3x 40 42 Android API Activities ListViews Adapters SQLite Horizontal scrolling Notification 
+Manager Contact Content Provider DDMS Location Map HTTP Client JSON based Web Services Camera 
+API Facebook API 
+Debugging and Testing Tools JUnit DDMS Logcat 
+Markup Languages HTML 401 HTML5 and XML 10 
+Application Servers JBoss Tomcat WebSphere 60 
+IDE Eclipse 3x NetBeans 5x 6x 7x Oracle J Developer 10g 11g Microsoft Visio 2007 
+Data bases SQLite 36 Oracle 9i 10g MySQL MS SQL Server 
+OS Windows 2000 XP Professional Windows 7 Windows 8 Ubuntu Fedora MacintoshSKILLS 
+Java 5 years Android 2 years PHP 4 years Hadoop 2 years Web Development 4 years SKILLS 
+Android SDK 50 SQLite 36 Eclipse IDE 35 Android API s RESTFUL Web service DOM Parser JDK 
+XML JSON HTML CSS GPS service Log cat Windows 7 ADT Plug in GIT version control DDMS console ADB server emulator and Base device G1 HTC EVO 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Programming Scripting Languages C C Java J2EE JDBC HTML XML XSL XSLT JavaScript JSP 
+Java Servlets C net Perl Python PHP Android Application Development 
+Web Services SOAP REST JSON XML 
+Operating Systems Windows Linux UNIX Mac OSX Android 
+Office Tools Microsoft PowerPoint Microsoft Excel Microsoft Word Microsoft Outlook 
+Database technologies MySQL PL SQL Oracle SQLite 
+IDE s Used NetBeans Android Eclipse IDE with ADT Eclipse and their Debuggers Android Studio IntelliJ 
+Tools Jenkins ANT ADT Maven IBM Rational Rose 
+Version Control Tools CVS Git SVN Bit Bucket 
+Web Application Servers Apache TOMCAT 
+Frameworks AJAX Spring Junit STRUTS 
+Methodologies Agile SCRUM WaterfallSKILLS 
+Android 2 years Java 3 years Git 3 years Javascript 2 years 
+SKILLS 
+Android 3 years Java Less than 1 year HTML Less than 1 year PHP Less than 1 year Javascript 
+Less than 1 year 
+ADDITIONAL INFORMATION 
+Operating Systems Windows Linux 
+Office Tools Word Excel PowerPointSKILLS 
+Android 
+ADDITIONAL INFORMATION 
+Skills Android Java Git C jQuery HTML CSS Bootstrap SQLite SQLADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Programming Scripting Languages C C Java J2EE JDBC HTML 50 XML 10 XSL XSLT 20 
+JavaScript 185 JSP 23 Java Servlets C net Python PHP 
+Web Services SOAP REST JSON XML 
+Operating Systems Windows Linux UNIX Mac OSX Android 
+Office Tools Microsoft PowerPoint Microsoft Excel Microsoft Word Outlook 
+Database technologies MySQL PL SQL Oracle 10g SQLite 
+IDE s Used NetBeans Android Eclipse IDE with ADT Eclipse and their Debuggers Android Studio IntelliJ 
+Tools Jenkins ANT ADT Maven IBM Rational Rose 
+Version Control Tools CVS Git SVN Bit Bucket 
+Web Application Servers Web logics 60 Tomcat 60 Apache HTTP ServerFrameworks AJAX Hibernate Junit STRUTS 
+Methodologies Agile SCRUM WaterfallADDITIONAL INFORMATION 
+Technical Skills 
+Languages Java JavaScript 
+Frameworks Libraries Android Retrofit Volley RxJava RxAndroid Picasso Butterknife 
+Other Git GitHub Android Studio GIMPSKILLS 
+Android SDK 4 years Android Studio 3 years Java 4 years OpenGL ES 20 30 4 years Third Party 
+Libraries 4 years 
+ADDITIONAL INFORMATION 
+Skill Set 
+Java Eclipse Android SDK s version 23 42 SQL server 2005 and 2008 VLSI design C SQL Oracle based systems SQLite Python Network Simulation Matlab HTML Javascript and Linux based systems 
+Microsoft visual basic Microsoft VISIO Microsoft office IOS based systems 
+Projects Summay SKILLS 
+Android 6 years CSS 2 years Java 2 years Software Development 2 years SQL 2 years 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Languages JAVA C Python C Operating System Linux Mac Windows 
+Mobile Technologies Android Web Services XML JSON REST 
+Web Technologies HTML CSS SQL Software Development Android Studio Intellj IDEA Eclipse Net beans 
+IDE 
+Database SQLite MYSQL Content providersADDITIONAL INFORMATION 
+Technical Skill Set 
+Languages Core Java Android C C 
+IDE Eclipse Android Studio 
+Building Tools Gradle 
+OS Windows Linux 
+Web Services REST JSON XML 
+Web Technologies HTML 5 CSS Javascript and PHP 
+API Google Services Including Map Ad Mob Cloud Message etc Bluetooth Finger Print a lot of third party 
+APIs 
+Social App Integration Facebook Twitter Google 
+Version Control Tools GitHub SVN 
+Methodologies Object oriented methodology Design Patterns Agile 
+Databases SQLite MySQLTECHNICAL SKILLS 
+Languages Java XML C C HTML CSS JavaScript Python 
+Libraries Retrofit Picasso GraphView YouTube Android Player 
+Other Android Studio IntelliJ Eclipse Git Github Vi Vim Sketch Sketch Adobe Illustrator Adobe Photoshop 
+TECHNICAL SKILLS 
+OS Windows XP LINUX and Android 
+Languages java JDK 16 C C XML SQL 
+IDE Eclipse 3x Visual Studio 
+Protocols Bluetooth CDMA UMTS Http ftp 
+Other Software HTML DHTML Oracle 
+Database Oracle SQLite3 MySQL 
+Scripting Language shell scripts Perl Python 
+Modeling language UML OOPS 
+Tools putty adb ddms dmtracedump 
+Debugging Tools GDB DDMSSKILLS android development 4 years Java 4 years 
+Technical Skills 
+Language Java C 
+Third Party Library RxJava Retrofit OkHttp Gson ButterKnife Picasso Volley Glide 
+Design Patterns Singleton Adapter Factory Method Iterator Dependency Injection Builder Strategy 
+Fac ade Template MVP 
+Algorithms Data Structures Big O Sort Search Linked List Stack Queue 
+Android Technologies GCM Android Firebase Push Notifications Google AdMob 
+Web Technologies RESTful Web Services HTML CSS JavaScript 
+Application Servers Glassfish Tomcat 
+Databases MySQL SQLite Realm MongoDB 
+IDE Utilities Android Studio Eclipse ADT IntelliJ IDEA Xcode MS Visual Studio Sublime 
+Operation Systems Windows Server Linux MacOS 
+Application Servers Glassfish Tomcat 
+Source Control Tools Git SourceTree 
+Methodologies Agile Scrum 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+SKILLS 
+Android 4 years Algorithms 3 years Java 3 years C 1 year SQLite 1 year Glassfish 1 year 
+JSON 2 years RESTful Web Services 2 years Agile Scrum 2 years Design Patterns 1 year Data 
+Structures 3 years Third Party Library 3 years Volley 2 years Realm 1 year Google Maps 2 years 
+Glide 1 year Picasso 1 year ButterKnife 1 year Retrofit 1 year OkHttp 1 year 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Programming Language Java JDK 16 Android SDK PHP 5 HTML CSS JavaScript MySQL SQLite 
+Operating System Windows XP Vista 7 UNIX Linux Ubuntu Mac OS 
+Tools Eclipse IDE NetBeans Microsoft Visual Studio Atlassian Tools JIRA Confluence Stash Bamboo 
+Balsamiq PHPmyadmin XAMP SQLyog Cisco Packet Tracer 
+Applications Microsoft Office 
+ADDITIONAL INFORMATION 
+Languages PHP5 Perl JavaScript Shell Scripting Python ASP JSP 
+Web Technologies ASPNET ADONET Asp Apache HTML5 XSL HTML5 CSS3 AJAX JSON DHTML 
+REST 
+Data Management MySQL Oracle SQL Server Sybase MS Access 
+Frameworks jQuery AngularJS Modernizer Bootstrap 
+CMS Silver Stripe WordPress Cascade Vbulletin Drupal Bitrix OpenX 
+Tools Akamai Jira Asana Slack Google Tag Manager Google Analytics Perforce SVN Basecamp 
+Jenkins Akamai AppNeta Photoshop 
+MySQL Workbench PhpMyAdmin MySQL Workbench 
+SKILLS 
+PROBLEM SOLVING Less than 1 year XCODE Less than 1 year C Less than 1 year UI Less than year USER INTERFACE Less than 1 year 
+ADDITIONAL INFORMATION 
+Skills 
+Basic knowledge of python C and C 
+Basic knowledge of UI 
+Quick learning 
+Familiar with Xcode and use it to build a mobile application 
+Advanced problem solving skills 
+Troubleshooting and debugging 
+ADDITIONAL INFORMATION 
+TECHNICAL SUMMARY 
+Web Technologies HTML4 5 CSS2 3 JavaScript jQuery JSON AJAX AngularJS XHTML Bootstrap 
+DHTML MVC DOM XML Requirejs Nodejs and JSP 
+Mobile Web Skills Responsive Design jQuery Mobile 
+Developer Tools Sublime Text 2 Notepad Dream weaver Web Storm Eclipse Visual Studio 
+Browser IE 7 up Firefox Opera Chrome SafariOperating Systems Linux Windows UNIX Mac OS X 
+Application Servers Web logic Web Sphere Apache tomcat 
+Methodologies Agile Scrum 
+Databases MySQL ORACLE 10g 11g PLSQL 
+SKILLS 
+HTML5 CSS3 PHP Javascript Wordpress Twitter Bootstrap 
+SKILLS 
+WORK 
+HTML 
+CSS 
+BOOTSTRAP 
+JAVASCRIPT 
+JQUERY 
+PERSONAL 
+AUTODESK GRAPHIC 
+JUSTINMIND 
+SKILLS 
+Graphic Design 
+Website Design 
+Microsoft Office 
+Excel 
+Windows 
+Mac OS X 
+Project Management 
+SEO 
+Analytics 
+Google Analytics 
+Google Adwords 
+Database Management 
+Data Analysis 
+Data Mining 
+Databases 
+Communication 
+SKILLS one two three 
+SKILLS 
+JAVA HTML HTML 5 CSS CSS 3 PHP MySQL JAVASCRIPT 
+BOOTSTRAP JQuery Angular JS DART MVC DOM LINUX Git Eclipse Intellij 
+SKILLS 
+Python C Javascript 
+ADDITIONAL INFORMATIOC Python JavaScript 
+Visual Studio Linux XML 
+HTML CSS Fluent in Spanish 
+SKILLS 
+Command Line Git Github Sublime Text Heroku Debugging Code Debugging Rails Apps Loops 
+Hashes Blocks Ruby Rails Ruby Models Static Pages HTML CSS CRUD Testing Users User 
+Authorization Authorization Associations Validating 1 year 
+SKILLS 
+PHP 2 years nodeJS 2 years Html5 3 years CSS 3 years Javascript 3 years MySQL 2 years 
+Microsoft Office 10 years Python 3 years MongoDb 2 years JQuery 3 years Adobe Photoshop 2 years Adobe Illustrator 2 years Web Design 3 years Web Development 3 years 
+SKILLS 
+PHP JavaScript Python jQuery Angular MySQL SQLite HTML5 CSS3 
+SEO User Experience Project 
+Management 9 years 
+ADDITIONAL INFORMATIOFull Stack Web Development 
+Conversion Optimization 
+CSS3 HTML5 Bootstrap 
+JavaScript jQuery AJAX Angular 
+PHP ASPNET C 
+Ecommerce CTR optimization 
+Search Engine Optimization SEO 
+User Experience UX 
+MySQL MS SQL 
+Management Leadership 
+Speed Optimization 
+Project Management 
+Technical Skills 
+Programming Languages Java SQL HTML XML PL SQL Unix Shell Scripting C C FUSE 
+Technologies 
+HTML HTML5 
+Methodologies Waterfall Agile SCRUM model 
+J2EE Technologies Servlets JSP JDBC Struts Java J2EE 
+Frameworks Spring 30 Spring MVC Hibernate 30 
+Web 
+CSS CSS3 AngularJS JSON AJAX DHTML DOM Restful WebServices 
+Application Web Servers WebLogic JBoss Apache Tomcat JBOSS FUSE APACHE CAMEL 
+Web Services REST WebServices JAX RS 
+Databases Oracle MySQL 
+IDE Tools Eclipse Kepler Mars Net Beans Flex Builder 
+Version Control CVS SVN 
+DHTML 
+JavaScript with 
+JQuery 
+ExtJS 
+AJAX 
+Operating Systems Windows UNIX 
+Logging and Testing Tools Ant Maven JUnit Log4j SOAP UI 
+Database Tools TOAD MySqlAPIs Spring Core Spring JDBC Spring Web Spring MVC Log4J Servlets Spring Batch 
+Scripting JQuery Java Script Shell Script Unix Commands 
+Design Patterns Singleton MVC Factory Session Fa ade DAO Business delegate 
+Design Methodologies UML Rational Rose 
+Protocols SOAP LDAP HTTP HTTPS FTP SMTP 
+Projects 
+TECHNICAL SKILLS 
+Languages JavaScript jQuery AJAX Java JDBC JSPDevelopment Stack MEAN MongoDB ExpressJS AngularJS NodeJS and LAMP Linux Apache MySQL 
+PHP 
+Front End HTML DHTML XHTML HTML5 XML JSON XSL XPath XSLT CSS CSS3 and 
+FlexBuilder20 30 
+Frameworks AngularJS Backbonejs ExtJS 
+Web App Developers Web Sphere 80 beta Web logic and Tomcat 
+Version Control System SVN CVS Clear Case 
+Desktop Tools Acrobat Writer MS Word MS Excel MS PowerPoint MS Access 
+OS Windows UnixSKILLS 
+Html5 Javascript CSS3 User Interface Design 
+Around 8 years of IT industry experience in Microsoft Windows based and Web based Applications using 
+Microsoft Technologies 
+Expertise in working with MicrosoftNet Framework developing Web Services Web Pages using WCF 
+Web API ASP MVCNet VBNet C Net ADONET IIS VBScript JavaScript HTML5 
+Experience in implementing several Design Patterns to standardize the application architecture 
+Extensive experience in relational database development for creating complex database queries writing 
+Constraints Indexes Views Stored Procedures Cursors and Functions using T SQL in Microsoft SQL ServeDesigned the front end applications user interactive UI web pages using web technologies like HTML5 
+JQuery CSS3 Angularjs and Bootstrap 
+Experience in all phases of software development life cycle Designing Developing Coding Debugging 
+Testing Implementation and Maintenance 
+Good understanding of providing SOA architecture and Configuration of applications using WCF services 
+Experience in working with structured methodologies such as Agile Scrum processes 
+Strong analytical and dynamic trouble shooting skills coupled with excellent communication skills and able to work individually and as a team 
+Involved in various phases of Software Development Life Cycle SDLC ie 
+Analysis Design Development 
+Implementation Testing and User Training of Enterprise Web Applications Stand alone and Distributed applications 
+Developed Web Forms ASPNET MVC Model View Controller with NET Framework 40 35 and Visual 
+Studio 
+Extensive experience in developing Web based applications and Client Server applications using C NET 
+ASPNET 40 35 ADONet LINQ Windows communication Foundation WCF XML HTML XHTML 
+JavaScript JQuery AJAX and CSS TFS 
+Proven ability to work as a team player as well as an individual 
+Interpersonal and Communication skills coupled with strong technical and problem solving capabilities 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Languages C C ASPNet VBNET VB 60 PL SQL 
+Net Framework Net Framework 30 35 40 45 Entity Framework 
+Scripting Languages JQuery Java script HTML5 XHTML DHTML CSS3 XML VB Scripting 
+Databases Oracle MS Access 
+Web Technologies 
+NET Framework ASPNET MVC 30 40 AngularJS Bootstrap Web Services WCF ADONET 
+JavaScript CSS3 IIS 5 6 7 COM DCOM SOAP Silver light WCF 
+Web Servers Microsoft IIS 70 6 0 
+Version Control Tools Visual Source Safe Team Foundation Server SVN 
+Operating Systems Windows 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Web technologies HTML5 CSS JQuery Json XML Angular JS NodeJS Express Js 
+Bootstrap JavaScript 
+Operating systems Windows vista 9x Mac OS x Unix 
+Linux Red hat EL v 4x 
+Web Editors Dreamweaver Notepad NetBeans Visual studio Sublime Text Editor Eclipse Brackets 
+Methodologies Agile Scrum UML Design Patterns 
+Browsers IE6 7 8 Firefox Opera Chrome 4 Safari 5 
+Graphic Tools Adobe Photoshop 
+Debugging Tools Firebug Chrome Developer Tools IE Developer Tools 
+SKILLS 
+HTML5 2 years DATABASE 1 year JAVASCRIPT 1 year SQL 1 year FRONT END 1 year 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILL SET 
+UI Technologies HTML5 CSS3 Bootstrap JavaScript AngularJS Beginner 
+Programming Language Java Ruby Beginner swift Beginner 
+Tools and Techniques J2EE JSP Servlet REST APIs Web Services JDBC Spring MVC 
+Maven 
+Testing Tools Selenium WebDriver and IDE JUnit TestNG 
+Databases Oracle 11g MySQL PL SQL Hibernate 
+IDE Tools Eclipse STS Android SDK NetBeans XCode Microsoft Visual Studio 
+Operating System Windows XP Vista 7 8 10 Mac and Linux 
+COURSE WORK 
+Web Front end Programming for Mobile Devices Web Services Techniques and REST 
+Technologies Software Quality Assurance and Test Automation Advanced Database 
+Design and Analysis Java and Internet Applications Mobile Applications on iPhone 
+Platform Mobile Computing for Android Mobile Devices 
+SKILLS 
+HTML 1 year ADOBE PHOTOSHOP Less than 1 year C Less than 1 year C Less than 1 year 
+DATABASE MANAGEMENT SYSTEM Less than 1 year 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Languages C C C Core Java Visual Basic 60 
+Scripting Languages Java script 
+Operating Systems MS Windows XP and later 
+DBMS RDMS MS Access Oracle 8i Oracle 9i My Sql 
+Application Microsoft Word Excel PowerPoint Outlook 
+Designing Tools Adobe Photoshop Macromedia Dreamweaver Adobe flash cs4 
+Web Technology PHP ASP 
+Markup Languages HTML DHTML 
+Frameworks NET 
+Over 15 years of Programming System Software and Application Software Developer 
+Over 5 years of Web Flex experience from Analysis and Design to Development 
+Expert in business analysis database analysis design and development 
+Skilled and currently working in business analysis requirements specifications analysis and design development implementation integration enhancement 
+Systems and Business analysis Experiences 
+Performed analysis on business process user requirements systems design and performance tuning 
+Expert in Flex PHP with database analysis and design 
+Skilled in developing business plans requirements specifications user documentation and building systems and software architecture 
+Works well in both team environments and individual assignments 
+A results driven customer focused articulate and analytical Software Engineer 
+Successful in meeting new technical challenges and finding solutions to meet the needs of the customer 
+Well rounded IT background in infrastructure of systems and software development from Hardware knowledge to development metrologies Software Architecture and skills in application programming and systems engineering 
+Technical Proficiencies 
+Computer Languages Flex Action script Java JSP Servlets XML HTML JQuery 
+C Sql Pro C PHP Power Builder Visual Basic 
+Data Base MySQL ORACLE Sybase MS SQL MS Access Stored Procedure 
+Operating Systems Android Unix MS Windows 
+Web Servers Apache Web Server Apache Tom Cat Server 
+Object Oriented Tool KEY 
+Other Skills Microsoft Office 
+Languages Other SkilJavaScript JQuery Angular2 Nodejs 
+SQL PostgreSQL MySQL 
+C C 
+Python Python2 Python3 
+Java C NET ASPNET 
+Tcl OpenAcs Server language 
+NoSql MongoDb CouchDb 
+Version Control Git 
+Agile Development Environment Jira Scrum 
+Experience in a Unix environment Command line Vim etc 
+ADDITIONAL INFORMATION 
+Skills 
+Experienced with C programming 
+Familiar with C Java python and SQL languages 
+Speak Spanish at an intermediate level 
+SKILLS 
+Jira Greenhopper Astra Quick Test Test Director Selenium IDE Mercury Bugzilla HP Quality Centre 
+Java 2 within a J2EE architecture Javascript VB Script HTML CSS XML JSP JSTL Visual Basic 6 
+ASP TCL AION COBOL II NETRON CAP SQL PASCAL 
+Teradata SQL Server 2008 R2 Oracle 10 IMS DB DB2 
+Tomcat Web Sphere 51 BEA Weblogic Borland Enterprise System 65 J2EE STRUTS J Eclipse 34 
+JDeveloper Web Sphere Studio Vignette 451 Vignette 7 SQL Server Management Studio SSMS SQL 
+Server Intergration Services SSIS Customer Relationship Management tool Aprimo 
+SKILLS 
+Bootstrap 2 years HTML5 1 year Illustrator 1 year JQuery 1 year PHP 1 year MySQL 1 year 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Database MySQL phpMyAdmin 
+Software Photoshop Illustrator Excel Visual Studio 
+Development Tools PHP JQuery HTML5 CSS3 and Bootstrap 
+Content Platforms WordPress SilverStripe 
+ADDITIONAL INFORMATION 
+QUALIFICATIONS PROFILE 
+Highly motivated and creative Web Developer with a strong knowledge and practice establishing responsive 
+Web pages and effective Web applications 
+Successfully develop and implement practical and portable applications for embedded devices and technologies to accomplish market requirements 
+Appropriately use unit testing data structure and algorithms processes to scrutinize each app for proper operation and to adequately store data 
+Proven ability to perform within cross functional teams or independently to manage produce and deliver projects 
+Proactively identify and solve problems related to software technologies to ascertain secure programs 
+Able to quickly adapt to any current or new technologies and to accomplish solutions for client satisfaction 
+Professional proficiency in English language and native speaker of Russian languageCore Technologies 
+Environments Windows OS Mac OS UNIX Linux 
+Tools 
+Java JavaScript J2EE CSS HTML jQuery AJAX Spring MVC Spark Hibernate REST API SQL PL 
+SQL MySQL PostgreSQL Python AngularJS Scrum Gradle Maven JSON PHP 
+ADDITIONAL INFORMATION 
+Technical Skills 
+UI Web Technologies HTML4 5 XHTML XML XSLT JavaScript AJAX JQuery JSON PHP MySQL 
+Java MV Framework AngularJS Bootstrap HandlebarsJS 
+IDE Editors Eclipse IDE Notepad Sublime Editor Adobe Photoshop Microsoft Visual Studio Web 
+Platform 
+Web App Servers Apache Tomcat 70 HTTP Web Server Experience with Many Online Webhosting 
+Platforms Shared Dedicated VPS 
+Database MySQL MS Access SQL PL SQL 
+Browser All IE Firefox Opera Chrome Safari 
+Specialties PHP WordPress Developer 
+SKILLS aspnet c HTML css javascript jquery ajax java 
+ADDITIONAL INFORMATION 
+Computer Skills 
+Hardware PC Linux basic command line functions 
+Operating Systems Windows MS DOS 
+Software Technologies Languages HTML CSS Javascript PHP NET Framework ASPNET C 
+VBNET Java XML AJAX Java J2EE JSP 
+Databases Oracle 10g MS Access MySQL SQL Server T SQL 
+Software Drupal Joomla Eclipse Microsoft SQL Server Visual Studio Dreamweaver Photoshop 
+Illustrator Putty SSH SQL Server MySQL TSQ Zend Framework Ektron CMS Selenium 
+SKILLS 
+Microsoft Office 10 years Microsoft Outlook 10 years Microsoft Excel 10 years Management 10 years Counseling 10 years PHP 10 years MYSQL 10 years CSS 10 years HTML 10 years 
+WordPress 10 years Google Adwords 10 years Google Adsense 10 years Digital Marketing 10 years Facebook Advertising 5 years SEO 10 years Top Secret Clearance 10 years 
+SKILLS 
+SharePoint Technologies NET Technologies Windows SharePoint Services 30 WSS NET Framework 
+C Microsoft Office SharePoint Server 2007 ASPNET ADONET Web Services WCF 
+MOSS 2007 Share Point 2010 SharePoint Designer 2007 Microsoft InfoPath 2007 Microsoft Visio 
+Programming Languages Scripting Languages C C C Java Script PHP Web Technologies 
+Database Access Methods HTML CSS XML ASPNET SOAP WSDL ADO 
+NET RDBMS Reporting 
+Tools SQL Server 2005 2008 2008R2 SQL Server Reporting Service MS Access and Oracle 9i Web 
+Servers Operating Systems IIS 60 SharePoint Server 2007 2010 MS DOS Windows 95 98 NT XP 
+Vista 7 Development Environment VSNET 2005 2010 Visual Source Safe 2005 Google s Version 
+Control 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+SharePoint Technologies NET Technologies 
+Windows SharePoint Services 30 WSS NET Framework 20 35 40 C 
+Microsoft Office SharePoint Server 2007 ASPNET ADONET Web Services WCF 
+MOSS 2007 Share Point 2010 
+SharePoint Designer 2007 Microsoft 
+InfoPath 2007 Microsoft Visio 2010 
+Programming Languages Scripting Languages 
+C C C Java Script PHP 
+Web Technologies Database Access Methods 
+HTML CSS XML ASPNET SOAP WSDL ADO 
+NET 
+RDBMS Reporting Tools 
+SQL Server SQL Server Reporting Service 
+MS Access and Oracle 9i 
+Web Servers Operating Systems 
+IIS 60 SharePoint Server MS DOS Windows 
+Development Environment 
+VSNET Visual Source Safe 2005 
+Google s Version Control 
+SKILLS 
+CSS Less than 1 year HTML Less than 1 year Microsoft Office 5 years Microsoft Excel 4 years 
+Interpersonal Communication 4 years 
+ADDITIONAL INFORMATION 
+SKILLS 
+Android Eclipse Android Studio Mobile development life cycle API ADB Activities Services 
+BroadcastReceivers Bluetooth WiFi material design JUNIT4 XML REST SOAP iOS Xcode Swift2 Objective C Third Party Libraries and APIs Cocoa pods Interface builder 
+MVC framework Reachability ROXimity AFNetworking AdobeMobileLibrary CXAlertView EGOCache 
+IBActionSheet 
+Programming Jenkins Selenium Microsoft Visual Studio JavaScript Core Java Python Oracle Database 
+PostgreSQL MySQL JSON CSS object oriented design GitHub SVN HTML5 PHP aspnet UNIX 
+SKILLS 
+HTML 2 years C 4 years CSS 1 year Python 2 years 
+TECHNICAL SKILLS 
+Languages C C Python MySQL 
+OS Windows Mac 
+Tools Unix Emacs Visual Studio Android Studio 
+Courses Algorithm Analysis Programming Languages currently enrolled Intro to Unix Discrete Structures 
+Database Management Software Design Development Operating Systems Security Malware currently enrolled Data StructuresMajor Projects 
+Socket based client server file transfer 
+Implementation of Unix shell 
+Elevator Algorithm representation 
+Android app similar to venmo 
+ADDITIONAL INFORMATION 
+Over 20 years of professional web design and development experience Including E commerce SEO SEM 
+Analytics KPI ROI 
+Email Marketing 
+PROFICIENCIEHTML5 CSS3 Javascript JSON XML PHP SQL with a focus on Responsive design 
+Structured Data Languages for SEO SEM 
+Shopify and BigCommerce WooCommerce on Joomla 35 WordPress 
+Integrations with E commerce platform API Merchant Center and Email marketing platform 
+Managed ecommerce assets customers products coupons shipping methods 
+Worked with product managers to understand their short and long term goals 
+Created custom reports and provided insight into analytics data 
+Implemented custom event tracking to facilitate custom reports 
+Provided crucial information to decision makers 
+SKILLS 
+IOS 3 years Swift 1 year Objective C 3 years XCode 3 years TDD 1 year 
+ADDITIONAL INFORMATION 
+CORE COMPETENCIESpring Struts JSF 
+JAX RPC JAX WS JAX RS 
+AngularJS NodeJS JQuery Bootstrap 
+JUnit Selenium 
+SKILLSET 
+Platforms Windows 2000 NT XP Vista and Sun Solaris 28 29 UNIX 
+Programming JDK 15 16 17 18 C C 
+Server Scripting JSP12 21 JSP EL JSTL Custom Tags 
+Client Scripting JQuery 18 19 JQueryUI Dojo ExtJS AngularJS Javascript CSS2 CSS3 HTML4 HTML5 
+NodeJS 
+Java Frameworks Struts 12 Struts 21 Spring MVC DI AOP JSF 11 JSF 21 GWT 
+Database Tools Toad for Oracle Toad for MySQL Toad for DB2 Toad for MS SQL MySQL Workbench 
+Databases DB2 MS SQL Server HSQLDB PostgresSQL MySQL 
+Middleware Specifications EJB 21 EJB 30 CORBA RMI JMS 
+Version Control Tortoise SVN GitHub CVS 
+IDEs Eclipse 30 31 MyEclipse 41 IntelliJ Netbeans JBuilder 2007 JDeveloper 
+Build Tools ANT Maven Gradle 
+XML Tools Altova XML Spy 
+XML Technologies XSLT JAXP JDOM SAX DOM XPATH XPOINTER XML XSD DTD 
+Webservice Specifications JAX RPC JAX WS JAX RS 
+Webservice Tools SoapUI 40 51 TcpMon 
+Webservice Implementations Axis 10 21 JWSDP21 Sun Metro Sun Jersey Apache XFire Apache CXF 
+Application Servers Weblogic 81 100 Websphere 61 JBoss 40 Glassfish 40 
+Web Servers Tomcat 
+UML Tools Altova UML Model Rational Enterprise MS Visio 
+ORM Frameworks Hibernate OpenJPA iBatis 
+Defect Tracking JIRA Bugzilla 
+Methodologies Agile XP Scrum Rational Unified Process RUP Waterfall Kanban 
+HTML Editors MS Frontpage 2003 Adobe Dreamweaver Coffee Cup HTML 
+ADDITIONAL SKILLS 
+Proficient in website and UI design Adobe Photoshop Adobe Illustrator 
+Expertise in Search Engine Optimization techniques 
+Working knowledge of responsive and adaptive web and mobile semantic layouts 
+Proficiency in creating A11Y web pages for the hearing impaired and visually challenged 
+SKILLS bootstrap 8 years JavaScript 8 years jQuery 8 years JSON 8 years UI 8 years 
+ADDITIONAL INFORMATION 
+Technical skills 
+UI Web Technologies 
+HTML4 5 XHTML XML XSLT JavaScript AJAX JQuery JSON MySQL CSS2 3 Redux MV Frameworks like AngularJS NodeJS BackboneJS BootstrapIDE Editors Eclipse IDE Notepad Adobe Dreamweaver Aptana Microsoft FrontPage 
+Web App Servers Apache Tomcat 70 HTTP Web Server Experience with Many Online Webhosting 
+Platforms Shared Dedicated VPS 
+Database Oracle9x 10x MS Access SQL PL SQL 
+Browser All IE Firefox Opera Chrome Safari 
+Key skills and competencies 
+Ability to multi task react quickly to shifting priorities and meet deadlines 
+Proactive confident and with a positive can do attitude 
+Able to clearly communicate technical data to non technical colleagues and clients 
+Continuously monitoring technologies and standards 
+Excellent attention to detail both front and back end 
+Solid web development experience using OOP PHP AJAX especially with the help of jQuery MySQL 
+JavaScript XML HTML and CSS Drupal CMS Drupal eCommerce 
+ADDITIONAL INFORMATION 
+IT Skills 
+Web development and design Programming 
+PHP MySQL Expert 
+HTML5 and Cascading Style Sheet CSS Expert Javascript jQuery PSD to HTML 
+Codeigniter framework Expert Drupal CMS Drupal commerce Zend framework 
+Involved in C NET VBNET CSS3 Apache server Perl 
+I have good knowledge about Magento eCommerce platform ASPNET C Java Oracle Microsoft SQL server 
+Operating system 
+Microsoft Windows XP 
+Microsoft Windows Vista 
+Microsoft Windows 7 
+Linux 
+Microsoft Office 
+Office 2003 2010 
+Software maintenance 
+Troubleshooting 
+Installation 
+Language 
+Arabic Native 
+English Good 
+SKILLS php 10 years html 10 years html5 5 years mysql 10 years css3 6 years javascript 10 years jquery 4 years NodeJS 1 year ReactJS 1 year 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS Programming C C Python Django Javascript Nodejs Angularjs Jquery 
+Expressjs 
+SQL PostgreSQL and MySQL NoSQL MongoDB Java PHP Zend Shell Scripting 
+Bash and Zsh HTML5 CSS3 
+Operating Systems IDE UNIX Linux Mac OS Windows Vim Sublime Text Cygwin 
+Other Object Oriented Programming TCP IP HTTP SMTP SVN Git Github AJAX 
+Network Programming 
+Skills 
+Years 
+LAMP Linux Apache MySql PHP 
+Perl Shell Scripting 
+Linux red hat slakware debian suse Bastille gentoo yellow dog Ubuntyears 
+Javascript jQuery CSS PSD to HTML conversion 
+Technologies 
+Joomla Drupal Wordpress Jira C Java RSS Atom Python Ruby VB Delphi SasS Sendmail Apache 
+Ftpd nmap dns bind version control systems svn git Computer security encryption Packet sniffing spoofing Application testing sql injection XSS google adsense google analytics SEO 
+SKILLS 
+PHP 1 year Javascript 1 year Reactjs 1 year Llinux 1 year 
+SKILLS 
+HTML 5 CSS 3 Javascript JQuery Ajax JSON Wordpress Bootstrap 30 AngularJS 15 Java C C 
+SASS SCSS Resposive Design Git Agile Methodologies Responsive Design 
+TECHNICAL SKILLS 
+Web Technologies HTML5 CSS3 JavaScript jQuery AJAX JSON AngularJS NodeJS PHP 
+Programming Languages C C Java Visual Basic 
+Databases Oracle 10g MySQL 
+Tools and Technologies Bootstrap 30 WordPress Adobe Photoshop Sass Data Structures Agile methodologies Scrum Git 
+Operating Systems Windows Mac LinuSKILLS 
+Javascript 2 years angularJS 2 years NodeJS 1 year MongoDB 2 years ADDITIONAL INFORMATION 
+Skills Summary 
+Coding Experience o Frontend experience building web interfaces with 
+AngularJS 
+Bootstrap and custom CSS jQuery 
+Material Design 
+Jasmine and Karma for testing o Backend Experience building APIs with 
+Node JS and Express 
+MongoDB Mongoose ORM 
+Heroku for deployment 
+AJAX JSON REST o Administrative Experience with 
+SharePoint 201Fluent in Japanese o Light experience performing technical document translation from Japanese to English o Teaching Japanese on Youtube using Adobe Suite software Premiere and Illustrator 
+SKILLS 
+Sitecore 1 year Wordpress 1 year HTML 1 year CSS 1 year PHP 1 year 
+SKILLS 
+AJAX 4 years CSS 4 years HTML 4 years JAVASCRIPT 4 years jQuery 4 years 
+ADDITIONAL INFORMATION 
+COMPUTER SKILLSLanguages and technologies HTML CSS JavaScript Ajax JQuery PHP5 Codelnighter 
+Boostrap 
+Software Visual Studio 2008 2010 2013 Git Microsoft Office Gitextensions 
+Management of databases MySQL EMS 
+Operating Systems Windows 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Programming Languages Java JavaScript 
+Web Technologies HTML 5 CSS3 JavaScript AJAX XML XHTML JSON 
+JavaScript Libraries and Frameworks JQuery Bootstrap AngularJS 2 Node JS Express JS Gulp JS 
+IDE Tools Sublime Text Brackets Eclipse IntelliJ IDEA Notepad 
+Database My SQL 51 Mongo DB 
+Operating Systems Windows 7 8 10 Mac 1012 Linux Unix 
+Methodologies Agile Scrum Waterfall 
+Workflow and Delivery Responsive Web Design Single Page Applications 
+Version Control SVN tortoiseSVN GitHub 
+Project Build Project Management Tools Grunt Maven Bower Jira Gulp 
+Designing Tools Adobe Photoshop CS6 Adobe Lightroom 
+SKILLS 
+HTML 5 3 years CSS3 3 years Javascript 3 years JQuery 3 years Bootstrap 3 years WordPress years Responsive 3 years Grunt 2 years SASS LESS 2 years Git 2 years AngularJS 
+BackboneJS Less than 1 year 
+SKILLSNET 2 years C 2 years javascript 3 years jQuery 2 years Visual Studio 2 years 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Programming Languages C Java C SQL VBNET ADONET 
+Scripting Languages JavaScript JQuery Angular js Knockout js Pager js VB Script 
+Web Technologies Bootstrap HTML 5 ASPNET XML JSP Ajax JSON MVC WebApi 
+Databases Oracle 10g 11g Microsoft SQL Server PostgreSQSoftware Tools Eclipse Visual Studio 2013 Rational Team Concert RTC Tortoise SVN 
+N Unit Runner ScanTool Plus Software Adobe DreamWaver 
+Office Suite Microsoft Office Suite Excel Word and PowerPoint 
+Software Utilities Putty WinSCP 
+Other Technologies Entity Framework Webservices SOAP RESTful services WCF AWS Azure 
+Dependency Injection N Unit Moq Socket Programming Multi threading 
+ADDITIONAL INFORMATION 
+SKILLSETS Current Expertise Up and Coming or Old Friends 
+Languages PHP Scala SQL Java 
+Python JS Salesforce Apex C C 
+Platforms Apache Spark LAMP LEMP AngularJS React Centos Salesforce Laravel 
+WordPress Ubuntu CodeIgniter Symfony Windows Desktop 
+Tools Jira git vim sbt PHPUnit mysql bash pytest Jenkins maven ansible bind postgres kafka postfix make ANT 
+Techniques Agile Object Oriented Continuous Integration Test Driven 
+Programming Functional Development 
+Programming Unit Testing 
+ADDITIONAL INFORMATION 
+Computer Skills 
+Proficient or familiar with a vast array of programming languages concepts and technologies including 
+Web Technologies JavaScript PHP CSS ASPNET HTML DHTML XHTML XML XSL XSLT Web 
+Services WSDL XSD 
+Computer Languages C C Java J2EE PERL Servlets and JSP RUBY J2ME Struts Framework EJB 
+Databases Oracle Microsoft SQL Server MySQL 
+Designing Tools Rational Rose Dia Magic Draw 
+Microsoft Tools InfoPath OneNote Access Excel Powerpoint Word Microsoft SILVERLIGHT 
+Microsoft EXPRESSION BLEND 4 
+IDEs Tools Microsoft Visual Studio Eclipse NetBeans Adobe Dreamweaver 
+Adobe Flash Flex Microsoft Visio SPSS Microsoft Expression BLEND 
+Operating Systems Windows Linux Unix Mac OS X 
+Other tools Rally cwiki 
+Technologies Java J2EE JavaScript DRUPAL PHP HTML CSS 
+Technologies Java J2EE 
+Technologies Java 
+SKILLS 
+ADOBE INDESIGN Less than 1 year EXCEL Less than 1 year HARDWARE INSTALLATION Less than year INDESIGN 3 years MAC 4 years Wordpress 1 year CSS 1 year Safety Less than 1 year 
+ADDITIONAL INFORMATION 
+SKILLS 
+Computer literate 
+WordPress Web Developer 
+Adobe InDesign 
+Mac OS Oriented 
+PIC16f84a programming 
+Workbench and Proteus Simulation 
+MS Office Word Excel PowerPoint 
+PC Software and Hardware installation 
+English Literate 
+SKILLS 
+HTML 5 3 years CSS3 3 years JQuery 1 year Javascript Less than 1 year QA Less than 1 year 
+SKILLOrganization Communication Detail and Deadline oriented Android Mobile Applications Wordpress 
+Content Management System Oracle Relational Databases Visual Basic Java C Structured Query 
+Language SQL Hypertext Markup Language HTML Active Server Pages ASP Cascading Style 
+Sheets CSS Office Project 2007 Visual Studio Web Expression Programmable Logic Controllers 
+Programmable Micro Controllers 
+SKILLS 
+HTML 5 2 years CSS3 2 years Javascript 2 years JQuery 2 years Angular 2 years BootsTrap 2 years PHP 2 years Git Less than 1 year Wordpress 2 years Native Script Less than 1 year 
+ADDITIONAL INFORMATION 
+SKILLS ABILITIES 
+HTML5 CSS3 Bootstrap3 
+JS Angular JQuery PHPResponsive design CMS WordPress 
+AJAX JQuery 
+SKILLS 
+HTML 401 XHTML 10 11 HTML5 CSS 21 CSS3 LESS SASS JSON XML JavaScript jQuery 
+MooTools Underscorejs Handlebarsjs Requirejs Raphaeljs Leaflet Twitter Bootstrap Cross browser compatibility 
+ADDITIONAL INFORMATION 
+SKILLS TECHNOLOGIES 
+FRONT END Semantic standards compliant progressive enhancement graceful degradation responsive 
+HTML 401 XHTML 10 11 HTML5 XML XSLT 
+CSS 21 CSS3 LESS SASS SCSS 
+JSON BSON 
+JavaScript React jQuery MooTools Backbonejs Underscorejs Handlebarsjs Requirejs Raphaeljs 
+Leaflet Twitter Bootstrap Zurb Foundation Spinejs 
+Cross browser compatibility including legacy browser versions such as IE 6 7 8 and of course 9 10 
+OpenGL WebGL 
+Bourbon Neat 
+Gulp Grunt 
+BACK END 
+PHP Python Java 
+SCRIPTING LANGUAGE 
+PHP 52 53 54 Java 6 7 
+DATABASE 
+MySQL MongoDB 
+SERVER 
+Zend Server CD CentOS 
+HOSTING EXPERIENCE 
+Managed VPSNET Rackspace Linode Slicehost 
+Shared Dreamhost Bluehost GoDaddy HostGator Aplus 
+APIs Installed modified and created interfaces for these APIs 
+REST HTML5 APIs eg 
+Geolocation File Media Drag Drop Amazon AWS eg 
+S3 MailChimp Flickr 
+Vertical Response Constant Contact Google Maps Cufon StackExchange Facebook Twitter 
+COMMUNICATION PROTOCOLS 
+HTTP FTP SFTP TCP IP SMTP POP IMAP 
+VERSIONING SYSTEMS 
+Git SVN CVS SmartGit TortoiseGit TortoiseSvn 
+DEVELOPMENT IDEs TEXT EDITORS 
+KomodoEdit favorite SublimeText2 Eclipse NetBeans Notepad Programmers Notepad PhpED 
+MySQL Workbench 
+GUIs 
+Database HeidiSQL Navicat MySQL Workbench 
+Shell PuTTy Cygwin 
+Versioning SmartGit TortoiseGit TortoiseSvnDESIGN SOFTWARE 
+Photoshop 
+SKILLS 
+GRAPHIC DESIGN 4 years ACCESS Less than 1 year ACCESS CONTROL Less than 1 year 
+ADOBE PHOTOSHOP Less than 1 year ASP Less than 1 year 
+ADDITIONAL INFORMATION 
+Key Skills 
+Network Administration 
+Support Analyst 
+Hardware Software InstallationAuthentication Access Control 
+System Monitoring 
+Back up Restoration 
+System Integration Planning 
+Graphic Design 
+Website Development 
+Firewalls Routers 
+Hardware Software Configuration 
+Remote Assistance 
+INFORMATION TECHNOLOGY SPECIALIST 
+Specializing Web Design Graphic Design Computer Repair and Networking 
+My qualifications include a degree in computer science detailed knowledge of Adobe Photoshop CS5 
+Dreamweaver and PC troubleshooting and repair 
+Ten years of experience in building and repairing systems 
+Five years of experience in graphic design and flash website creation and deployment Three years of experience in network implementation and design firewalls routers and LAN s 
+Systems Windows all Unix Based Systems Linux 
+Networking LANs WANs VPNs Routers Firewalls TCP IP 
+Software Microsoft Office Visio Frontpage Creative Suite 55 Photoshop Flash Dreamweaver 
+Programming Java JavaScript SQL MySQL PHP ASPNET C HTML5 CSS3 
+SYSTEM PROFICIENCY 
+Hardware 
+HP Blade IBM Dell Compaq Toshiba Macs Wireless Wired Routers LCD Displays PCI and PCI E cards 
+Programming Languages 
+HTML CSS Coldfusion Intermediate PHP Beginner Java Entry Level JavaScript 
+Systems 
+Windows 95 98 2000 NT XP Vista 7 MS DOS Snow Leopard Server 2003 2008 Exchange 2003 2010 
+Active Directory MAC OSX 
+PC Software 
+Microsoft Office Suite CA Unicenter Real Time Automated Personnel Identification System RAPIDS CISCO 
+Call Manager Adobe Collection Suite CS4 CS5 Partition Magic ERD CISCO VPN WSUS CA ArcServe 
+Symantec Ghost Microsoft Exchange AD VMWare Microsoft TFS Autotask FTP Joomla MySQL MAMP 
+Microsoft VS SQL MySQL 
+SKILLSNET 6 years ASP 6 years ASPNET 6 years C 6 years JavaScript 6 years 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Programming Languages C JavaScript AngularJS AJAX HTML5 CSS3 XML JSON Java 
+Frameworks 
+NET ASPNET ASPNET MVC ADONET Web API WCF Web Services LINQ Entity Framework JQuery 
+Telerik UI Bootstrap J2EE Spring MVC 
+Databases SQL Server SQLite DB2 
+Tools Visual Studio SQL Server Management Studio Balsalmiq SharePoint SharePoint Designer Visio 
+ERWin Eclipse 
+Source Control TFS Github Git 
+Methodologies Agile Scrum 
+SKILLS 
+Adobe Photoshop 2 years Ajax Less than 1 year HTML5 2 years JavaScript 1 year MySQL 2 years PHP 2 years Git Less than 1 year Technical Support 2 years 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLLanguages CSS3 HTML5 JavaScript PHP MySQL exposure to Ajax JSON jQuery and Git 
+Applications Adobe Photoshop Illustrator cPanel Sublime Text 3 Microsoft Visual Studio Code and GitHub 
+ADDITIONAL INFORMATION 
+Technologies 
+Microsoft C NET Microsoft ASPNET Microsoft MVC 4 Microsoft SQL Server 2008 Android OS Windows 
+Azure Java Windows Phone Silverlight CSS Microsoft SharePoint Microsoft Visual Studio 2012 jQuery 
+ADDITIONAL INFORMATION 
+SKILLS LANGUAGES 
+JavaScript Node jQuery MongoDB Mongoose HTML CSS Ruby Rails Express Angular Sass 
+Bootstrap Skeleton D3 GitHub Webpack Mocha Pry Heroku Firebase Wordpress Adobe Suite 
+ADDITIONAL INFORMATION 
+Skills 
+Created a new Wordpress theme for the ioquake3 website from scratch Programming 
+C Python Lua Flash ActionScript 3 
+Canvas JavaScript 
+Contact Hardware 
+Here s how to get ahold of me 
+Certified in Computer Repair 
+Phone Web Development 
+HTML 5 JavaScript CSS 3 Wordpress theme development 
+Email cdeboy frenchfriesandapplesaucecom Linux 
+Ubuntu POSIX CLI Usage SSH GIT FTPD Modeling and Animation 
+Blender3D modeling 3DS Max modeling animation 
+Graphic Design 
+Raster The Gimp Photoshop Vector Inkscape Illustrator 
+SKILLS 
+Microsoft Office Windows XP and 7 Ubuntu Linux Mac OS X Java C C C ActionScript HTML5 
+PHP CSS3 JavaScript jQuery Mercurial DVC Proficient in Joomla and ExpressionEngine CMS 
+Experience with French language 
+SKILLS 
+CSS 2 years Quality Assurance 6 years scripting 6 years testing 6 years Web design 6 years 
+ADDITIONAL INFORMATION 
+SKILLS 
+Back End Web Development Front End Graphic Web Design CSS HTML5 
+Console Application Development Stored Procedure Implementation Sproc 
+Quality Assurance Testing Web Service Development SOAP 
+Scripting for Data Driven Testing CS Script J Script Software Documentation Technical 
+Version Control Administration Tortoise SVN GIT Payment Credit Card Gateway Development 
+Microsoft Team Foundation 
+E Procurement Platform Development Coupa 
+Data Structures SciQuest 
+SKILLS 
+Microsoft Office 2010 HTML CSS Javascript Nodejs SQL PHP Wordpress Google Analytics SEO 
+Dreamweaver Photoshop Sketch 3 Illustrator Webflow Web Design Web Development Github Git FTP 
+Hosting 
+ADDITIONAL INFORMATION 
+Skills 
+Adobe Photoshop Illustrator 
+Front end Development 
+Back end Development on Nodejs 
+Git 
+Wordpress 
+Microsoft Excel 
+Team Communication Software Trello Slack etc 
+ADDITIONAL INFORMATION 
+Skills 
+ILLUSTRATOR CSS 
+INDESIGN JAVASCRIPT 
+DRUPAL PHP 
+HTML 5 MYSQL 
+BOOTSTRAP UI UX 
+SKILLS 
+C 7 years SQL 5 years NET 7 years Java 1 year Python 3 years HTML 2 years Database 
+Development 3 years OpenERP 3 years Odoo 2 years XML 3 years PostgresSQL 3 years 
+Telerick Web Controls 3 years Telerick Window Control 3 years Telerick Reporting 3 years AspNet 2 years HTML 5 1 year Bootstrap 1 year Git 3 years Github 3 years Jasper Report 1 year PLSQL year Oracle 1 year Visual Studio 7 years CSS 1 
+ RML 3 years ADO NET 4 years LINQ years OOP 7 years 
+SKILLS 
+HTML5 CSS3 Bootstrap jQuery JavaScript UI Development WordPress 
+SKILLS 
+Android Less than 1 year Assembly Less than 1 year HTML Less than 1 year JavaScript Less than 1 year PHP Less than 1 year 
+ADDITIONAL INFORMATION 
+COMPUTER SKILLS 
+C Java Python HTML JavaScript PHP Embedded C Mobile Development Android Assembly Database 
+Management 
+PERSONAL SKILLSSelf motivated 
+Resourceful creative and innovative 
+Determined and dependable 
+Analytical problem solver 
+Video production experience 
+OPERATING SYSTEMS Windows Linux UNIX and Red Hat Android LANGUAGES English Fluent 
+Spanish Fluent and German Basic Conversational 
+ADDITIONAL INFORMATION 
+Skills 
+Excellent problem solving abilities Proficiency in Microsoft Office 
+Strong research skills Leadership abilities 
+Adaptable learner Excellent communication skills 
+Creative problem solving Honest employee 
+Excellent time management Quality focused 
+Critical Thinker 
+SKILLS 
+Website Design Inventory Management Payroll Administration SQL HTML 
+SKILLS 
+Web Development Less than 1 year Business Development 1 year Sales 4 years Salesforce 4 years 
+CORE COMPETENCIEApplication Programming Website Development Project Management 
+Software Design Development Mentor Trainer Database Design 
+Requirements Gathering Graphical Programming Troubleshooting 
+Coding Agile Waterfall Methodologies Communication 
+TECHNICAL SKILLS 
+Front End HTML CSS SASS JavaScript jQuery AJAX AngularJS 
+Back End Ruby Rails Nodejs Express SQL NoSQL MongoDB Mongoose ActiveRecord 
+Other Firebase Ionic Git GitHub Heroku CLI Microsoft Office Google for Work 
+SKILLS 
+Adobe Creative Suite 10 years Content Management Systems 10 years HTML 10 years CSS years CSS3 10 years HTML 5 4 years Microsoft Office 10 years Javascript 10 years PHP years Analytics 10 years SEO 10 years Website Design 10 years Ecommerce 10 years 
+Web Development 10 years Web Services 10 years Web Platform Administration 10 years Full 
+Stack Development 10 years 
+ADDITIONAL INFORMATION computer skills 
+Adobe CS6 Adobe InDesign Adobe Dreamweaver 
+Adobe Photoshop Adobe Illustrator Adobe Bridge 
+Adobe Acrobat Adobe After Effects Microsoft Word 
+Adobe Final Cut Pro jQuery PC and Mac platforms 
+WordPress Drupal Adobe Flash 
+Adobe Fireworks MySQL Microsoft PowerPoint 
+Microsoft Excel HTML5 CSS3 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Programming Languages Java Nodejs Expressjs HTML 
+Cloud Computing Amazon Web Services Amazon RDS AWS Bitnami Sales force Google App Engine 
+Virtualization VMware ESXi VMware workstation VMware VSphere Client Xen Server 
+Big Data Apache Spark Kubernetes Container Cluster Docker Google Container Engine 
+SAP R 3 
+Database Systems MySQL Oracle 10g 
+Web Technologies HTML5 AJAX JavaScript Bootstrap JQuery Angularjs JSP Servlets Apache Tomcat 
+Design Skills and Operating Systems UML MacOSX Windows CentOS Linux UNIX 
+IDE Tools Eclipse NetBeans Jenkins Git 
+Skills 
+Adobe Flash 
+Corel Paint 
+Shop Pro 
+MS Office Professional 2010 
+Access 
+Excel 
+VS Ultimate 
+CSS 30 
+HTML XHTML 
+JavaScript 
+SQL 
+XML XSL 
+Visual Basic 
+MySQL 
+Windows Vista XP 
+ADDITIONAL INFORMATIOTechnical Skills 
+Operating System Windows Server 2003 Red Hat Linux 
+Databases My SQL 
+Programming Languages C Java Visual Basic 60 
+Scripting Languages PHP 524 JavaScript and Smarty Template 
+Markup Languages HTML and CSS 
+Web Technologies X cart Zen Cart Virtue Mart Pay Pal Wordpress 
+Web Servers Apache Xampp and Wamp 
+Development Tools Dreamweaver CS3 
+CMS Joomla 15 and Magento 
+Others Networking CCNA Basic Photo editing Photoshop 70 and GIMP 
+Academia 
+SKILLS 
+CSS 3 years Excel Less than 1 year html 3 years Javascript 3 years PHP 3 years 
+ADDITIONAL INFORMATION 
+SKILLS 
+Hard Skills 
+Familiar with the following programming languages PHP JavaScript SQL HTML CSS and XML 
+PHP frameworks of Code Igniter and Laravel 
+Javascript frameworks of Vue js 
+Familiarity with Git and version controlling software 
+Building ES5 and ES6 Javascript with Node JS Babel and Webpack 
+Proficiency in Microsoft office products such as Word Excel Access PowerPoint etc 
+Soft Skills 
+Strong interpersonal empathetic communicator 
+Able to listen and accept any feedback about my quality of work 
+Respectfully assertive when it is necessary 
+Highly self motivated to work hard to accomplish goals independently 
+Always looking for ways to make software work better 
+Love to work independently with the purpose to benefit the whole team with my work 
+Always working hard to learn and better myselfADDITIONAL INFORMATION 
+SKILLS 
+WEB DEVELOPMENT CSS HTML JAVASCRIPT TYPESCRIPT NODEJS 
+FRAMEWORKS ANGULAR REACT METEOR IONIC EXPRESSJS LARAVEL ADONIS 
+ADDITIONAL INFORMATION 
+TECHNICAL SKILLS 
+Microsoft Windows Mac OSX Active Directory SQL Server 2008 Microsoft O ce Suite 
+Adobe Photoshop Illustrator Premiere Indesign Lightroom mySQL C HTML PHP JavaScript jQuery CSS 
+SKILLS 
+AJAX 7 years JavaScript 7 years jQuery 7 years web services 7 years XML 7 years 
+ADDITIONAL INFORMATION 
+Technical Skills 
+Web Technologies JavaScript OOPs HTML4 5 CSS2 3 Responsive Web Design AJAX XML JSON 
+JavaScript Library JQuery YUI 
+JavaScript MVC Frame Work Backbonejs Angularjs 
+Server Side Scripting PHP 
+PHP MVC Frame Work Codeigniter 
+Database MySQL 
+Web Services REST 
+Web servers Apache Tomcat 7 and S3 Bucket 
+IDE s Tool PHPMyadmin xampp control Eclipse IDE Dreamweaver Firebug Developer Tools JSfiddle 
+V I Editor Notepad 
+Operating Systems MS Windows 2K XP 7 and Linux Ubuntu 
+Methodologies Agile Waterfall Model 
+SKILLS 
+Microsoft Office 10 years CSS 10 years PHP 10 years Wordpress 7 years Javascript 10 years HTML 10 years MySQL 10 years Problem solving Critical thinking Excellent written and verbal communication Willingness to learn Teamwork 
+ADDITIONAL INFORMATION 
+I am looking to transition from my main focus over the last 12 years of being a freelance web developer into a more stable and long term career with an established company 
+SKILLS 
+HTML5 CSS3 SASS LESS Javascript JQuery PHP MySQL WordPress Mobile Responsive 
+Frameworks Git Linux Apache C VBNET REST SOAP Ruby on Rails Object Oriented Programming oAuth iOS and Android app development Unity3D Xamarin 
+SKILLS 
+Web Development User Experience Content Management Subscriber Acquisition Digital Marketing 
+Social Media Ecommerce Web Analytics 
+Technical SkillsLanguages HTML PHP CSS Javascript JQuery AJAX XML JSON 
+Production Tools Adobe Creative Suite Vingette Interwoven TeamSite Wordpress Content Editor Coda 
+TextPad 
+Project Tools MS Office Suite Atlassian JIRA Adobe SiteCatalyst Perforce Google Analytics k 
+SKILLS 
+NETWORKING 6 years SECURITY 6 years MODEL VIEW CONTROLLER 2 years MODEL VIEW 
+CONTROLLER 2 years MVC 2 years 
+ADDITIONAL INFORMATION 
+Skills 
+Java 
+JavaScript 
+SVN GIT 
+AJAX 
+Bash shell 
+Google APIs 
+REST SOAP 
+Linux Ubuntu 
+MySQL 
+Drupal 
+Ubuntu 
+PHP 
+CSS3 
+Wordpress 
+LESS SASS 
+Perl 
+HTML5 
+Custom PHP MVC 
+Ruby on Rails 
+C COperating SystemInformation Security 
+Mobile Application Development 
+Networking Concepts 
+Fund of Computer Information Systems 
+Computer Law and Ethics 
+SKILLS 
+Java 6 years C 4 years Javascript 2 years CSS3 Less than 1 year CSS 2 years HTML 2 years 
+Entity Framework Less than 1 year Angular Less than 1 year Angular Material Less than 1 year 
+Bootstrap Less than 1 year Android Development Kit Less than 1 year 
+ADDITIONAL INFORMATION 
+SKILLS 
+Learn new concepts quickly work well under pressure and communicate ideas clearly 
+Fully bilingual Oral and writing skills in English and Spanish 
+Exceptional knowledge with computers and programming languages such as Java C Ruby HTML CSS 
+PHP Javascript etc and applications such as Visual Studio and Eclipse 
+A lot of experience developing videogames mostly out of self improvement and entertainment 
+Mostly used 
+Unity3D but have touched UDK and JMonkey Engine 
+Some experience using Blender to learn how to make my own meshes for my games though not nearly as extensive as my knowledge with coding 
+

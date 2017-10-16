@@ -1,0 +1,49 @@
+<ba>
+Ketaki Deshmukh
+
+Irving, TX - Email me on Indeed: indeed.com/r/Ketaki-Deshmukh/0ab5cdb1d8f73ad0
+
+• Over 2+ years experience as an Android Application Developer with analysis, design, implementation and
+testing of android applications.
+• Worked in Engineering and industrial solutions Domain, for industry sectors such as Hi-tech & telecom and
+Automotive.
+• Experience in gathering requirements and creating analysis phase deliverables such as Client Requirements
+Specifications, System Requirements Document, Client Impact Analysis Documents and Data Flows.
+• Experience in creating and updating deliverables associated with an upgrade for new capabilities for a client
+including any deliverable associated with requirements.
+• Ability to apply technology to solve business problems.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+TATA Consultancy Services Ltd  -  Pune, Maharashtra - March 2014 to October 2016
+<ed>
+EDUCATION
+
+Bachelor of Engineering in Information Technology in Information Technology
+Amrutvahini College of Engineering  -  Sangamner, Maharashtra
+September 2010 to July 2013
+
+Diploma in Computer Engineering in Computer Engineering
+Government Polytechnic  -  Jalgaon, Maharashtra
+August 2007 to July 2010
+<sk>
+SKILLS
+
+analyzer (2 years), Android (2 years), EAP (Less than 1 year), Eclipse (2 years), Java (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+Languages Android programming, Java
+Operating Systems Windows XP, Linux.
+Tools
+-Tortoise SVN, used to manage different versions of source code
+-JIRA, a bug tracking, issue tracking and project management software
+-Eclipse memory analyzer tool to perform memory analysis
+-EAP tool, to create UML diagrams for different workflows
+
+Environment Eclipse IDE, Android studio
+
+

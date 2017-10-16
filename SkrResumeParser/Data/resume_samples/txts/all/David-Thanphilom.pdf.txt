@@ -1,0 +1,132 @@
+<ba>
+David Thanphilom
+
+Front-End Developer
+
+San Francisco, CA - Email me on Indeed: indeed.com/r/David-Thanphilom/2d2e49a3ee313ba5
+</ba>
+<su>
+Front End Developer with experience in HTML production optimizing Photoshop assets into fully functional
+responsive websites by hand coding HTML5, CSS3, JavaScript, and jQuery. Has experience building (SPA)
+single page apps by utilizing MVC frameworks such as AngularJS or BackboneJS while making AJAX requests
+to various API to improve integration of API content. Other experiences include working in a fast paced small
+team environment communicating effectively to deliver deliverables on time in a rapidly changing environment.
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer - (AppleOne)
+SamTrans  -  San Carlos, CA - July 2016 to December 2016
+
+*Manages CMS daily operation and technical function of website, ensures uptime and resolves any hosting-
+related  issues  by  serving  as  the  first  point  of  contact.  Manages  access  rights  to  different  users.  Provides
+analysis, recommendations, and implementation to optimize web interface. Serves as District Webmaster for
+public facing websites 
+*Manage  the  front-end  design  and  backend  infrastructure  of  website  content,  assuring  visuals  and
+informational content is up to date, accurate, accessible and on-message 
+*Manage  and  coordinate  the  integration  of  Web  Service  projects  (i.e.  GTFS  static/real-time)  between  the
+District and the MTC/511 Transit Data Manager system 
+*Take visual comps and turning them into presentation layer code (HTML, CSS and JavaScript) for desktop,
+mobile and responsive design websites
+
+Front-End Developer
+(Freelance) Franco Finn  -  San Francisco, CA - April 2016 to June 2016
+
+*Built responsive (SPA) website by implementing BackboneJS, HandlebarsJS, jQuery, HTML5, and CSS3.
+*Utilized GET AJAX calls to Instagram API to improve website content update-ability.
+*Implemented Bootstrap and Font Awesome for responsive UI and styles of elements.
+
+Front End Developer
+(Aquent) Cost Plus World Market  -  Oakland, CA - March 2015 to November 2015
+
+Responsibilities
+* implemented HTML, CSS, and JavaScript updates to Cost Plus World Markets's website, blog, and corporate
+site improving usability.
+* worked on CMS Marketlive platform constructing page displays improving version control of files.
+* took Photoshop design assets and built fully functional webpages improving website updates.
+* completed coding of projects well in advance increasing workflow and deadlines.
+* communicated with team members effectively of necessary assets improving scheduled deadlines.
+
+Accomplishments
+*updated outdated code for better usability and web standards.
+*completed tasks well in advance improving team deadlines.
+*coded new responsive templates for both Desktop and Mobile displays.
+*successfully implemented new 3rd party plugins improving site user experience.
+
+Front-End Developer
+(Freelance) Thomas Krueger Photography  -  Seattle, WA - 2014 to 2014
+
+* Built responsive custom WordPress website with custom fields features to increase SEO.
+* Constructed wireframe layouts to improve usability and scalability.
+* Implemented typography, color palette, and strong imagery to improve branding.
+* Implemented HTML5, CSS3, and jQuery to build UI and dynamic user experience.
+
+Front End Web Developer
+(Freelance) Improv Comedy Mumbai  -  Mumbai, Maharashtra - 2014 to 2014
+
+* Built ticketing process to solve online ticketing purchases increasing revenue by 40%.
+* Analyzed UI/UX design for responsive layout for improved usability.
+* Implemented HTML5 email newsletter sign up form to increase marketing sales for upcoming shows.
+* incorporated social media improving website update status to users.
+
+Visual Designer/ Front-End Developer
+(Freelance) CREOi  -  Seattle, WA - 2013 to 2013
+
+* Led a team of four to build a custom responsive WordPress website with SEO features to increase web
+visibility.
+* Identified key components to the Information Architecture to increase user navigation.
+* Prioritized team tasks to keep progress on schedule and on budget.
+* Implemented CSS media queries to make website responsive & improve usability for all devices including
+mobile.
+
+Web Developer
+(Freelance) Sara Osebold  -  Seattle, WA - 2012 to 2012
+
+*  Built  responsive  custom  WordPress  website  with  post  and  category  features  to  increase  workflow  and
+productivity.
+* Analyzed and designed user interface wireframes to improve content layout and usability.
+* Coded custom PHP WordPress templates to improve functionality.
+</we>
+<ed>
+EDUCATION
+
+Web Design Certification
+Seattle Central Community College  -  Seattle, WA
+2012 to 2014
+
+AA in General Studies
+Seattle Central Community College  -  Seattle, WA
+2006 to 2008
+</ed>
+<sk>
+SKILLS
+
+HTML 5 (3 years), CSS3 (3 years), Javascript (3 years), JQuery (3 years), Bootstrap (3 years), WordPress
+(3 years), Responsive (3 years), Grunt (2 years), SASS/LESS (2 years), Git (2 years), AngularJS/
+BackboneJS (Less than 1 year)
+</sk>
+<ba>
+LINKS
+
+http://davidtproductions.com
+
+http://www.linkedin.com/pub/david-thanphilom/9/132/496
+
+https://github.com/coolguy206
+</ba>
+<ca>
+CERTIFICATIONS/LICENSES
+
+Web Design Certification
+2012 to Present
+The web design certification program curriculum includes: Typography, Writing for the Web, the Theory of Web
+Design, UI/UX Design and Web Project/Business Management.
+
+Students will learn to work with Photoshop, Illustrator, Flash, Dreamweaver and learn to produce websites
+using HTML5, CSS3, JavaScript and PHP.
+
+Combining design classes with core IT classes will prepare our graduates for careers such as Web Designer,
+Information Architect, UI/UX Designer and Web Producer.
+</ca>
+

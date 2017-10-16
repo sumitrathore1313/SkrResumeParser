@@ -1,0 +1,224 @@
+<ba>
+Mintu G
+
+Sr. . Net Developer - Master Card
+
+Albany, NY - Email me on Indeed: indeed.com/r/Mintu-G/ea034e398c50bebd
+</ba>
+<sk>
+• Around 8 years of IT industry experience in Microsoft Windows based and Web based Applications using
+Microsoft Technologies.
+• Expertise in working with Microsoft.Net Framework […] developing Web Services, Web Pages using WCF,
+Web API, ASP MVC.Net, VB.Net, C#.Net, ADO.NET, IIS, VBScript, JavaScript, HTML5.
+• Experience in implementing several Design Patterns to standardize the application architecture.
+• Extensive experience in relational database development, for creating complex database queries, writing
+Constraints, Indexes, Views, Stored Procedures, Cursors and Functions using T-SQL in Microsoft SQL Server
+[…]
+• Designed the front-end applications, user interactive (UI) web pages using web technologies like HTML5,
+JQuery, CSS3, Angular.js and Bootstrap.
+•  Experience  in  all  phases  of  software  development  life  cycle  Designing,  Developing,  Coding,  Debugging,
+Testing, Implementation and Maintenance.
+• Good understanding of providing SOA architecture and Configuration of applications using WCF services.
+• Experience in working with structured methodologies such as Agile, Scrum processes
+• Strong analytical and dynamic trouble shooting skills coupled with excellent communication skills and able
+to work individually and as a team.
+• Involved in various phases of Software Development Life Cycle (SDLC) i.e. Analysis, Design, Development,
+Implementation,  Testing  and  User  Training  of  Enterprise  Web  Applications,  Stand  alone  and  Distributed
+applications
+• Developed Web Forms, ASP.NET MVC (Model-View-Controller) with .NET Framework 4.0/3.5 and Visual
+Studio […]
+• Extensive experience in developing Web based applications and Client/Server applications using C#.NET,
+ASP.NET  (4.0/3.5),  ADO.Net,  LINQ,  Windows  communication  Foundation  (WCF),  XML,  HTML,  XHTML,
+JavaScript, JQuery, AJAX and CSS, TFS.
+• Proven ability to work as a team player as well as an individual. Interpersonal and Communication skills,
+coupled with strong technical and problem solving capabilities.
+</sk>
+<we>
+WORK EXPERIENCE
+
+Sr. . Net Developer
+Master Card  -  Albany, NY - August 2014 to Present
+
+Project: Alternative Payment Gateway (APG): Data Cash a MasterCard Company is a leading provider of
+online payment gateways which provides secure online payment, debit and credit card payment processing
+services.  The  Alternate  Payment  Gateway  is  a  non-card  based  payment  gateway,  which  has  integrations
+with various e-Wallets, online and offline payment interfaces. It supports different transactions like purchase,
+payout, Refunds and Transaction status verification.
+Responsibilities:
+
+•  Involved  in  Software  Development  Life  Cycle  (SDLC)  Process  included  Analysis,  Design,  Programming,
+Testing and Documentation.
+• Provided instruction to clients on performance improvements in coding techniques, wrote ASP.NET code
+and stored procedures to improve speed.
+• Prepared design documents with use case, class, and sequence diagrams.
+
+• Designed framework components for re-usable functionality across the banks in the gateway system.
+• Developed and designed application using ASP.NET, Razor View Engine and C#.
+• Created HTML pages with tables, images and forms.
+• Used ASP.NET MVC Data Annotations Validator Attributes in models and Custom Validators for Validation.
+• Added Server controls, Custom controls and functionality to an ASP.NET page.
+• Used Microsoft ADO.NET to access data from database in a web application.
+• Used state management for storing web pages and data.
+• Developed menus using User Controls and XML.
+•  Communicating  on  requirement  clarifications  and  participated  in  the  critical  weekly  status  meetings  with
+Client. Providing technical solutions in required areas as part of new banks integration with payment gateway.
+• Designed framework components for re-usable functionality across the banks in the gateway system.
+• Responsible to Onsite-Offshore Development Team and Coordinate with the client respectively.
+• Responsible to Support and Maintenance of existing system.
+• Integrating new banks to the existing gateways system and performing integration testing.
+• Designed and developed business component to interact with external services for communicating banks
+securely.
+• Responsible for Development web application to test the developed server side components and services
+using ASP.Net, Web User Controls, ADO.Net, Ajax, and Java Script.
+• Designed WCF service to interact with server components from test site.
+• Implemented business logic as custom coded APIs, database objects written in C#.
+• Used .NET Framework Class Libraries and created ASP.Net pages in C# containing the business logic and
+providing data access logic using ADO.Net objects.
+• Designed client specific tables and fine-tuned stored procedures for better performance using T-SQL.
+• Extensively used ASP.NET User Controls and Custom Controls for reusing common User Interface elements
+in multiple web pages
+• Implemented security in business components to build secure message and sending to the external services.
+• Performed code reviews and fine tuning of database queries, stored procedures.
+
+Environment: C#, ASP.Net, ADO.Net, XML, WCF, JAVA SCRIPT, VS2010, SQL Server.
+
+Sr .Net Developer
+CNO Financial Group  -  Carmel, IN - May 2012 to August 2014
+
+CNO Financial Group, Inc. is a financial services holding company based in Carmel, Indiana. CNO's insurance
+subsidiaries provide life insurance, annuity and supplemental health insurance products to more than four
+million customers in the United States. These products are distributed through independent agents, career
+agents and direct to customers through television advertising and direct mail.
+Responsibilities:
+• Involved in designing and developing the Client-Server and Distributed Web Applications with ASP.NET MVC
+4.0.
+• Involved in building web applications with MVC4, C#, JQuery, LINQ, Ajax, HTML5, and CSS3.
+• Supported in unit testing and bug fixing QA and UAT.
+• Experience working on agile methodology.
+• Developed and consumed Web Services using XML/SOAP and REST.
+• Utilized MVC, Abstract Factory and Singleton design patterns.
+• Used Java Script, Ajax to client side validations and partial page updates and JSON objects to return data
+from server side load into Data bind controls in the application.
+• Involved in new development /enhancing the application using the MVC pattern, JQuery, Bootstrap, and
+WebAPI and SPA using Angular.js.
+
+• Responsible for setting up Angular JS framework to achieve data binding between HTML and JavaScript
+objects.
+• Worked on the Web API 2.0 to create the services and tested on Postman/fiddler and used Angular.js to
+create the data in the table using ng-repeat attributes.
+• Used Tortoise SVN for Version Control; performed thorough unit testing using Unit Framework tools.
+• Implemented Client Side Validations and Server Side Validations using JavaScript and Data notations.
+•  Created  and  deployed  XML/Soap  Web  Services  using  WCF  and  C#  and  consumed  them  in  the  web
+application.
+• Written Data Access Layer using ADO.net entity Frame Work enables to automatically generate code for
+displaying, updating, creating and deleting functionality.
+• Involved in developing required objects using C# to meet the business requirements using Visual Studio
+2010/2012.
+• Experience in creating SQL queries to fetch data as per the business requirements with tuning
+Techniques and worked with SQL server 2012 database to access source data.
+
+Environment: .NET Framework (4.0/4.5), MVC 4.0, SQL Server 2012, ASP.NET, C#, WCF, REST/WEB API,
+LINQ, Entity Frame Work 6, Angular JS, HTML5, CSS3, Bootstrap, JQuery, Java Script, .NET Unit Testing
+framework.
+
+ASP .NET Developer
+Kraft Foods  -  Northfield, IL - March 2010 to May 2012
+
+Kraft Foods is a world's 2nd food and beverage company, headquartered in the United States. In a competitive
+market,  the  organizations  most  likely  to  meet  their  objectives  are  those  that  are  capable  of  leading  rather
+than following changes within that market. Kraft foods therefore need to build a business that is capable of
+responding quickly to changes in both consumer requirements and the business environment. This means not
+only constantly developing innovations but also being able to launch them into the market place.
+Responsibilities:
+• Involved in design and development of the user interface using ASP.NET server controls.
+• Used server controls like Repeater control, Data list Control and Data Grid Control.
+• Implemented Exception handling & logging using Enterprise Application blocks.
+• Developed User Interface using HTML, XML, Master Pages, JavaScript and CSS.
+• Implemented client side validations using JavaScript.
+• Created Stored Procedures, Packages, Views, Cursors and Functions using Oracle PL/SQL. Extensively
+used Ref Cursors and Table types to load and process data.
+• Used cascading style sheets (CSS) for different fonts and colors.
+• Developed user controls and custom controls to reuse them in many web forms.
+
+Environment: .Net Framework 2.0, VSS5.0, ASP.NET, C#, ADO.NET, Oracle8i, IIS 5.0, HTML, XML, XSL,
+XSLT, Web Services, Visual Studio.NET 2005, Java Script.
+
+Role .Net Developer
+AT&T  -  Bothell, WA - June 2009 to March 2010
+
+AT&T is the largest provider of both local and long distance telephone services, wireless service and DSL
+Internet  access  in  the  United  States.  which  offers  a  broad  spectrum  of  telecommunication  services  which
+includes  Wireless,  Dial-Up  Internet,  DSL  Internet,  Cable  Television,  VoIP,  Wire  line  Phone  Services.  The
+project is aimed at providing enhancement services, maintenance, support to the Enterprise Data Warehouse
+(EDW) and Enterprise Consolidated DataWarehouse (eCDW); these enterprise Datawarehouses consist of
+large number of applications (including LightSpeed and Uverse).
+Responsibilities:
+
+• Followed N-Tier Architecture development which involves Presentation, Business, Data Access Tiers and
+Database.
+•  Involved  in  the  design,  development,  support  and  enhancement  of  an  application.  Responsibilities  are
+including: Designing, coding, testing multi-tier web application.
+• Implemented Model-View-Controller (MVC) as a commonly used and powerful architecture for GUIs.
+• Used MVC pattern hinges on a clean separation of objects into one of three categories - models, views,
+controllers.
+• Used cursors, stored procedures, functions and Triggers for fetch data in the data layer.
+•  Created  database  objects  like  Tables,  Constraints,  and  Views  and  implemented  Indexes  to  improve
+performance in fetching data from database.
+• Using C# Generics, Lambda expressions, LINQ for sorting, searching the exceptions data in the grids, Query
+results.
+• Wrote stored procedures, functions and Triggers for complex business logic in the data layer.
+• Used modular programming models, reusable components, two way bindings using Angular JS.
+• Used entity Frame Work database first to that enables to interact with the existing database.
+• Developed service interface, service contracts and data contracts using Windows Communication Foundation
+(WCF) service model and exposed business components using the service interface
+
+Environment: ASP.NET, MVC, C#, WCF, LINQ, ADO.NET, SQL Server 2008, Angular JS, XML, Entity Frame
+Work 4, XSL/XSLT, HTML, XHTML, JAVA SCRIPT, JQuery, Unit Testing Framework, VS.NET2010.
+
+Net Web Developer
+Capital One  -  Richmond, VA - January 2008 to June 2009
+
+Capital One Bank offers services like banking, investment and loans. This application offers various features
+like creating new accounts, managing existing accounts, processing credit card and personal loan applications.
+Personal loan processing has various modules for Customer Information, Loan Application Verification, Loan
+Authorization, Loan Approval and Update Information.
+Responsibilities:
+
+• Followed N-Tier Architecture development which involves Presentation Tier, Data Access Tier, Business Tier
+and Database Tier.
+• Designed Class diagrams and Sequence diagrams using UML.
+• Prepared Technical design documentation for User Interface and Business layers using VISIO
+• Used Design Patterns like Factory and Singleton classes and methods.
+
+• Developed web application using MVC 3 design pattern, Razor as view engine and HTML as markup.
+• Enhanced and developed UI functionality using JavaScript/ jQuery and worked with HTML elements.
+• Web pages are developed using MVC.NET, C#. NET, Java Script, HTML and used Internet
+Information Server (IIS), Visual SourceSafe.
+• Designed, developed and implemented Business Tier using ADO.NET, C#, and WCF
+Services.
+• Created stored procedures and packages using Oracle 10g.
+• Used combination of server controls, HTML for User Interface design and Client side
+Validation controls, Java Script for client side functionality implementation in Web application.
+• Involved in creating Test Plans, and Test strategies.
+• Extensively involved in developing controllers for each page and respective action handlers.
+
+Environment: ASP.NET, MVC, C#, Visual Studio.NET 2003/2005, Java Script, jQuery, CSS, XML, XSL, XSLT,
+HTML, Oracle 10g, PL/SQL Editor and Toad 8.6, ADO.NET, IIS, Web Services.
+</we>
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+Languages C, C#, ASP.Net, VB.NET, VB 6.0,PL/SQL.
+. Net Framework .Net Framework 3.0, 3.5, 4.0,4.5, Entity Framework
+Scripting Languages JQuery, Java script, HTML5, XHTML, DHTML, CSS3, XML, VB Scripting,
+Databases […] Oracle […] MS Access
+Web Technologies:
+.NET  Framework  […]  ASP.NET  MVC  3.0/4.0,  AngularJS,  Bootstrap,  Web  Services,  WCF,  ADO.NET,
+JavaScript, CSS3, , IIS 5/6/7, COM/DCOM, SOAP, Silver light, WCF
+
+Web Servers Microsoft (IIS) 7.0/6/0
+Version Control Tools: Visual Source Safe, Team Foundation Server, SVN
+Operating Systems Windows […]
+</sk>
+

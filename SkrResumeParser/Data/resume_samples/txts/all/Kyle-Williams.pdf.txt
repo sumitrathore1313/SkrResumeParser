@@ -1,0 +1,65 @@
+<ba>
+Kyle Williams
+
+Web Developer - Lewis Color, Inc
+
+Sylvania, GA - Email me on Indeed: indeed.com/r/Kyle-Williams/2d442ec85dbcfb5d
+</ba>
+<su>
+IT Professional with 2 years of experience between web development, databases and technical support. I am
+seeking a full time position that will allow me to continue growing professionally within IT.
+Willing to relocate to: Georgia
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Lewis Color, Inc  -  Statesboro, GA - August 2016 to Present
+
+• Maintain and develop new features for CarDoozy, an e-commerce website that sells promotional materials
+to automotive dealerships across the United States.
+• Built a password recovery system that utilizes the PHPMailer library
+• Implemented account editing for users
+• Completely rebuilt the database structure of the website to use one normalized, efficient database
+• Reworked all database queries to use PDO instead of MySQLi
+• Introduced the ability to export sales on a monthly basis to an Excel spreadsheet using the PHPExcel library
+
+Lab Assistant
+Georgia Southern University  -  Statesboro, GA - August 2015 to May 2016
+
+• Aided instructor by assisting 100+ students with their lab work throughout the semester
+• Evaluated submitted labs and provided feedback to each student
+
+IT Intern
+Koyo Bearings USA  -  Sylvania, GA - June 2015 to August 2015
+
+• Assessed problems with various users computing platforms
+• Created/Modified database records
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Information Technology in Information Technology
+Georgia Southern University  -  Statesboro, GA
+January 2013 to May 2016
+</ed>
+<sk>
+SKILLS
+
+Adobe Photoshop (2 years), Ajax (Less than 1 year), HTML5 (2 years), JavaScript (1 year), MySQL (2
+years), PHP (2 years), Git (Less than 1 year), Technical Support (2 years)
+</sk>
+<ba>
+LINKS
+
+http://linkedin.com/in/kwilli93
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+• Languages - CSS3, HTML5, JavaScript, PHP, MySQL; exposure to Ajax, JSON, jQuery and Git
+• Applications - Adobe Photoshop/Illustrator, cPanel, Sublime Text 3, Microsoft Visual Studio Code and GitHub
+</sk>
+

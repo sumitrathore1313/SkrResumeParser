@@ -1,0 +1,64 @@
+<ba>
+Kyle Enzweiler
+
+Tigard, OR - Email me on Indeed: indeed.com/r/Kyle-Enzweiler/3cd3df71e834f584
+<su>
+Willing to relocate to: Chicago, IL - California - Washington State
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+DAT Solutions  -  Beaverton, OR - August 2016 to Present
+
+Consistently met deadlines and requirements for all stories assigned to me
+Wrote unit-tests to ensure robustness and prevent regression
+Coordinated with UI/UX teammates to finalize designs and confirm requirements
+Utilized common design patterns in object-oriented software development
+Implemented new widgets to improve performance and backwards compatibility
+Recommended architectural improvements, design solutions and integration solutions
+Proposed technical solutions for functional designs and suggested options for hardware compatibility
+Maintained consistency with Android Material Design
+Adhered to Android best practices to maintain functionality and feasibility
+
+Project Scope: Find freight near user's current location or destination. Owner Operators subscribe to one of
+DAT Solutions plans, then use Load Board to find jobs across the country. Brokers can also use Load Board
+to post available jobs available for the Owner Operators.
+
+Environment: Agile, MVVM, Android Studio, Bitbucket, Git, Java, and Jira
+<ed>
+EDUCATION
+
+BS in Computer Science minor Mathematics
+Roosevelt University  -  Chicago, IL
+2014 to 2016
+
+General Electives
+Harper College  -  Palatine, IL
+2012 to 2014
+<sk>
+SKILLS
+
+Android (3 years), Java (3 years), Javascript (Less than 1 year), Web Development (1 year), Python (Less
+than 1 year), Agile (1 year), XML (2 years), Testing (1 year), Git (2 years)
+<ba>
+LINKS
+
+http://www.linkedin.com/in/kyle-enzweiler-a3478ba3
+
+https://github.com/ktenzweiler
+<ex>
+PUBLICATIONS
+
+Load Board
+https://play.google.com/store/apps/details?id=com.dat.fm.carrier
+December 2016
+A transportation management system app for both Brokers and Owner Operators. Uses newest UI elements
+to create a modern look and feel.
+
+Fish Tracker
+https://play.google.com/store/apps/details?id=com.kodingwithkyle.kyle.fishtracker
+May 2016
+Creates a memorable record of the users angling experiece. Persists details of fish caught locally and remote.
+
+

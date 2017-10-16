@@ -1,0 +1,40 @@
+<ba>
+Steven Avila
+
+Web Developer
+
+Missouri City, TX - Email me on Indeed: indeed.com/r/Steven-Avila/6e1ee20c490efd43
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Cool City Trading LLC - June 2015 to July 2015
+
+Improved number of visits to website by 80% using search engine optimization
+• Raised the website's Google ranking to appear higher on google searches
+• Fine tune website to preferences of the company
+
+Front Desk Agent
+Candlewood Suites - September 2012 to March 2013
+
+Assign rooms to incoming guests, process guests check-outs, and attend to any request
+• Follow company procedures to handle payment process of special guests
+• Work as a team with housekeeping department to maintain the hotel's status
+</we>
+<ed>
+EDUCATION
+
+Computer Science
+University of Houston College of Natural Science and Mathematics
+2012 to Present
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+Skills
+• Experienced with C++ programming
+• Familiar with C#, Java, python, and SQL languages
+• Speak Spanish at an intermediate level
+</sk>
+

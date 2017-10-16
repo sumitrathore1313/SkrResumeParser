@@ -1,0 +1,286 @@
+<ba>
+Sandeep Karneta
+
+Android Developer - PayPal Inc
+
+San Jose, CA - Email me on Indeed: indeed.com/r/Sandeep-Karneta/3aa3f8ac5656a28f
+<su>
+• Total 7 years of industry experience in developing, deploying and supporting Android and Java applications
+•  Experience  in  Agile  SCRUM  based  development  process.  Participated  in  daily  SCRUM  meeting  and
+Byweekly Sprint Planning
+• Proficient in Object Oriented Analysis and Design (OOAD), object-oriented design, data structures, problem
+solving, complexity analysis, and debugging.
+• Extensively worked on almost every stage of application development right from collecting requirements,
+providing guidelines for design, creating application architecture, implementation that includes various stages
+in development, QA, & code signing.
+• Experience working with PMO and PO for product development and designing.
+• Experience in using Android Studio, Android SDK, ADT, Gradle for development
+• Experience in Android application UI design implementation and development.
+• Experience implementing Activities and Fragments for creating user-interface.
+• Experience in Consuming RESTFul Web services in android and efficient data transfer between servers and
+devices.
+• Good knowledge in using version control system like Github, Subversion
+• Extensive experience in using the Design patterns like Singleton, Factory and Builder Patterns
+• Experience using various Android tools like Hierarchy Viewer, ADB, LogCat, lint.
+• Extensive experience in debugging the application using ADB shell commands, Device Monitor, Systrace,
+traceview
+• Experience using Google Support Libraries like Support V4, App Compat v7 and Design libraries.
+• Experience of Integrating and Using Third party libraries like Retrofit, Event Bus, GSON, ButterKnife,OkHttp,
+Volley,Picasso, GooglePlayServices.
+• Experience in using File system storage provided by Android, SharedPreferences, SQLite, Content Providers
+• Good Knowledge on Using NDK, creating JNI wrapper classes and Integrating C++ libraries in Application.
+• Experience in Front-end web development using HTML, CSS, and JavaScript.
+• Regarded as self-motivated and well-organized team player.
+• Always like to learn new technologies and programming languages.
+Willing to relocate: Anywhere
+Sponsorship required to work in the US
+<we>
+WORK EXPERIENCE
+
+Android Developer
+PayPal Inc  -  San Jose, CA - November 2015 to Present
+
+Play store URL: https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile
+
+Description:
+At PayPal, we put people at the center of everything we do. Founded in 1998, we continue to be at the forefront
+of the digital payments revolution. PayPal gives people better ways to connect to their money and to each
+other, helping them safely access and move their money and offering a choice of how they would like to pay
+or be paid. With our 169 million active customer accounts, we have created an open and secure payments
+ecosystem that people and businesses choose to securely transact with each other online.
+
+Responsibilities:
+• Worked closely within a cross functional team of testers and developers.
+• Worked on Next Gen Wallet features and functionalities
+• Worked on Web service calls, JSON parsing included in the project
+• Worked extensively with Android SDK framework
+• Designed and developed screens of Add and Confirm Bank Functionality
+• Responsible for Service Integration Development and Testing
+• Worked on Linking, Confirming and Deleting Bank features with Service call integration.
+•  Worked  on  providing  the  Instrumentation(Analytics)  for  Adding/Confirming/Deleting  Banks  and  Cards
+features
+• Worked refactoring the existing code for Add billing address navigation flow.
+• Took care of code review, code fixes and bug fixes
+• Designed and developed screens for Editing the credit/debit card functionality
+• Worked on Design and Development of PayPal Credit Make a Payment feature to pay the credit card bills
+• Worked with writing the Unit Tests and UI Tests for the features developed
+• Worked with Android Studio and Terminal for debugging and coding.
+• Worked with JIRA to file the bugs and also fixing the reported bugs by both internal and live users
+• Worked with GIT to checkout and update the codebase changes with pull requests
+• Worked with Build server like Jenkins to build the jobs daily basis
+• Interacting with QA on deliverables on every iteration and customer feedback implementation.
+Environments: Android 5.0, Android Studio, Gradle, REST, JSON, XML, EventBus, JIRA, JUNIT, CUCUMBER,
+Crashlytics, Jenkins CI, GIT, PAYPAL CORE SDK.
+
+Android Developer
+Go My Cell, Inc  -  Phoenix, AZ - November 2014 to October 2015
+
+Play store URL: https://play.google.com/store/apps/details?id=com.gomycell.securecellpro
+
+Description:  This  messaging  application  for  healthcare  professionals  is  for  sending  SMS-like  messages
+securely using RSA encryption mechanisms and bouncy castle security library. The project has a messaging
+relay server component as well.
+
+Responsibilities:
+• Gathered Requirements and Analyzed the features and Application flow.
+• Worked on App Design Module.
+• Worked with designing the application screens
+• Worked on Security framework for Encryption/Decryption of text messages using AES Encryption
+• Worked on Integrating Urban Airship for receiving push notifications
+• Worked on handling push notifications received with Urban Airship backend
+• Created message database tables for saving encrypted messages from users
+• Worked on creating the customized list view for message thread to look alike the sms thread
+• Worked on handling the list view scrolling smoothly for large encrypted data
+• Implemented the subscription features of the application
+• Used Robotium to test the application by Integration tests
+• Worked on handling the settings of the application.
+• Used New Relic Sdk to evaluate the performance testing in both development and production.
+Environment: Java, Eclipse, API level 11-19, Android SDK, GCM, Urban Airship, SQLite, SharedPreferences,
+OkHttp, JSON, New Relic, AES & RSA Encryption, SMS.
+
+Android Developer
+Trimble Inc  -  Sunnyvale, CA - January 2014 to September 2014
+
+Play store URL: https://play.google.com/store/apps/details?id=com.trimble.vilicus
+
+Description: Trimble Ag smart machines help in the grower's daily operations. Typically, the grower employs an
+operator or hired help to get the tasks completed. Though the operators carry out the tasks, there are situations
+where the task execution gets delayed or stopped because of unplanned events happening on the field.
+
+The P&D product of Connected Farm maps the different work states of the equipment and when the vehicle is
+stopped beyond a threshold as determined by the back office, the operator is required to key in a delay reason
+code, so as to provide additional information of the cause of the delay in the field. This data helps in better
+understanding the issues in the field.
+
+Responsibilities:
+• Worked on Delay Reasons Module in Connected farm application.
+• Designed and implemented the Module Architecture.
+• Designed all the screens in the application using layout elements and attributes and support libraries.
+•  Implemented  the  background  Service  class  for  sending  and  receiving  updates  from  modem  to  perform
+actions.
+•  Worked  with  receiving  the  updates  from  modem  by  binding  the  service  to  application  to  perform  the
+appropriate actions
+• Implementation of Web Service calls to get the Reasons /actions from the server
+• Worked with parsing the JSON data getting from web services and updating the UI
+• Worked with configuring the native development environment to compile and run.
+• Wrote JNI interface classes for interacting the application with the modem to perform actions.
+• Integrated compiled C++ source libraries in the application and using them in to interact with the modem.
+• Worked on listening for the events coming back from the modem with socket connection, and handling the
+connection using a background service.
+Environment: Java, Eclipse, C++, C, JNI, REST, JSON, API level 11-18, Service, Android SDK, NDK.
+
+Android Developer
+USA (Offshore) - January 2013 to December 2013
+
+Description: Lash and carry is a mobile application, which is used to sell the Younique products to customers.
+Presenters of the Younique Products can use the application to sell the products by making payments using
+the PayPal Here card readers.
+
+Responsibilities:
+• Gathered requirement from client and analyze it for the features and application flow
+• Designed the Application Architecture and developed the application.
+• Used the Fragments with Activities for the application flow.
+• Designed all the screens in the application using Android SDK widgets and AppCompat library.
+• Worked with Integrating Paypal Here SDK
+• Worked on making payments through the paypal card reader using paypal sdk
+• Listen for the card reader events using provided paypal sdk callbacks.
+• Worked on handling the Manual Entry of Credit Card details for processing payment
+• Initialization of PayPal Here SDK with Merchant token upon login to the PayPal account through web view.
+•  Used  Shared  Preferences  to  store  the  App  Login  token,  PayPal  merchant  token,  expiry  values  to  easy
+accessing.
+• Worked on Integrating PayPal login using Paypal Sandbox or Live accounts
+• Worked on writing web service calls to contacting server and used OkHttp to intercept the request and make
+network calls.
+
+• Used GSON convertor factory with retrofit to serialize the response to model classes.
+• Worked with Image Loading from web services and caching them using image loading library Glide.
+• Worked on Implementing Navigation drawer for app settings.
+• Integrated Social Network SDKs like Facebook to provide the Login behavior for application and also fetching
+the user data from his account.
+Environment: Java, Android studio, Retrofit, ButterKnife, OkHttp, Web services, REST, JSON, MySQL, API
+level 15-23, Android SDK, Paypal Here SDK, Facebook SDK, New Relic, SharedPreferences.
+
+Java/Android Developer
+Tech Mileage Inc  -  Phoenix, AZ - September 2011 to December 2012
+
+Description: All City Towing, Inc. is a web based vehicle management and towing system. It provides a variety
+of  towing  and  transport  services  including  private  vehicle  towing,  government  vehicle  towing,  commercial
+vehicle transport, emergency recovery, accident towing and heavy duty towing and transport.
+
+Responsibilities:
+• Gathering Requirements and analyzed the features and application flow.
+• Implemented Token Authorization in headers for security.
+• Used Jackson library for response serialization.
+• Worked with Designing and implementing the application architecture
+• Worked with designing the application screens using AppCompatlibrary and SupportLibraries.
+• Implemented showing the Google Map in Application
+• Worked with Generating the Google Map API key to access the Map features in Application.
+• Worked on drawing routes between two locations on Google Map in application.
+• Accessing the current Location using Location API and Tracking the current location
+• Worked with getting Address from the Geo location using Location API.
+•  Worked  on  integrating  the  Web  services  using  AsyncTask  network  operations  for  retrieving  the  JSON
+application content from server
+• Developed the routing service between user and Tow locations
+• Worked with parsing the JSON data updating the data in UI
+• Implemented the background Service class for receiving updates from server to perform actions.
+• Handling multithreads to receive and update calls from web server (service and Broadcast Receiver).
+• Implemented showing the new screen every time receiving the update from server
+• Worked with urbanairshippush notification service to receive and handling the push notifications
+• Worked on dynamic designing of tabs in the application every time on receiving the update from server.
+• Worked with Alarm Manager API to provide count down feature.
+• Designed databases, created tables and developed data layer abstraction modules
+• Worked on data synchronization module, along with push mechanisms
+• Implemented Push notifications to receive the tow information from backend
+Environment:  Java,  Eclipse,  MySQL,  Maven,  Web  Services,  REST,  API  level  11-17,  Android  SDK,  GCM,
+Google Maps, Urban Airship, SQLite, Tablet.
+
+Android Developer
+42nd Parallel Solutions  -  Phoenix, AZ - August 2010 to August 2011
+
+Description: Commercial driver's license (CDL) is a driver's license to operate any type of vehicle weighing
+more than 10,001 lb for commercial use, or that is designed to transport 9 or more passengers (including driver)
+for compensation, or 16 or more passengers (including the driver), for non-compensation. This includes, but
+is not limited to, tow trucks, tractor trailers, and buses.
+
+Responsibilities:
+
+• Worked on Managed GPS Courses Module
+• Designed the screens with Google Maps integration
+• Configured the test environment for pre Inspection and Vehicle inspections.
+• Created Database tables for saving test details and test summary of each stage.
+• Handling saved tests and managing saved tests.
+• Implemented showing the Google Map in Application
+• Worked with Generating the Google Map API key to access the Map features in Application.
+• Worked on drawing routes between two locations on Google Map in application.
+• Accessing the current Location using Location API and Tracking the current location
+• Implemented the Navigation service to provide the Google Map Navigation like feature in the application.
+• Implemented calculating the speed of the vehicle by using the Location API.
+• Worked on creating the driving route/course to perform test by driving the from One Location to another
+Location.
+• Developed printing of the created course using printer API.
+• Implemented importing and Exporting the courses/routes information from storage.
+• Implemented deleting the course from the storage.
+• Locating the mistakes of the driver by placing the pin points on map using Location and Marker API.
+• Saving all the test results to SQLite db and summary saved as PDF.
+• Worked with handling the images in the applications.
+• Signature capture Implementation for taking signatures of both examiner and driver while performing a test
+• Taking the Examiner details and Driver details and perform Pre Inspection and vehicle Inspections upon
+taking the Inspection the test will begins.
+
+Environment: Java, Eclipse, API level 8-14, Android SDK, Google Map V1 & V2, Routing, Shared Preferences,
+SQLite, Tablet.
+
+Java/Android (Intern)
+MediRoutes Inc - June 2009 to July 2010
+
+Description: The purpose of the application is to assist a driver in performing a "Schedule" for the current
+day. A "Schedule" details the transportation of individuals, typically being transported to and from medical
+appointments
+
+Responsibilities:
+• Worked with designing the application screens module.
+• Worked on Implementing the REST web services
+• Worked on deploying the war file in server to provide the services to mobile app
+• Designed the web pages for creating a schedule and Implemented calling the services using JavaScript
+• Implemented retrieving the list of customers near to the driver location
+• Worked with Generating the Google Map API key to access the Map features in Application.
+• Worked on integrating the Web services using AsyncTask and Http network operations for retrieving the
+JSONApplication content from server
+• Worked with design and development of Customized List View
+• Developed the routing service between user and driver locations
+• Handling multithreads to receive and update calls from web server (Service and Broadcast Receiver)
+• Worked on data synchronization module for up to date data
+• Worked with Location API to get the address information from the Location
+• Sending the updates to server using web service calls from the application about the schedule
+• Locating the User on Google Maps to reach them using routing service
+• Implemented showing the distance in miles from driver location to user location
+
+Environment: Java, J2EE, HTML, CSS, JavaScript, Eclipse, MyEclipse, web services, Android SDK, REST,
+JSON
+<ed>
+EDUCATION
+
+Bachelor's in Computer Science and Technology
+Jawaharlal Nehru Technological University
+2010
+<ba>
+LINKS
+
+https://www.linkedin.com/in/sandeepkarnati
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+Languages: C, JAVA
+IDE  &  tools:  Eclipse,  Android  Studio,  IntelliJ,  GenyMotion,  GitHub,  Subversion  Issue  Tracking  tools  JIRA,
+Crashlytics, Applause
+Automation tools: Cucumber, Robotium, Junit
+Build servers: Jenkins Framework Android SDK, Java Development Kit (JDK)
+Android Specifics: Android Studio, Gradle, Maven, ADB, User Interfaces, Animation, Custom Views, Google
+Support  libraries,  Material  Design,  RecyclerView,  REST/JSON,  Broadcast  Receiver,  Shared  Preferences,
+SQLite.
+3rd party library integration: RetroFit, Volley, GSON, Picasso, EventBus, Parceler, ButterKnife, AppCompat,
+Crashlytics, Google Zxing.
+Android versions: Jelly Beans, KitKat, Lollipop, Marshmallow
+
+

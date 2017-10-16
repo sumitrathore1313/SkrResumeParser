@@ -1,0 +1,215 @@
+<ba>
+Hugo Buriel-Vasquez
+
+Web Developer with focus on Front-End Development who prefers to Telecommute
+
+Riverside, CA - Email me on Indeed: indeed.com/r/Hugo-Buriel-Vasquez/127228d1b2cc27bb
+</ba>
+<su>
+Web Developer with experience in front-end technologies, LAMP stack, WordPress platform, and a working
+knowledge  of  Java  game  development  (e.g.  Minecraft)  &  Python.  I  develop  custom  applications,  content
+management  systems,  upgrade  and  maintain  projects  for  small  businesses,  corporations,  and  private
+individuals. I’m an avid health and fitness enthusiast and would like to branch out into these industries to build
+apps and sites.
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Mercy For Animals  -  Los Angeles, CA - January 2016 to July 2017
+♣  Responsible  for  development,  maintenance,  and  improvement  of  MFA  websites,  web  applications,  and
+general IT support
+♣ Created and updated web pages and applications written in PHP, HTML, CSS, and JavaScript
+♣ Implemented various APIs from social media networks and third-party vendors
+♣ Conducted quality assurance testing on MFA sites and web applications
+♣ Deployed builds to development and staging environments using Git and GitHub
+♣ Developed WordPress plugins, themes and back-end user controls
+
+CMS Developer
+Myers Media Group  -  San Diego, CA - 2014 to 2016
+
+Responsibilities
+-Modified and maintained large, data-driven, high-traffic web sites
+-Implemented complex CSS designs and HTML graphic user interface (GUI) elements from design mock-ups.
+-Used  Bootstrap  to  implement  responsive  design  functionality  or  update  branding/look  and  feel  design
+elements on existing sites .
+-Developed WordPress plugins, themes and back-end user controls from scratch to add new functionality that
+is portable across different websites.
+-Developed and modified highly customized WordPress themes.
+-Migrated  &  cloned  large  WordPress  sites  modified  to  accommodate  new  client  specifications,  including
+copying back-end internal databases and any custom auxiliary tables used.
+-Migrated all sites from small hosting company to AWS.
+-Implemented schema, microdata, and structured data techniques for SEO benefits.
+-Developed JavaScript modules that offer rich client-side interactions and aggregate API data using concepts
+presented by UI designer.
+-Troubleshooted and fixed bugs in a complex application framework.
+-Used MySQL, performed data insertion, updates, and corrections.
+-Managed bug reports and makes fixes to existing functionality.
+-Pushed and QA'd changes to code on development and staging servers.
+-Provided code reviews with team members.
+
+Web Developer
+Hemisphere Interactive, LTD  -  Auckland, Auckland - September 2013 to November 2013
+
+Responsibilities
+-Hired for short-term projects
+-Responsible for front end coding and API implementations.
+
+Accomplishments
+-Developed API to pull data from Joomla database and integrate with client's in-store displays
+-Developed new code and assisted in maintaining legacy systems
+-Implemented Capistrano (Ruby-based) for new builds
+-Achieved all goals assigned to me
+-Completed a front end design implementation for 1 client
+
+Skills Used
+-Capistrano (Ruby-based)
+-HTML
+-CSS
+-PHP
+
+Front-End Software Developer
+185 Red, Inc  -  Philadelphia, PA - March 2012 to February 2013
+
+Developed  prototypes  for  new  CRM  software  using  Zurb's  Foundation,  SASS,  Backbone.js,  and
+Handlebard.js.
+- Modified, customized, and updated front-end user interfaces for in-house software to comply with modern
+standards using XHTML, HTML 4, CSS, and jQuery (including plugins)
+- Source control and management via Git, SVN, and CVS
+- Worked closely with the Project Managers and Design Team to assist with design ideas and concepts
+- Assisted the Implementations team in foxing any Form HTML/CSS issues.
+
+Interface Engineer
+exhibit-E(TM)/Dan Miller Design, LLC  -  New York, NY - 2012 to 2012
+
+2012
+- Developed highly customized front-end user interfaces and mail campaigns for websites/applications using
+HTML5, CSS3, JavaScript, jQuery and jQuery plugins
+- Source control and management via Subversion and Git
+- Worked off of full Flash mockups to create pixel-perfect HTML/CSS sites
+- Websites worked on:
+• http://affirmationarts.com/ 
+• http://elizabethheyert.com/ 
+• http://www.amhomesbooks.com/ 
+• http://www.fincacortesin.com/en 
+• http://artproductionfund.org/ 
+• http://www.kerlin.ie/ 
+• http://www.barbaramathesgallery.com/ 
+• http://www.michaelrosenfeldart.com/ 
+• http://www.colinstinson.com/ 
+• http://www.winewriterssymposium.org/ 
+• http://www.crsculpture.com/ 
+• http://www.wolfkahn.com/
+
+UI Developer
+4Clicks Solutions, LLC  -  Colorado Springs, CO - 2011 to 2012
+
+Provided  custom  software  development  services  for  the  development  of  software  that  is  designed  for
+estimating, project management, and accounting functions and requirements.
+- Created applications and interfaces using hand-coded CSS, HTML, advanced Object-Oriented JavaScript
+(including prototypes), JSON, JQuery, and JQuery UI.
+-  Assessed  the  direction  of  the  project  throughout  the  development  lifecycle  via  Agile  development
+methodologies
+- Assisted in training various staff members of staff in JavaScript coding techniques and methodologies
+- Set up secured wireless LAN
+
+Web Developer
+Ibex Data Services, Inc  -  Irvine, CA - 2009 to 2011
+
+Maintenance and debugging of scripts for high-traffic (50K+ unique hits/month), membership, and education
+Websites
+- Object-Oriented PHP/MySQL development
+- Wordpress installation and plugin development
+- Google Maps integration and customization
+- Bug tracking via Mantis Bug Tracker
+- Subversion for project versioning on development, staging, and production servers
+- Hand-coded CSS/HTML/JavaScript (vanilla/JQuery) front-end development
+- Create pixel-perfect pages from Photoshop® (PSD) files, functionality documents and wireframes
+- Provided Quality Assurance testing for various projects
+- Trained new hires for programming and QA roles
+-  Assessed  the  direction  of  the  project  throughout  the  development  lifecycle  via  Agile  development
+methodologies
+- Websites worked on:
+http://www.roadtripnation.com 
+http://blog.roadtripnation.org
+http://www.roadtripnation.org 
+http://ce.collegeboard.org
+http://blog.roadtripnation.com
+</we>
+<ed>
+EDUCATION
+
+Computer Science and Information Systems
+Palomar College  -  San Marcos, CA
+</ed>
+<sk>
+SKILLS
+
+HTML 4.01, XHTML 1.0/1.1, HTML5 CSS 2.1, CSS3, LESS, SASS, JSON, XML, JavaScript, jQuery,
+MooTools, Underscore.js, Handlebars.js, Require.js, Raphael.js, Leaflet, Twitter Bootstrap, Cross-browser
+compatibility
+</sk>
+<ba>
+
+LINKS
+
+https://github.com/hugoburiel
+
+https://www.linkedin.com/in/hugodbv
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+SKILLS & TECHNOLOGIES
+
+FRONT END - Semantic, standards-compliant, progressive enhancement, graceful degradation, responsive:
+• HTML 4.01, XHTML 1.0/1.1, HTML5, XML, XSLT
+• CSS 2.1, CSS3, LESS, SASS, SCSS
+• JSON, BSON
+•  JavaScript,  React,  jQuery,  MooTools,  Backbone.js,  Underscore.js,  Handlebars.js,  Require.js,  Raphael.js,
+Leaflet, Twitter Bootstrap, Zurb Foundation, Spine.js
+• Cross-browser compatibility including legacy browser versions such as IE 6/7/8 and of course 9/10+
+• OpenGL / WebGL
+• Bourbon / Neat
+• Gulp / Grunt
+
+BACK-END
+PHP, Python, Java
+
+SCRIPTING LANGUAGE: 
+PHP 5.2, 5.3, 5.4+; Java 6/7
+
+DATABASE: 
+MySQL, MongoDB
+
+SERVER:
+Zend Server CD, CentOS
+
+HOSTING EXPERIENCE:
+Managed: VPS.NET, Rackspace, Linode, Slicehost
+Shared: Dreamhost, Bluehost, GoDaddy, HostGator, Aplus
+
+APIs - Installed, modified, and created interfaces for these APIs: 
+REST, HTML5 APIs (e.g. Geolocation, File, Media, Drag&Drop), Amazon AWS (e.g. S3), MailChimp, Flickr,
+Vertical Response, Constant Contact, Google Maps, Cufon, StackExchange, Facebook, Twitter
+
+COMMUNICATION PROTOCOLS:
+HTTP, FTP, SFTP, TCP/IP, SMTP, POP, IMAP
+
+VERSIONING SYSTEMS:
+Git, SVN, CVS, SmartGit, TortoiseGit, TortoiseSvn
+
+DEVELOPMENT IDEs & TEXT EDITORS:
+KomodoEdit  (favorite),  SublimeText2,  Eclipse,  NetBeans,  Notepad++,  Programmers  Notepad,  PhpED,
+MySQL Workbench
+
+GUIs:
+Database: HeidiSQL, Navicat, MySQL Workbench
+Shell: PuTTy, Cygwin
+Versioning: SmartGit, TortoiseGit, TortoiseSvn
+
+DESIGN SOFTWARE:
+Photoshop
+</sk>
+

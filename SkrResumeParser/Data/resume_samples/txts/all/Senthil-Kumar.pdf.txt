@@ -1,0 +1,215 @@
+<ba>
+Senthil Kumar
+
+Android Developer - Coca-Cola
+
+Alpharetta, GA - Email me on Indeed: indeed.com/r/Senthil-Kumar/24386ddb98cf50f7
+<su>
+• Around 7 years of Software Design and Development Experience in Java based applications.
+• Around 5 years of experience on smartphone and tablet development experience. Developed and architected
+multiple  Android  applications  across  versions.  I  have  a  good  understanding  of  Android  Back-end  and  UI
+guidelines.
+• Extensively worked on almost every stage of application development right from collecting requirements,
+providing guidelines for design, creating application architecture, implementation that includes various stages
+in development, QA, code signing and releasing to Market.
+• Expertise in developing apps using SQLite, java, XML and HTML5
+• Extensively worked on memory leaks, push notifications, content providers, multiple screen support, data
+offline usage, accounts and sync on Android.
+• Have developed applications in such a way that device adaptability (Android device forms and SDK levels)
+is default architecture imperative.
+• Expertise in Object Oriented Architecture, Design and Programming from design to implementation.
+• Expertise in developing applications using Java, J2EE, Struts, spring, Hibernate and JSP.
+• Experience in architecture design, development and implementation of software applications and testing.
+•  Have  hands-on  experience  in  complete  project  life  cycle,  with  domain  knowledge  in  Mobile  Application
+Development and Web application development.
+• Experience in web service protocols such as JSON, HTTP, and XML.
+• Experience on JavaScript and PHP client-server side development.
+• Working knowledge of graphic design and handling various kinds of media using Photoshop, Illustrator, and
+Dreamweaver.
+• Good communication skills: I have interacted with customers regularly during development of the mobile
+applications.
+• Have a good understanding of side mobile development factors such as server side interfaces, security,
+enterprise enablement, analytics, data feeds and content management systems.
+• Ability to coordinate with various team members involved in the project.
+• Quick learner, excellent analytical, design and problem solving skills.
+• Always curious to learn new skill or a new technology
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Coca-Cola  -  Atlanta, GA - January 2013 to Present
+
+Link: https://play.google.com/store/apps/details?id=com.mycokerewards.android&hl=en
+
+Description: The Coca-Cola MCR application provides a way to manage Coca-Cola rewards, point balances,
+offers based on location and user profile.
+
+Responsibilities
+• Involved in requirement gathering and designing of the application.
+• Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+• Implemented unique design for portrait and landscape mode.
+
+• Implemented SQLite database
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+• Debugging and Root cause analysis of production issues
+• Tested the application on various Android devices
+
+Android Developer
+Caterpillar  -  Peoria, IL - June 2012 to December 2012
+
+Link: https://play.google.com/store/apps/details?id=com.appdataroom.catsales&hl=en
+
+Description: CAT Sales app is designed for Caterpillar and its Dealer Sales personnel who have CWS login
+access. This app provides sales representatives access to the marketing material to be sent to their customers
+and potential customers.
+
+Responsibilities
+• Adding new features to android stack.
+• Involved in designs and implements UI, classes, and activities.
+• Fixing bugs reported by service providers and testing team.
+• Used SQLite database.
+• Worked with the design team to create the interactive UI.
+• Worked in an agile environment delivering in short sprints.
+• Tested the app in various virtual devices and real devices.
+
+Android Developer
+NBC Universal  -  New York, NY - January 2012 to May 2012
+
+New York, NY January 2012 - May 2012
+Title: "CNBC Alarm Clock 1.0"
+Link: https://play.google.com/store/apps/details?id=com.tring.cnbc&hl=en
+Role: Android Developer
+
+Description: With CNBC Alarm Application users can wake up with business news bearing instantaneously.
+Users can choose their favorite CNBC anchor as their alarm sound, and you'll get the state of S&P in their
+very own words as your alarm. It can also display News, Video and Weather based on user location.
+
+Responsibilities
+• Architected the application from scratch and was also responsible for interacting with CNBC team in regard
+to project updates and technical discussions
+• Worked on the entire Alarm Module Functionality which includes creating One time Alarm, Repeating Alarm
+and Alarms with Week day or Week end patterns
+• Triggering alarm sounds set by an user based on current Marketing conditions
+• Constructing http requests, fetching server response and parsing feeds wherever required
+• Caching alarm related information on to database
+• Analysis of mobile application code for re-engineering
+
+Android Developer
+"HBO GO Tablet"  -  New York, NY - August 2011 to December 2011
+
+Link: https://play.google.com/store/apps/details?id=com.HBO
+
+Description:  After  a  few  successful  launches  of  HBO  Phone  project  HBO  finally  decided  to  extend  the
+application support to Tablet devices as well. The application did receive tremendous response after launch.
+HBO GO was released as a universal application that supports both phone and Tablets. The views would
+differ a bit for 7 inch and 10 inch tablets which includes Kindle Fire. The application was released on Amazon
+App Store as well.
+
+Responsibilities
+• Designed screens related to Categories and Detail description for Tablet for both 7 inch and 10 inch devices
+by customizing views as per mockup. Created Master-Detail Interface for tablet implementation.
+• Updated backend validations to meet tablet specific requirements
+• Added Omniture and BI events for Tablet
+• Added parser classes for Tablet which involved parsing JSON feeds
+• Had interactions with HBO team on daily progress, project updates and questions if any.
+• Implemented data caching mechanism
+• Added Facebook and twitter related API's
+• Provided subsequent releases which included feature changes, enhancements and bug fixes
+
+Android Developer
+"MAX GO Phone"  -  New York, NY - April 2011 to July 2011
+
+Link: https://play.google.com/store/apps/details?id=com.MAXGo
+
+Description: MAX GO was a white labeled application that replicated all features that HBO GO phone had. UI
+changes along with backend modifications were done here.
+
+Responsibilities
+• Worked on updating the UI as per design specs for Front Page and Categories
+• Updated backend feeds applicable for this application
+• Updated Omniture and BI event tracking
+• Fixed bugs and issues found during testing
+
+Android Developer
+"HBO GO Phone"  -  New York, NY - October 2010 to March 2011
+
+Link: https://play.google.com/store/apps/details?id=com.HBO
+
+Description: With HBO GO ®, enjoy instant and unlimited access to every episode of every season of the best
+HBO shows, movies, comedy, sports, and documentaries on Android Smartphone device. The first release of
+this application crossed about one million downloads after which this project was extended for Tablets as well.
+
+Responsibilities
+• Implemented video playback for HBO using Authentec DRM library
+• Designed screens related to Front Page and Categories
+• Handled user sessions and obtaining content based on the same
+• Implemented State Management and data caching mechanism
+• Parental Control based validation and scenarios
+•  Provided  architectural  inputs,  daily  updates,  sorting  open  issues  that  involve  issues  related  to  design,
+development and implementation.
+
+Android Developer
+Wood Wing America  -  Detroit, MI - March 2010 to September 2010
+
+Description: Wood Wing provides the best software solutions for efficient cross-media content publishing for
+magazines, newspaper and books. We designed a prototype E-reader application based on open sourced
+OFIP (Open Format for Interactive Publications) format. The format is exclusive for Tablet based Smartphone's
+and we designed this application for Samsung galaxy Tab 7 inch. My role involved creating screens based on
+data provided by OFIP on their tablets.
+
+Responsibilities
+• Parse the XML feeds that were provided by OFIP
+• Construct basic views and page designs based on the XML that was being parsed
+• Designed a prototype application which had all these features integrated into a single one
+
+Android Developer
+TI Media Solutions  -  New York, NY - September 2009 to February 2010
+
+New York, NY September 2009 - February 2010
+Title: "Time Mobile 1.0"
+Role: Android Developer
+Link: https://play.google.com/store/apps/details?id=com.Time
+
+Description: This application was exclusively developed for TIME Inc. Time Mobile is a news portal kind of
+application which provides users with latest news updates in various categories. It clocked over half million
+downloads within few weeks of its release. It was made as a Featured application in Android Market at that
+time.
+
+Responsibilities
+• Designed screens related to categories and detail pages for this application.
+• Developed quick search as well as voice search functionalities in this application.
+• Fixed issues that cropped out during testing
+
+ASP Programmer/Web Developer
+Photon InfoTech  -  Chennai, Tamil Nadu - June 2007 to August 2009
+
+Responsibilities
+• Participated in requirements gathering from the end users, design, development, testing phases.
+• Various HTML and interactive pages was developed using Microsoft Visual InterDev.
+• Developed interactive content using Active Server Pages (ASP) technology.
+• Both Client side and Server side scripting was accomplished using JavaScript/ VBScript.
+• Worked with ActiveX Data Objects (ADO) to communicate with data layer.
+• Several Active Server Components were used for the enhancement of application's functionality.
+• Wrote stored procedures and created tables using SQL.
+• Worked with Internet Information Server to create Virtual Directories for web site deployment.
+
+References will be provided upon request.
+<ed>
+EDUCATION
+
+Bachelor of Engineering in Electrical and Electronics
+Anna University  -  Chennai, Tamil Nadu
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+OS Windows 8/7/Vista/XP, Mac OSX, Android 1.x/2.x/4.x, and Ubuntu 12.04
+Languages JAVA, C, C++, JavaScript, JSON, JQuery, and Python
+Markup Language HTML/CSS, HTML5, and XML
+Development tools Eclipse Galileo-Kepler, Netbeans 5.x, and MS Visual Studio
+Databases SQL, SQLite, and MS-Access
+Other Tools/Software OpenGL, VMware workstation, and Oracle virtual box, GenyMotion Emulator
+
+

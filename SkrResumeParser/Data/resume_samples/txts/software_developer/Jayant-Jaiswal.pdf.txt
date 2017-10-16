@@ -1,0 +1,89 @@
+Jayant Jaiswal
+
+Software Engineer - Backend Developer
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Jayant-Jaiswal/bc62f45f28d0b67b
+
+Willing to relocate to: Bangalore, Karnataka - Pune, Maharashtra - Hyderabad, Andhra Pradesh
+
+WORK EXPERIENCE
+
+Software Engineer(Backend Developer)
+Roposo.com  -  Gurgaon, Haryana - July 2016 to Present
+
+Designed a centralized logger in
+NodeJS in which n hosts would log there messages (mainly for logging errors) to a centalized
+server without the hosts needing to maintain a continuous open connection to the centralized
+server.
+Built multiple Rest APIs in both NodeJS and Java.
+Designed many crawl and scrape scripts in NodeJS for different vendors whose products are
+visible on our site (www.roposo.com)
+Deploying the script to a cluster of servers using Marathon framework by building Docker
+Containers and Managing the cluster through Mesos framework.
+Designed a centralized watcher in Play Framework (Java) which watches different applica- tion running on
+different servers in ROPOSO (company) for their health (in terms of cpu and
+memory usage) and restarts the applications whenever required in case of bad health status or application
+error with their health status written on ZOOKEEPER.
+Currently building a feed scrape system where the products visible on our site from different
+vendors would be scraped from the feed.
+Currently working on automating the task of redeploying the docker containers on mesos through marathon
+automatically on each code change.
+
+Web Crawling Intern
+IIM Calcutta  -  Kolkata, West Bengal - July 2015 to November 2015
+
+to discover Restrospective Relatedness among Corporate
+Directors under the guidance of Prof. Renuka Hodigere.
+Critical Constraints: Bypassed the Google Captcha Verification using proxy IP's
+Minimized low on memory error using Headless Selenium.
+GitHub Repository: https://github.com/ethan-hunt-007/newsSitesCrawl
+
+Coding Coordinator at Dakshh
+The Annual Technical Fest of Heritage  -  Kolkata, West Bengal - March 2015 to March 2015
+
+Institute of Technology, Kolkata from March 19th - March 22nd, 2015.
+
+EDUCATION
+
+B.Tech in CSE
+Heritage Institute of Tehnology
+2012 to 2016
+
+Secondary Education
+
+Sri R.N.S. Memorial High School
+2010
+
+LINKS
+
+http://in.linkedin.com/in/jayantjaiswal4u
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+• Competetive Programming, Data Structures and Algorithms.
+• Languages (C, C++, Java), Script (Python 2.7, NodeJS), Database (MySQL, OracleDb,
+MongoDB, Neo4J), Tools (Git)
+• Strengths include Python and NodeJS.
+• Working knowledge of MongoDB, Node.js, Java Play Framework and Neo4J.
+• Working Knowledge of Apache Kafka, Zookeeper, Docker Containers, Marathon, Mesos
+Frawework, Git and Shell Scripts.
+• Very Basic Knowledge of Redis Cache and Memcahed
+
+PUBLICATION
+• S Gurung, J Jaiswal, S Ghosh, P Basuchowdhuri "Extraction and Analysis of Publi-
+cation Data of Conferences." in proceedings of 2nd IEEE International Conference
+on Advances in Computing and Communication Engineering [ICACCE 2015], pp
+[…] ISBN: […] DOI […] [Published on 1st May
+2015].
+URL: http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7306752
+
+PROJECT
+• Content and Location Aware Restaurant Recommendations using Urban Review
+Networks under Prof. Partha Basuchowdhuri, HIT-K.
+Motive: Recommending the users' restaurant's based on their review history.
+Recommending the businessmen the perfect place to launch a restaurant with a
+particular cuisine.
+GitHub Repository: https://github.com/ethan-hunt-007/ZomatoCrawl
+
+

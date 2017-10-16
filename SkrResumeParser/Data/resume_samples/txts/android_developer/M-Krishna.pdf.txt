@@ -1,0 +1,288 @@
+<ba>
+M Krishna
+
+Android Developer - Capital One Financial Services
+
+McLean, VA - Email me on Indeed: indeed.com/r/M-Krishna/102b08e4a2558d20
+<su>
+• Over 8 years of IT experience as an Application Programmer in the areas of B2B, EAI, Web and Client/
+Server Applications.
+• Over 6 years of experience in Android application development, Testing and Deployment in both enterprise
+and consumer based applications.
+•  Experienced  in  all  phases  of  SDLC  including  Design,  Documentation,  Implementation,  and  Testing  on
+Windows and Linux.
+• Good programming skills and hands on experience in developing Android enterprise applications for mobiles
+and  tablets  using  IDE's  like  Eclipse,  Android  Studio,  Android  SDK  and  ADT  development  tools  in  JAVA
+environment.
+• Proficient with Android SDK version (Gingerbread, Honey Comb, Ice Cream, Sandwich, Jellybean, Kit Kat,
+Lollipop).
+• Experience on Android UI components such as TextView, ListView, Customized ListView, Menus, Edit boxes,
+Buttons, Checkboxes, Dialogs, Alert boxes, Status Notifications, Action bars, and Spinners for various layouts
+in Application development.
+• Active experience in developing Android Applications using Core Java and Android APIs (Data Storage,
+Multimedia, Connectivity and Location).
+• Working experience in consuming RESTful web services to fetch data for mobile front end and parsing the
+XML and JSON response using different parsers.
+•  Proficient  in  database  development  and  implementation  using  MySql.  Experience  in  writing  queries  with
+Oracle.
+• Experience in working with the version control (CVS, SVN, GIT); Bug tracking tools.
+• Experienced in implementing and maintaining cloud services on Microsoft Azure and Amazon Web Services
+(AWS).
+• Developed and implemented various Multimedia Applications for the Android.
+• Implemented RxJava functionality in android project.
+• Working knowledge on developing IOS application using Objective C.
+• Experience on consumed API s through retrofit, http url and Okhttp.
+• Proficient with common Android framework APIs (Phone Gap, Web View, Google Maps, Telephony API,
+Camera, Contact Manager)
+• Excellent debugging and problem-solving skills with Eclipse, IntelliJIDEA, Android Studio and RAD.
+• Experience in trouble shooting production issues and Quality Assurance.
+• Experienced on the Test Driven Development(TDD) for the Unit testing by the use of OCUnit Framework.
+• Knowledge on TDD for the JUnit Test cases.
+• Experienced in dependency injection daggar 2.0 and Rx-java.
+• Worked on the POC of video streaming android application development.
+• Experienced in Google Cloud Messaging (GCM), Google Maps API v2 and Google Analytics integration
+using Mix panel.
+• Ecperience on iOS native application development.
+• Hands-on experience in integrating Social Media Network APIs such as Facebook, Twitter, YouTube and
+other open source APIs into Android applications.
+• Successfully deployed the app on the Android Marketplace and supported the app for different releases of
+Android OS.
+• Possessing strong analytical skills, an excellent team player with good leadership qualities and strong oral
+and written communication skills.
+
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Capital One Financial Services  -  McLean, VA - June 2016 to Present
+
+Description: Swift ID adds a layer of authentication to the Capital One user which is difficult to access the
+unauthorized user. Basically, SwiftID means whenever the Capital one user login to his/her account through
+the web then a push notification goes to associated user mobile where swiftID is enabled. If the user approves
+the task then in web login happens.
+
+Link: https://play.google.com/store/apps/details?id=com.konylabs.capitalone&hl=ena
+
+Responsibilities
+•  Developed  new  features  for  proprietary  Android  applications  used  on  phones  and  tablets;  worked  with
+developers to develop top tier solutions.
+•  Maintained  long  and  short-range  deliverables  with  product  management  team  according  to  product
+roadmaps.
+• Wrote unit tests for mobile code and debugged critical application issues such as crashes, memory leaks,
+and concurrency problems.
+• Integrated multiple systems to move data between layers of software stack.
+• Managed tasks within Agile framework, cleared Sprinted tasks, and controlled JIRA workflows.
+• Fixed bugs and improved application performance.
+• Worked on the dependency injection daggar 2.0 and Rx-java.
+• Partnered with artists, QA, and internal developers to maintain best practices.
+• Consumed REST APIs through retrofit.
+• Communicated effectively with product owners to manage expectations.
+• Worked on the whole module from start to end.
+• Worked on the Test Driven Development(TDD) by using testing tools like Expresso and Moskito to test use
+cases in business and abstract layer of the architecture.
+• Implemneted TDD on the OCUnit Framework for unit test cases.
+• Worked on the RxJava implematation in core modules.
+• Used latest standard components of android like Fragments, recycle views, In-Notification features.
+• Worked on the REST ful webservices and Android API s.
+• Used Splunk tool to see the API payload.
+
+Environment: Core Java, Android Studio, JIRA, Pure Agile Methodology, Splunk, GIT, Source Tree, JSON,
+XML, REST ful web services.
+
+Android Developer
+JP Morgan CHASE  -  Wilmington, DE - December 2014 to June 2016
+
+Description: The application supported a secured log-in system to the existing Chase Bank system for personal
+account holders. The Payment processing is made simple with mobile merchant. This app enables you accept
+card payments from your mobile device helping you process payment quickly and securely. The Chase Bank
+Mobile Merchant app turns your Smartphone or tablet in to a mini card processing terminal and it supports all
+major cards and provides real time processing and capabilities.
+
+Link: https://play.google.com/store/apps/details?id=com.chase.sig.android&hl=en
+
+Responsibilities
+• Design screens using MVC pattern for the application with Android Studio IDE.
+•  Tested  the  app  across  different  versions  of  Android  and  different  android  phones  to  assure  quality  and
+performance.
+• Worked on full software development cycle from requirement gathering to deployment.
+• Used SQLite for local data storage in Android application.
+• Developed and designed mobile banking client for BlackBerry Models.
+• Implemented custom Android Action Bar for use as Android app title bar.
+• Running Android application in emulator and Android phones for code debugging.
+• Designed UI using views provided by Android and created custom views when required.
+• Sizeable amount of work has been done on memory management, push notifications, multiple screen support,
+data offline usage, content providers and sync on Android.
+• Used standard Android components, activities, services, database, various UI widgets types, etc. as well as
+created custom views for the application.
+• Played a key role in writing application logic using Eclipse IDE, Android Studio and Android SDK.
+• Implemented TDD on the android architecture by using Expresso tool to chec the test cases.
+• Conducted product integration and testing (using Junit) on various Android devices.
+• Developed the database wrapper functions for data staging and modeled the data objects relevant to the
+mobile application.
+• Implemented Push Notification to provide user alerts based on their account settings to pay bills, etc.
+• Updated layouts using new and existing wireframes.
+• Created local Shared Preferences based on users settings in the app.
+• Worked on Design and development of connections, model classes to consume https JSON request/response
+models using JSON library.
+• Developed Our Products section of the application which provides multi activities, Custom Adapters, Base
+Adapter, List views, images, Links, Web View, text views and so on.
+• Worked on the system landscape including development, testing and production and set up and configured
+the Linux, PHP and SQL database.
+
+Environment:  Android,  Android  Studio,  Android  SDK,  SQLite,  Html5,  Actionscript,  Web  Services,  JSON,
+Eclipse, JUNIT, Oracle, REST API, GIT.
+
+Android Developer
+AT&T  -  Richardson, TX - January 2013 to October 2014
+
+Description: The AT & T Mobile is the online payment app for Android mobile devices. This app gives the
+user fast access to manage their account by checking activity such as data plans, texting limits and limits of
+calls. Features of the application include viewing account balances, pay bills, and detailed tracking of account
+transactions.
+
+Link: https://play.google.com/store/apps/details?id=com.att.myWireless&hl=en
+
+Responsibilities
+• Implemented Relative and Table Layout and Splash screens.
+• Designed custom Action Bars and Listviews to display menu action items efficiently.
+• Implemented Slideup drawer and Tab Views to make effective use of the layout.
+• Employed Handlers, AsyncTask and Services to improve the application performance.
+•  Involved  in  developing  SQL  statement  to  create  tables,  views,  store  procedures,  functions,  triggers,  and
+indexes in the database for the server side.
+
+• Used AsyncTask to invoke web services in the background thread, and retrieve data in XML.
+• Applied web services to receive audio data from the server and buffer images and audio files for future use.
+•  Implemented  SearchView  to  lookup  stations  worked  in  all  phases  of  the  project  including  design,
+development, testing and deployment.
+• Designed the features for the database interface relevant for the mobile application from the existing system.
+• Worked on location nearby agents with respect to the customer with the ability to navigate to the agent and
+call the agent location directly by using Google API's.
+• Worked with the UI team to design the appropriate icon and display for the screens.
+• Developed the database wrapper functions for data staging and modeled the data objects relevant to the
+mobile application.
+• Supported video straming android application as proof of concept.
+• Used Eclipse IDE to develop the screens for the application using MVC design pattern.
+• Tested the application on multiple android targets and debugged the issues that were found
+• Worked on the system landscape including development, testing and production and set up and configured
+the Linux, PHP and SQL database.
+• Successfully deployed the app on the Android Marketplace and supported the app for different releases of
+Android OS.
+
+Environment: Android, J2EE, Asynctask, XML, Linux, MVC design patterns, PHP, SQL database
+And Google API.
+
+Android Developer
+Qualcomm Farion Technologies  -  Bridgewater, NJ - October 2011 to November 2012
+
+Description: Qualcomm, the leading company in mobile communication is one of top 500 fortune companies
+in mobile technology. Qualcomm technologies are powering the convergence of mobile communications and
+consumer  electronics  making  wireless  devices  and  services  more  personal,  affordable  and  accessible  to
+people everywhere.
+
+Link: https://play.google.com/store/apps/details?id=com.xiam.snapdragon.app&hl=en
+
+Responsibilities
+• Designed GUI and interfaces with services for mobile applications, Asynchronous Programming in Android
+(such as Thread pool, Tasks and services).
+• Provided guidelines to help the UI to match the Android Lollipop.
+• Extensively worked with Android SDK version and Eclipse IDE while using an Android ADT plug-in.
+• Developing Android application for anonymous sharing of media content using Android Studio.
+• Implemented CSS3, DOM API, Dojo and Ajax to create a dynamic and interactive experience.
+• Development of Android screens to display the data from API.
+• Designed UI screens using JSP, CSS, Struts Framework, Flash, JavaScript and HTML.
+• Architected a customized network protocol used by client applications including Android to communicate with
+cloud architectures.
+• Maintaining and debugging Android project that communicates with proprietary Bluetooth devices.
+• Implemented the whole Android side functions by Android SDK.
+• Implemented Android side functions and accomplished unit-test and debug.
+• Used Eclipse and Android Studio for developing, debugging, coding and deployment of the applications.
+• Designed and Created Domain model and schema using Object-oriented design/ UML diagrams built SOAP
+Web Services.
+• Developed and maintained mobile application for Smartphone and Tablets. Application focused on cross-
+departmental communication.
+
+• Used PHP / MYSQL in WAMP (Windows, Apache, MYSQL and PHP) environment for creating dynamic data
+driven and interactive web pages.
+• Supported and developed multimedia application for an internal project.
+• Worked on the Android Multimedia framework.
+• Developed and implemented many PhoneGap and Titanium applications along with Java and Objective-C
+plug-ins for iPad, iPhone and Android platforms.
+Environment: Android, Android Studio, Android SDK, Titanium, Phonegap, Apache Cxf, Cocoa, HTML5, CSS3,
+MySQL , Rest, Windows, Phone 7 , Jquery Mobile, Xcode, Tablet, PHP, Eclipse, Maven
+
+Java/ Android Developer
+Barclays  -  Ashburn, VA - February 2010 to August 2011
+
+Description: This application helps users to pay bills, manage accounts, transactions, see account activity,
+manage alerts and check balances. In addition to that this app also helps to track recent and pas transactions.
+
+Responsibilities
+• Wrote test cases using JUnit testing framework.
+• Involved in debugging the product using Eclipse and JIRA Bug Tracking.
+• Involved in writing stored procedures, view, user-defined functions and triggers in SQLServer database for
+Reports module.
+• Configuring and analyzing JCL to execute mainframe batch.
+• Actively involved in contributing to RFP and POC activities in IMS.
+• Understanding the Domain Knowledge for the Product, Requirements and Design Documents
+• Wrote multithreaded programs to measure system performance.
+• Worked on various client websites that used Struts framework, Hibernate and OGNL
+• Used standard data access technologies like JDBC and ORM tool like Hibernate
+• Designed, implemented new website features and provided support, maintenance
+• Used Visual Source Safe for source control.
+• Worked on GUI internationalization using JSP and Core Java
+• Used Mercurial to keep track of versioning of the source code
+• Used JDBC APIs for database connectivity and data retrieval.
+•  Designed  and  developed  Message  Flows  and  Message  Sets  and  other  service  component  to  expose
+Mainframe applications to enterprise J2EE applications.
+• Wrote stored procedures in Oracle PL/SQL for data entry and retrieval.
+• Extracted and modified data from VSAM files for PDF reports.
+• Responsible for migrating Web sphere server and migrating IBM CICS Transaction
+
+Environment: Core Java, JSP, JUnit, REXX, ISPF, Mainframe, Mercurial, Eclipse, .Net, IMS, VSAM, JCL ,JIRA,
+JDBC,  Linux,  Struts,  Hibernate,  MS  SQL  Server,  COBOL,  FileAid,  CICS,  Visual  Source  Safe,  Weblogic,
+Oracle , OGN.
+
+JAVA/ J2EE Developer
+Infotree Software Solutions India Pvt. Ltd  -  Hyderabad, ANDHRA PRADESH, IN - July 2008 to
+December 2009
+
+Description:  Info  tree  software  solutions  provides  transformational  enterprise  IT  and  product  engineering
+services, helping customers to become smarter, more productive, nimble and better at predicting the future.
+Leveraging our extensive, deep industry and business process expertise, passion for customer excellence,
+and proven global IT services delivery model and network - we offer best of the breed Consulting, Enterprise
+IT and Product Engineering services for enterprises in Healthcare, Education, ISV, Networking & Telecom,
+High-Tech & Retail industries
+
+Responsibilities
+• Designed the application using the J2EE design patterns such as Session Facade, Business
+• Delegate, Service Locator, Value Object, Value List Handler, and Singleton. Used a struts framework
+• Developed presentation tier as HTML, JSPs using GWT Framework.
+• Developed the middle tier using Java Servlets.
+• Entity Beans used for accessing data from the Oracle database.
+• Developed session, entity beans and message driven beans.
+• Deployed the application in Web logic application server in development and production environment.
+• Participated in discussions on selecting Design Patterns and implementing them.
+
+Environment: Java, J2EE, GWT, JavaScript, Ajax, CSS, HTML, JSF, Hibernate, Oracle 10g, MS SQL, Eclipse,
+JUnit, CVS.
+<sk>
+SKILLS
+
+API (5 years), J2EE (4 years), Linux (4 years), Oracle (4 years), SQL (6 years)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+Languages J2EE, J2SE, J2ME
+Application technology Andriod, Tablet
+Web Technologies JSP, Servlet, JSTL, Tag libraries, XML, XSD, Xerces, Xalan
+DOM and Design Patterns Gang of Four (GOF), Singleton, Factory, Observer, Command, Façade
+Databases Oracle, DB2, My SQL
+App Servers WebLogic, JBoss, Tomcat
+API & Framework Log4J, Spring, Struts, IBatis, Hibernate
+OS UNIX, Linux, Windows
+Version Control Clear Case, CVS, VSS, SVN, TFS (Team Foundation Server)
+
+

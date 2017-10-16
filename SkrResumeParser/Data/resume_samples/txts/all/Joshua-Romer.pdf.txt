@@ -1,0 +1,51 @@
+<ba>
+Joshua Romer
+
+Developer - Android
+
+New Brunswick, NJ - Email me on Indeed: indeed.com/r/Joshua-Romer/a0bd659032a5bc28
+<su>
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Rutgers Pharmaceutical Industry Fellowship - October 2015 to Present
+●Developed Android Application allowing fellowship applicants to schedule interviews and find information
+about the fellowship
+
+● Utilizes Calendar API and Notifications to remind users about scheduled interviews
+
+● Displays and caches partner company brochures using Retrofit and RxJava
+
+Android Developer
+Rutgers 250 - January 2015 to February 2016
+● Developed Android Application allowing Rutgers to directly share news, events, and history with Rutgers
+students
+
+● Integrated REST API backend using Retrofit; caches results using SQLite
+
+● Incorporates Google Maps and Locations API to guide to users through university tours and discover nearby
+locations
+
+Android Developer
+New Jersey Agricultural Experiment Station - December 2013 to December 2014
+
+Developed Android Application created with Java that incorporates the station's website content using XML
+feeds.
+<ed>
+EDUCATION
+
+Bachelor of Arts in Computer Science
+Rutgers University  -  New Brunswick, NJ
+May 2016
+<sk>
+SKILLS
+
+Android (2 years), Java (3 years), Git (3 years), Javascript (2 years)
+<ba>
+LINKS
+
+http://github.com/jromer94
+
+

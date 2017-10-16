@@ -1,0 +1,219 @@
+<ba>
+Chaithanya Kaikala
+
+Android Developer - Caterpillar Inc
+
+- Email me on Indeed: indeed.com/r/Chaithanya-Kaikala/67579edafe0bef4b
+<su>
+•  A  motivated  and  security-oriented  developer  offering  7+  years  experience  in  Software  Designing,
+implementing and Development Experience in Java based applications.
+• Around 4 years of experience on Smartphone and tablet development experience. Developed and architected
+multiple Android applications across versions.
+• Experience in working with Android Marshmallow.
+• Good understanding of Android Back-end and UI guideline
+• Experience integrating with SimplyTapp APIs
+•  Expertise  in  designing,  implementing  and  supporting  impactful  applications  developed  in  diverse,
+collaborative environments for mobile and tablet devices on android platform
+• Expertise in using Design patterns and object oriented methodologies to design software for mobile phones.
+• Undertaken full life cycle of Android Application Development which includes testing on device and simulator
+as well.
+• Experience in Androidopensourceproject.
+• Experience in web service protocols such as JSON, HTTP, HTTPS, XML, and Hybrid-app using PhoneGap.
+• Experience with mobile Wallet, Payment processing very desirable.
+• Worked on user-friendly and fully functional applications for Android and HTML5.
+• Extensively worked on memory leaks, push notifications, content providers, multiple screen support, data
+offline usage, accounts and sync on Android.
+• Experience in emulators - Genymotion and Espresso, Robotiumframeworks.
+• Experience in software development process, Test-drivenDevelopment.
+• Experience with audio features, video features, graphics design, interactive design and animation.
+• Experience in developing app's using Native Code Languages.
+• Experience in Network Programming, skills in TCP/I programming.
+• Experience in Testing Framework, Manual and automated.
+• Experience in using Grade, jerkins.
+• Knowledge on Dependency injection - Dagger/square etc.
+• Have developed applications in such a way that device adaptability (Android device forms and SDK levels)
+is default architecture imperative.
+• Good understanding of DynamicWebArchitecture, and expertise in developing.
+• Expertise in developing applications using Java, J2EE, Struts, Hibernate and JSP.
+•  Have  hands-on  experience  in  complete  project  life  cycle,  with  domain  knowledge  in  Mobile  Application
+Development and Web application development.
+• Experience on JavaScript and PHP client-server side development.
+• Experience working with Google Maps APIs, In-App purchases, In-App advertising, SQLite, Decoder API
+• Exposure in cloud integration like Google Drive, Dropbox & Box with android application.
+• Experienced of working on Android platform and customizing it as per requirements.
+• Good exposure in troubleshooting and debugging android applications.
+• Hands on experience in deployment & publish android application on Google Play market.
+• Experience with IR.92/IR.94 standards and video conferencing protocols
+• A valued team member with strong written communication, verbal communication skills, problem solving
+skills, customer service and interpersonal skills.
+• A self-driven, goal oriented, customer focused software professional with proven ability to successfully work
+in all phases of Software development lifecycle.
+
+• Good communication skills: I have interacted with customers regularly during development of the mobile
+applications.
+Willing to relocate: Anywhere
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Caterpillar Inc  -  Peoria, IL - December 2014 to Present
+
+App:https://play.google.com/store/apps/details?id=com.cat.gis.mobile.inspect&hl=en
+Description: Caterpillar is the leading manufacturer of construction and mining equipments, diesel and natural
+gas engines, industrial gas turbines, and diesel-electric locomotives. The project involved working on the CAT
+Sales application, which is available on Google Play Store, and which is used by Caterpillar and dealer sales
+personnel.
+
+Responsibilities:
+• Involved in requirement gathering, UI design and development.
+•  Worked  on  innovative  background  reflecting  the  user  account  status  that  changes  according  to  user's
+account.
+• Developed the same app as Hybrid Application to support other platforms also.
+• Device specific needs were implemented with the help of PhoneGap.
+• Worked closely with the testing team.
+• Designed screens related to Categories and Detail description for Tablet for both 7 inch and 10Inchdevices
+by customizing views as per mockup. Created Master-Detail Interface for tablet implementation.
+• Updated backend validations to meet tablet specific requirements.
+• Implemented unique design for portrait and landscape mode.
+• Used web views, listviews&populatedlists to display the lists from database using simple Adapters.
+• Responsible for consuming the REST services, getting JSONresponse and parsing them to getTherequired
+information
+• Added parser classes for Tablet, which involved parsing JSONfeeds.
+• Created custom UI classes for corresponding Misfiles
+• Implemented data caching mechanism.
+• Created supporting Home screen Widgets to display specials based on users Preferences.
+• Upgraded the application layout to support Android 5.0 Lollipop.
+• Created UI&functionality for authentication feature.
+• Developed user-friendly UI using advanced design patterns that supports Android Marshmallow.
+• Involved in development and enhancements of features to restrict the usage based on
+Authorization and Authentication tokens.
+• Provided subsequent releases, which included feature changes, enhancements and bug fixes.
+• Implemented Agile/scrum methodologies for completion of project before deadlines.
+
+Environment: Android SDK, Eclipse IDE, XML, HTML5, REST services, JSON, PhoneGap.
+
+Android Developer
+play.google.com  -  San Jose, CA - June 2013 to November 2014
+
+App link:https://play.google.com/store/apps/details?id=com.cisco.androidcisco&hl=en
+Description:Cisco Systems is an American multinational technology company that designs, manufactures, and
+sells networking equipment. Networking and IT pros, get fast and easy access to product, service, training,
+and general information with the Cisco marketing app.
+
+Responsibilities:
+• Designed the database model in MySQL.
+• Worked with the Android SDK, and implemented Android Bluetooth and Location Connectivity components.
+• Implemented Google Maps API v2 with forward and reverse geo-location.
+• Used SQLite to cache the data received from the RESTful web services.
+• Constructing http requests, fetching server response and parsing feeds wherever required.
+• Involved in requirement gathering and designing of the application.
+• Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Used log cat, DDMS (Dali Debug Monitor Server) and trace view for debugging and detecting memory leaks.
+• Implemented unique design for portrait and landscape mode.
+• Handling XML data using efficient parsing techniques such as DOM parser.
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+• Tested the application on various Android devices.
+
+Environment: Java, Android SDK, JRules, J2EE, Oracle WebLogic, JQuery, Ant, XML, CSS, cTests, OSB
+
+Android Developer
+Motorola Mobility  -  Sunnyvale, CA - July 2012 to May 2013
+
+Sunnyvale, CA July 2012 - May 2013 Role: Android Developer
+App link:https://play.google.com/store/apps/details?id=com.motorola.genie&hl=en
+Description: Motorola Help contains basic how-to, tips, support information, tutorials about your device. There
+is also an option to call Motorola support directly or to start a chat session.
+
+Responsibilities:
+• Involved in requirement gathering and designing of the application.
+• Responsible for consuming the REST services, getting a JSON response and parsing them to get the required
+information.
+• Implemented the search functionality, Action Bar and Draw-9 Patch Images.
+• Worked on local data storage using shared-preference.
+• Worked on the Android Asynctask service to update List View Screen.
+• Implemented unique design for portrait and landscape mode.
+• Implemented customized web view component to load an SWF file and HTML data.
+• Worked with design/UX team to create user-friendly, aesthetically pleasing, and full functional.
+• Followed the agile methodology for implementing the project.
+• Implemented manual testing to analyze.
+• Analyzed and fixed the defects for various modules in the QA stages.
+• Involved in requirement gathering, UI design and development.
+
+Environment: Android NDK, Android API's, Eclipse IDE, XML, HTML5, REST services, JSON
+
+Android Developer
+DirecTV  -  El Segundo, CA - September 2010 to June 2012
+
+Description: DIRECTV's mobile app allows the users to on Android, or other mobile device to schedule shows,
+to record, Watch TV & movies on Demand or stream live TV.
+App link:https://play.google.com/store/apps/details?id=com.directv.dvrscheduler&hl=en
+
+Responsibilities:
+• Designed the layout designs using AndroidXMLfor all the pages
+• Created the log in and sign up page and integrated Google cloud services on the application.
+• Enabled synchronization of the user preferences to the secure cloud.
+• Implemented a common interface for the application making it compatible with a desktop, web or mobile.
+• Enabled comments sections for the users within the application.
+• Involved in working with Location Manager and Restful Web service
+• Tested and implemented the application.
+• Worked on debugging the application using Log cat, DDMS.
+• Tested the application on various Android devices.
+Environment: Java, Android SDK 3.2.2 and Android API's GPS, REST, JSON, Eclipse IDE 3.5, ADT Plug-
+in, GIT (version control)
+
+Java Developer
+Cognizant Technology Solution  -  Chennai, Tamil Nadu - May 2008 to August 2010
+
+Description:  Cognizant  Technology  Solutions  Corp.  is  an  American  multinational  provider  of  custom
+information technology, consulting and business process outsourcing services. It is headquartered in Teaneck,
+New Jersey, USA.
+
+Responsibilities:
+• Coordinating the tasks, ensured that the deliverables from the team members.
+• Interaction with clients to understand the requirements to provide design documents.
+•  Developed  the  application  using  Struts  Framework  that  leverages  classical  Model  View  Layer  (MVC)
+architecture UML diagrams like use cases, class diagrams, interaction diagrams (sequence and collaboration)
+and activity diagrams were used Created physical and logical data model, design and implementation.
+• Wrote SQL queries, stored procedures, and triggers to perform back-end database operations
+• Developed ANT Scripts to do compilation, packaging and deployment intheWeb Sphere server
+• Implemented multicurrency functionality for the User and Admin modules.
+•  Involved  in  designing  user  screens  and  validations  usingHTML,  jQuery,  ExtJS  and  JSP  as  peruse
+requirements
+• UsedJDBCto read and write data to the database
+• Used Java Servlets to write the business logic
+• Developed web pages using HTML, JSP, DHTML and CSS
+• Created the database tables in SQL Server.
+• Involved in debugging and Bug fixing.
+• Participated in Code reviews and peer reviews.
+• Prepared unit test conditions and conducted Unit testing of components.
+• Daily Incident Review meetings with Clients and the team. Review batch schedules and • Recommend any
+changes for improvement to batch scheduling implementingemergencyfixesduringnight if required.
+
+Environment:Java, J2EE, JSP 2.0, Servlets 2.4, JDBC 3.0, HTML, XML, Java Script, Eclipse3.2, Oracle9i,
+Windows 2003, COBOL, JCL, VSAM, Citrix.
+<ed>
+EDUCATION
+
+Bachelor in Electronics and communications Engineering
+JNTU
+
+ADDITIONAL INFORMATION
+<sk>
+Technical Skills:
+
+OS Windows 7/Vista/XP, Mac OSX, Android
+Languages JAVA, Objective-C, JavaScript, PHP
+Markup Language HTML/CSS, HTML5, XML
+Development tools Eclipse Galileo-Kepler, Netbeans 5.x, Xcode, MS Visual Studio, Aptana
+Databases SQL, SQLite, MS-Access
+Frameworks JDK, Android SDK, Hibernate3.0 & Spring2.0x, Cordova (PhoneGap)
+Mainframes IBM z/VM
+Web Servers Tomcat 6.0 & Apache HTTP Server, WAMP
+Other Tools/Software
+Eclipse, Visual Studio 2010, Dreamweaver CS5, Photoshop CS5, Fireworks CS5, Illustrator CS5, Flex Builder
+CS5, Microsoft Office 2013, Netbeans, Notepad++, WordPress.
+
+

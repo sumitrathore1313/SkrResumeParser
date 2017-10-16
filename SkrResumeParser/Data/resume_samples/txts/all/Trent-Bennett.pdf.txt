@@ -1,0 +1,68 @@
+<ba>
+Trent Bennett
+
+Android Developer - Greyhound
+
+Richardson, TX - Email me on Indeed: indeed.com/r/Trent-Bennett/494bd979e56fdc84
+<su>
+Proficient Android Developer with over 4 years of experience of building and testing mobile apps. Specializing
+in providing solutions for businesses and private entrepreneurs with apps with thought out features, robust
+code, and a clean user experience.
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Greyhound  -  Dallas, TX - June 2015 to Present
+
+• Work as a team to develop and deploy internal and consumer facing apps for Greyhound
+• Work in an agile environment utilizing JIRA.
+•  Redesigned  and  overhauled  the  consumer  Greyhound  app.  Focusing  on  making  a  cleaner  UX,  and
+implementing an MVP pattern at the code level for easier maintenance.
+• Implemented a continuous integration practice using Jenkins.
+• Write unit test cases in a test drive environment.
+• Contribute new ideas for innovation.
+• Provided first point of contact for mobile app development team for the UK parent corporation.
+
+Android Developer
+JustJam Startup - May 2015 to March 2016
+
+Contract position during college)
+• Worked with team members to develop a cohesive web and mobile design.
+• Worked with team members to develop backend web services.
+• Worked with Google Maps API and Location services
+
+Android Developer
+Greyhound - July 2015 to December 2015
+
+Contract position during college)
+• Implemented an in-app messaging system.
+• Implemented GCM push notifications.
+• Implemented Services and Broadcast Receivers.
+• Implemented an SQLite database
+
+Android Developer
+DoodleYak App - HackUTD Hack-a-thon Project - 2015 to January 2015
+
+A simple collaborative drawing app that featured a drawing canvas that you could share with a friend over a
+Bluetooth connection.
+
+iOS Developer
+Android - May 2014 to November 2014
+
+At Ease App
+The main feature of the app is a player that is included to play guided imagery tracks. These guided
+imagery tracks are used to help improve sleep, reduce stress, easing pain, and reducing anxiety.
+<ed>
+EDUCATION
+
+Bachelor of Science in Computer Science
+The University of Texas at Dallas  -  Dallas, TX
+May 2015
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Knowledge
+Android Development, iOS Development, Xamarin Development, Java, Swift, C#.
+
+

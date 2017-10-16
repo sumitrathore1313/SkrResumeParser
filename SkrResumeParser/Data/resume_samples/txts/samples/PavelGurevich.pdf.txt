@@ -1,0 +1,211 @@
+Pavel Gurevich
+Director of Research at LabDoor
+
+Summary
+
+Passionate about analytics, data visualization, neuroscience, and behavioral economics. Data + dashboarding
+ enthusiast. Love thinking about how people think, using data to drive decisions, and leveraging technology to
+ build products that have the ability to inform decisions, reshape habits, and improve lives.
+
+Web/Hybrid Mobile App Development: HTML5/CSS3, Javascript, Angular.JS, Ionic Framework, Bootstrap,
+ Node.js, Express.js, MongoDB, Firebase, D3.js, Chart.js, Highcharts.js, Grunt.
+
+Analytics: R, Python, SQL, Excel.
+
+Experience
+Director of Research  at   LabDoor
+October 2015  -  June 2016  (9 months)
+
+1. Created product roadmaps, defined and prioritized requirements, and coordinated 3-week category life
+ cycle with Design, Content, Engineering, and Operations teams.
+2. Led recruiting (source candidates, conducted phone & in-person interviews) for the research team.
+
+Scientist/Project Manager (1st employee)  at   LabDoor
+September 2013  -  October 2015  (2 years 2 months)
+
+1. Helped develop product quality and value ranking algorithms.
+2. Led descriptive analytics efforts for all tested products (based on lab-tested and claimed data). Identified
+ category-wide trends and developed analytical reports. Developed automation tool (in R) to streamline report
+ generation and product scoring.
+3. Managed Labdoor’s testing pipeline: product selection, processing, analytical testing, data analysis, and
+ report generation.
+4. Built a web-based news aggregation program (using AngularJS + Node.js) that scraped 10+ websites for
+ supplement/health related news.
+5. Helped launch Labdoor Magazine. Served as chief editor and largest contributor to the Magazine (wrote
+ 70+ articles for the Science & Health sections).
+
+Research Associate, Data Management and Analysis  at   Genentech
+March 2011  -  July 2012  (1 year 5 months)
+
+Used data analytics to help develop and refine dosing regimens (dose amount, dosing intervals, and length of
+ treatment) of preclinical large-molecule oncology drugs for use in clinical study.
+
+Page1
+
+Software used: R, SAS, Excel, and MATLAB.
+
+Intern/Research Assistant  at   University of California, San Francisco
+June 2009  -  December 2009  (7 months)
+
+Investigated TGF-# involvement in the development and progression of diabetes and cancer.
+
+Summer Intern  at   Salk Institute for Biological Studies
+June 2008  -  August 2008  (3 months)
+
+TAM receptor inhibition of the innate immune response.
+
+Certifications
+Data Manipulation in R with dplyr
+DataCamp   License 9b76c21481a7bbab2c27448d37b7b3eb8de697c3    September 2015
+Data Visualization in R with ggvis
+DataCamp   License f7ae07d403a47eecd407b0b69a34aaf706aaa214    September 2015
+Reporting with R Markdown
+DataCamp   License 4554fb2b64de251ef8c7915074d7409ab9519c93    September 2015
+How to work with Quandl in R
+DataCamp   License c6759799e3af7098ce0bf4bab0c6a5c8ef33cd4c    September 2015
+Introduction to Machine Learning
+DataCamp   License d76abc589c00b41ffce433e75d4a3cc1d84b615d    September 2015
+Big Data Analysis with Revolution R Enterprise
+DataCamp   License acff0e15614a29867675ea9b0aaa0718edd456b9   
+Intro to Python for Data Science
+DataCamp   License a5d44ed9ba63863807c4b1b56edb8b4590f1cc33   
+Intermediate Python for Data Science
+DataCamp   License ed3af735c0eb592c4c44059ebe4ab3cb50ea6371   
+Intermediate R
+DataCamp   License f29176841ac5b8b404306968ed5092bc22edfb7e   
+
+Volunteer Experience
+Post-Op Patient Volunteer  at   UCSF
+September 2004  -  January 2006
+
+Courses
+ 
+Independent Coursework
+ 
+Data Analysis and Statistical Inference (Duke
+University | Coursera)
+
+Page2
+
+ 
+People Analytics (University of Pennsylvania |
+Coursera)
+ 
+The Analytics Edge (MIT | edX)
+ 
+In Progress: Agile Development Specialization
+(University of Virginia, Darden School of Business |
+Coursera)
+ 
+Behavioral Economics (Duke University | Coursera)
+ 
+Rapid Prototyping with Ionic (Udemy)
+ 
+Foundations of Business Analytics (ESSEC Business
+School | Coursera)
+ 
+Foundations of Marketing Analytics (ESSEC Business
+School | Coursera)
+
+Skills & Expertise
+Predictive Analytics
+Data Analysis
+R
+Python
+SQL
+AngularJS
+JavaScript
+HTML5
+CSS
+Node.js
+MongoDB
+Regression Analysis
+Cluster Analysis
+Decision Trees
+Recommender Systems
+Biochemistry
+Nutritional Analysis
+Life Sciences
+Project Management
+
+Education
+University of California, Berkeley
+Bachelor of Arts (B.A.), Molecular and Cell Biology (Neuroscience Track), 2006 - 2010
+
+Page3
+
+Activities and Societies:  Intramural Basketball, Organic Chemistry and Calculus Tutor.
+
+Interests
+Behavioral Economics, Consumer Neuroscience, Predictive Analytics, Digital Health, Basketball, Hiking,
+ Traveling.
+
+Projects
+Report/Analytics Automation
+Members:Pavel Gurevich
+
+Developed automation tool to streamline report generation and product scoring. Developed in R.
+
+Nutrition Tracker
+Members:Pavel Gurevich
+
+In Progress. A data + visualization driven tracker intended to inform dietary decision by helping consumers
+ understand the impact of a product's full nutritional profile on daily nutrient intake. Consumes USDA API.
+ Developed using Ionic + AngularJS + Firebase + D3.js.
+
+Expense Tracker (Web)
+Members:Pavel Gurevich
+
+Expense tracker featuring data analytics and graphical dashboard. Developed using the MEAN (MongoDB,
+ Express.js, AngularJS, Node.js) Stack + Chart.js.
+
+Expense Tracker (Mobile)
+Members:Pavel Gurevich
+
+Mobile expense tracker featuring a report-card style UI. Developed using Ionic + AngularJS + Firebase +
+ Highcharts.js.
+Stock Tracker
+Members:Pavel Gurevich
+
+Hybrid mobile app for real-time tracking and visualizing stock performance + following latest news related
+ to company being viewed. Consumes Yahoo Finance API. Developed using Ionic + AngularJS + Firebase +
+ D3.js.
+
+News Aggregation System
+Members:Pavel Gurevich
+
+Built a web-based news aggregation tool delivering health-related headlines and recently published research.
+ Developed using Node.js + AngularJS.
+
+Labdoor Magazine: Content Developer and Editor
+September 2013 to November 2015
+Members:Pavel Gurevich
+
+Content exploring the science behind health and wellness.
+
+Languages
+English
+Russian
+
+Page4
+
+Hebrew
+
+Page5
+
+Pavel Gurevich
+Director of Research at LabDoor
+
+1 person has recommended Pavel
+
+"Pasha was a valuable teammate at Labdoor, covering a variety of research and project management roles
+over the last three years. He works hard, is very organized, and likes to think about the big picture. I'm
+excited to see what he does next."
+
+— Neil Thanedar, CEO & Founder, LabDoor, managed Pavel at LabDoor
+
+Contact Pavel on LinkedIn
+
+Page6
+
+

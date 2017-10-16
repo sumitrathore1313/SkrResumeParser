@@ -1,0 +1,309 @@
+<ba>
+Chandra Android
+
+Android Developer - Progressive Insurance
+
+OH - Email me on Indeed: indeed.com/r/Chandra-Android/bdc42a6d8917cdaa
+<su>
+• 8 years of experience in designing and developing high-end Enterprise Level Web, Mobile applications, and
+embedded hardware to software bridge applications
+
+• Extensive experience in Mobile development using Google Android platform
+
+• Extensively worked on memory leaks, push notifications, content providers, multiple screen support, data
+offline usage, accounts and sync on Android
+
+• Experience in using Storage Options in android like Shared Preferences and SQLite
+
+• Knowledge in designing and developing adaptive UI components, Fragments, Widgets for android phones
+and tablets, Using Notifications, Adapters, Services, XML Parsing, JSON Parsing
+
+• Experience in use of popular public APIs such as Facebook, YouTube, Twitter, LinkedIn andMixit
+
+•  Experience  in  writing  code  for  Asynchronous  Programming  in  Android  (such  as  Thread  Pool,  Handlers,
+Loppers, Tasks and Services)
+
+• Worked with Activities, Fragments, Android Binding, Adapters, Intent Services, Broadcast Receiver, Location
+Manager, Push Notification
+
+• Extensive experience in dealing with both REST as well as SOAP based web services
+
+• Experience in developing Android application using SQLite, Java, Mobile JQuery, Eclipse IDE,Android Studio,
+Android SDK and ADT plug in
+
+• Experience in Interaction Design, UI/UX components of android application such as TextView, List View,
+Menus, Buttons, Dialog boxes, and Action bars for various layouts
+
+• Integrated various third party open source APIs like Facebook, Twitter, Youtube, Instagram and Google Maps
+API V2 for custom Android applications
+
+• Proficient in using Material Design with Animations framework like Zooming, Flipping and Crossfading Views
+
+• Experience in playing and recording Audio & Video on demand media content using Media Player, Media
+Recorder, Video Views and Surface Views
+
+•  Good  experience  in  Object  Oriented  Design  (OOD),  analysis  (OOA),  modeling  (OOM)  based  on  Unified
+Modeling Language (UML)
+
+• Worked extensively in developing mobile-based and advanced web-based applications using Java, Servlets,
+JSP, Struts, spring, Hibernate, JDBC, UML, HTML, XHTML, JavaScript, JDBC, and Oracle
+
+• Strong experience in using Android SDK tools like Hierarchy Viewer, TraceView, zipalign, Draw 9-patch, AVD
+Manager, Android shell tools like logcat and Android Platform tools like ADB, ADT
+
+• Extensive experience in design, development and deployment of multi-tier enterprise applications for J2EE
+platform/SOA using Java, JDBC, Servlets, EJB, Struts, Tiles, Tag Libraries, Hibernate 3.0 and XML
+
+•  Expertise  in  developing  android  applications  in  IDE's  like  Eclipse,  Android  Studio,  Titanium  mobile,
+Dreamweaver, Visual Studio, Xamarin based on client specified implementations
+
+• A self-motivated professional possessing good technical, leadership and problem-solving skills and proven
+to be a good team player
+
+• Excellent conceptual and logical thinking & ability to grasp and master new technologies
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Progressive Insurance  -  Mayfield, OH - November 2014 to Present
+
+Description: The project involved adding more features to the Progressive Auto App.
+Features provided by Progressive Auto App:
+
+• View coverages, ID cards and policy details of the vehicles
+
+• Report a claim and take and add photos to it
+
+• Get in touch with the agent and claims
+
+• Pay bill by credit card, debit card, or checking account
+
+• View billing history and upcoming payment schedule
+
+• Access policy documents
+
+• Find a Service Center
+
+App published:https://play.google.com/store/apps/details?id=com.phonevalley.progressive&hl=en
+
+Responsibilities:
+• Designed the login activity with dynamic layouts and custom buttons, while working extensively with Eclipse,
+Java and Android SDK frameworks
+
+• Developed App screens and its workflow using Activity and Fragment
+
+• Worked on performance enhancements and fixed the bugs by closely working with testing team
+
+• Used services, Async tasks and Alert Notification API to implement event reminder feature into the mobile app
+
+• Used Volley library to get JSON objects and arrays from server
+• Worked on developing app using Material design concept such as Recycler view, Card view and Tool bar.
+
+• Used Recycler Views to display list of views.
+
+• Developed connection with server using Open Source libraries, Asynchronous Http Client for Android
+
+• Designed user session management with Persistent Cookie Store parsing JSON response
+
+• Utilized Shared Preferences to store and maintain user information
+
+• Designed User Interface, such as login view with username and password Edit Texts
+
+• Utilized SQLite DB for storage of raw queries
+
+• Responsible for designing and implementation of custom UIs, animation and graphic rich interfaces
+
+• Updated patches, elements and components to fix bugs, while adhere compliance & mitigate security risks
+
+• Conversed with back-end development team to integrate front- and back-end code
+
+• Communicated effectively with stakeholders to manage expectations
+
+Environment: Android 4.0 and up, Android Studio, SQLite DB, XML, Java, REST, JSON, Jira, Jenkins and
+Crashlytics.
+
+Android Developer
+EatStreet  -  Madison, WI - November 2013 to September 2014
+
+Description: EatStreet Food Delivery & Pickup. EatStreet is the go-to app for ordering delivery and takeout for
+free at over 15,000 restaurants in 1,100+ cities. With EatStreet you get rewarded with coupons, get exclusive
+discounts at restaurants we've partnered with, check out Yelp reviews to see what your neighbors say about a
+restaurant before you start adding items to your order, place orders for delivery or takeout including thousands
+of restaurants open through all hours of the night, save your addresses, cash or credit and PayPal included.
+Apps Published: https://play.google.com/store/apps/details?id=com.eatstreet.android
+Responsibilities:
+
+• Worked in different phases of the project cycle like design, development and testing
+
+• Used Icepick and Jakes Wharton's Hugo plug-ins for Android Annotations
+
+• Created the Scanning framework using ZXing barcode
+
+• Incorporated GCM for sending real-time information to the users regarding latest offers, etc
+
+• Built Unit test cases using JUnit and automated testing tools for TDD
+
+• Built a layer wise architecture to effectively pull inventory record and maintain a cache to boost quick search
+of restaurants
+
+• Integrated Google Play Services and MapsV3 for geo location and listing nearby stores
+
+• Mentored junior developers, assigned milestones and track project development
+
+• Used GPS provider to quickly find location and navigates the directions to the nearest Store locations
+
+• Developed the activities and UI layers
+
+• Used web views, list views & populated lists to display the lists
+
+• Responsible for consuming the REST services, getting XML, JSON response and parsing them to get the
+required information
+
+• Integrated location based services using Google Maps API to display locations of the nearest stores and
+service centers
+
+• Enabled the application to use the Camera feature to scan a document and upload the check using SQLite
+
+• Used Android SDK and Eclipse IDE for development
+
+•  Tested  the  app  across  different  versions  of  Android  and  different  android  phones  to  assure  quality  and
+performance
+
+• Worked closely with another mobile app developer, leading the other platform development
+
+• Implemented customized web view component to load an SWF file and HTML data
+
+• Implemented the required GUI by making modifications to the XML files
+
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  Mobile
+application and Web application.
+
+• Followed Daily SCRUM for project management and development
+
+Environment: Android SDK, Eclipse IDE, Android API's, JDK, XML, JSON, HTML, CSS, SQLite, GPS service,
+Log cat, Windows.
+
+Android Developer
+Stanley Black & Decker  -  New Britain, CT - October 2012 to September 2013
+
+Apps published: https://play.google.com/store/apps/details?id=com.dewalt.toolconnect
+Responsibilities:
+
+• Worked closely with the UI/UX team for the new colors, shapes and style combinations
+
+•  Documented  and  demonstrated  solutions  by  developing  documentation,  flowcharts,  layouts,  diagrams,
+charts, code comments and clear code
+
+• Managed the look and feel consistency in both portrait and landscape views
+
+• Generated the share code-base in early builds of Android Studio and Eclipse
+
+• Designed the relational database model and set up the server
+
+• Established the coding standards to be used in the Android development
+
+• Contributed to the technical documentation for multiple corporate applications
+
+• Upgraded the SQLite database to add extra features to the app
+
+• Implemented Beta and Alpha testing using the default test cases with the QA team
+
+• Tested the latest changes, corrected the bugs using logcat debugging and the DDMS
+
+• Optimized the final APK to be used in Honeycomb releases, with support back to Froyo APIs
+
+• Use of the YouTube Android Player to incorporate video playback functionality
+
+• Developed Custom Views and Compound Views to display new data
+
+•  Implemented  the  multithreading  communication  using  the  built-in  Android  frameworks:  AsyncTasks  and
+Handlers
+
+•  Made  use  of  communication  between  common  data  between  apps  over  network  requests  using  the
+HttpURLConnection class
+
+• Added an event-driven logic with Otto in order to minimize the creation of Local Broadcast Receivers
+
+• Managed memory leaks in debug builds with LeakCanary and the allocation tracker in the DDMS
+
+• Created a compact Content Provider implementation to handle caching between network connections in the
+final build
+
+• Implemented Picasso to download images and show them in the UI
+
+Environment:  Android  SDK  3.2,  SQLite,  Eclipse  IDE,  Android  API's,  Windows,  Multi-threading,  Design
+Patterns.
+
+Java Developer
+ICICI Lombard  -  Hyderabad, Andhra Pradesh - January 2010 to June 2012
+
+Responsibilities:
+
+• Involved in elaboration, construction phases and deployments of EAR files in the RUP process
+
+• Designed and Created Domain model and schema using object oriented design / UML diagrams Built SOAP
+Web services
+
+• Installed and configured WebLogic in Development and Testing environment
+
+• Created User Interface screens using HTML, DHTML, AJAX, CSS, Java script
+
+• Developed Action classes, Action Forms, and Struts Configuration file to handle required UI actions, JSPs
+for Views
+
+• Developed server side presentation layer using Struts MVC2 Framework
+
+• Used various design patterns like Business delegate, Singleton, Factory, DAO, DTO, Service locator etc.
+
+• Used RAD application development and configured external capabilities for various interfaces
+
+• Performed Inheritance based OR mappings in tables to simplify the data in Hibernate
+
+• Used Oracle database for SQL, PL/SQL scripts, stored procedures, functions, triggers, Oracle forms/Reports,
+Performance Tuning and Optimization
+
+• Deployed web services for updating the information to the workflow steps and getting the pre-configured
+workflow processes and invoked with RMI
+
+• Unit tested all the classes using JUNIT at various class level and methods level
+
+• Made use of WINCVS for checkout and check in operations
+
+Environment: Java, J2ee, WebLogic, Struts, Hibernate, JSP, SOAP Webservices, HTML, XML, XSL/XSLT,
+JavaScript, JavaBeans, AJAX, Oracle 10g.
+
+Junior Java Developer
+ALTEN Calsoft Labs  -  Hyderabad, Andhra Pradesh - June 2008 to November 2009
+
+Description:  The  Business  Process  Automation  System  is  fully  web  based  atomized  business  processing
+system.  This  ERP  system  is  integrated  with  other  Modules  like  Quality,  Finance,  Accounts,  and  Sales  &
+Distribution. The system will provide Breed Consulting, Enterprise IT and Product engineering services for
+enterprises in Healthcare,
+<we>
+EDUCATION
+
+Bachelor of Technology in Computer Science
+Jawaharlal Nehru Technological University  -  Hyderabad, Andhra Pradesh
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills:
+Languages Java 1.4/ 1.5/1.6, C, SQL
+JEE/J2EE Technologies Servlets, JNI, JSP, JSF, JDBC, JSTL, JAXB, JAXP, JAXRPC, JAX- WS
+Mobile Technologies Android 2.3 - 6.0, Phone Gap, Xamarin
+Open Source Frameworks Hibernate, Struts, ZeroMQ
+Web Technologies HTML, DHTML, CSS, AJAX, JQuery, JSON, JavaScript, Angular.js, Bootstrap, PHP
+Databases SQLite, Oracle […] DB2, SQL Server, MYSQL
+Web Servers Apache Tomcat
+Application Servers BEA's WebLogic and IBM's Web Sphere, JBoss
+
+Versioning Software SVN, CVS and GIT
+
+Operating Systems Windows […] Ubuntu, Fedora, Macintosh
+Tools ADT, ANT, JUnit, Cruise Control, Maven
+Parsing Techniques XML (SOAP API), JSON (RESTful API)
+IDEs Eclipse, Android Studio, IntelliJ, NetBeans
+
+

@@ -1,0 +1,65 @@
+<ba>
+Niteesh Dwivedi
+
+Kanpur, Uttar Pradesh - Email me on Indeed: indeed.com/r/Niteesh-Dwivedi/2a5a2d89081b07ab
+<we>
+WORK EXPERIENCE
+
+Fresher
+
+I am a fresher now.
+<ed>
+EDUCATION
+
+B.Tech in Computer Science
+Abdul Kalam Technical University  -  Kanpur, Uttar Pradesh
+April 2013 to June 2017
+<sk>
+SKILLS
+
+Php (Less than 1 year), Javascript (Less than 1 year), Jquery (Less than 1 year), Ajax, Html (1 year), Css (1
+year), Bootstrap (Less than 1 year), Sql (Less than 1 year), .NET (Less than 1 year)
+
+ADDITIONAL INFORMATION
+<ed>
+Technical Qualification:
+• B.Tech in Computer Science & Engineering from Maharana Pratap Engineering College, Kanpur under Dr.
+APJ Abdul Kalam Technical University, Which Is formally Known as U.P.T.U.
+<sk>
+Technical Skills:
+Microsoft Technologies: MVC 3/4/5, ASP.NET 4.0/4.5, VB.NET, C#.NET, ADO.NET
+Programming Languages: C, C#.Net, HTML4.01, HTML5, PHP
+Scripting Languages: Java Script, JQUERY, AJAX
+Styling: CSS, Bootstrap
+DBMS: SqlServer […] MySQL 5.7.14, MS Access
+PL/Sql: Queries, Trigger, Stored Procedure, Cursor
+
+Operating Systems: Windows XP, 7, 8 & 10
+Development Tools: Visual Studio.NET, Dream Weaver, Notepad++, NetBeans IDE
+Application Servers: IIS, Wamp Server
+Architecture Know How: Two tier and three tier architecture.
+Reporting Tool: Crystal Report
+<pr>
+Project Details:-
+Online Examination System
+Role Programmer
+Technology Asp.NET, C#.NET, SQL SERVER 2012
+Team Size 4
+Key Features Used in Project: Stored procedure, Trigger, Cursor, AJAX Control Tool kit, DB Constraints
+Description
+The computer based solutions are being developed as per the requirements of our day to day jobs. Earlier the
+ONLINE EXAMINATIONs had to face so many problems during worked manually in ONLINE EXAMINATIONs
+that's why Staffs were also facing the same problems.
+But now with the help of this software we can open any type of Student detail like:- Name, Address, date of
+birth, Contact number, Student registration number, Exams Paper etc.
+Beside  all  of  these  this  software  also  stores  the  information  about  all  Examiners  of  the  ONLINE
+EXAMINATIONs.  Such  as-  Examiner  Name,  Specialty,  Address,  Examiner  registration  number,  Contact
+number etc.
+<sk>
+Computer Proficiency:
+• I have project development experience on ASP.Net with C# Language.
+• I have project development experience on ASP.Net MVC Framework.
+• Knowledge in c.
+• Knowledge in PHP (Hypertext Preprocessor) with MYSQL Database.
+
+

@@ -1,0 +1,92 @@
+<ba>
+Sheetal Waghmode
+
+Host can - Qzineat
+
+Fremont, CA - Email me on Indeed: indeed.com/r/Sheetal-Waghmode/3f6f4cede96b4399
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Qzineat - October 2016 to Present
+
+• QZin Eat is an android app that allows a user to host or subscribe food meetup events. Host can create
+meetup event and includes details of menu, venue, date, photos, and max guest count. Subscriber can view
+meetup post, search post, view detailed event and enroll for QZin Eat Meetup. Event location will be shown on
+goggle maps. Subscriber can provide ratings and reviews for the host. Host can send out event notifications
+to users. 
+• Experienced working on Login Screen Archetype to develop user Sign Up and Login features using Parse
+Server. Working on to integrate Facebook authentication into application. 
+• Experienced working on Events Stream, Event Details, and User profile modules.
+• Experienced working on with image downloading and caching libraries – Picasso and Glide, ButterKnife.
+
+Android Mobile App Developer
+- August 2015 to September 2016
+
+Experience on Android App development with extensive knowledge on Android's Material Design/Mobile
+Screen Archetypes/Theming Patterns
+• Good knowledge of Android components such as Activity, Intents, Fragments, ViewHolder Pattern, SQLite
+database, Navigation Drawer
+• Experience working with image downloading and caching libraries - Picasso, Glide
+• Experience working with Async Http client to load data from RESTful API
+•  Good  understanding  of  passing  data  between  different  components  using  Parcelable  or  Serializable
+Interfaces
+• Experience working with ActionBar, ToolBar, SnackBar, ListView, GridView, RecyclerView, Heterogenous
+Layouts, ViewPager, Google Maps and other input controls.
+• Experimented building Flickster App to display movies - https://github.com/codez4all/Flickster
+• Experimented building Twitter App - https://github.com/codez4all/MyTweets
+• Experimented building New york Times App - https://github.com/codez4all/NewyorkTimesSearch
+• Followed the CodePath training thoroughly to learn the Android development. Here are the pointers for the
+developed applications https://github.com/codez4all
+
+Software Developer II
+Bracket Global LLC  -  San Francisco, CA - March 2013 to February 2016
+
+Development experience in fast paced self-motivated/team driven environment using Agile Scrum model.
+• Worked on IWRS (Web), IMRS (Mobile) projects using SQL and ASP.Net technologies.
+• Worked on Internal Android Mobile App to add new features required for internal use.
+• Effectively communicated with Project Managers, BSA, and Testing team,
+• Conducted code reviews and provided guidance to new developers.
+
+Intern
+
+Kaiser Permanente - July 2012 to December 2013
+
+Revamped the existing SharePoint site for the group using standardized site templates.
+• Performed site customizations using SharePoint Designer. Web Part development and deployment.
+
+Project Engineer
+Wipro Technologies - January 2008 to May 2011
+
+Development of Web, Client/Server, Windows applications with C# .NET technologies.
+• Good working experience with front-end technologies like HTML, CSS, JavaScript, and XML.
+• Involved in development and unit testing of Web, Client/Server, Windows applications with C# and .NET
+technology and SQL.
+• Good working experience with front-end technologies like HTML, CSS, JavaScript, and XML.
+• Performed unit testing, used exception-handling techniques.
+• Worked on 2 tier web application to gather requirements, design, implementation and testing
+• Web forms design using HTML, CSS, and web form validation controls.
+• Used of Ajax controls like ScriptManager, UpdatePanel and UpdateProgress for better performance.
+• Implemented Web Form authentication functionality using login credentials of the user.
+• Worked on data access layer using SQL queries, joins, stored procedures.
+• Used ADO.NET technologies to populate data in Grid View using SQL database queries.
+• Performed cross browser testing of the web application.
+
+Open Source
+• GitHub: https://github.com/codez4all
+<ed>
+EDUCATION
+
+MS in Software Engineering
+International Technological University  -  San Jose, CA
+December 2011 to April 2013
+
+ADDITIONAL INFORMATION
+<sk>
+SKILL SET
+Operating Systems: Android, Windows, Unix, Linux
+Languages: Java, C#, C, C++, SQL
+Web Technologies: ASP.NET, REST, JavaScript, HTML, XML, Web Services
+Tools: Android Studio, IntelliJ, Visual Studio
+
+

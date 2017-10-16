@@ -1,0 +1,107 @@
+Sonali Singhal
+
+Software Engineer (UI) - United HealthGroup Pvt. Ltd
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Sonali-Singhal/7d3ff5b4ce35d038
+
+WORK EXPERIENCE
+
+Software Engineer (UI)
+United HealthGroup Pvt. Ltd - August 2009 to Present
+
+UI Developer
+Times of India Pvt. Ltd - August 2007 to July 2009
+
+Web Developer (Contractual)
+Genpact India Pvt. Ltd - October 2006 to April 2007
+
+Web Developer
+FuturePoint Pvt. Ltd  -  Delhi, Delhi - May 2006 to October 2006
+
+Project Undertaken
+Projects at United HealthGroup Information Services Pvt. Ltd.
+Projects  aarpmedicareplans.com,  uhcmedicaresolutions.com,  Heath  Risk  Assessment  Tool,  mTransport,
+care4Me
+Tools/Techs Dreamweaver, HTML5, JavaScript, SVN Tortoise, CSS3
+Contribution
+➢ Created web pages using above mentioned technologies.
+➢ PSD to HTML conversion
+➢ Created work estimation and deliver work on time.
+➢ Perform unit testing and resolve issues if there is any.
+
+Projects at Times of India Pvt. Ltd.
+Projects
+spirituality.indiatimes.com, 
+maharashtratimes.indiatimes.com
+
+timesofindia.indiatimes.com, 
+
+hindi.economictimes.indiatimes.com,
+
+Tools/Techs CMS, Dreamweaver, XSLT, XML, HTML, JavaScript
+Contribution
+➢ Worked as programmer for this project in a team size of 2 members
+➢ Created new web pages using the above given skill set
+➢ Used CSS sprites to optimize web server usage
+➢ Created table less page design
+➢ Optimization of source code so that it could use optimum space on the web servers
+
+Projects at Genpact India Pvt. Ltd.
+Projects gehealthcare.com
+Tools/Techs TEAM-SITE, Dreamweaver, HTML & JavaScript, XML
+Contribution
+➢ Worked as Web Programmer in a team of 5 member
+➢ Responsible for making new Web pages with detail and features of these devices
+
+➢ Developed "Smart-Mails", a kind of email generated using web templates with purpose to promote a product
+in the market, carrying information on important feature of product
+➢ Delivered the desired work in the stipulated time with quality
+➢ Worked on Team-site
+
+Projects at FuturePoint India Pvt. Ltd.
+Projects leopalm.com, astrostores.com
+Tools/Techs HTML & JavaScript, ASP
+Contribution
+➢ Worked as Web Developer in a team of two members
+➢ Built Web pages and loaded them on to server
+➢ Changes in the site structure and navigational panel
+
+Academia
+• DOEACC 'B' LEVEL (MCA) MBIT COMPUTRAINING PVT. Ltd, Green Park, N.D 2004-06
+• DOEACC 'A' LEVEL (AGDCA) MBIT COMPUTRAINING PVT. Ltd, Green Park, N.D 2003-04
+• DOEACC 'O' LEVEL MBIT COMPUTRAINING PVT. Ltd, Green Park, N.D 2002-03
+• B.COM (Pass) (REGULAR) DELHI UNIVERSITY 2001-04
+• 12th Commerce stream, CBSE, 2000-01
+• 10th CBSE, 1998-99
+
+Personal Vitae
+Father's Name: S.M. Singhal
+
+EDUCATION
+
+'A', 'B' Level in Computer Science
+DOEACC  -  New Delhi, Delhi
+2002 to 2006
+
+B.Comm(Pass) in Commerce
+Delhi University  -  New Delhi, Delhi
+April 2001 to May 2004
+
+SKILLS
+
+Html5, Jquery, Css, Bootstrap (10+ years)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Tools/Technologies: Dreamweaver
+Web  Technologies:  HTML5,  JavaScript,  XSLT,  XML,  CSS3,  Bootstrap,  Responsive  Web  Design,  Media/
+Responsive queries
+Version Control: Tortoise SVN.
+
+Operating Systems: Windows XP.
+
+Experience Chronology
+
+

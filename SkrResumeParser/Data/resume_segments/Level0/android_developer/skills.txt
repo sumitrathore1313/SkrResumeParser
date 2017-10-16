@@ -1,0 +1,1349 @@
+SKILLS
+
+Operating System: Windows 7/Vista/XP, Mac OSX, Android, Ubuntu
+Languages: JAVA, C, C++, JSON
+Scripting Language: JavaScript 1.0/1.5
+Databases: SQL, SQLite, MySQL
+Web Designing: HTML5, CSS, XML, UML, Web Logic 6
+Version Control Tools: CVS, SVN
+Web/Application Servers: Tomcat, IBM WebSphere
+Framework: STRUTS, spring, Junit, AJAX
+Android Skills: Android SDK (1.5 to 4.2) Tablets/Smartphone, ADT
+
+Other Skills: Dreamweaver, Photoshop, Flash
+
+SKILLS
+
+Android (3 years)
+TECHNICAL SKILLS:
+
+Android Development Android SDK, Android NDK, ADT plug-in, Google API's, Android Studio, Eclipse IDE,
+JDK, Java, XML, JSON.
+Programming C, C++, Java and PHP.
+Web Development HTML, CSS, JavaScript, jQuery, Ajax, Angular JS, HTML5.
+Parsing Techniques JSON, XML
+Databases SQL, SQLite, MySQL, Oracle.
+Operating Systems Windows, Linux and Mac.
+Version Controller GIT, SVN, Source Tree, Tortoise SVN, CVN, Bit Bucket.
+Methodologies and Models Waterfall Model, Sequential, Iterative and Agile Scrum
+Third Party Tools Phone Gap, Xamarin, Urban Airship, JIRA, JAMA, and Fiddler
+Editors Eclipse, Android Studio, edit plus, Management Studio, phpMyAdmin.
+
+SKILLS
+
+Android SDK, Phone Gap, SQL, HTML, Java
+
+ADDITIONAL INFORMATION
+
+SOFTWARE SKILLS
+
+Languages Java, Objective C, C/C++, JavaScript, PHP, SQL, Action Script 3.0
+Frameworks Android SDK, Java Development Kit (JDK), .NET, C standard Library, jQuery Mobile
+Web Technologies HTML 5, CSS 3, XHTML 1.1, XML 1.8, JavaScript 1.8.5, jQuery, AJAX-RS, Jersey, Apache,
+Tomcat
+Development &Testing Tools J-Unit, TestNG, Robotium, Dreamweaver CS5, Photoshop CS5, MS Office, Open
+Office Suite
+Databases SQLite, SQLite Mobile, MySQL, Oracle 10g.
+IDEs Eclipse, Android ADT, NetBeans, XCode
+
+SKILLS
+
+Android (2 years), Eclipse (Less than 1 year), GIT (Less than 1 year), Java (2 years)
+
+ADDITIONAL INFORMATION
+
+Skills
+Languages: Java, JavaS cript, Kotlin, JSON, XML
+Tools: GIT, Jira, VIM, Android Studio, Eclipse, Visual Studio Code
+Library: Retrofit, Dagger, Guava, OKHTTP, GSON, RxJava, Junit, Butter Knife
+
+SKILLS
+
+android developer (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Communication Skills
+
+✓ Ability to communicate at all levels
+✓ Oral Communication enhanced through presentations during my academic Career
+
+Areas of Interest
+
+✓ Application Development (Android)
+✓ Social Networking
+
+AREAS OF STRENGTH
+
+Android Application Development • Web Services • Database Design • Data Structure • Algorithms • Project
+Management • Software Lifecycle Development • Design Patterns • Requirement Analysis • Front- & Back-End
+Design • Testing • Troubleshooting • Debugging • Social Media Integration • Location Services Integration
+
+CORE SKILLS
+
+• Highly experienced in full lifecycle development of the application, from planning, requirements gathering,
+development, testing
+• Designed and Developed web services using RESTful and SOAP which implemented majority social media
+APIs like Twitter, Facebook and Google+
+
+• Designed Up-to-date UI Layouts, implemented Action Bar, Fragment, Widget, Swipe Views, etc. using the
+Android SDK and real Android Device
+• Extensive knowledge in Activity Lifecycles, Intent, Bundle, Fragment, Permissions, Process Lifecycles
+• Hands on experience in background Services, Multimedia, Map Locations, Shared Preference, GPS, Sensor
+systems and transferring data from one device to another
+• Used Multi Threading to handle the long running operations that need to be performed at the background
+asynchronously.
+• Performed unit testing with JUnit and determining the application functionality
+• Experienced in GitHub for version control and source code management
+
+TECHNICAL COMPETENCIES
+
+Languages: Android • Java • J2EE
+Web: JSP • JSF • PHP • REST APIs • RabbitMQ • SOAP • AWS SNS •JSON • XML• CSS3 • HTML5 • JavaScript
+• Ajax • jQuery APIs
+Tools: Android Studio • Eclipse • NetBeans • Google Map API • GitHub • Android UI • GPS • Sensor and Map
+services • JUnit • SDK Manager • Mksdcard • AVD Manager • Android Emulator • Device Monitor • Android
+Debug Bridge(ADB) • Dalvik Debug Monitor Server(DDMS) • SQLite 3 • LOGCAT • OpenGL • ADT Plugins
+• Virtual Box
+Databases: Oracle • MySQL • SQLite
+Platforms: Windows • Linux
+SDLC: Agile-Scrum, Waterfall
+Design patterns: Observer • Command • Iterator • Strategy • State • Façade • Factory • Singleton
+
+ADDITIONAL INFORMATION
+
+Technical Knowledge
+Android Development, iOS Development, Xamarin Development, Java, Swift, C#.
+
+SKILLS
+
+Android (4 years), Android SDK (4 years), Java (2 years), testing (2 years), XML (4 years), JSON (4 years)
+TECHNICAL SUMMARY:
+• Google Certified Android Developer.
+• 5 years of IT experience with 4+ years of Android application design and development, testing, debugging.
+• Good Understanding of Data Structures and Algorithms, object-oriented programming concepts and usage
+with Java, C++, C.
+• Experience in Android UI toolkit (basic/picker/list views, adapters, dialogs, menus) and Layout Managers.
+Proficient in Android application framework: Activities, Intents, Services, and Content Provider.
+•  Experience  in  developing  Android  enterprise  applications  for  mobiles  and  tablets,  building  multithreaded
+applications using Threads, Handlers and AsyncTask and Debugger (DDMS), Logcat.
+• Experience with multiple data storage techniques using SQLite, Shared Preferences, Content Providers and
+Local Storage.
+•  Developed  Android  Applications  using  Java,  Android  APIs  (Data  Storage,  Connectivity,  Location,
+Notifications, Android SMS Manager) and deployed in Google Play Store.
+• Solid Understanding of Mobile Design Patterns.
+• Extensive understanding of Material Design guidelines and Performance Tuning using Hierarchy Viewer,
+Android Monitors, Heap Viewer and SysTrace.
+• Understanding and experience using web service protocols JSON, HTTP and REST.
+• Experience in writing Unit tests using Expresso.
+• Hands on experience with Android Wear.
+• Familiarity with SDLC, TDD, Agile Methodology-Scrum and GIT.
+• Team player, quick learner, excellent analytical, design and problem solving skills.
+
+TECHNICAL SKILLS
+
+Languages C, C++, Java, JavaScript, SQLite, Oracle, MySQL, XML
+Technologies Android SDK, Java JDK, J2EE, HTML5, CSS3
+Android App
+Mobile Development
+
+Activities, Recycler View, List Views, Adapters, SQLite, Horizontal scrolling, Notification Manager, Contacts,
+Content Provider, Location, Maps, HTTP Client, GSON, JSON based Web Services, Camera API, Facebook
+API.
+
+Debugging and Testing Tools DDMS, Logcat, Junit, Expresso
+IDEs Eclipse, Android Studio
+Web Services JSON, RESTful API
+Version Control Tools GIT
+Applications Microsoft Office
+Project Management Tools JIRA, Rally
+
+SKILLS
+
+Programming Languages: Android, Java Databases: SQLite XML Technologies: XML and XSL Operative
+Systems: Android, iOS, Windows, MAC OS Office Tools: MS Office (Word, Excel, Power Point, Outlook)
+Design & Dev Tools: Balsamiq Mockups, Photoshop, Eclipse, NetBeans, Android SDK and TomCat. APIs:
+Facebook, Twitter, G+, Google Maps, Google Analytics, Google ADMob, Parse of Facebook, Foursquare.
+
+Technical Skills:
+
+Programming Languages Java
+Databases SQLite3, SQL Server 2012, MS Access 2012, DBMS, IBM-DB2, Oracle 10g, MySQL.
+Web Technologies XML, ASP.NET, HTML5&4.01, CSS3, JavaScript, JSON.
+JavaScript Libraries JQuery Mobile, jQuery, Bootstrap, AngularJS, Modernizer, NodeJS, Handlebars.
+Development Tools
+Xcode  4&5,  Android  Studio,  Eclipse,  Interface  Builder,  Instruments,  Microsoft  Visual  Studio  2010  &  2012,
+NetBeans, IntelliJ Idea Community Edition 13, Adobe Dreamweaver CS 6.
+
+Frameworks
+Android  SDK,  Google  Maps  Android  API  v2,  UIKit,  MessageUI,  MapKit,  CoreLocation,  CoreData,  SQLite,
+CoreAudio, AVFoundation, ASP.NET MVC, Entity.
+
+Version Control Github, SVN.
+
+Operating Systems Android OS, Windows Vista/7/8, UNIX, Ubuntu 14.04.
+Web Service Frameworks SOAP, REST
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+Operating System: Windows Xp/200/NT/Professional, MAC OS X, Android 1.5 to 5.1
+Languages: Core Java, J2EE, JDBC, JSP (JDK 1.5-1.7), C, C++, JQuery
+Scripting Language: JavaScript 1.0/1.5
+Databases: SQLite, MySQL, Oracle […] DB2
+Web Designing: HTML5, CSS, XML, UML
+Version Control Tools: CVS, SVN
+Web/Application Servers: Tomcat, IBM WebSphere
+Android Skills: Android SDK (1.5 to 5.1) Tablets/Smartphone
+IDE: Eclipse, NetBeans, MyEclipse, InteliJ, Android Studio
+
+SKILL
+Application Servers Tomcat […] WebSphere 6.0
+IDE Eclipse 3.x, Net Beans 5.x/6.x/7.x, Android Studio Eclipse, Visual
+Studio, X-Code, GDB, Android Access
+
+Web Technologies HTML, CSS, AJAX, Backbonejs, JQuery, Angular JS
+OS Android, Windows […] 2008), UNIX
+RDBMS SQLite 3.6, Oracle 9i/10g, MySQL […]
+Concepts OOPS,MVC,MVP
+Web Servers Tomcat 6.0 Apache HTTP Server, Apache ANT, Maven
+Design Tools Dreamweaver, Illustrator, Photoshop, Flash
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+SKILLS
+
+Strong Knowledge on Object Oriented Programming, Created 7 plus user-friendly, aesthetically pleasing
+and fully functional applications, Proficient with common Android framework APIs ( Location, Camera,
+Notifcations), Excellent problem solving, communication, and collaboration skills, Involved at every project
+phrase, from concept creation to play store deployment, Experience in working with SQLite Database,
+Experience in designing flexible UI using Fragments, Working experience of JSON and XML parsers,
+Expertise in working with public APIs, such as Facebook, Google, Very good understanding of Android
+Back-end and UI guidelines, Expert in the interaction between various devices and different versions,
+Regarded as a self-motivated and well organized team player, Tested applications on device simulators and
+actual devices to fine-tune products
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+Languages: C, JAVA
+IDE  &  tools:  Eclipse,  Android  Studio,  IntelliJ,  GenyMotion,  GitHub,  Subversion  Issue  Tracking  tools  JIRA,
+Crashlytics, Applause
+Automation tools: Cucumber, Robotium, Junit
+Build servers: Jenkins Framework Android SDK, Java Development Kit (JDK)
+Android Specifics: Android Studio, Gradle, Maven, ADB, User Interfaces, Animation, Custom Views, Google
+Support  libraries,  Material  Design,  RecyclerView,  REST/JSON,  Broadcast  Receiver,  Shared  Preferences,
+SQLite.
+3rd party library integration: RetroFit, Volley, GSON, Picasso, EventBus, Parceler, ButterKnife, AppCompat,
+Crashlytics, Google Zxing.
+Android versions: Jelly Beans, KitKat, Lollipop, Marshmallow
+
+APIS
+SQLite
+Instructional Design
+Analytical Skills
+Advertising
+Adobe Photoshop
+Blender
+3D Animation
+Git
+JSON
+REST
+JavaScript
+CSS
+HTML
+Windows Server
+Windows
+Eclipse
+XML
+Java
+Android SDK
+SKILLS
+
+Android Studio APIS SQLite Instructional Design Analytical Skills Advertising Adobe Photoshop Blender 3D
+Animation Git JSON REST JavaScript CSS HTML Windows Server Windows Eclipse XML Java Android
+SDK (5 years)
+SKILLS
+
+Java (7 years), JSON (5 years), XML (5 years), Javascript (5 years), PHP (4 years), Oracle (4 years),
+MySQL (5 years), Web Services (3 years), Android (3 years), SQL (5 years), HTML (5 years), Spring (3
+years), C (2 years), Wordpress (2 years), Joomla (2 years), Jsp (3 years), Angular JS (3 years), C++ (3
+years), CSS3 (3 years)
+Technical Skills:
+Programming language Java, PHP, C#, C, C++, SQL, XML, HMTL, JSP, C#.NET.
+
+Web Technologies Struts, Hibernate, Spring, JPA, Joomla, WordPress, HTML, DHTML, XML, XSD, XSLT,
+JavaScript, CSS, Web Services, JSON, AngularJS
+Database SQL server, MySQL, PostgresSQL, SQLite, Oracle
+IDE/Tools Eclipse, Android Studio, NetBeans, JUnit, Github, JIRA
+Operating systems MacOS, Window, Linux, Android OS
+Others Servers Web Logic Application servers, Oracle Application server, Apache Tomcat.
+
+Soft skills
+• Well communication in team.
+• Problem solving.
+• Task-oriented.
+• Working under high pressure.
+• Time management.
+
+SKILLS
+
+ANDROID (8 years), ANDROID SDK (8 years), ECLIPSE (7 years), JAVA (3 years), API (2 years)
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+Programming C, C++, Java, Objective-C
+Tools
+Android  SDK  2.X/3.X/4.X,  Android  studio,  Eclipse  IDE  4.4,  MS  Office  2013,  Adobe  Dreamweaver  CC,
+Photoshop, SVN 1.8.7, EGIT 3.4.1, and Maven 3.2.1
+
+Operating Systems Windows XP/Vista/7/8, Linux, Mac OS X
+Development API Android SDK API, Core Java API
+Development Eclipse, Visual Studio, Android Studio
+Testing Manual Unit Testing
+
+TECHNICAL SKILLS
+
+• Programming Languages: Java
+• Scripting Languages: JavaScript, Python
+• Operating Systems: Windows, Unix
+• Databases: My SQL
+• Mark up languages: HTML, XML, and CSS3.
+• Other Tools: Eclipse, MS Office, Axure RP
+PROJECTS
+
+True  Weather  App  https://play.google.com/store/apps/details?id=com.tandon.aishwary.weather  April  2015-
+July 2015
+• Created a weather application that displays real weather data by connecting to an internet backend by using
+OpenWeatherMapApi.
+• Added permissions, initiated network I/O, Used Content Provider as an abstraction layer and Loaders to
+asynchronously load data, Created Adapters to bind UI components to Content Providers
+• Implemented Background services and alarms to schedule background tasks, background data transfers
+with Sync Adapters and notifications to interact with users.
+• Identified and resolve integration points, including offline/server integration, and validated user input.
+• Applied material design principles to activity transitions, keylines and layouts and implemented resizable
+widgets and immersive wallpaper images.
+
+SKILLS
+
+ECLIPSE (8 years), JAVA (8 years), XML (8 years), ANDROID (7 years), SOAP (7 years)
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Programming Languages JAVA, C, C++, C#, JavaScript, HTML, JavaScript, JSON, ASP.NET, Android SDK,
+NDK
+Platforms Windows, Android, LINUX
+Web Technologies Ruby on Rails, XML, Bootstrap, AngularJS, SOAP, Servlets, Swings, Spring Frameworks,
+JSP, JDBC
+Networking TCP/IP, HTTP, HTTPS, DNS, FTP, Ethernet Connections (TCP, UDP), CISCO Certified CCNA
+program
+IDE Eclipse, Android Studio, JGrasp, Visual Studio
+Software Microsoft Office […] Flash, DreamWeaver, Photoshop, VMWare, Firebug
+
+TECHNICAL SKILLS
+
+Operating System: Windows Xp/200/NT/Professional, Linux/Ubuntu, MAC OS X Mountain Lion Android 1.5 to
+Android 4.4 Gingerbread, Honey comb, Ice cream sandwich, Jellybean, Kit Kat.
+Languages: Core Java, J2EE, JDBC, JSP (JDK 1.5-1.7), C, C++, JQuery
+Scripting Language: JavaScript 1.0/1.5
+Databases: SQLite, MySQL, Oracle […] DB2
+Web Designing: HTML5, CSS, XML, UML, Web Logic 6
+Version Control Tools: CVS, SVN
+Web/Application Servers: Tomcat, IBM WebSphere
+Framework: STRUTS, spring, Junit, AJAX
+Android Skills: Android SDK (1.5 to 4.2) Tablets/Smartphone, ADT
+IDE: Eclipse, NetBeans, MyEclipse, InteliJ.
+ADDITIONAL INFORMATION
+
+Skill Set
+OS Windows 8/7/Vista/XP, Mac, Android, Ubuntu and Kali.
+Languages JAVA, C, C++, Objective-C,Cocoa, Ruby, JSON, JQuery and JavaScript
+Markup Language HTML/CSS, HTML5 and XML.
+Development Tools Android Studio, Eclipse-Luna, NetBeans, Xcode, MS Visual Studio, Aptana.
+Databases Mongo DB, SQLite, SQL, ORMLite, MS- Access.
+
+Frameworks  JDK,  Android  SDK,  Phone  gap,  Spring,  Live  Chat,  Urban  Airship,  Google
+Analytics,BackboneJS,Require JS.
+Virtual Software Genymotion, VMware workstation, Oracle Virtual box.
+Web Servers Tomcat 6.0, WAMP & Apache HTTP Server.
+Other Tools/Software Dreamweaver, Photoshop, Alice, 3Ds Max, Notepad++, MSOffice.
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+• Languages: Java.
+• Mobile technology: Android.
+• SDK's and plugins: Android SDK, Android NDK, Android ADT.
+• IDE: Android Studio, NetBeans.
+• Web: PHP, HTML, JSON, REST, JAVASCRIPT, CSS.
+• Databases: SQLite, MySQL.
+
+SKILLS
+
+Android (6 years), Android SDK (Less than 1 year), Architecture (Less than 1 year), Debug (Less than 1
+year), deployment (Less than 1 year)
+ADDITIONAL INFORMATION
+
+SKILLS
+● Native Android Development, Java, XML
+● RESTful Networking: Retrofit, OKHttp, GSON, JSON
+● Butterknife, Calligraphy, Glide, Picasso
+● Reactivex: RXJava, RXAndroid
+● Material Design, Leanback Design
+● Java Design Patterns, Android Design Patterns
+● Android Studio
+● Android Framework, Android SDK, Android TV Leanback
+● Android Debug Bridge (ADB), JUnit Testing, Instrumented Testing (Espresso)
+● Object Oriented Programming (OOP)
+● Gradle configurations, Jenkins automated build and deployment
+● Fabric Crashlytics
+● Agile Development
+● Mobile memory management
+● GIT, GITHub, Atlassian Bitbucket, Jira, Confluence
+● Asynchronous Processes
+● Model-View-Presenter Architecture
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+Languages: Java & Android
+
+Operating System: Windows 7, Linux & Ubuntu
+
+Tools Expertise: Eclipse, Android Studio & Microsoft Office
+
+PROFESSIONAL SKILLS
+
+● Possess comprehensive problem solving abilities.
+● Takes initiative and responsibility.
+● Willingness to learn and a team facilitator.
+● Quick and Enthusiastic learner
+
+SKILLS
+
+Android (2 years), Android SDK (Less than 1 year), CSS (Less than 1 year), Eclipse (Less than 1 year), IOS
+(Less than 1 year)
+ADDITIONAL INFORMATION
+
+OPERATING SYSTEMS
+iOS, Mac OS X, Android SDK, Windows.
+TOOLS AND TECHNOLOGIES
+iOS SDK, Interface Builder, Android SDK, Eclipse, XML, HTML, CSS.Android Studio.
+
+LANGUAGES
+
+Soft Skills
+Communications, teamwork, organization, sense of urgency, leadership, fiscal responsibility
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+OS Windows 7/Vista/XP, Mac OSX, Android, Ubuntu
+Languages JAVA, C, C++, JavaScript, PHP, JSON, jQuery
+Markup Language HTML/CSS, HTML5, XML
+Development Tools
+Eclipse  Galileo-Kepler,  Netbeans  5.x,  MS  Visual  Studio,  Android  Studio,  PhoneGap,  IBM  Worklight,
+Photoshop, Sublime Text, XCODE
+
+Databases SQLite, MySQL, Oracle
+Frameworks Java Development Kit (JDK), jQuery, Android SDK
+Web Servers Tomcat 6.0 & Apache HTTP Server, WAMP
+Enterprise Technologies
+Windows […] Microsoft Office Suite, Linux, Scanners, Desktop and Network Printers, MAC, LogMeIn Central,
+GPMC, RDP, Internet Information Services, VMware, Citrix XenServer, Virtual box, Incode, Google Email.
+
+Other Tools/Software Pro Engineering, Photoshop, Matlab, Labview
+
+SKILLS
+
+ANDROID (2 years), ANDROID SDK (2 years), HTML (2 years), FRAMEWORKS (Less than 1 year), JAVA
+(Less than 1 year), JDK (Less than 1 year), MS OFFICE (Less than 1 year)
+SOFTWARE SKILLS
+
+Languages: Java
+Frameworks: Android SDK, Java Development Kit (JDK), C standard Library.
+Web Technologies: HTML 5
+Development & Testing Tools: Android Studio, MS Office.
+IDEs: Android Studio, IntelliJ
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+* Languages: Java JDK, SQL, C, C++, C#, JSP, Servlets, JSP, EJB, JDBC, JMS, Web Services, JSF, JNDI
+* Database Environments: Oracle 10g/11g, SQL Server […] IBM DB2, PL/SQL, My SQL, SQLite, Sybase,
+TOAD, JDBC, ODBC, MS-Access
+* Design & Protocols: Object-Oriented, Client-Server, Agile methodologies, RDBMS Design, Documentation,
+Coding Standards, HTTP, TCP/IP, UML
+* Operating Systems: Windows, Unix, Linux, Mac
+* Web Service Technologies: REST, SOAP, XSD, Apache Axis, WSDL, UDDI
+* Version Control Tools: CVS, Clear Case, SVN, GIT
+* IDEs: Eclipse, Android Studio, Visual Studio, Emacs, Vim, JBuilder, Xamarin, IntelliJ IDEA, Dreamweaver,
+Web Services & Parsing Techniques SOAP, REST & XML (SOAP API), JSON (Restful API), OAUTH, DOM,
+SAX
+*  Other  Tools:  JUnit,  SQLite,  DDMS,  Trace  View,  ADB,  XML,  Debugger,  Beyond  Compare,  QT  Creator,
+Genymotion Android Emulator
+
+SKILLS
+
+android developer (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Communication Skills
+
+✓ Ability to communicate at all levels
+✓ Oral Communication enhanced through presentations during my academic Career
+
+Areas of Interest
+
+✓ Application Development (Android)
+✓ Social Networking
+
+SKILLS
+
+Android (6 years), Android SDK. (6 years), Java (8 years), JSON (6 years), XML (6 years)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Technologies  Android  SDK,  NDK,J2EE,  Springs  2.0.x/2.5x,Hibernate,  MFC,  ATL,  STL,  Web  Services,
+JavaBeans, Java script, JSP,Eclipse.
+Build Tool Ant, Maven, Gradle.
+Servers JBOSS, Apache Tomcat, Web logic, Web Sphere.
+CI tools Jenkins.
+SCM Tools SVN and GIT
+Web Technologies HTML5, JavaScript, CSS, XML,UML,Weblogic6
+Operating Systems Windows XP/Vista/7, Linux, Android, Mac OS, Windows (2000/XP Professional, Windows
+7, Windows 8), Ubuntu, Fedora, Macintosh.
+Framework STRUTS, spring, Junit, AJAX, JDK.
+Database System Mysql, Sqlite, Oracle, DB2.
+Others Amazon Web Services (AWS), jQuery, JSON, REST-full Web services, SOAP
+
+SKILLS
+
+c,c++,java,python,PHP,Javascript,HTML,CSS,Pygame,android (Less than 1 year)
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+• Languages: C, C++, Java, python,android
+• Web Technologies:HTML, PHP, Javascript
+• Databases: MySql
+• Operating System: Linux and Unix
+
+Elective courses
+• Adhoc wireless Networks
+• Data science
+• Distributed operating systems
+• Cyber Security
+Projects And Patents:
+• Informaton Feedster-provisional patent granted-Final patent under pending
+• Address Book:A Personal place to store ur important addresses and to retrieve it efficiently (using java swings
+and sql)
+• Database design for college Hostel Management system
+
+• design of a basic vi-editor with features like underline, highlight for linux platform using C.
+
+Responsiblities
+
+• Team Leader, Developer, Web Master and Member for Decoders ( A programming club recognized by IEEE)
+
+• Member of IEEE-From september 2012 to september 2013.
+
+SKILLS
+
+C++ (Less than 1 year), JAVA (Less than 1 year), LINUX (Less than 1 year), PYTHON (Less than 1 year),
+UNIX (Less than 1 year), Android (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+Operating  System  Windows  (2000/XP  Professional,  Windows  8,  Windows  10),  Ubuntu,  Mac  Pro,  Fedora,
+Macintosh.
+Multi-threading technologies Handler, AsyncTask, and Thread.
+Mark up language HTML5 and XML 1.0, JSON, REST.
+Android App
+Mobile Development
+
+SDK 2.x, 3.x, 4.0,4.2 Android, API - Activities, List Views, Adapters, SQLite, Horizontal scrolling, Notification
+Manager, Contact Content Provider, Map, HTTP Client. Eclipse IDE, ADT plugin, Android SDK 2.3, Java,
+XML, SQLite, GIT.
+
+IDE Eclipse 3.x, Android Studio, Microsoft Visio 2007.
+Servers Application Servers: IBM WebSphere Application Server v7.0 Web servers: Apache Tom cat 5.5
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+Operating Systems Windows 7/Vista/XP, Mac OSX, Android.
+Languages JAVA, Objective-C, JavaScript, PHP
+Markup Language HTML/CSS, HTML5, XML
+
+Development tools Eclipse Galileo-Kepler, NetBeans 5.x, MS Visual Studio
+Databases SQL, SQLite, MS-Access
+Frameworks JDK, Android SDK, Hibernate3.0 & Spring2.0x, Phone gap, React Native
+Web Servers Tomcat 6.0 & Apache HTTP Server, WAMP
+Mainframes IBM z/VM
+Other Tools/Software
+Eclipse, Visual Studio 2010, Dreamweaver CS5, Photoshop CS5, Fireworks CS5, Illustrator CS5, Flex Builder
+CS5, Microsoft Office 2013, NetBeans, Notepad++, WordPress.
+
+ADDITIONAL INFORMATION
+
+Software Tools Android SDK, Android NDK, Eclipse IDE 4.3, Android Studio, MS Office 2013, SVN and GIT,
+Appium.
+Languages C, C++, JAVA/J2EE, SQL, PL/SQL, PHP
+Web Technologies HTML, DHTML, CSS, AJAX, JQUERY, JSON, Javascript, Bootstrap, Angular.JS
+
+Methodologies Agile methodology, Waterfall model
+Data Management Oracle 10g/11g, MySQL 5.6, SQLite 3.8.5
+
+Operating Systems Windows, Linux, Mac
+
+SKILLS
+
+Android (2 years), Bluetooth (1 year), JSON (2 years), REST (2 years), Retrofit (1 year)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+Languages: Android, Core Java, C, C++, SQL.
+IDE & Tools: Android Studio.
+
+Framework: Android SDK.
+
+Android Specifics: Android Studio, Fragment, Intents, Layouts, User interfaces, custom layout,
+Bluetooth Low Energy, Material Design, Recycler View, CardView, Camera, REST/JSON web
+
+services, JSON parsers like GSON and Jackson, Retrofit, Volley, Picasso, LeakCanary, Broadcast
+Receiver, Android data storage like Shared Preferences, SQLite, Realm, Content Providers, SD card.
+Databases: SQLite, Realm.
+
+Android versions: KitKat, Lollipop, Marshmallow.
+Android wear versions: Android wear 1.5, Android wear 2.0.
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+
+Android OS Android 2.3 to Android 5 (Gingerbread, Honey comb, Ice cream sandwich, Jellybean, Kit Kat and
+Lollipop)
+Languages Java, C
+Scripting Language PHP, JavaScript
+Web Designing HTML5, CSS, XML, JavaScript, JQuery
+IDE Eclipse, NetBeans, Android Studio
+Web/Application Servers Tomcat, IBM WebSphere
+Framework Struts, Junit, AJAX, Angular JS, Espresso
+Version Control Tools CVS, SVN, GIT, Jenkins
+Databases SQLite, MySQL
+
+SKILLS
+
+Android Studio (6 years), Android 5.0 (6 years), Java (6 years), Eclipse (5 years), Linux (5 years),
+SQLITE (5 years), HTTP (4 years), OOP (5 years), WINDOWS (4 years), JSON (5 years), GIT (4 years),
+PERFORCE (3 years), SHELL (5 years), DATA STRUCTURE (5 years), HTML 5 (3 years), XML (4 years),
+ANDROID SDK (6 years), ANDROID NDK (4 years)
+
+ADDITIONAL INFORMATION
+
+SKILLS 
+OPERATING SYSTEM Android 1.5 – Android 5.0, Linux (Ubuntu), Windows
+LANGUAGES Java
+EXPERTISE KNOWLEDGE Object Oriented Programming, Design Patterns, Data Structures
+WEB TECHNOLOGY HTTP, HTML, XML, JSON
+DATABASE SQLite3, SQLite Browser
+SCRIPTING Shell scripting
+PROTOCOLS MS Exchange Active Sync protocol, HTTP
+CONFIGURATION MANAGEMENT Git, Perforce, SVN, Clear-Case
+IDErawal : Android Dveeloper : H1B transfer Android Studio, Eclipse, Vim, Gradle
+
+TECHNICAL SKILLS:
+
+Programming/Scripting Languages: C, C++, Java, J2EE, JDBC, HTML, XML,XSL, XSLT, JavaScript, JSP,
+Java Servlets, C#.net, Perl, Python,PHP,Android Application Development
+Web Services: SOAP, REST, JSON, XML
+Operating Systems: Windows, Linux, UNIX, Mac OSX, Android
+Office Tools: Microsoft PowerPoint, Microsoft Excel, Microsoft Word, Microsoft Outlook
+Database technologies: MySQL, PL/SQL, Oracle, SQLite
+IDE's Used: NetBeans, Android Eclipse IDE (with ADT), Eclipse and their Debuggers, Android Studio, IntelliJ
+Tools: Jenkins, ANT, ADT, Maven, IBM Rational Rose
+Version Control Tools: CVS, Git, SVN, Bit Bucket
+Web/Application Servers:Apache TOMCAT
+Frameworks: AJAX, Spring, Junit, STRUTS
+Methodologies: Agile/ SCRUM, Waterfall.
+
+SKILLS
+
+Android (1 year), SQL (2 years), HTML (Less than 1 year), Java (2 years)
+
+ADDITIONAL INFORMATION
+
+Skills
+
+• Good in Java, HTML, C++ and Python.
+• Proficient in Oracle, SQL/MYSQL, PHP and Android studio
+• Can work with Netbeans.
+
+• Excellent interpersonal skills.
+• Analytical thinker and quick learner.
+• Capable of organizing, managing and Working with teams efficiently.
+• Always prepared to try something new.
+
+SKILLS
+
+API (5 years), J2EE (4 years), Linux (4 years), Oracle (4 years), SQL (6 years)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+Languages J2EE, J2SE, J2ME
+Application technology Andriod, Tablet
+Web Technologies JSP, Servlet, JSTL, Tag libraries, XML, XSD, Xerces, Xalan
+DOM and Design Patterns Gang of Four (GOF), Singleton, Factory, Observer, Command, Façade
+Databases Oracle, DB2, My SQL
+App Servers WebLogic, JBoss, Tomcat
+API & Framework Log4J, Spring, Struts, IBatis, Hibernate
+OS UNIX, Linux, Windows
+Version Control Clear Case, CVS, VSS, SVN, TFS (Team Foundation Server)
+
+SKILLS
+
+Android SDK 5.0, SQLite 3.6, Eclipse IDE 3.5, Android API’s, RESTFUL Web service, DOM Parser, JDK
+1.6, XML, JSON, HTML, CSS, GPS service, Log cat, Windows 7, ADT Plug-in, GIT (version control),DDMS
+console, ADB server, emulator and Base device (G1, HTC EVO),Java, Android SDK 4.4, XML, JSON, Ajax,
+JQuery, Genymotion, Postman (REST Client), Stash, JIRA, Android SDK, Web Services. (8 years)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+Programming/Scripting Languages: C, C++, Java, J2EE, JDBC, HTML, XML, XSL, XSLT, JavaScript, JSP,
+Java Servlets, C#.net, Perl, Python, PHP, Android Application Development
+Web Services: SOAP, REST, JSON, XML
+Operating Systems: Windows, Linux, UNIX, Mac OSX, Android
+Office Tools: Microsoft PowerPoint, Microsoft Excel, Microsoft Word, Microsoft Outlook
+Database technologies: MySQL, PL/SQL, Oracle, SQLite
+IDE's Used: NetBeans, Android Eclipse IDE (with ADT), Eclipse and their Debuggers, Android Studio, IntelliJ
+Tools: Jenkins, ANT, ADT, Maven, IBM Rational Rose
+Version Control Tools: CVS, Git, SVN, Bit Bucket
+Web/Application Servers:Apache TOMCAT
+Frameworks: AJAX, Spring, Junit, STRUTS
+Methodologies: Agile/ SCRUM, Waterfall
+
+SKILLS
+
+Java (4 years), Android (4 years)
+ADDITIONAL INFORMATION
+
+• Specialties: Application development, Android SDK, Android Development Tools, Mobile platform
+• Programming Languages: Java, SQL, XML, HTML
+• IDE: Eclipse, Intelij IDEA, Android Studio
+• RDBMS: SQLite
+• OS: MS Windows, Linux
+• VCS: SVN, GIT
+• Bug tracking systems: JIRA, Trello, Redmine, Youtrack
+
+Technical Skills:
+
+OS Windows 7/Vista/XP, Mac OSX, Android
+Languages JAVA, Objective-C, JavaScript, PHP
+Markup Language HTML/CSS, HTML5, XML
+Development tools Eclipse Galileo-Kepler, Netbeans 5.x, Xcode, MS Visual Studio, Aptana
+Databases SQL, SQLite, MS-Access
+Frameworks JDK, Android SDK, Hibernate3.0 & Spring2.0x, Cordova (PhoneGap)
+Mainframes IBM z/VM
+Web Servers Tomcat 6.0 & Apache HTTP Server, WAMP
+Other Tools/Software
+Eclipse, Visual Studio 2010, Dreamweaver CS5, Photoshop CS5, Fireworks CS5, Illustrator CS5, Flex Builder
+CS5, Microsoft Office 2013, Netbeans, Notepad++, WordPress.
+
+ADDITIONAL INFORMATION
+
+SKILLS
+• C/C++/Objective-C • Gradle Build Process and Dependency management
+
+• Java • Maven Build Process and Dependency management
+• Swift • REST/SOAP Web Services
+• HTML/CSS/XML/JavaScript/JQuery/AngularJS • Git/GitHub/SourceTree
+• Node.js (Meteor.js/Express.js) • Databases
+• Native Android • SDK Development
+• Android Studio • Unit and Instrument testing
+
+CORE STRENGHTS
+• Native Android Development Experience.
+• Experience in using third party libraries like ButterKnife, Retrofit, Roboelectric, Dagger2, Picasso, Espresso,
+RX Java etc.
+• Experience with Android Geo-Location services.
+• Knowledge of Android software components, libraries and Gradle build process.
+• Knowledge of Android material design principles.
+•  Experience  with  AsyncTask,  Intent  Services,  Broadcast  Receiver,  Location  Manager,  Push  Notifications,
+Adapters.
+• Familiar with data storage options i.e. Shared Preferences, SQLite, GCM, Realm, Firebase, Internal and
+External storage.
+• Experience in using Google, Facebook, Instagram, YouTube and other popular social media based API's.
+• Experience inDeveloping Custom UI Elements (Example Tab bar, buttons, Custom Table view Cells).
+• Efficient storage of data using File System, Core Data, Realm, Firebase and SQLite.
+• Familiar with UI design implementation using Auto layout, Storyboards and XIB files.
+• Experience in Interface builder, Instruments.
+• Experience with collaborative source control systems like SourceTreeand Git/GitHub.
+• Familiar with SOAP and REST web services.
+• Familiarity with SDK development and library management.
+• Familiar with Unit testing and Instruments testing frameworks like Junit, XCTest, and Robotium etc.
+• Experience in mobile Analytics integration using AppsFlyer, Google Analytics and Aptelignet etc.
+• Experience Using Adhoc testing using Test Flight, HockeyApp etc.
+• Experience in Store App deployment process. (Google)
+• Mobile Analytics using AppsFlyer, HockeyApp, Aptelignet, Google Analytics.
+• Integration and class implementation of Payment gateways i.e. Braintree, Authorize.net
+
+SKILLS
+
+Android (3 years), Java (3 years), Javascript (Less than 1 year), Web Development (1 year), Python (Less
+than 1 year), Agile (1 year), XML (2 years), Testing (1 year), Git (2 years)
+SKILLS
+
+Java (Less than 1 year), OOP (Less than 1 year), Android (Less than 1 year), IoT (Less than 1 year)
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+Programming/Scripting Languages: C, C++, Java, J2EE, JDBC, HTML, XML,XSL, XSLT, JavaScript, JSP,
+Java Servlets, C#.net, Perl, Python,PHP,Android Application Development
+Web Services: SOAP, REST, JSON, XML
+Operating Systems: Windows, Linux, UNIX, Mac OSX, Android
+Office Tools: Microsoft PowerPoint, Microsoft Excel, Microsoft Word, Microsoft Outlook
+Database technologies: MySQL, PL/SQL, Oracle, SQLite
+IDE's Used: NetBeans, Android Eclipse IDE (with ADT), Eclipse and their Debuggers, Android Studio, IntelliJ
+Tools: Jenkins, ANT, ADT, Maven, IBM Rational Rose
+Version Control Tools: CVS, Git, SVN, Bit Bucket
+Web/Application Servers:Apache TOMCAT
+Frameworks: AJAX, Spring, Junit, STRUTS
+Methodologies: Agile/ SCRUM, Waterfall
+
+SKILLS
+
+Languages: C/C++(Good), Java(Good), Matlab(Intermediate), Python(Beginner) Frameworks and Libraries:
+Eclipse, Visual Studio, OpenGL, OpenCV, Android SDK, Intel TBB, Unity 3D
+
+ADDITIONAL INFORMATION
+
+HIGHLIGHTS OF QUALIFICATIONS
+Languages: C/C++(Good), Java(Good), Matlab(Intermediate), Python(Beginner)
+Frameworks and Libraries: Eclipse, Visual Studio, OpenGL, OpenCV, Android SDK, Intel TBB, Unity 3D
+
+SKILLS
+
+Android Programming (6 years)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILL:
+
+Web related/Languages
+Java, Swing, Servlets, JPA, Spring, Hibernate, JDBC, RMI, C++, HTML, XSL, JavaScript, JSP, Developer […]
+SQL, PL/SQL, SQL*Plus, AJAX, XML.
+
+Operating Systems Android OS, UNIX (AIX, Sun Solaris, HP-UX), Linux and Windows […]
+Databases Oracle 8i/9i/10g, SQL Server, MySQL Sybase, and MS-Access, SQLite and IBM DB2
+GUI / Tools MS Frontpage2000, TOAD, Oracle Forms, Reports, Discoverer
+Application Servers Web Sphere 5x/6x, Web Logic 8x/9x and JBOSS 4x/5
+Networking/Protocols TCP/IP, FTP, HTTP, UDP, SMTP, RCP, Rlogin, and SSH2.
+IDE RAD 7/7.5,NetBeans 5x/6x,Eclipse 3x,Intelliji
+Design Tools Rational Rose
+Frame Works JakartaStruts 1.0,2.0, ANT, JUnit, MVC, Spring and Hibernate
+Version Control IBM Team Server, CVS, PVCS, and Visual Source Safe, Clear case
+
+SKILLS
+
+Android (3 years), Design Patterns (Less than 1 year), Eclipse (Less than 1 year), UI (3 years), USER
+INTERFACE (3 years)
+SKILLS
+• Java, Android, Android Studio, Eclipse, REST, XML, JSON, SOAP, OOP, OOD, LeakCanary, Retrofit, Volley,
+OkHttp, Espresso, Mockito,
+RxAndroid,  RxJava,  Dagger,  Agile,  Scrum,  Design  Patterns,  GIT,  Gradle,  SQLite,  MySQL,  HTML,  PLM,
+Samsung Print, UI Automator, Unit
+tests, Junit, RoboElectric, Appium, Integration tests, Perforce, Jenkins, Hudson
+
+Technical Skills
+Frameworks Android SDK, Java, .Net
+
+Operating Systems Windows XP/ 7/ Vista, Mac OSX, Ubuntu, Linux
+Mark-Up Languages HTML, HTML 5, CSS
+Web Languages JavaScript, Jquery, JSON, RESTful webservices
+Development IDE's Eclipse/Android Studio, Visual Studio
+Databases SQLite, MySQL, Oracle,
+Web Servers Apache Tomcat 6.0 server
+Web Services SOAP, RESTFUL, JSON, XML
+
+ADDITIONAL INFORMATION
+
+SKILLS
+• Android SDK, Eclipse, JAVA, JAVA Web Application
+• Strong Understanding Of OOP
+• Good Understanding of multi resolution UI designs.
+• Strong with C, C++ programming concepts.
+
+• XML and JSON encoding
+• SQL lite Data base
+• Libraries: XMPP(Smack), Google Maps, Bouncing
+Castle,
+• Fluent in English, Urdu and Punjabi.
+• Good in communication skills and have good
+persuasion skills.
+• Expert in MS Word, Excel, PowerPoint, Access and
+front page and flow charts designing
+
+SKILLS
+
+ANDROID (2 years), JAVA (1 year), ECLIPSE (1 year), JAVASCRIPT (1 year), XML (1 year)
+
+ADDITIONAL INFORMATION
+
+SKILLS
+Java, JSF, JS, R, Matlab, XML/XSL, Primefaces, HTML 5, C and C++, CSS, JavaScript, JQuery, Bootstrap,
+AJAX, Eclipse, Android Studio, MySQL, Oracle11g, Glassfish, GitHub, Jenkins, Agile/SCRUM, TDD, Google
+Maps, RESTful, Retrofit, Picasso, Glide, YouTube, Espresso, Robolectric, OpenStreetMap, Flurry Analytics,
+Facebook  SDK,  Twitter,  Fragments,  JUNIT,  MVC,  MVP.  Tomcat,  WAS,  WebLogic,  UML,  Netbeans  IDE,
+Wireshark, Photoshop.
+
+SKILLS
+
+analyzer (2 years), Android (2 years), EAP (Less than 1 year), Eclipse (2 years), Java (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+Languages Android programming, Java
+Operating Systems Windows XP, Linux.
+Tools
+-Tortoise SVN, used to manage different versions of source code
+-JIRA, a bug tracking, issue tracking and project management software
+-Eclipse memory analyzer tool to perform memory analysis
+-EAP tool, to create UML diagrams for different workflows
+
+Environment Eclipse IDE, Android studio
+
+SKILLS
+
+Android (8 years), Android SDK (7 years), API (6 years), Eclipse (7 years), XML (8 years)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+Operating  System  Windows  (2000/XP  Professional,  Windows  8,  Windows  10),  Ubuntu,  Mac  Pro,  Fedora,
+Macintosh.
+Multi-threading technologies Handler, AsyncTask, and Thread.
+Mark up language HTML5,CSS and XML 1.0, JSON, REST.
+Android App
+Mobile Development
+
+SDK 2.x, 3.x, 4.0,4.2 Android, API - Activities, List Views, Adapters, SQLite, Horizontal scrolling, Notification
+Manager, Contact Content Provider, Map, HTTP Client. Eclipse IDE, ADT plugin, Android SDK 2.3, Java,
+XML, SQLite, GIT.
+
+IDE Eclipse 3.x, Android Studio, Microsoft Visio 2007.
+Servers Application Servers: IBM WebSphere Application Server v7.0 Web servers: Apache Tom cat 5.5
+
+SKILLS
+
+Java (2 years), Git (1 year), Android (1 year), C (1 year), Linux (2 years), HTML (1 year), CSS (1 year),
+Photoshop (6 years), Indesign (5 years), Illustrator (5 years), Graphic Design (6 years)
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Operating System Windows 7, Vista XP, Mac OSX, Android
+Languages JAVA, C, XML, HTML5, Python, JSON
+Development Tools Eclipse Ganymede Kepler, Netbeans 5.x, Github
+Databases SQL, SQLite
+Frameworks Struts1.1 2.0, Hibernate3.0 Spring2.0x
+Design Tools Dreamweaver, Illustrator, Photoshop, Flash
+Webservers Tomcat 6.0, Apache HTTP Server, IIS Webserver
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+Languages Java, J2EE, JSP, C#, C++, C, PHP, JavaScript, SQL.
+Frameworks Java Development Kit (JDK), .NET, C standard Library, jQuery, Android SDK.
+Web  Technologies  PHP,  JSON,  JavaScript,  HTML4/5,  XHTML,  CSS/CSS/CSS3,  XML,  Apache,  Tomcat,
+FileZilla.
+Development Tools
+Android Studio ,Eclipse, Visual Studio 2010, Dreamweaver CS5, Photoshop CS5, Fireworks CS5, Illustrator
+CS5,Flex  Builder  CS5,Microsoft  Office  2013,Netbeans,  Scratch,  Lego  Mindstorms,  Notepad++,  Putty,
+WordPress, Python, Flash.
+
+Databases SQLite, MySQL, Oracle.
+Network Technologies Frame-relay, ACL, NAT, PAT, RIP, OSPF, EIGRP, BGP, MPLS, VTP, SMTP, ARP,
+TCP, UDP, VLAN, DHCP, WSUS.
+Monitoring Tools VMware, Spiceworks, Radwin, Kaspersky, IBoss, Zscaler, Barracuda.
+Connectivity  &  Hardware  Exchange  Server,  DNS  Servers,  DHCP  Servers,  Web  Servers  Ethernet,  Fast
+Ethernet, WAN, LAN, TCP/IP, RAID systems, Cisco ASA 5500.
+Enterprise Technologies
+Windows  […]  Exchange  […]  DNS,  WINS,  Microsoft  Office  2013,  Linux,  Scanners,  Desktop  and  Network
+Printers,  MAC,  LogMeIn  Central,  GPMC,  RDP,  Internet  Information  Services,  VMware,  Citrix  XenServer,
+Virtualbox, Incode, Postini spam filter, Google Email.
+
+SKILLS
+
+Windows (2000/XP Professional, Windows 8, Windows 10), Ubuntu, Mac Pro, Fedora, Macintosh. Handler,
+AsyncTask, and Thread. HTML5 and XML 1.0, JSON, REST. SDK 2.x, 3.x, 4.0,4.2 Android, API – Activities,
+List Views, Adapters, SQLite, Horizontal scrolling, Notification Manager, Contact Content Provider, Map,
+HTTP Client. Eclipse IDE, ADT plugin, Android SDK 2.3, Java, XML, SQLite, GIT. Eclipse 3.x, Android
+Studio, Microsoft Visio 2007. Application Servers : IBM WebSphere Application Server v7.0 Web servers :
+Apache Tom cat 5.5 (7 years)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+Operating  System  Windows  (2000/XP  Professional,  Windows  8,  Windows  10),  Ubuntu,  Mac  Pro,  Fedora,
+Macintosh.
+Multi-threading technologies Handler, AsyncTask, and Thread.
+Mark up language HTML5 and XML 1.0, JSON, REST.
+Android App
+Mobile Development
+
+SDK 2.x, 3.x, 4.0, 4.2 Android, API - Activities, List Views, Adapters, SQLite, Horizontal scrolling, Notification
+Manager, Contact Content Provider, Map, HTTP Client. Eclipse IDE, ADT plugin, Android SDK 2.3, Java,
+XML, SQLite, GIT.
+
+IDE Eclipse 3.x, Android Studio, Microsoft Visio 2007.
+Servers Application Servers: IBM WebSphere Application Server v7.0 Web servers: Apache Tom cat 5.5
+
+Technical Skills
+Languages:
+◦ Java
+◦ React Native
+◦ Kotlin
+◦ C#
+◦ Swift
+Platforms:
+◦ Android
+◦ iOS
+Database:
+◦ MySQL, SQLite, SQL Server, Realm
+Other technologies:
+◦ JSON, XML
+◦ RxJava
+◦ RTMP (Streaming)
+◦ Chat, Map, Video, Game SDK (2D), Firebase (Push notification, Authentication, Real time Database)
+◦ Continuous Integration (Jenkins - Automatically build and distribute to store)
+◦ Good at: Android, Java core, MYSQL, SQLite.
+◦ Moderate: React Native, Kotlin, iOS (Swift), HTML, JavaScript, Computer networking.
+SKILLS
+
+Java (5 years), Android (5 years)
+
+ADDITIONAL INFORMATION
+
+Libraries and concepts: Clean architecture, MVP architecture, RxJava, RxAndroid, Retrofit, Realm, Gson, Otto,
+Dagger, ButterKnife, Picasso, Glide, NFC, Firebase, Google Play Services, Android Studio, JUnit, Git Flow
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+
+Languages JAVA, C, C++, JavaScript, SQL
+IDE Eclipse 3.x, 4.x, Net Beans, Android Studio
+Web Technologies HTML, CSS, AJAX, JSON, XML, Flask, Laravel, Django
+OS Android, Windows, Mac OS X
+RDBMS SQLite 3.6, Oracle […] MySQL […]
+Editors Notepad++, Sublime Text, Text Wrangler.
+Web Servers Tomcat 6.0 Apache HTTP Server
+Méthodologies Agile Methodology
+Design Tools Photoshop
+
+ADDITIONAL INFORMATION
+
+● Java Core
+● Android
+● OOP principles
+● MVC, MVP
+● SQLite
+● XML
+● Rest API
+● Square (Dagger, Retrofit, Glide, Sqlbrite, Butter knife, EventBus)
+● Social API(Facebook, Twitter)
+
+● Data Binding
+● In-app Billing
+● Unit Test(JUnit, Robolectric, Espresso, UI Automator)
+● Instant Messaging (Quickblox)
+● Parse
+● SocketIO
+● Google Analytics
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+Languages Java 1.4/ 1.5/1.6, C, SQL
+JEE/J2EE Technologies Servlets, JNI, JSP, JSF, JDBC, JSTL, JAXB, JAXP, JAXRPC, JAX- WS
+Mobile Technologies Android 2.3 - 6.0, Phone Gap, Xamarin
+Open Source Frameworks Hibernate, Struts, ZeroMQ
+Web Technologies HTML, DHTML, CSS, AJAX, JQuery, JSON, JavaScript, Angular.js, Bootstrap, PHP
+Databases SQLite, Oracle […] DB2, SQL Server, MYSQL
+Web Servers Apache Tomcat
+Application Servers BEA's WebLogic and IBM's Web Sphere, JBoss
+
+Versioning Software SVN, CVS and GIT
+
+Operating Systems Windows […] Ubuntu, Fedora, Macintosh
+Tools ADT, ANT, JUnit, Cruise Control, Maven
+Parsing Techniques XML (SOAP API), JSON (RESTful API)
+IDEs Eclipse, Android Studio, IntelliJ, NetBeans
+
+SKILL SET
+Operating Systems: Android, Windows, Unix, Linux
+Languages: Java, C#, C, C++, SQL
+Web Technologies: ASP.NET, REST, JavaScript, HTML, XML, Web Services
+Tools: Android Studio, IntelliJ, Visual Studio
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Android OS Android 1.5 to Android 5.1, Android NDK
+Languages Java, C, C++, Objective-C
+Scripting Languages JavaScript, JQuery, Python, R
+Web HTML5, CSS, XML, AJAX, Node JS, Angular JS
+Frameworks Struts, Spring MVC
+Database SQLite, MySQL, Oracle […] DB2, MongoDB
+IDE Android Studio, Eclipse
+
+ADDITIONAL INFORMATION
+
+Technical Skill Set
+
+Languages C, C++, objective c, java, XML, java script, HTML5
+Scripting Languages Perl, Bash Shell Script
+Platforms Linux, Windows, Unix, WM6, OS X, Xen Server, android
+Tools  and  Utilities  MS  Visual  Studio,  Xcode,  Eclipse,  clear  case,  clear  quest,  Bullseye,  GDB,  lcov,  gcov,
+Valgrind.
+Concepts
+Linux Internals, Context aware Computing, system software development, mobile S/W development, machine
+learning, Open Mobile Alliance - Device Management
+
+Open Source S/W Raptor, gpsd, Open SSL, PCRE, light httpd, AceDB, Android Open Source
+
+Android Applications
+Calendar
+Link: https://play.google.com/store/apps/details?id=com.sumit.calendar
+This is a demo calendar application. It allows user to add and delete events. It uses SQLite as data base and
+GridView to display the calendar
+
+Calorie Burn Calculator
+Link: https://play.google.com/store/apps/details?id=com.sim.sumit.caloriecalculator
+Calorie Burn Calculator is an android application. Users can use this application to measure the amount of
+calorie burnt while running in open space. It uses GPS coordinates to measure the distance.
+
+Projects Undertaken
+
+TECHNICAL SKILLS
+
+Languages: Android, iOS, Swift, C, C++, Java, JSP, JavaScript, PHP.
+Databases: MySQL, Oracle, MS Access.
+Frameworks: Spring, Swing, Struts, Hibernate.
+Tools/IDE's: Android studio, Gradle, Eclipse, NetBeans, Visual Studio, Xcode, Espresso, Appium.
+Web: HTML 5, CSS 3, XML, JSON.
+Servers: Apache Tomcat.
+Operating Systems: Windows, Linux, Macintosh.
+Relevant  Courses:  Software  Engineering,  Advance  Java  Technology,  Algorithms,  Computer  Network,
+Database Systems.
+Repositories: SVN, GitHub.
+
+SKILLS
+
+ECLIPSE (3 years), XML (3 years), JAVA (3 years), ANDROID (3 years), ANDROID SDK (3 years)
+ADDITIONAL INFORMATION
+
+Technologies
+Java JDK […] (JSP 1.2/2.0, Servlets 2.3/2.4, EJB 2.0), Android SDK 2.2, Spring 2.1, Spring 3.0, Hibernate,
+JDBC 3.0, JavaScript 1.8.x,CSS3, JSON, Web Services.
+
+Android App
+Mobile Development
+
+SDK 2.x, 3.x, 4.0,4.2 Android, API - Activities, ListViews, Adapters, SQLite, Horizontal scrolling, Notification
+Manager, Contact Content Provider, DDMS, Location, Map, HTTP Client, JSON based Web Services, Camera
+API, Facebook API.
+
+Debugging and Testing Tools JUnit, DDMS, Logcat
+Markup Languages HTML 4.0.1, HTML5 and XML 1.0.
+Application Servers JBoss […] Tomcat […] WebSphere 6.0
+IDE Eclipse 3.x, NetBeans 5.x/6.x/7.x, […] Oracle J Developer 10g/11g, Microsoft Visio 2007.
+Data bases SQLite 3.6, Oracle 9i/10g, MySQL […] MS-SQL Server […]
+OS Windows (2000/XP Professional, Windows 7, Windows 8, Ubuntu, Fedora, Macintosh
+
+SKILLS
+
+Java (5 years), Android (2 years), PHP (4 years), Hadoop (2 years), Web Development (4 years)
+
+SKILLS
+
+Android SDK 5.0, SQLite 3.6, Eclipse IDE 3.5, Android API’s, RESTFUL Web service, DOM Parser, JDK
+1.6, XML, JSON, HTML, CSS, GPS service, Log cat, Windows 7, ADT Plug-in, GIT (version control),DDMS
+console, ADB server, emulator and Base device (G1, HTC EVO).
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+Programming/Scripting Languages: C, C++, Java, J2EE, JDBC, HTML, XML, XSL, XSLT, JavaScript, JSP,
+Java Servlets, C#.net, Perl, Python, PHP, Android Application Development
+Web Services: SOAP, REST, JSON, XML
+Operating Systems: Windows, Linux, UNIX, Mac OSX, Android
+Office Tools: Microsoft PowerPoint, Microsoft Excel, Microsoft Word, Microsoft Outlook
+Database technologies: MySQL, PL/SQL, Oracle, SQLite
+IDE's Used: NetBeans, Android Eclipse IDE (with ADT), Eclipse and their Debuggers, Android Studio, IntelliJ
+Tools: Jenkins, ANT, ADT, Maven, IBM Rational Rose
+Version Control Tools: CVS, Git, SVN, Bit Bucket
+Web/Application Servers:Apache TOMCAT
+Frameworks: AJAX, Spring, Junit, STRUTS
+Methodologies: Agile/ SCRUM, Waterfall
+
+SKILLS
+
+Android (2 years), Java (3 years), Git (3 years), Javascript (2 years)
+SKILLS
+
+Android (3 years), Java (Less than 1 year), HTML (Less than 1 year), PHP (Less than 1 year), Javascript
+(Less than 1 year)
+ADDITIONAL INFORMATION
+
+Operating Systems: Windows, Linux
+Office Tools: Word, Excel, PowerPoint
+
+SKILLS
+
+Android
+
+ADDITIONAL INFORMATION
+
+Skills: Android, Java, Git, C#, jQuery, HTML, CSS (Bootstrap), SQLite, SQL
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+Programming/Scripting  Languages:  C,  C++,  Java,  J2EE,  JDBC,  HTML  5.0,  XML  1.0,  XSL,  XSLT  2.0,
+JavaScript 1.8.5, JSP 2.3, Java Servlets, C#.net, Python, PHP
+Web Services: SOAP, REST, JSON, XML
+
+Operating Systems: Windows, Linux, UNIX, Mac OSX, Android
+Office Tools: Microsoft PowerPoint, Microsoft Excel, Microsoft Word, Outlook
+Database technologies: MySQL, PL/SQL, Oracle 10g, SQLite
+IDE's Used: NetBeans, Android Eclipse IDE (with ADT), Eclipse and their Debuggers, Android Studio, IntelliJ
+Tools: Jenkins, ANT, ADT, Maven, IBM Rational Rose
+Version Control Tools: CVS, Git, SVN, Bit Bucket
+Web/Application Servers: Web logics 6.0, Tomcat 6.0 & Apache HTTP Server
+
+Frameworks: AJAX, Hibernate […] Junit, STRUTS
+
+Methodologies: Agile/ SCRUM, Waterfall
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Languages: Java, JavaScript
+
+Frameworks/Libraries: Android, Retrofit, Volley, RxJava, RxAndroid, Picasso, Butterknife
+Other: Git/GitHub, Android Studio, GIMP
+
+SKILLS
+
+Android SDK (4 years), Android Studio (3 years), Java (4 years), OpenGL ES 2.0 - 3.0 (4 years), Third Party
+Libraries (4 years)
+ADDITIONAL INFORMATION
+
+Skill Set:
+Java, Eclipse, Android SDK's version 2.3-4.2, SQL server 2005 and 2008, VLSI design, C++, SQL (Oracle
+based systems), SQLite, Python, Network Simulation, Matlab, HTML, Javascript, and Linux based systems,
+Microsoft visual basic, Microsoft VISIO, Microsoft office, IOS based systems.
+
+Projects Summay:
+
+SKILLS
+
+Android (6 years), CSS (2 years), Java (2 years), Software Development (2 years), SQL (2 years)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+Languages: JAVA, C, Python, C++ Operating System: Linux, Mac, Windows
+Mobile Technologies: Android Web Services: XML, JSON, REST
+Web Technologies: HTML, CSS, SQL Software Development: Android Studio, Intellj IDEA, Eclipse, Net beans
+IDE
+Database: SQLite, MYSQL, Content providers
+
+ADDITIONAL INFORMATION
+
+Technical Skill Set
+Languages: Core Java, Android, C/C++.
+IDE: Eclipse, Android Studio.
+Building Tools: Gradle
+OS: Windows, Linux.
+Web Services: REST, JSON, XML.
+Web Technologies: HTML 5, CSS, Javascript and PHP
+API: Google Services (Including Map, Ad Mob, Cloud Message etc), Bluetooth, Finger Print, a lot of third party
+APIs.
+Social App Integration: Facebook, Twitter, Google+
+Version Control Tools: GitHub, SVN
+
+Methodologies: Object oriented methodology, Design Patterns, Agile
+Databases: SQLite, MySQL
+
+TECHNICAL SKILLS
+Languages: Java, XML, C/C++, HTML, CSS, JavaScript, Python
+Libraries: Retrofit, Picasso, GraphView, YouTube Android Player
+Other: Android Studio, IntelliJ, Eclipse, Git/Github, Vi/Vim, Sketch, Sketch, Adobe Illustrator, Adobe Photoshop
+TECHNICAL SKILLS:
+
+OS Windows XP, LINUX and Android
+Languages java (JDK 1.6), C, C++, XML, SQL
+IDE Eclipse 3.x ,Visual Studio
+Protocols Bluetooth, CDMA, UMTS, Http , ftp
+Other Software HTML, DHTML, Oracle,
+Database Oracle, SQLite3 , MySQL
+Scripting Language shell scripts, Perl, Python
+Modeling language UML, OOPS
+Tools putty , adb , ddms,dmtracedump
+Debugging Tools GDB, DDMS
+
+SKILLS
+
+android development (4 years), Java (4 years)
+Technical Skills:
+Language: Java, C++
+Third Party Library: RxJava, Retrofit, OkHttp, Gson, ButterKnife, Picasso, Volley, Glide
+Design  Patterns:  Singleton,  Adapter,  Factory  Method,  Iterator,  Dependency  Injection,  Builder,  Strategy,
+Façade, Template, MVP
+Algorithms / Data Structures: Big O, Sort, Search, Linked List, Stack, Queue
+Android Technologies: GCM, Android Firebase, Push Notifications, Google AdMob
+Web Technologies: RESTful Web Services, HTML, CSS, JavaScript
+Application Servers: Glassfish, Tomcat
+Databases: MySQL, SQLite, Realm, MongoDB
+IDE / Utilities: Android Studio, Eclipse, ADT, IntelliJ IDEA, Xcode, MS Visual Studio, Sublime
+Operation Systems: Windows Server, Linux, MacOS
+Application Servers: Glassfish, Tomcat
+Source Control Tools: Git, SourceTree
+Methodologies: Agile-Scrum
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+SKILLS
+
+Android (4 years), Algorithms (3 years), Java (3 years), C++ (1 year), SQLite (1 year), Glassfish (1 year),
+JSON (2 years), RESTful Web Services, (2 years), Agile-Scrum (2 years), Design Patterns (1 year), Data
+Structures (3 years), Third Party Library (3 years), Volley (2 years), Realm (1 year), Google Maps (2 years),
+Glide (1 year), Picasso (1 year), ButterKnife (1 year), Retrofit (1 year), OkHttp (1 year)
+ADDITIONAL INFORMATION
+
+Technical Skills:
+• Programming Language: Java/JDK 1.6, Android SDK, PHP 5, HTML, CSS, JavaScript, MySQL, SQLite
+• Operating System: Windows XP/Vista/7, UNIX, Linux(Ubuntu), Mac OS
+• Tools: Eclipse IDE, NetBeans, Microsoft Visual Studio, Atlassian Tools(JIRA, Confluence, Stash, Bamboo),
+Balsamiq, PHPmyadmin (XAMP), SQLyog, Cisco Packet Tracer
+• Applications: Microsoft Office
+
+

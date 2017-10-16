@@ -1,0 +1,84 @@
+<ba>
+Shalini Balguri
+
+Android Developer - TRADE Financial
+
+Fremont, CA - Email me on Indeed: indeed.com/r/Shalini-Balguri/402fb945f48c0b55
+<su>
+Seeking an internship or entry level position in mobile application development in Android Platform where I
+can utilize my skills and knowledge for organizational development to achieve the goal.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+E*Trade Financial  -  Menlo Park, CA - June 2016 to Present
+
+Android app allows real-time streaming quotes, place trades, manage trading accounts, and more - all from
+Android-powered device.
+
+Responsibilities:
+• Created the login screen of E*trade's android application.
+• Implemented material design to the application.
+• Added snackbar message to the application.
+• Added chrome custom tab to the application.
+• Added Screen Animations.
+• Generated URL connection service call using retrofit.
+• Unit testing of login screen & components using Espresso.
+• Automation testing of login screen using Appium.
+• Used GIT for development.
+• Attended daily scrum meetings and code review.
+• Served as a core member of an agile team.
+
+Tools/Environment: Android Studio 2.1.2, Google play store, Android 6.0 (Marshmallow).
+
+Android Developer
+CloudRay India Pvt Ltd  -  Hyderabad, Andhra Pradesh - July 2014 to November 2014
+
+Servant is a lifestyle application to keep users' life in financially balanced with Yelp recommended activities.
+There are three main services: search activities, to-do list, and financial management. The main agenda of
+this project is to make our users life easier.
+
+Responsibilities:
+• Implemented and developed To-Do list.
+• Worked on bug fixing and improving application performance.
+• Used GIT for the source control and JIRA and Quality center as the bug tracking tool.
+
+Tools/Environment: Android Studio 1.3.1, Android 4.2, Android 4.2 (JellyBean) - Android 6.0 (Marshmallow),
+Yelp API, Google Map API.
+<ed>
+EDUCATION
+
+Event Management
+Northwestern Polytechnic University  -  Silicon Valley, CA
+April 2016
+
+Master of Science in Computer Science
+Northwestern Polytechnic University
+April 2016
+
+Bachelor of Engineering in Information Technological Science
+Jayamukhi Institute Of technological Sciences
+June 2014
+
+Career Education Program
+Jayamukhi Institute Of Technological Sciences  -  Warangal, Andhra Pradesh
+May 2014
+
+ADDITIONAL INFORMATION
+<sk>
+TECHNICAL SKILLS
+
+Languages: Android, iOS, Swift, C, C++, Java, JSP, JavaScript, PHP.
+Databases: MySQL, Oracle, MS Access.
+Frameworks: Spring, Swing, Struts, Hibernate.
+Tools/IDE's: Android studio, Gradle, Eclipse, NetBeans, Visual Studio, Xcode, Espresso, Appium.
+Web: HTML 5, CSS 3, XML, JSON.
+Servers: Apache Tomcat.
+Operating Systems: Windows, Linux, Macintosh.
+Relevant  Courses:  Software  Engineering,  Advance  Java  Technology,  Algorithms,  Computer  Network,
+Database Systems.
+Repositories: SVN, GitHub.
+
+

@@ -1,0 +1,51 @@
+Deepak Kumar
+
+Web Developer
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Deepak-Kumar/9e51422fcbab2738
+
+To get absorbed in a competitive environment which provides an opportunity to apply knowledge and technical
+skills acquired with the help of the professional qualification so as to contribute to the growth of the organization.
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Software Developer
+ISOLS GROUP PVT. LTD.  -  Gurgaon, Haryana - October 2017 to Present
+
+Web Developer
+Valueworx Solution Pvt. Ltd  -  Delhi, Delhi - July 2015 to October 2016
+
+Company Profile:
+Valueworx Solution Pvt. Ltd is one of the best Web Development and Designing company based in Delhi India.
+
+PROJECTS
+Title: Boarding Schools Admission (http://boardingschoolsadmission.com)
+Aim: The aim of this project is to manage the all connected boarding schools details. It helps to connecting the
+parents to all day boarding schools and know about their facilities. And their Admin panel is to be developed.
+
+Title: Personal Banking Management System.
+Aim: The aim of this project is to manage personal all banking details it's like an application which is used to
+manage various banks details in one window.
+
+Title: Divine Shop (http://divinegifts.in)
+Aim: Online shopping site
+
+Title: CRM (http://digierp.ind.in)
+Aim: Company Resource Management, it handle all working environment of company.
+
+EDUCATION
+
+MCA
+Uttar Pradesh Technical University  -  Noida, Uttar Pradesh
+2012 to 2015
+
+ADDITIONAL INFORMATION
+
+SKILLS
+• Core Php with 1.5 year exeperioence
+• Codeigniter with 0.5 year exeperioence
+• Database : Mysql
+• JavaScript, Ajax
+
+

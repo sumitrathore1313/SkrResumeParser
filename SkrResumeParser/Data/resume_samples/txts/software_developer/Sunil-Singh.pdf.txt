@@ -1,0 +1,56 @@
+Sunil Singh
+
+Software Developer - associated company JPJ Technologies
+
+Noida, Uttar Pradesh - Email me on Indeed: indeed.com/r/Sunil-Singh/39b8f145a106f829
+
+WORK EXPERIENCE
+
+Software Developer
+associated company JPJ Technologies  -  New Delhi, Delhi - September 2012 to Present
+
+Software Developer/Web Developer/Trainer
+associated company JPJ Technologies  -  Delhi, Delhi
+
+Exposure to end-to-end development of various applications.
+➢ Possess good interpersonal skills that have been put to good use in coordinating with project team and
+providing customized software solutions.
+
+Employment Scan
+
+Junior Software Developer
+Dicorporation  -  New Delhi, Delhi - July 2011 to August 2012
+
+Skill Set
+Technical
+Languages: Core Java, JSP, Servlet, JDBC, Html, Struts 2x
+Internet Tools: Java script, CSS
+IDE: ECLIPSE, Dream Viewer
+Databases tools: Oracle 10g, MYSQL
+Domain Knowledge: Domain and Hosting Expertise (Windows and Linux)
+Functional
+➢ Delivering and implementing the project as per scheduled milestones. Participating in System Integration,
+onsite development, customer support and product up gradation.
+➢ Interacting with the onshore team for requirements gathering, analysis, implementing and testing of the
+system.
+Preparing the help manual including the flow and scenario, product development, etc.
+
+Key Project Handled
+Title: COOL QUIZ (Web Application)
+Duration: Still Working Location: Delhi Team Size: 2
+Environment Jsp, Servlets, html, CSS, Java Scripts with Oracle10g
+Overview: This project can be used to test the skills in four Fields namely Java, Networking, DBMS, HTML.This
+project will be able to take test on each of the above fields and then give score accordingly.
+And it will run in VPN/VPS Network.
+
+EDUCATION
+
+B.Tech in Computer Science
+UPTU  -  Mathura, Uttar Pradesh
+2007 to 2011
+
+SKILLS
+
+Core java,J2EE, Servlets, Jsp, Struts2.x, Html, java Scripts, css, mysql, oracle 10g
+
+

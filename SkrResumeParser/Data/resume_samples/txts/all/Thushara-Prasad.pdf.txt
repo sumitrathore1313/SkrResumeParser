@@ -1,0 +1,88 @@
+<ba>
+Thushara Prasad
+
+Android Developer
+
+Edison, NJ - Email me on Indeed: indeed.com/r/Thushara-Prasad/d17216f1d9cef582
+<su>
+Created user-friendly, aesthetically pleasing and fully functional applications for Android mobiles
+Known for writing efficient, maintainable and reusable codes.
+Proficient in object-oriented design, data structures, problem solving, complexity analysis, and debugging
+Conceived, developed and implemented one informative newspaper app in more than 10 languages https://
+play.google.com/store/apps/details?id=com.tamilnewspapers.india
+Expert in the interaction between various devices and different versions of Android
+Regarded as a self-motivated and organized team player
+
+Skills Summary
+Willing to relocate to: New York, NY
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Entiresoft Technologies - May 2014 to March 2015
+
+Project 1: News aggregator app.
+Anchored the mobile development team for this reputed software company. Worked with an efficient group of
+developers to create a Newspaper app, which mobilized multiple newspapers in a single touch .This application
+consists  of  many  major  daily  newspapers  from  various  Indian  regional  languages  as  well  as  few  foreign
+languages. Based on language all newspapers are listed on a side menu so that users can easily select and
+read on a single touch.
+
+Tasks and responsibilities
+• Conceptualized, designed, developed and deployed mobile applications.
+• Developed using Eclipe IDE
+• Researched application acceptance and solicited feedback from users to boost adoption rates
+• Wrote technical specifications and maintained all reports pertaining to application development process
+• Communicated effectively with stakeholders to manage expectations
+• Tested the application on various mobile devices including tablets and android phones.
+• Designed applications for all types of screen sizes and orientations.
+• Integrated google play services.
+
+Project 2: Film review application
+This application was built on IOS platform and contains all the updated film news and reviews. It also consists
+an option for users to select different categories of information related to films.
+
+Tasks and responsibilities
+•  This  application  is  iPhone  compatible,  and  was  designed  and  implemented  using  iPhone  SDK,  X-Code,
+Objective-C and Interface Builder.
+• Integrated json parsing techniques and other objective c methods.
+• Excelled in application concept development and wire framing using xCode's Storyboard
+• Coordinate with designers and other developers to complete projects.
+
+Android Developer
+PortLeaf Technologies - May 2012 to April 2014
+
+Responsibilities
+• Assist team in application Design and Analysis.
+• Wrote technical specifications and maintained all reports pertaining to application development process
+• Communicated effectively with stakeholders to manage expectations
+• Tested the application on various mobile devices including tablets and android phones.
+<ed>
+EDUCATION
+
+Bachelor of Technology in Computer Science
+University of Kerala
+<sk>
+SKILLS
+
+Android (2 years), Android SDK (Less than 1 year), CSS (Less than 1 year), Eclipse (Less than 1 year), IOS
+(Less than 1 year)
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.tamilnewspapers.india
+<sk>
+ADDITIONAL INFORMATION
+
+OPERATING SYSTEMS
+iOS, Mac OS X, Android SDK, Windows.
+TOOLS AND TECHNOLOGIES
+iOS SDK, Interface Builder, Android SDK, Eclipse, XML, HTML, CSS.Android Studio.
+
+LANGUAGES
+
+Soft Skills
+Communications, teamwork, organization, sense of urgency, leadership, fiscal responsibility
+
+

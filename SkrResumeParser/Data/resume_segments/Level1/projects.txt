@@ -1,0 +1,118 @@
+ADDITIONAL INFORMATION 
+Technologies Perl 
+Team Product Creation Tool PCT 
+Role Developing and Testing 
+Description 
+The binary compatibility analysis tool will check two releases of software components of Symbian OS and report if there is any break which is required to maintain the software components so that the third party application work properly 
+The script extracts the library symbols and its ordinals and report if any change appears when compared with new releases of the library 
+OpenVPN LoadTest Software July 2006 Sept 2007 
+Client OOMA US 
+Employer Wipro Technologies Pvt 
+Ltd 
+Bangalore 
+Environment C Posix Threads OpenVPN software Linux 
+Role requirement gathering designing developing software system testing 
+Description 
+Open VPN loadtest software application is designed to load Open VPN software and asses its capabilities in terms of client connections 
+Measure the performance of the client connections with respect to stability loss of packets over communication channel latency per client when load on server is high and band width for the clients 
+The Open VPN tunnel allows secure connection between clients and server using SSL 
+The requirement was to analyze Open VPN software design application to load the Open VPN server with as much clients as possible from single machine till system can t handle and measure the client server communication performance parameters like latency throughput and packet loss 
+Multi Sensor data Fusion software for AKASH SAM System 
+Jan 2005 Jun 2006 
+Employer DRDO Bangalore 
+Environment Lynx RTOS C VME Backplane CommunicationRole Developer and integration with other sub systems 
+Description 
+Multi Sensor data fusion software is the master software on the Battery Command Center BCC controlling the AKASH Surface to Air Missiles where in the information given to commander sitting at the console should be able to see and take decision based on the real 
+ threats of the targets 
+The target reports are coming from two sensors viz 
+Battery Level Radar BLR Fire control radar and Battery Surveillance Radar BSR which need to be fused and presented to commander as one target in consolidated complete air picture 
+The fusion process is combination of correlation and association process 
+The data seen at BCC should also be sent to a master GCC using serial communication in real time 
+Group Command Center GCC simulator for BCC 
+Sept 2004 Jan 2005 
+Employer DRDO Bangalore 
+Environment C C Window XP 
+Role Designer Developer and integration with the system 
+Description 
+BCC is single system with fire control radar of some Km range and some degree in azimuth coverage 
+The 
+GCC takes four to eight such BCC s and give a more complete and better air picture over a wider area 
+Thus integration testing with such system for proper development of BCC MSF software is needed 
+So simulator is needed for real time communication with BCC to show the correctness of BCC software by both online display and offline logged data after extraction and analysis 
+A simulator was developed which runs two parallel threads for input and output 
+Queues were maintained maintaining I P and O P buffers 
+The communication incorporates full handshake through serial portsPROJECTS 
+Popular Movies githubcom dhermanu PopularMoviesI May 2016 
+Developed a responsive Android mobile application that displays popular and top rated movies retrieved from TheMovieDB API 
+Also the application saves and displays favorite movies Java Retrofit Picasso 
+Built the UI for both tablet and phone XML 
+M s Code githubcom dhermanu mscode app August 2015 
+Designed and developed an Android mobile application that encodes and decodes Morse s code into texts light or sound Java 
+Responsible for the UI UX design and frontend of the Android application XML 
+Telecom Customer Web Application March 2015 
+Developed a dynamic web application using Spring Framework that allows customers to have their own billing accounts 
+Responsible for testing the application using JUnit Java 
+Applied different software design patterns such as the Singleton Model View Control and Strategy pattern 
+Projects 
+ERP system which consists of 
+Local management system 
+ADSL customer management Internal web application to manage ISP customers reducing the paper work and automating the ADSL order process 
+Reporting system 
+Ticketing system 
+Users and permissions management system role and user level 
+Websites http wwwrunnetsy http standsworldcom http hseworldnet http wwwconsultationteamnet http tareksaadacom http fallouhnet http latakiaccorWeb application to manage GSM modem and other web services 
+PROJECTweetBloCreated a Java Enterprise Web Application that allows users to maintain the group blog 
+Established system had a public front page showing the most recent blog in reverse chronological order along with the author and timestamp of each blog 
+Developed and maintained user interface for the application based on product requirements 
+Enabled the users to create an account providing their username and password later allowing those users to create a new blog if logged in successfully 
+Used the Model 2 MVC architecture combining the Servlets JSPs and Maven dependencieMedical Record System Software MRSS Built an interactive real time web application from scratch to store and manage patient s information online 
+Designed developed and administered login and registration forms and created user interface layout using standard HTML CSS practices 
+Executed functional testing using Selenium IDE and modified unit tests using JUnit frameworEnsuring Distributed Accountability for Data Sharing in CloudSuccessfully offered security to data which data owner uploaded on clouDeveloped and maintained front end functionality of the system 
+Experienced writing test plans developing test scenarios along with test cases and performed manual testing of the system 
+Published a research paper in the International Journal of Engineering Research and Technology 
+URL http wwwijertorg view pdf 7938 data sharing ensure accountability distribution in the cloMetrics is Agile SCRUM XP and other Agile MethodMentored the team of four people 
+Analyzed and demonstrated different concepts of agile methodologieWeather Application 
+Developed a weather application using an Open Source API which gives current weather data for any location on Earth including over 200 000 cities 
+ADDITIONAL INFORMATION 
+SUMMARY OF QUALIFICATIONS 
+Databases and Client Server Applications Expertise MySQL MS SQL and Access 
+Advanced education in Software and Hardware 
+Excellent communication analytical interpersonal and presentation skills expert at managing multiple projects simultaneously 
+Designed front end back end and middle tier applications 
+Extensive experience working with survey packages SPSS 
+In depth knowledge of Rational Unified Process RUP risk engineering data modeling and mapping and design using UML and Visio 
+Strong knowledge in the Internet Technology and E commerce 
+Knowledge in programming HTML Java JSP C C Visual BasicNet JavaScript PHP ASPNet ASP and CSS 
+ANALYTICAL ORGANIZATION RESEARCResearched compiled prepared and presented reports business requirements and other relevant material to groups and individuals 
+Interfaced with business users to prepare and update Business Process Requirements BPR and Software 
+System Requirements SSR 
+Created test cases and test scripts 
+Conducted System design and development required for business process 
+Assimilated and analyzed complex issues and concepts in order to dissect simplify and resolve problems both in hands on and simulated scenarios 
+Applied change requests versions and addendums 
+COMMUNICATION PRESENTATION PUBLIC RELATIONCommunicated with all levels of authority on matters related to technical and non technical issues through the effective use of interpersonal written and verbal communication skills 
+Prepared and delivered numerous speeches in front of large number of delegates 
+Organized and coordinated social events and club activities between other clubs while in the position of Lead 
+Mentor 
+Communicated verbally and in writing with different departments 
+TECHNICAL CAPABILITIES 
+Databases and Data Modeling 
+Developed back end databases for web applications MS SQL 
+Modeled project prioritization data and helped to develop databaseDeveloped tools to automate the storage and presentation of environmental data as well as to provide for data entry and reporting 
+These were client server applications of PC desktop tools that used data from remote servers Microsoft Access Excel MS SQL on Windows 
+Managed data including data entry oversight statement of work preparation data modeling report development 
+Web Development 
+Assorted web development projects mostly involving PHP access to a MySQL database with considerable 
+HTML design and JavaScript enhancement 
+Developed an e commerce site both back end administration pages and customer interfaces using ASPNet 
+MS SQL and VBNet 
+Applied graphic design principles to produce innovative print documents and Websites Macromedia 
+Freehand Fireworks and Dreamweaver 
+Designed layouts for web interfaces using a combination of web technologies including Macromedia Flash 
+Programming 
+Object Oriented Programming Data Abstraction and Problem Solving with Java 
+Distinguished theoretical and practical knowledge of Object Oriented methodologies Object Oriented 
+Analysis and Design UML Use Case driven development the Unified Software Development Process and the full Software Development Life Cycle SDLC 
+Created system architecture and design using the UML Analysis Model and Design Model 
+Developed business applications with data entry operations and other design perspectives using VBNet 
+

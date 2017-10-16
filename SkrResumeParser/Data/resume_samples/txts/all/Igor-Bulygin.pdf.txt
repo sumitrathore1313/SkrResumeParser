@@ -1,0 +1,134 @@
+<ba>
+Igor Bulygin
+
+Saint Petersburg, FL - Email me on Indeed: indeed.com/r/Igor-Bulygin/774b47ca3a8db262
+</ba>
+<su>
+Willing to relocate: Anywhere
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+A26  -  Санкт-Петербург - September 2007 to Present
+Developement of frontend and backend of various websites and services. Developement of my own projects.
+I created my own Content management framework.
+
+Web Developer
+UMI Studio  -  Санкт-Петербург - March 2006 to September 2007
+I participated in the development of the CMS UMI.CMS (http://www.umi-cms.ru/)
+
+Web Developer
+Peterlink Web Studio  -  Санкт-Петербург - September 2002 to February 2006
+Creating of backend and frontend of various websites such as http://rusmuseum.ru/ http://www.chupachups.ru/
+http://www.nispb.ru/ http://www.spbopen.ru/
+
+and much more
+</we>
+<ed>
+EDUCATION
+
+Engineer's degree in Microelectronics and semi-conductor devices
+Saint Petersburg Electrotechnical University "LETI"  -  Санкт-Петербург
+1992 to 1998
+</ed>
+<sk>
+SKILLS
+
+php (10+ years), html (10+ years), html5 (5 years), mysql (10+ years), css3 (6 years), javascript (10+ years),
+jquery (4 years), NodeJS (1 year), ReactJS (1 year)
+</sk>
+<ba>
+LINKS
+
+http://github.com/boehpyk
+
+http://muzbar.ru/
+
+http://samolit.com
+</ba>
+<ex>
+PUBLICATIONS
+
+Musical staff sales service MuzBar.ru
+http://muzbar.ru/
+January 2010
+
+It's a service that allows to users to advertise the sale of some musical instrument/staff. Buyer can search on
+the base of advertisements using various parameters.
+
+Self publishing platform SamoLit.com
+http://samolit.com/
+May 2012
+I created backend and frontend for self publishing platform, that allows users to publish their e-books and one-
+click convert them into popular e-book formats.
+
+News portal ict-online.ru
+http://ict-online,ru/
+March 2009
+News portal dedicated to IT life in whole Russia. Internet, cellular, integration, IT-marketing etc.
+PHP, MySQL, Javascript, JQuery, Bootstrap
+
+Site dedicated to F.M. Dostoevsky
+http://fedordostoevsky.ru/
+April 2011
+Site dedicated to F.M. Dostoevsky. Bio, masterpieces, surroundings etc.
+I created front-end and backend. Site is controlled by its own CMS.
+PHP, MySQL, Javascript, JQuery, adaptive layout
+
+Site of restaurants in Saint-Petersburg
+http://mindalcafe.ru/
+July 2014
+Site  of  several  restaurants  in  Saint-Petersburg.  Fronend  programming,  own  backend  with  tables  ordering
+system. Adaptive layout.
+PHP, MySQL, JQuery, Bootstrap
+
+Site of Vyacheslav Ivanov Research institute in Rome
+http://www.v-ivanov.it/
+February 2015
+Site of Vyacheslav Ivanov Research institute in Rome. CSS layout, creating of its own content management
+system.
+PHP, MySQL, CSS, JQuery
+
+Site of Dostoevsky Day in Saint-Petersburg.
+http://dostoevskyday.ru/
+June 2015
+Site dedicated to "Dostoevsky Day" celebration in Saint-Petersburg.
+I created frontend, backend with user interaction. Responsive layout.
+PHP, MySQL, JQuery, CSS, Bootstrap
+
+Wooden houses contruction company "Veps's House"
+http://vepdom.ru/
+May 2016
+Wooden houses contruction company "Veps's House". Responsive CSS layout, creating of its own content
+management system.
+PHP, MySQL, CSS3, JQuery, Bootstrap
+
+Site of dental clinic "Nikolsky"
+http://nikolstom.ru/
+
+February 2015
+Site of dental clinic "Nikolsky". Responsive CSS layout, creating of its own content management system.
+PHP, MySQL, CSS3, JQuery, Bootstrap
+
+National Sholokhov Museum-Reserve
+http://eng.sholokhov.ru/
+August 2013
+Site of National Sholokhov Museum-Reserve.
+I created front-end and backend. Site is controlled by its own CMS.
+PHP, MySQL, Javascript, JQuery.
+
+Site of landscape design company "Kaskad"
+https://spbkaskad.ru/
+September 2014
+Site of landscape design company "Kaskad". CSS layout, creating of its own content management system.
+PHP, MySQL, CSS
+
+Site of business center "Owental History"
+http://www.owentalhistory.ru/
+May 2014
+Site  of  business  center  "Owental  History".  Design,  responsive  CSS  layout,  creating  of  its  own  content
+management system.
+PHP, MySQL, CSS3, JQuery, Bootstrap
+</ex>
+

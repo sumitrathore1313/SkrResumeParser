@@ -1,0 +1,76 @@
+Vaibhav Menkudale
+
+Assistant Professor - SSIEMS
+
+Pune, Maharashtra - Email me on Indeed: indeed.com/r/Vaibhav-Menkudale/db2569966747897b
+
+To work with a company, which appreciates innovation so that I can enhance my knowledge and skills to give
+my best for the growth of the company.
+
+WORK EXPERIENCE
+
+Assistant Professor
+SSIEMS  -  Parbhani, Maharashtra - August 2014 to Present
+
+Parbhani (Subjects- Web technology, COA, Compiler design, JavaScript, C#, Cryptography & N/W security)
+from 25th Aug. 2014 to till date.
+Project Details:
+
+(BE Final Year Project)
+
+Title: Protection of Database Security via Collaborative Inference Detection
+
+Description:
+
+We  developed  an  inference  violation  detection  system  to  protect  sensitive  data  content.  Based  on  data
+dependency, database schema and semantic knowledge. We constructed a semantic inference model (SIM)
+that represents the possible inference channels from any attribute to the pre-assigned sensitive attributes. The
+SIM is then instantiated to a semantic inference graph (SIG) for query-time inference violation detection.
+
+(ME Final Year Project)
+
+Title: Profile Creation & Privacy Protection in Personalized Web Search.
+
+Description:
+Personalized  web  search  (PWS)  has  demonstrated  its  effectiveness  in  improving  the  quality  of  various
+search services on the Internet. The privacy protection in PWS applications that model user preferences as
+hierarchical user profiles. Proposed a PWS framework called UPS that can adaptively generalize profiles by
+queries while respecting user-specified privacy requirements.
+
+(ME First Year Mini Project)
+
+Title: On the Performance of the Current MANET Routing Protocols for VoIP, HTTP, and FTP Applications.
+
+Description:
+Our project evaluates the QoS and energy efficiency of three active routing protocols: (i) OLSRv2, a successor
+to OLSR, (ii) DYMO, a successor to both DSR and AODV, and (iii) MP-OLSR multipath extension toOLSRv2
+for mobile nodes.
+
+Assistant Professor
+SSIEMS  -  Parbhani, Maharashtra - August 2014 to February 2016
+
+1] Vaibhav Menkudale and B. M. Patil, "Profile creation & privacy protection in personalized web search",
+International Journal of Innovative Research in Science, Engineering and Technology (IJIRSET), vol. 5, issue
+8, pp. 1111-1115, 2016.
+
+EDUCATION
+
+Master of Computer Science in Computer Science and Information Technology
+College of Engineering  -  Ambajogai, Maharashtra
+
+Bachelor of Computer in Engineering
+Information Technology / Mumbai University  -  Mumbai, Maharashtra
+
+HSC
+DSM College Parbhani/ Maharashtra Board  -  Parbhani, Maharashtra
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+
+✓ Languages: Java, Servlet & JSP, C#.net, HTML, JavaScript, CSS, PERL, Regex, AngularJS.
+
+✓ Database: SQL, MS access.
+✓ Other: Ns 2 tool, VMware.
+
+

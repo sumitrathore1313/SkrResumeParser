@@ -1,0 +1,71 @@
+ADDITIONAL INFORMATION
+
+Technologies: Perl
+Team: Product Creation Tool (PCT)
+Role: Developing and Testing
+Description:
+The binary compatibility analysis tool will check two releases of software components of Symbian OS, and
+report if there is any break, which is required to maintain the software components, so that the third party
+application work properly. The script extracts the library symbols and its ordinals, and report if any change
+appears when compared with new releases of the library.
+
+OpenVPN LoadTest Software July 2006 - Sept 2007
+Client: OOMA, US
+Employer: Wipro Technologies, Pvt. Ltd. Bangalore
+Environment: C, Posix Threads, OpenVPN software, Linux
+Role: requirement gathering, designing, developing software & system testing
+Description:
+Open VPN loadtest software application is designed to load Open VPN software and asses its capabilities
+in terms of client connections. Measure the performance of the client connections with respect to stability,
+loss of packets over communication channel, latency per client when load on server is high and band width
+for the clients. The Open VPN tunnel allows secure connection between clients and server using SSL. The
+requirement was to analyze Open VPN software, design application to load the Open VPN server with as much
+clients as possible from single machine till system can't handle and measure the client-server communication
+performance parameters like latency, throughput and packet loss.
+
+Multi Sensor data Fusion software for AKASH SAM System. Jan 2005 - Jun 2006
+Employer: DRDO , Bangalore
+Environment: Lynx RTOS, C & VME Backplane Communication
+
+Role: Developer and integration with other sub systems
+Description:
+Multi Sensor data fusion software is the master software on the Battery Command Center (BCC) controlling
+the AKASH Surface to Air Missiles, where in the information given to commander sitting at the console, should
+be able to see and take decision based on the real time threats of the targets. The target reports are coming
+from two sensors viz. Battery Level Radar (BLR- Fire control radar) and Battery Surveillance Radar (BSR)
+which need to be fused and presented to commander as one target in consolidated complete air picture. The
+fusion process is combination of correlation and association process. The data seen at BCC should also be
+sent to a master GCC using serial communication in real time.
+
+Group Command Center (GCC) simulator for BCC. Sept 2004 - Jan 2005
+Employer: DRDO , Bangalore
+Environment: C, C++, Window XP
+Role Designer, Developer and integration with the system.
+Description:
+BCC is single system with fire control radar of some Km range and some degree in azimuth coverage. The
+GCC takes four to eight such BCC's and give a more complete and better air picture over a wider area. Thus
+integration & testing with such system for proper development of BCC MSF software is needed. So, simulator
+is needed for real time communication with BCC to show the correctness of BCC software by both online
+display and offline-logged data after extraction and analysis. A simulator was developed which runs two parallel
+threads for input and output. Queues were maintained maintaining I/P and O/P buffers. The communication
+incorporates full handshake through serial ports.
+
+PROJECTS
+
+Popular Movies - github.com/dhermanu/PopularMoviesI May 2016
+• Developed a responsive Android mobile application that displays popular and top rated movies retrieved
+from TheMovieDB API. Also the application saves and displays favorite movies (Java, Retrofit, Picasso)
+• Built the UI for both tablet and phone (XML)
+
+M's Code - github.com/dhermanu/mscode-app August 2015
+• Designed and developed an Android mobile application that encodes and decodes Morse's code into texts,
+light, or sound (Java)
+• Responsible for the UI/UX design and frontend of the Android application (XML)
+
+Telecom Customer Web Application March 2015
+• Developed a dynamic web application using Spring Framework that allows customers to have their own
+billing accounts.
+• Responsible for testing the application using JUnit (Java)
+• Applied different software design patterns such as the Singleton, Model View Control, and Strategy pattern
+
+

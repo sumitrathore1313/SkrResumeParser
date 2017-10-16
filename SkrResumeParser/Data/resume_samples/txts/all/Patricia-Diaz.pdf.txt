@@ -1,0 +1,52 @@
+<ba>
+Patricia Diaz
+
+Front End Web Developer
+
+Coral Gables, FL - Email me on Indeed: indeed.com/r/Patricia-Diaz/60cd6a7663e8f68e
+</ba>
+<su>
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+The JLS Agency  -  Coral Gables, FL - May 2013 to May 2015
+
+- Created multiple websites for clients using Wordpress.
+- Acquired an in-depth familiarization with Twitter Bootstrap.
+- Specialized in customization of Wordpress user-side.
+- Created several e-mail blasts (design & development).
+- Maintained and updated over 30+ hotel websites.
+- Set up client training and tutorials for Wordpress.
+
+Part Time Sales Associate
+Apple Inc.  -  Miami, FL - October 2009 to May 2013
+
+Responsibilities
+- Acquired skills in addressing large groups for workshops.
+- Assisted customers with technical questions and learning.
+- Helped procure hardware or software solutions.
+- Accustomed to fast-paced Apple retail environment.
+- Developed base knowledge of all the products in the store.
+- Established good relationships with both peers and managers.
+</we>
+<ed>
+EDUCATION
+
+BA in Interactive Media Design
+Miami International University of Art and Design  -  Miami, FL
+2007 to 2012
+</ed>
+<sk>
+SKILLS
+
+HTML5, CSS3, PHP, Javascript, Wordpress, Twitter Bootstrap
+</sk>
+<ba>
+LINKS
+
+http://www.pdiazdesign.com
+</ba>
+

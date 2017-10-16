@@ -1,0 +1,74 @@
+<ba>
+Saleha Rani
+
+Web Developer
+
+- Email me on Indeed: indeed.com/r/Saleha-Rani/95f22b27c79c15b7
+</ba>
+<su>
+➢ Good problem solving ability and analytic skill to solve the problem efficiently.
+➢ Good team player and have excellent interaction skill to coordinate within a team.
+➢ Have expertise in working with various operating systems.
+➢ Good deliver output in less time without losing efficiency.
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+1socialmarketing.com - April 2009 to July 2010
+
+Responsibilities:
+• Design and Development of Websites and Web Applications in WAMP and LAMP Technologies.
+• Development of CMS of our own under internal development project of company to provide a excellent and
+enhanced CMS for our clients.
+• Hosting and Configuring Websites and Blogs. Mainly worked for Barrieweb.com.
+• Maintenance and support to the existing websites and development of some new projects as well.
+Projects:
+
+Web Developer
+PotionInfosystems Pvt Ltd  -  Noida, Uttar Pradesh - January 2008 to March 2009
+
+Responsibilities:
+•  Conformance  of  the  standard  Software  Development  Life  Cycle  (SDLC)  practices  and  incorporation  in
+Requirements Analysis.
+• Website designing using PHP, HTML, CSS, MYSQL.
+• Use of Open Source Joomla 1.5 Technology with use of custom components and modules.
+• Template design for whole site in HTML and CSS using Dreamweaver.
+• Use of MySQL relational database technology for data storage and management.
+• Hosting websites on Apache web server on Linux platform as well as Windows platform.
+• Integration and development of necessary functionality on top of the above components with Joomla of proper
+exception and error handling.
+</we>
+<ed>
+EDUCATION
+
+MBA in Advanced Computing
+GGSIP University  -  Noida, Uttar Pradesh
+2012
+
+P.G in System and Database Administration
+Center for Development of Advanced Computing  -  Noida, Uttar Pradesh
+2007
+
+B.E
+Gyan Vihar School of Engineering & Technology, Rajasthan University
+2006
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+➢ Technical Skills:
+• Operating System: Windows Server 2003, Red Hat Linux
+• Databases: My SQL
+• Programming Languages: C, Java, Visual Basic 6.0
+• Scripting Languages: PHP 5.2.4, JavaScript and Smarty Template
+• Markup Languages: HTML and CSS
+• Web Technologies: X-cart, Zen Cart, Virtue Mart, Pay Pal, Wordpress
+• Web Servers: Apache Xampp and Wamp
+• Development Tools: Dreamweaver CS3
+• CMS: Joomla 1.5 and Magento.
+• Others: Networking (CCNA), Basic Photo editing, Photoshop 7.0 and GIMP
+
+Academia
+</sk>
+

@@ -1,0 +1,103 @@
+Shivani Sharma
+
+Software Developer - Infield Infotech Pvt. Ltd
+
+Delhi, Delhi - Email me on Indeed: indeed.com/r/Shivani-Sharma/756d28b0e88c8104
+
+To be a part of an organization where I can get a chance to learn new things, which helps in gaining my career
+growth and be an asset to the organization where I work in.
+
+WORK EXPERIENCE
+
+Software Developer
+Infield Infotech Pvt. Ltd - April 2016 to Present
+
+Web Designer
+Archetron Web Pvt. Ltd  -  Delhi, Delhi - July 2015 to December 2015
+
+Worked on Projects:
+1) Project URL: product.smartinfield.com
+Website URL: www.smartinfield.com
+Description: This is a Software based product used for providing field force services to the client. Field Force
+Automation, helps companies connected with their field force through their Mobiles, collect data, communicate,
+and manage their end-to-end lifecycle. Some of our clients are Fitbit, Hindware, Century, Acer, Airtel, Usha,
+Lenskart, Whirlpool, Eureka Forbes, Lenovo, Bajaj etc.
+Working Areas: AngularJs, NodeJS, MongoDb, HTML5, CSS3, Bootstrap, Javascript
+
+2) Project URL: www.delhiagraroadlines.com
+3) Project URL: www.archetronweb.com/portfolio/abemoda
+4) Project URL: www.archetronweb.com/portfolio/royal
+5) Project URL: www.archetronweb.com/portfolio/terry-shoes
+
+CERTIFICATE COURSE:
+• Core PHP from Innobuzz Knowledge Solutions Pvt. Ltd., Delhi.
+• Basic Computer Course (Ms-Office) from Ramakrishna Mission, New Delhi.
+WEB APPLICATION PROJECT DETAILS:
+1) Project Title: Online Vehicle Workshop
+Description: This project E-Workshop is an online application. I have created a website regarding the service
+appointment, sell /Buy second hand vehicles, Spare parts, etc. E-Workshop application is useful for automobile
+workshop customers and its employees.
+Working Areas: PHP 5.2, MySql, Windows-7, Xampp Apache Server
+Team Size: 1
+
+6) Project Title: Online Report Management System of a Diagnostic Lab
+Description: This is an online application developed using Php language. I have created a website regarding
+the reports of the clients that are put on the website along with allowable references ranges in a printable
+format. In this web application, the client is supposed to register on the website. A client when wants to get
+some test done, s/he login to their account and select the test to be done. After that the client will make payment
+online and the receipt of the invoice will be given to client. Finally, the client has to enter that receipt number
+to see the report.
+Working Areas: PHP 5.2, MySql, Windows-7, Xampp Apache Server
+
+Team Size: 2
+
+7) Project Title: Online Shopping System
+Description: The main goal of this project was to create a online shopping, which allows customers to shop and
+purchase the products online. Moreover, the project is also designed in such a way it lets managers manage
+the products information online. The online store sells many products. Customers can orders products, and
+they will be contacted to further process the orders. Admin can add more categories and sub categories. Admin
+can view products add new products modify existing products.
+Working Areas: PHP 5.2, MySql, Windows-7, Xampp Apache Server
+Team Size: 1
+
+EDUCATION
+
+MCA in Design, Software Engineering
+School of Professional Development  -  Delhi, Delhi
+2016
+
+BCA
+School of Professional Development  -  Delhi, Delhi
+2014
+
+C.B.S.E. in Mathematics, Physics, Chemistry, English, Informatics
+N.P. Bengali Girls Sr. Sec. School  -  New Delhi, Delhi
+2011
+
+C.B.S.E. in English
+N.P.Bengali Girls Sr. Sec. School  -  New Delhi, Delhi
+2009
+
+Board/ University
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+• Coding Languages: NodeJs, Core PHP
+• Web Technologies: HTML5, CSS3, JavaScript ( jQuery, Bootstrap, Angularjs)
+• CMS: Wordpress
+• Database: MongoDb, MySQL, MS-Access.
+• Packages known: MS-Office (Word, Excel & PowerPoint)
+• Operating System: Linux, Windows XP, Windows 7 and above
+• Server: Xampp, Wamp
+• Designing Software: Adobe Photoshop CC, Adobe Illustrator
+• Editors: Dreamviewer, Sublime, WebStorm
+• Miscellaneous: GIT (Versioning Management System)
+
+PERSONAL SKILLS:
+• Willingness to do hard-work with dedication
+• Cooperative and able to do team work
+• Adjustable and adaptable in any environment
+• Possess good communication skills
+
+

@@ -1,0 +1,211 @@
+<ba>
+Gopal (770) […] Ext: 127,
+gopal.android@outlook.com
+
+Android Developer - Idish Network
+
+Dallas, TX - Email me on Indeed: indeed.com/r/7ead9c8ef0c7d465
+<su>
+• Over 7 years of experience as Software Developer with 5 years on Designing and Development of Android
+Applications for smartphone and tablet and around 2 years on Java based applications.
+• Areas of interest include mobile development and databases. Very good understanding of Android Back-
+end and UI guidelines.
+• Proficient with common Android framework API's.
+• Experience in developing Android application using SQLite, Java, MobileJQuery, Eclipse IDE, Android Studio,
+Android SDK and ADT plug in.
+• Java Programming experience using various mobile development environments including Android SDK.
+• Experienced in interfacing mobile applications with back-end server using web-services based on Java.
+•  Focused  on  background  processing  with  AsyncTasks  and  Services,  IPC,  AIDL,  Storage  and  retrieval  of
+structured data, fragments and broadcast receivers.
+• Extensively worked on memory leaks, push notifications, content providers, multiple screen support, data
+offline usage, accounts and sync on Android.
+• Expertise in building source code, troubleshooting build/configuration/integration issues, communicating and
+resolving source code related issues between various teams of the project.
+•  Experience  in  Architecture  Design,  Development  and  Implementation,  Troubleshooting  and  Debugging,
+Testing of Software Applications.
+• Extensive experience in dealing with both REST as well as SOAP based web services.
+• Experience in porting applications to multiple Android OS versions and multiple form factor based devices
+like Phones and Tablets.
+• In-depth knowledge in database development using SQLite, SQL Server, MySQL andCouchDB.
+• Experience with using IDEs Eclipse, Android Studio and Visual Studio.
+• Strong experience with Object Oriented design and methodologies using Visual Paradigm, Visio and UML
+Studio.
+• Experience in Atlassian tools such as JIRA and Confluence to manage and keep track on progress of project.
+• Good understanding with Operating Systems like UNIX, Windows, and Mac OS.
+• Skilled with open source version control tools such as SVN and GIT for version tracking and deployment.
+• Working knowledge of graphic design, audio and video features and handling various kinds of media using
+Photoshop.
+•  Test  driven  development  using  appuim  tool  and  also  java  and  android  instrumentation  frameworks.
+Roboelectric and Robotuim.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Idish Network  -  Dallas, TX - April 2015 to Present
+
+Description:Dish Network is an American direct-broadcast satellite service provider. The company provides
+satellite television, satellite internet, audio programming, and interactive television services to commercial and
+residential customers in the United States.
+
+Responsibilities:
+• Documented the requirements and there by analyzed and involved in design, code.
+• Worked in all phases of the project including design, development, testing and deployment
+• Used SQLite to save user details, their plans and eligible devices for upgrade.
+• Used Android content providers for implementing features like sending E-mails, SMS, etc. from the app and
+designed GUIs for these applications.
+• Analysis of mobile application code for re-engineering.
+• Responsible for design of user interface using various custom layouts, buttons, dialog boxes, alert boxes
+and different form of widgets.
+• Inserted suitable code to capture the various button and text field events and implemented the desired action
+for each of the widgets.
+•  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+• Used services, Async tasks and Alert Notification API to implement event reminder feature into the mobile
+app.
+• Used sync adapters to load changed data from server and to send modified data to server from app.
+• Involved in working with Location Manager and Restful Web service with JSON.
+• Used Node.js to install phone Gap and used HTML5, CSS, Java script to develop hybrid apps.
+• Used PhoneGap APIs like Notification, Camera, Media, Vibration to develop hybrid Apps.
+• Used PhoneGap Device Object to access information about a device and application running a phone gap
+application.
+• Implemented unique design for portrait and landscape mode.
+• Developing EJB classes and also corresponding session bean classes.
+• Configured JMS and Data sources on web logic 10.1 Server and provided appropriate JNDI names for them.
+• Developed complex queries, PL/SQL and stored procedures for data retrieval & updating.
+• Used IBM Rational Clear case for Version Controlling.
+• Performed Unit Testing and interacted with QA for testing.
+• Worked on signature capture device Ingenicoisc6580, developed new icy forms for sig cap devices.
+
+Environment: Java, Android SDK, SQLite, RESTful, Google Maps API, PL/SQL, JSON, WebLogic, HTML5,
+CSS, PhoneGap.
+
+Android Developer
+Barclays  -  Dallas, TX - January 2014 to March 2015
+
+Description:Barclays  is  a  British  multinational  banking  and  financial  services  company  headquartered  in
+London. It is a universal bank with operations in retail, wholesale and investment banking, as well as wealth
+management, mortgage lending and credit cards.
+
+Responsibilities:
+• Analyzed the project features, designed the application architecture and database, and
+Implemented server back end.
+• Designed UI including themes, icons, colors, and backgrounds using Photoshop.
+• Extensively utilized AsyncTask, Thread, handler, services to provide smooth UI experience.
+• Implemented auto-sync feature to allow users use the app completely offline and to synchronize the app data
+with the cloud when the network becomes available.
+• Participated in designing the system architecture
+• Participated in constructing the specification documents including Unified Modeling Language
+• Participated in constructing automated unit testing, performing usability testing on UI, ad hoc Testing based
+on test and fault models
+
+• Integrated Support Library to make the app compatible from API 1.6 up to 4.0.4
+• Integrated with web service and mobile device to share information with each other
+• Integrated with different Android versions
+• Debugged and tested the application on different android devices.
+
+Environment: Android SDK, Android DDMS, Eclipse, Java, C#, web service, HTML, XML, Windows and MS
+SQL server.
+
+Android Developer
+Barnes and Noble  -  Santa Clara, CA - September 2012 to November 2013
+
+Description:Barnes & Noble, Inc., is a Fortune 500 company, the largest retail bookseller in the United States,
+and  a  leading  retailer  of  content,  digital  media  and  educational  products  in  the  country.  Barnes  &  Noble
+operates mainly through its Barnes & Noble Booksellers chain of bookstores and the company's headquarters
+in Manhattan in New York City.
+
+Responsibilities:
+• Used Android SDK, Java to design UI with different layouts and widgets corresponding to various resolutions
+and different orientations
+• Developed user-friendly interface for the library of magazines
+•  Involved  in  creating  reusable  component  with  Fragment  for  different  resolution  devices  and  different
+orientation of Landscape and Portrait
+• Employed Threads and Handlers to implement different tasks for the application.
+• Used JSON to communicate between server and application using REST web services
+• Used AsyncTask to invoke web services in the background thread like downloading sample of a book
+• Implemented List Views and Arrayadapters to display the list of magazines, new releases etc.
+• Implemented OnItemClickListener for various books and magazines in the list
+• Used Services to implement different features in the application
+• Implemented Tab Listeners for various tabs of books and magazines
+• Implemented Scroll View to view entire content for different tabs of each magazine
+• Used SQLite to create database to store local data like Free Trial of a magazine or book
+
+Environment: Java, Android Studio, Android SDK, REST Web service, JSON, Android APIs, SQLite, Windows
+7, GIT
+
+Java/Android Developer
+Fidelity National Financials  -  Jacksonville, FL - February 2011 to August 2012
+
+Description:Fidelity National Financial, Inc., a Fortune 500 company, is the United States' largest provider of
+commercial and residential mortgage and diversified services.
+
+Responsibilities:
+• Involved in working with Android version of the application.
+• Followed Agile methodology for the application development.
+•  Experienced  in  managing  infrastructure  implementation,  deployments,  upgrades  and  maintenance  for
+designing, building, and supporting the environment.
+• Scheduled jobs and monitored them.
+• Extensively participated in user meetings to gather the requirements of the application
+• OO Concepts and UML were immensely used for modeling.
+• Developed the UI for the app using edit boxes, buttons, 9-patch images, time picker, date picker, dialog
+boxes, alert boxes and spinners using various layouts.
+
+• Worked on styles, colors, and fonts and using images for the entire application.
+• Context and Options menu were handled in a dynamic fashion to display counts for the menu items.
+• Worked with Android UI components such as Layouts, Menus and Action Bars.
+• Created new features to support application development in union with team.
+• Google API is used to integrate map feature into the application.
+• Experience in using REST API.
+• Implemented logic to store and retrieve data related to latest deals in a SQLite database
+• Worked as a team to support the app for different Android API levels.
+• Time constraint issues, exceptions and errors were effectively handled for the app.
+• Involved in unit testing with eclipse debugger and USBdebugging as well as in post-production support and
+change request process to fix the bugs.
+• Also, tested the app consistency on multiple screens and mobile devices
+
+Environment: Android SDK, HTML, JDK5.0, Eclipse, and Google Maps.
+
+Java Developer
+Mindtree ltd - August 2009 to December 2010
+
+Location:India
+
+Description:EPayment is online Bill Payment module for StarHub, a telecom service provider which allows its
+customers to pay bill. The customer can select various online payments mode such as enets, master, visa
+or amex.
+
+Responsibilities:
+• Involved in designing, developing and testing of the application
+• Designed, developed and documented the software design using UML
+• Developed servlet programs to transfer the control to other pages depending on the business logics
+• Wrote the required SQL queries and used JDBC to interact with the database.
+• Developed the front-end using HTML, XML, JSP, Servlets, JavaScript, interactive JSP pages.
+• Front end validations using Java script for HTML, extensive use of CSS.
+• Used AJAX to improve the performance of application.
+• Coded server side components using Eclipse 3.x.
+• Implemented Database interactions using JDBC with back-end Oracle 9i.
+• Written and executed Stored Procedures on the Back-End using SQL and PL/SQL.
+• Written Generic SQL queries for retrieving data from Database.
+• Used VSS for team application development & Version Control.
+• Exported packages and stored them for backup and recovery.
+
+Environment: Java, HTML, JSP, CSS, DHTML, Servlets, JavaScript, Oracle 8i, Jboss, Servlets
+<sk>
+ADDITIONAL INFORMATION
+
+Skill Set
+OS Windows 8/7/Vista/XP, Mac, Android, Ubuntu and Kali.
+Languages JAVA, C, C++, Objective-C,Cocoa, Ruby, JSON, JQuery and JavaScript
+Markup Language HTML/CSS, HTML5 and XML.
+Development Tools Android Studio, Eclipse-Luna, NetBeans, Xcode, MS Visual Studio, Aptana.
+Databases Mongo DB, SQLite, SQL, ORMLite, MS- Access.
+
+Frameworks  JDK,  Android  SDK,  Phone  gap,  Spring,  Live  Chat,  Urban  Airship,  Google
+Analytics,BackboneJS,Require JS.
+Virtual Software Genymotion, VMware workstation, Oracle Virtual box.
+Web Servers Tomcat 6.0, WAMP & Apache HTTP Server.
+Other Tools/Software Dreamweaver, Photoshop, Alice, 3Ds Max, Notepad++, MSOffice.
+
+

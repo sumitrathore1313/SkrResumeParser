@@ -1,0 +1,43 @@
+<ba>
+Yash Joshi
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Yash-Joshi/d6ed228d8d65c306
+<su>
+Looking for challenging opportunity to explore my strength and potential in a professional organization and
+meet the need of an organization.
+Willing to relocate: Anywhere
+<we>
+WORK EXPERIENCE
+
+Fresher
+<pr>
+Minor Project: Online Student Attendance System
+Team Size: 3 members
+Duration: 2 months
+Description: Online website based student attendance system capable of taking student's attendance of a
+particular class, branch and semester. Project has 2 user domains faculty domain and student domain.
+
+Industrial Training:
+Company/ Organization: Ducat
+Project Name: Warehouse
+Technology Used: Salesforce
+<ed>
+EDUCATION
+
+CBSE
+Senior Secondary
+2010
+
+B.E in Computer Science in Computer Science
+Swami Vivekanand College Of Engineering
+<sk>
+SKILLS
+
+J2SE (Less than 1 year), Salesforce (Less than 1 year), SQL (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+SKILLS:
+Programming Languages: C, J2SE, SQL, Salesforce
+
+

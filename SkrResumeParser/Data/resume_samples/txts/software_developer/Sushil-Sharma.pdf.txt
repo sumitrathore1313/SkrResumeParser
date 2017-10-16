@@ -1,0 +1,131 @@
+Sushil Sharma
+
+Software Engineer
+
+Noida, Uttar Pradesh - Email me on Indeed: indeed.com/r/Sushil-Sharma/68887dc14106ff27
+
+Seeking a technically challenging position in the area of software Development,
+providing a highly motivated, progressive, and friendly environment that allows the
+pursuit of career advancement and expand my knowledge and skills.
+
+WORK EXPERIENCE
+
+Software Engineer
+KindleBit Solutions Pvt. Ltd  -  Chandigarh, Chandigarh - March 2014 to March 2014
+
+Responsibilities: Coding, Database Design.
+
+PROJECT PROFILE ( In organization)
+
+Magento:
+
+http://esourceparts.ca/
+Description: I build an extention for apply extra charge on total price on the basis of condition
+Environment: PHP, MYSQL, JQUERY
+Role: Development and Implementation.
+Team Size: One
+
+http://web1.kindlebit.com/roller
+Description: Integrated theme on it.
+Environment: PHP, MYSQL, JQUERY
+Role: Development and Implementation.
+Team Size: One
+
+http://www.clickoncare.com/
+Description: I build an extention for filtering the product on the basis of zipcode
+Environment: PHP, MYSQL, JQUERY
+Role: Development and Implementation.
+Team Size: One
+
+URL: http://evs-sports.com/
+Description: Integrated theme on it.
+Environment: PHP, MYSQL, JQUERY
+Role: Development and Implementation.
+Team Size: One
+
+Opencart:
+URL: http://www.ipraxalab.com/Opencart/upload/
+Description: This is an E-commerce Project.
+Environment: PHP, MYSQL, JQUERY
+Role: Development and Implementation.
+
+Team Size: One
+
+URL: http://petfoodzone.com.au/
+Description: This is a fully customize E-commerce Project.
+Environment: PHP, MYSQL, JQUERY, Ajax
+Role: Development and Implementation.
+Team Size: One
+
+Wordpress:
+URL: http://www.traderbean.com/
+DescriptionThis is a shopping site.
+Environment: PHP, MYSQL, JQUERY
+Role: Development and Implementation.
+Team Size: One
+
+URL: http://pizza-fortuna.ch/
+DescriptionThis is a shopping site.
+Environment: PHP, MYSQL, JQUERY
+Role: Development and Implementation.
+Team Size: One
+
+URL: http://jmacdoors.com/
+Description: This is Content management and plugin customization Project.
+Environment: PHP, MYSQL, JQUERY
+Role: Development and Implementation.
+
+Team Size: One
+URL: http://pacificrimwinecompetition.com/
+Description: This is a Content and user management Project..
+Environment: WordPress, PHP, MYSQL, JQUERY, Ajax.
+Role: Development and Implementation.
+
+Team Size: One
+URL: s3.exploritech.com/paranet/
+Description: This is a Content and user management Project.
+Environment: PHP, MYSQL, JQUERY, Ajax
+Role: Development and Implementation.
+Team Size: One
+
+URL: http://www.prescottrealtygroup.com/
+Description: This is a Content and user management Project.
+Environment: PHP, MYSQL, JQUERY, Ajax
+Role: Development and Implementation.
+Team Size: One
+
+URL: http://s3.exploritech.com/naplesart/
+Description: This is a Content and user management Project.
+Environment: PHP, MYSQL, JQUERY, Ajax
+Role: Development and Implementation.
+
+Team Size: One
+
+URL: http://www.ipraxalab.com/wordpress/swfl/
+Description: This is Content management Project.
+Environment: PHP, MYSQL, JQUERY
+Role: Development and Implementation.
+Team Size: One
+Professional
+
+Web Developer
+CWLOGIX  -  Noida, Uttar Pradesh - March 2012 to March 2014
+
+Responsibilities: Coding, Database Design.
+
+ADDITIONAL INFORMATION
+
+1. Experience in doing analysis, developing applications, design and development.
+2 . Extensive experience, knowledge and skills on some of the platforms extensively used in the industry-
+Windows […]
+3.Ability to plan, organize, and prioritize my work and to meet on time the deadlines.
+4.Knows English, and Hindi Language.
+
+SKILLS SET:
+Programming Languages: PHP, Magento, Opencart, Java Script, Jquery, Ajax, Wordpress.
+Operating Systems: Windows
+Database: Mysql
+Tools/ Technologies: Dreamweaver
+Application/ Packages: MS Office
+
+

@@ -1,0 +1,53 @@
+<ba>
+Akshay S
+<su>
+B.E in Computer Science ( PESIT ), 2017. Looking for freshers job in IT field.
+Prominent in Java, C++, HTML
+<ba>
+Bangalore, Karnataka 
+
+Bangalore, 
+Karnataka - 
+Mysore, 
+Karnataka - 
+Chennai, Tamil Nadu
+<we>
+WORK EXPERIENCE
+
+Fresher
+
+• Path Drawing Using OpenGL.
+• Our Understanding towards Space (HTML & CSS WEB Page)
+• Vampire Attacks: Draining life from Wireless Ad hoc Sensor Network
+•  Algorithmic  Recommendation  for  Stock  Market  Using  Market  Sentiment  Component  and  LSTM  Neural
+Network. ( B.E Final year project based on Machine learning)
+<ed>
+EDUCATION
+
+B.E in Computer Science
+PESIT South Campus  -  Bangalore, Karnataka
+<sk>
+SKILLS
+
+C (Less than 1 year), CSS (Less than 1 year), Database (Less than 1 year), Database Systems (Less than 1
+year), Eclipse (Less than 1 year), Python, C++, Java, HTML
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+• Programming Languages: C, C++, Java, Python
+• Database Systems: MySQL
+• Operating Systems proficient in: Windows/ LINUX (Ubuntu)
+• Web: HTML, CSS, PHP, JavaScript
+• Development tools: Code Blocks, Eclipse
+
+Personal Skills:
+• Leadership
+• Motivator
+• Can utilize available resources in the best possible way.
+
+• Can work equally efficient in a team and as an individual.
+
+• Trustworthy.
+
+

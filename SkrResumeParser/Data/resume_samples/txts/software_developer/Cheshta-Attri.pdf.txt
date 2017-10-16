@@ -1,0 +1,262 @@
+Cheshta Attri
+
+MCA +OCJP with 2.6years Experience Java/J2EE
+
+Delhi, Delhi - Email me on Indeed: indeed.com/r/Cheshta-Attri/bff95466bbb62a57
+
+Seeking a growth and learning oriented position to utilize my skills and abilities in Information Technology
+Industry that offers to apply my knowledge and expand my horizons while being resourceful, innovative and
+flexible.
+
+WORK EXPERIENCE
+
+Software Engineer
+Quovantis Technologies  -  New Delhi, Delhi - November 2013 to Present
+
+Responsibilities
+Key  Responsibilities:  Provide  support  for  continuous  development  product  enhancement  as  per  customer
+requirement and evolving design. I also contributed in defect fixing and new feature development.
+
+Skills Used
+STS, Java, J2EE (Spring MVC), AngularJS, PostgreSQL, Presto, NetBeans, MySQL, Java, J2EE(EJB), Solr,
+JQuery, JSON
+
+Software Developer R & D
+Appin Software Security Pvt. Ltd.  -  New Delhi, Delhi - August 2012 to June 2013
+
+E-Manage:  Internal  employee  management  system  to  record  details  of  employee,  Salary  slip  view,  leave
+management and time tracking system. This system allows employees to login and enter, edit and view their
+data. Different level of security clearance provided for different users like Admin, Employee and HR.
+E-manage is based on servlets and JSP and struts 2. Backend is MySQL server.
+
+Worked at: Appin Software Security Pvt. Ltd., Delhi
+Team Size: 1
+Duration: 6 months
+Technologies used: Eclipse, JSP, Servlets, struts 2, MySQL Server
+Key Responsibilities: Provide support for continuous development product enhancement as per company’s
+requirement and evolving design. I contributed in defect fixing and new feature development.
+
+Blackberry  Monitoring  System:  Blackberry  Monitoring  System  is  a  backend  application  developed  for
+blackberry.  It  uploads  all  messages,  mails(with  the  email  address  of  the  Blackberry  user),  address  book
+contacts,  memos,  all  calendar  entries  and  task  entries,  BBM  messages,  shows  current  GPS  location,  pin
+number of a blackberry user to the server. It also uploads all the files contained in the blackberry mobile to the
+server. These files include .csv, docx, .doc, .pdf, .jpeg, .jpg, .png, .db, .accdb, .mdb, .amr, .xls, .xlsx and hidden
+files as well. It also takes screenshots of the whole blackberry screen at regular intervals, and uploads it to the
+company’s server. The application also allows microphone voice records of the user and upload it at regular
+intervals in a hidden way so as the user doesn’t get to know it. Also, we get to know when the Blackberry was
+turned on/off. The server takes control of the Blackberry handset in a way that it can take any of the above
+information whenever it wants. The application has “auto delete” feature which allows the server to take control
+and delete this application from the handset whenever it wants. This application continuously refreshes itself
+from time to time. It is used by ethical hackers to get useful information from the target blackberry mobile users.
+
+The uploaded mobile’s files are identified by their corresponding blackberry IMEI numbers and are kept under
+a folder in the name of the IMEI number. 
+
+Worked at: Appin Software Security Pvt. Ltd., Delhi
+Team Size: 1
+Duration: 5 months
+Technologies used: Eclipse, Blackberry JDE 7.0.0, Java 7, Blackberry Simulator
+
+Web Developer
+Commtel Networks  -  New Delhi, Delhi - January 2012 to July 2012
+
+Issuance of Work Completion Certificates is an online System developed for site operations. It is used by
+Regional Construction Managers (RCMs) at various site locations. It helps them save or issue new certificates.
+It can also re-issue or cancel existing certificates. These certificates can be of different formats for the closed
+tenders of different jobs at different sites. It also enables them to view and print those certificates in those
+formats.
+
+Worked at: Commtel Networks, Delhi
+Team Size: 1
+Duration: 5 months
+Technologies used: Visual Studio.NET (using C#) 2005, Oracle, Toad 8.6, Crystal reports.
+
+EDUCATION
+
+MCA in Computer Application
+Jagan Institute of Management Studies  -  Delhi, Delhi
+January 2009 to January 2012
+
+BCA in Computer Application
+Sirifort College of Computer Technology and Management  -  Delhi, Delhi
+January 2005 to January 2009
+
+12th
+Darbarilal D.A.V. Model School  -  Delhi, Delhi
+January 2004 to January 2005
+
+10th
+Deepayan Vidya Niketan  -  New Delhi, Delhi
+January 2002 to January 2003
+
+SKILLS
+
+Jave, J2EE, Java Server Pages, Servlets, Struts 2, JavaScript, HTML, DHTML, MVC and Singleton,
+ASP.NET, C#, C, C++, MS-Access, Oracle, MySQL, OOPS, UML, Eclipse, Macromedia Dreamweaver MX
+2004, Microsoft Visual Studio.NET 2010, Toad 8.6, MySQL Workbench 5.2 CE and Microsoft Visual Basic
+6.0.
+
+CERTIFICATIONS/LICENSES
+
+IBM DB2V9 Fundamentals Certified 2011.
+September 2011 to Present
+
+IBM DB2 9 Database and Application Fundamentals
+
+Oracle Certified Java Programmer
+July 2013 to Present
+Oracle Certified Professional, Java SE 6 Programmer with 91% in 2013.
+
+ADDITIONAL INFORMATION
+
+Career Objective:
+
+Seeking a growth and learning oriented position to utilize my skills and abilities in Information Technology
+Industry that offers to apply my knowledge and expand my horizons while being resourceful, innovative and
+flexible.
+
+Preferred Location: Delhi/NCR
+
+Professional Synopsis
+
+〓 A dynamic professional with 1.6 years of experience in Software Development in Java.
+〓 Oracle certified java programmer.
+〓  Previously  associated  with  Appin  Software  Security  Pvt.  Ltd.,  Delhi  as  Software  Engineer  Research  &
+Development.
+〓 A lucid understanding of databases and RDBMS.
+〓  Adept  in  end-to-end  development  of  application  from  requirement  analysis  to  system  study,  designing,
+coding, testing and de-bugging. 
+〓 Possess a clear understanding of software development life cycle. 
+〓  An  effective  communicator  with  excellent  relationship  building  &  interpersonal  skills.  Strong  analytical,
+problem solving & organisational abilities. 
+〓 Understanding of .NET framework and associated technologies (C#.Net,ADO.Net Toad, Oracle and Crystal
+Reports)
+〓 Fair knowledge of Java SE7, J2EE, servlets, JSP, Struts 2, Eclipse and Blackberry OS and its simulators.
+
+Organisational Experience
+
+Since August ’2012 to June ’2013 with Appin Software Security Pvt. Ltd., Delhi as 
+Software Developer R & D
+
+KEY DELIVERABLES
+
+E-Manage:  Internal  employee  management  system  to  record  details  of  employee,  Salary  slip  view,  leave
+management and time tracking system. This system allows employees to login and enter, edit and view their
+data. Different level of security clearance provided for different users like Admin, Employee and HR.
+E-manage is based on servlets and JSP and struts 2. Backend is MySQL server.
+
+Worked at: Appin Software Security Pvt. Ltd., Delhi
+Team Size: 1
+Duration: 6 months
+Technologies used: Eclipse, JSP, Servlets, struts 2, MySQL Server
+Key Responsibilities: Provide support for continuous development product enhancement as per company’s
+requirement and evolving design. I contributed in defect fixing and new feature development.
+
+Blackberry  Monitoring  System:  Blackberry  Monitoring  System  is  a  backend  application  developed  for
+blackberry.  It  uploads  all  messages,  mails(with  the  email  address  of  the  Blackberry  user),  address  book
+contacts,  memos,  all  calendar  entries  and  task  entries,  BBM  messages,  shows  current  GPS  location,  pin
+number of a blackberry user to the server. It also uploads all the files contained in the blackberry mobile to the
+server. These files include .csv, docx, .doc, .pdf, .jpeg, .jpg, .png, .db, .accdb, .mdb, .amr, .xls, .xlsx and hidden
+files as well. It also takes screenshots of the whole blackberry screen at regular intervals, and uploads it to the
+company’s server. The application also allows microphone voice records of the user and upload it at regular
+intervals in a hidden way so as the user doesn’t get to know it. Also, we get to know when the Blackberry was
+turned on/off. The server takes control of the Blackberry handset in a way that it can take any of the above
+information whenever it wants. The application has “auto delete” feature which allows the server to take control
+and delete this application from the handset whenever it wants. This application continuously refreshes itself
+from time to time. It is used by ethical hackers to get useful information from the target blackberry mobile users.
+The uploaded mobile’s files are identified by their corresponding blackberry IMEI numbers and are kept under
+a folder in the name of the IMEI number. 
+
+Worked at: Appin Software Security Pvt. Ltd., Delhi
+Team Size: 1
+Duration: 5 months
+Technologies used: Eclipse, Blackberry JDE 7.0.0, Java 7, Blackberry Simulator
+Key Responsibilities: Provide support for continuous development product enhancement as per company’s
+requirement and evolving design. I contributed in defect fixing and new feature development.
+
+Since January ’2012 to July ’2012 with Commtel Networks, Delhi as Web Developer
+
+KEY DELIVERABLES
+
+Issuance  of  Work  Completion  Certificates:  Issuance  of  Work  Completion  Certificates  is  an  online  System
+developed for site operations. It is used by Regional Construction Managers (RCMs) at various site locations. It
+helps them save or issue new certificates. It can also re-issue or cancel existing certificates. These certificates
+can be of different formats for the closed tenders of different jobs at different sites. It also enables them to
+view and print those certificates in those formats.
+
+Worked at: Commtel Networks, Delhi
+Team Size: 1
+Duration: 5 months
+Technologies used: Visual Studio.NET (using C#) 2005, Oracle, Toad 8.6, Crystal reports.
+Key Responsibilities: Provide support for continuous development product enhancement as per customer
+requirement and evolving design. I contributed in defect fixing and new feature development.
+
+Other projects Undertaken
+
+Shopper’s Station: Shopper’s Station is an online shopping System developed for day to day purchasing of
+items like jewellery, toys, pen drives, bags etc. It maintains a shopping cart for all the items to be purchased.
+
+Worked at: College (JIMS) – 2010 under DUCAT 
+Team Size: 6
+Duration: 1 month
+Technologies used: Visual Studio.NET (using C#) 2005, MS SQL Server
+
+Chal Chitra: It is a website which aims to facilitate users to book their movie tickets online for various movies
+listed.
+
+Worked at: College (JIMS) - 2011under DUCAT
+Team Size: 1
+Duration: 1 month
+Technologies used: Java, Servlets, JSP, MyEclipse 8.0, Macromedia Dreamweaver MX 2004, AJAX, MySQL,
+Apache Tomcat web Server 5.5 
+
+Subject of specialization: C/C++, J2SE, Data Structures, DBMS, Mobile technology.
+
+Technical
+
+Operating Systems : Windows and Linux.
+Languages Known : Java, C, C++, C# and Visual Basic.
+Front End Tools : Eclipse, Macromedia Dreamweaver MX 2004, Microsoft Visual Studio.NET 2010,
+Toad 8.6, MySQL Workbench 5.2 CE and Microsoft Visual Basic 6.0.
+Web Development : Struts 2, HTML, DHTML, J2EE, ASP.NET and JavaScript.
+RDBMS : Oracle, DB2, MySQL, MS-Access and MS-SQL Server.
+Design Patterns : MVC and Singleton.
+
+Functional
+〓 Interacting with client for requirement gathering, system study & analysis. 
+〓 Understanding the technical & functional specifications.
+〓 Designing, developing, testing, troubleshooting & debugging of applications.
+〓 Providing the post-implementation, enhancement and maintenance support to client for application.
+〓 Handling the project in the application level as well as component level or individual programming.
+〓 Participating dynamically in team’s various phases of application development.
+
+Certifications
+
+〓 Oracle Certified Professional, Java SE 6 Programmer with 91% in 2013.
+〓 IBM DB2V9.7 Database and Application Fundamentals Certified in 2011.
+〓 Certificate for excellent performance during J2EE training by DUCAT in 2011.
+〓 Certificate for excellent performance during VS.NET 2005 training by DUCAT in 2010.
+
+Extra-Curricular Activities
+
+〓 Active participation in organizing and conducting several technical seminars & workshops in JIMS.
+
+〓 Active participation in various dance competitions and plays in school. 
+
+〓 Sonic 2K10 Seminar on “Vision IT: 2020 & Beyond”, 2010.
+
+〓 2nd North India InfoTech Student’s Conference, Cynosure’11 in JIMS.
+
+Academic Credentials
+
+Degree/Certificate University/School Year of passing Score (%)
+MCA Jagan Institute of Management Studies, Rohini, Delhi, G.G.S.I.P.U. 2012 75 %
+BCA Sirifort College of Computer Technology and Management, Rohini, Delhi, G.G.S.I.P.U. 2009 64.99%
+
+Personal Details
+
+〓 Date of Birth : 31st March 1987
+〓 Address : 1171 Deva Ram Park, Tri Nagar, New […]
+〓 Linguistic Abilities : Hindi/English/Punjabi.
+
+

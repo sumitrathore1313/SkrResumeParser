@@ -1,0 +1,61 @@
+<ba>
+Mariya James
+
+Andheri, Maharashtra - Email me on Indeed: indeed.com/r/Mariya-James/7520b167ed20237b
+<su>
+To work with a company which appreciates innovation so that I can enhance my knowledge and skills to give
+my best for the growth of the company.
+
+ABOUT ME
+Quick Learner - Highly motivated and eager to learn new things. Optimist - Strong motivational and leadership
+skills.
+Excellent communication skills in written and verbal both.
+Willing to relocate to: Pune, Maharashtra - Mumbai, Maharashtra
+<we>
+WORK EXPERIENCE
+
+Fresher
+<pr>
+Mini-Project: Online Voting System - Organizational basis Duration: 90 days
+Team Size: 3
+Language used: HTML, PHP, JavaScript
+Database: MySQLi
+A web-based application that enables an organizational level online voting system which provides security in
+the sense that voter 's token number is confirmed before the vote is accepted in the main database confirming
+his/her vote goes to correct candidate.
+
+Main Project: Open Road Tolling by Pattern Recognition - Toll Automation Duration: 90 days
+Team Size: 4
+Language used: HTML, Java, JavaScript, Android, Swing
+Database: MySQL Workbench 6.3 CE
+A  web-based  application,  mobile  application  and  a  swing  application  for  admin,  user  and  booth  operator
+respectively enables to keep an eye on the vehicles passing through a booth, if applicable pull in details from
+Motor Vehicle Department, and have a QR-code scanned for the toll payment; which means people can go
+cash-free help save time, avoids fuel loss and monitors the traffic, and as a future enhancement can add in
+theft-alert.
+<ed>
+EDUCATION
+
+B.Tech. in Computer Science in Computer Science
+GISAT Engineering College
+
+Sacred Heart Convent Sr. Sec School
+2013
+
+Sacred Heart Convent School
+2011
+<sk>
+SKILLS
+
+C (Less than 1 year), Database (Less than 1 year), Excel. (Less than 1 year), HTML (Less than 1 year),
+Linux. (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL EXPERTISE
+Proficiency in MS Office - MS Word, MS PowerPoint, MS Excel.
+Programming: C, C++, HTML.
+OS: Microsoft Windows and Linux.
+Database: MySQLi.
+
+

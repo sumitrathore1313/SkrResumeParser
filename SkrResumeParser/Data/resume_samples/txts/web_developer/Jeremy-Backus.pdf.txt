@@ -1,0 +1,118 @@
+<ba>
+Jeremy Backus
+
+Web Developer - Nutramax Laboratories, Inc
+
+Fort Mill, SC - Email me on Indeed: indeed.com/r/Jeremy-Backus/ab3b015cc64047de
+</ba>
+<su>
+Honest, detail oriented professional, seeking employment with local company as a Senior Web Developer.
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Nutramax Laboratories, Inc  -  Lancaster, SC - March 2010 to Present
+
+Responsive website development using PHP, HTML5, CSS3, Javascript, XML; Domains and DNS admin;
+Webserver  admin  (Windows/IIS);  Database  admin  (MySQL/SQLServer);  Work  on  WordPress  and  Joomla
+customizations, Google Analytics/Tag Manager/Search Console,
+Structured Data for SEO;
+
+Integration Consultant
+Commonwealth of Pennsylvania  -  Harrisburg, PA - October 2007 to February 2010
+
+Responsible for providing state agencies with infrastructure support. I worked directly with each agency POC
+as well as the vendors and developers. Managed functional and design
+specifications; Analyzed source code to identify non-standard practices and request
+justification or suggest changes; Deployed software and utilized standard change
+management process to accommodate deployment schedules.
+
+Sr. Developer and Systems Administrator
+Global Aviation Nav., Inc  -  Louisville, KY - March 2004 to October 2007
+
+Designed and developed web-based applications aimed at the corporate and general
+aviation industry. I used ASP, VBScript and JavaScript, to query data from an SQL 2000
+database.  I  produced  several  small  Flash  movies,  created  online  and  print  graphics,  and  generated  page
+layouts for the web and monthly email newsletter. I also managed 3 web
+servers, 2 SQL servers, 2 DNS servers, an Email server, a File server, backup server, and a development
+server.
+
+E-Commerce Web Manager
+Waller Companies  -  Marietta, OH - December 2001 to February 2004
+
+Responsible for purchase of entire back-end solution which included warehouse and inventory management,
+order entry, billing, and sales CRM. I provided user training and
+support. I was responsible for the availability of network applications. I integrated full
+back-end product and content administrative functionality into E-commerce web site and was
+responsible  for  all  online  marketing  and  promotion  of  E-commerce  site.  I  constantly  worked  to  improve
+operation and usability email and related online services. I have been successful
+at establishing strong relationships with software vendors and online service providers. I also
+developed a very complex shopping cart system for the website and a simple desktop
+application  that  allowed  different  departments  to  communicate  more  quickly  and  easily  over  their  wireless
+devices.
+
+Web Designer & Developer
+
+Words-n-Webs  -  Parkersburg, WV - December 1999 to January 2002
+
+I was responsible for the design and development of client web sites, working with accounts
+management to understand and support their requirements and marketing to make sure that the sites support
+the marketing and business strategies. I selected the appropriate
+development tools creating structure for the site to be regularly and quickly updated. I
+performed  graphic  design  and  development  working  to  tie  together  web  site  structure  with  the  underlying
+applications and products, organized the appropriate testing of the resulting
+sites and worked with the customer and prospects to ensure requirements were being met. I
+wrote  sections  of  proposals  that  pertained  to  web  development.  I  have  held  the  lead  role  in  project
+management, web design and development, graphic design, and content
+development on a number of business projects and provided clients with a basic
+understanding of the Internet and various web-based technologies and demonstrated their
+potential in targeted markets.
+
+Webmaster
+Jabo\Vitro  -  Parkersburg, WV - December 1997 to December 1999
+
+I re-designed the company's web site and logo and produced and edited a streaming video
+tour of a marble factory in Reno, OH. I photographed hundreds of marbles and glass stones
+having to pay very close attention to the slight color differences, shine, and transparency of each to place on
+the site for inventory and ordering.
+</we>
+<ed>
+EDUCATION
+
+Diploma
+Parkersburg High School in Parkersburg
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+Over 20 years of professional web design and development experience, Including: E-commerce, SEO/SEM,
+Analytics, KPI, ROI,
+Email Marketing
+
+PROFICIENCIES
+
+● HTML5, CSS3, Javascript, JSON, XML, PHP, SQL (with a focus on Responsive design)
+● Structured Data Languages for SEO/SEM
+● Shopify, and BigCommerce, WooCommerce (on Joomla 3.5), WordPress
+● Integrations with E-commerce platform (API, Merchant Center), and Email marketing platform
+● Managed ecommerce assets (customers, products, coupons, shipping methods)
+● Worked with product managers to understand their short and long term goals
+● Created custom reports and provided insight into analytics data
+● Implemented custom event tracking to facilitate custom reports
+● Provided crucial information to decision makers
+</sk>
+<ex>
+RELATED STRENGTHS
+
+Technically  inclined  with  an  aptitude  for  learning;  Working  knowledge  of  industry  tools  (Photoshop,  FTP
+CLients, etc.); Interest in
+
+emerging technologies and evolving standards; Ability to use common sense and logic to evaluate complex
+instructions; Always
+striving to maximize efficiency and increase productivity; Can work alone or with others to divide and prioritize
+tasks; Microsoft
+Certified Professional; Comprehensive understanding of the industry and related technologies.
+</ex>
+

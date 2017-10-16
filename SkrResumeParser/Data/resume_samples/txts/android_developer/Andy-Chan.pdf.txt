@@ -1,0 +1,70 @@
+<ba>
+Andy Chan
+
+Android Developer - PositionIQ, Inc
+
+Dublin, CA - Email me on Indeed: indeed.com/r/Andy-Chan/f2aa2215d11dc5b4
+<su>
+AndroidContractor.com  Implementing  apps  using  Material  Design  (Navigation  Drawer  Fragment,  Recycler
+view),  Multi-Threading  (Threads,  AsyncTasks,  Handler),  and  supporting  multiple  screens/devices  with
+Adaptive (dynamic) UI Flow and Fragment (9-Patch graphics). Programming Android Components, Android
+Framework and the interactions: Activities (Lifecycle), Intent (implicitly, explicitly), Services (started, Bound,
+IntentService,  communication),  Broadcast  Receiver,  Content  Provider  -  SQLite,  Preferences,  Parse.com,
+and  JSON  data  from  REST  Services.  Android  UI  design  pattern  (Java  and  XML),  memory  and  resources
+management. Debugging and Fixing Android Apps: Logcat (Android Debug Bridge), Traceview.
+Willing to relocate
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+PositionIQ, Inc  -  Dublin, CA - 2010 to Present
+
+AndroidContractor.com
+
+Implementing  apps  using  Material  Design  (Navigation  Drawer  Fragment,  Recycler  view),  Multi-Threading
+(Threads, AsyncTasks, Handler), and supporting multiple screens/devices with Adaptive (dynamic) UI Flow
+and Fragment (9-Patch graphics). 
+
+Programming  Android  Components,  Android  Framework  and  the  interactions:  Activities  (Lifecycle),  Intent
+(implicitly, explicitly), Services (started, Bound, IntentService, communication), Broadcast Receiver, Content
+Provider - SQLite, Preferences, Parse.com, and JSON data from REST Services. 
+
+Android UI design pattern (Java and XML), memory and resources management. 
+
+Debugging and Fixing Android Apps: Logcat (Android Debug Bridge), Traceview. 
+Android Published App (Native)
+• Get Battery from Ebay
+◦ "Get Battery from Ebay" allows user to get the right model of the battery from Ebay without knowing the
+phone or battery model. (Market Link: https://play.google.com/store/apps/details?id=com.piq.getbattery)
+◦ App demonstrates: basic Android phone application with Device ID and phone information, web service
+(JSON), EBAY API usage, Internet access.
+
+Android App - Device List
+• DeviceList from PositionIQ, Inc.
+◦  "DeviceList"  allows  user  to  manage  their  own  device  list.  (Video  Link:  https://www.youtube.com/watch?
+v=cn0Sio-clM0) . Parse.com: backend
+◦ http://devpost.com/software/devicelist
+
+Android Developer
+Android App DEMO for Hackathon - September 2013 to September 2013
+
+The only Android Developer for Ecospaces Android DEMO - an Android apps that demonstrate the search
+and functionality of basic database functionality, map with overlays, location services, web service (JSON),
+content provider (contacts) usage, Internet access.
+◦ http://devpost.com/software/ecospaces
+◦ 
+hackathon_20130808&utm_content=submission_won&utm_medium=email&utm_source=transactional
+◦ https://plus.google.com/photos/+EmilyKirsch/albums/5927064740409474081
+
+http://solarhackathon.devpost.com/submissions.603?utm_campaign=the-sfuncube-solar-
+<ed>
+EDUCATION
+
+Master of Science in Electronic Engineering
+University of Missouri  -  Columbia, MO
+
+BSEE
+National Taiwan Ocean university
+
+

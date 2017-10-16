@@ -1,0 +1,171 @@
+<ba>
+Siva Krishna
+
+Android Developer - GEICO Insurance
+
+Maryland, NY - Email me on Indeed: indeed.com/r/Siva-Krishna/0fe1c9c697a6b17f
+<su>
+• 6 years of Software Industry experience in designing, developing, and testing of applications
+• 4 years of Android Application Development in both enterprise and consumer based applications.
+• 2 years of experience in application development using Java and XML.
+• Extensive knowledge in software development life cycle and Object-oriented analysis and design.
+• Strong knowledge in Android Application Development life cycle including design development.
+• Experience in working with permissions for Nougat, Marshmallow.
+• Experienced with third-party libraries and APIs
+• Working experience in consuming RESTful web services to fetch data for mobile front end and parsing the
+XML and JSON response using different parsers.
+• Strong knowledge on Android components such as Activity, Fragment, Services, Loader, Content Provider,
+Broadcast Receiver.
+• Experience with Android SDK.
+• Experience with Fragments, Intent and Intent-Filters.
+• Experience on Android UI components such as Text View, List View, Customized List View, Menus, Edit
+boxes, Buttons, Checkboxes, Dialogs, Alert boxes, Status Notifications, Action bars, and Spinners for various
+layouts in Application development.
+• Experience in using Storage options in Android like Shared Preferences and SQLite database.
+• Experience in migrating List Views and Grid Views to Recycler Views.
+• Used Junit for Unit testing and espresso for Instrumental testing.
+• Used MVP for the architecture.
+• Used GIT as version control and JIRA for bug tracking.
+• Active experience in developing Android Applications using Core Java and Android APIs (Data Storage,
+Multimedia, Connectivity and Location).
+• Strong experience with Open Android libraries like Retrofit, Butter knife, Picasso, Glide, Dagger.
+• Experience developing Android apps using IDE's Eclipse and Android Studio.
+• Involved in all stages of the SDLC like designing, coding, implementation, testing and maintenance.
+• Worked on Localization with resources.
+• Possessing strong analytical skills, an excellent team player with good leadership qualities and strong oral
+and written communication skills.
+• Experience in use of popular public APIs, such as Google, Facebook, YouTube and Twitter.
+• Experience with Multi-Threading using AsyncTaskLoaders and Threads.
+• Passionate to learn new skills and technology.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+GEICO Insurance  -  Chevy Chase, MD - March 2016 to Present
+
+-Chevy Chase, MD
+March 2016 to Present
+Link: https://play.google.com/store/apps/details?id=com.geico.mobile&hl=en Role: Android Developer
+
+App Summary:
+GEICO MOBILE app is designed to meet all the requirements of the customer needs through mobile. The key
+features of this app are to provide the customer with policy information, claims processing, roadside assistance,
+billing methods, nearest agent's location, coverage changes and extras such as finding the nearest gas station,
+car buying service, taxi/ride service and parking. Users could pay bills, update insurance coverage, add/remove
+vehicles and get new quotes, apart from the extra features.
+
+Role & Delegated Tasks:
+• Involved in all the phases of SDLC.
+• Developed the application in Agile environment.
+• Assisted the SCRUM master in planning sprints.
+• Implemented different UI layouts to create user friendly interface.
+• Used View Pager along with TabLayout to provide smooth user experience.
+• Used fragments to build small re-usable pieces that are easier to manage and allow for a more fluid visual
+design.
+• Used services for the downloading the payment details.
+• Implemented Broadcast receivers for sending notification to the user when the download is finished.
+• Used Retrofit for implementing network calls.
+• Used AsyncTaskLoaders to remind the user regarding payment due dates.
+• Implemented run time permissions to fetch the user location and used GOOGLE MAPS API V2 to show
+nearest hotels/motels location.
+• Used Recycler View for displaying the results.
+• Used Picasso to load/cache the images.
+• Worked closely with the web application development team to ensure proper integration between mobile
+application and web application.
+• Used Shared Preferences to store the username.
+• Implemented Unit testing with TDD
+• Used Junit Extensions for writing test cases.
+• Used GitHub as Version Control to push and commit changes in the code.
+Environment: Android Studio, Retrofit, Picasso, Google Maps API, Junit, Espresso.
+
+Android Developer
+LIFE Fitness  -  Chicago, IL - March 2015 to January 2016
+
+App Summary: Life fitness is one of the largest fitness equipment maker had developed an app called as
+LFconnect which helps to track your cardio workouts and strength workouts and helps you reach your fitness
+goals.  Any  android  device  with  the  app  can  connected  to  the  Life  Connect  cardio  machine  and  seamless
+interaction can be between LFconnect app, Life Connect.com and the cardio machine.
+Role & Delegated Tasks:
+• Involved in designing and development phases of the application.
+• Used Agile-Scrum Software Development Methodology for managing application developments.
+• Redesigned the application by implementing the Material design.
+• Integrated Facebook, Twitter and other open source APIs within application.
+• Developed UI screens both in portrait and Landscape mode so the user experience is same across devices.
+• Integrated Google play services, Location services, Google maps, QR scanner.
+• Implemented Restful web services using Retrofit and Implemented the GSON parser library to read and write
+JSON data.
+• Implemented push notifications.
+• Implemented Recycler view to provide details of available workouts and to display user workout history.
+• Fixed bugs and miscellaneous errors in the code during project.
+
+• Used Espresso for Instrumentation testing.
+• Used GitHub as Version Control to push and commit changes in the code.
+
+Android Developer
+Macy's  -  Cincinnati, OH - September 2013 to January 2015
+
+App Summary: Macy's is an Android application that provides a convenient way to shop using the mobile
+device. They provide an ecommerce experience where users can manage their online accounts, manage their
+shopping cart, track the status of their orders, find local ads, deals and nearest store locations for store pickup
+etc.
+Role & Delegated Tasks:
+• Participated in complete Software Development Life Cycle (SDLC) for proper analysis, development, testing,
+deployment, enhancement of the code.
+• Designed complex User Interface screens using views and widgets.
+• Implemented sorting options for search items based on categories (Relevance, Price, and Rating).
+• Used shared preferences to store and retrieve persistent key value pairs across user sessions.
+• Created a local database using SQ Lite to store and retrieve the data (generally for the recently browsed
+products).
+• Created a pop-up notification for alerting users of items that might still be in their cart (up on closing the app).
+• Used fragments to build small re-usable pieces that are easier to manage and allow for a more fluid visual
+design.
+• Used maps to show the nearby stores depending upon the user location.
+• Involved in debugging and porting the application on various devices.
+• Implemented unit testing using Junit.
+
+Java/Android Developer
+Canton, OH - January 2011 to July 2013
+
+Description: Aultcare is a highly service oriented insurance company where customized plans for employers
+and individuals are created. It offers responsive service and empower people to make decisions about their
+health. We are a team of people who believe in being an example in the community. Ault Care Mobile v2.0
+is the enhanced version of our smart phone application and it will serve as a base app in coming months to
+provide you with your account details.
+Role & Delegated Tasks:
+• Responsible for refactoring existing code and redesigning structures to improve performance of the entire
+app.
+• Created the client codes using JAVA in eclipse IDE 3.6.
+• Worked on the feature that helps the user to identify current location.
+•  Involved  in  full  life  cycle  of  the  application  including  wireframe  design,  server  development  and  client
+development.
+• Developed the code in objected oriented manner for better code reuse
+• SQL server was used to get the data to present to the web client.
+• Performed code builds using Jenkins.
+• Developed CSS templates.
+• Worked on the feature that helps the user pick up a location and map that with the location of the accident.
+• Prepared design and technical specification documentation.
+<ed>
+EDUCATION
+
+Master of Computer Engineering in Computer Engineering
+Oklahoma Christian University  -  Edmond, OK
+
+Bachelors in Electronics and Communication Engineering
+Sri Indu College of Engineering Hyderabad  -  Hyderabad, ANDHRA PRADESH, IN
+<sk>
+SKILLS
+
+Android (6 years), CSS (2 years), Java (2 years), Software Development (2 years), SQL (2 years)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+Languages: JAVA, C, Python, C++ Operating System: Linux, Mac, Windows
+Mobile Technologies: Android Web Services: XML, JSON, REST
+Web Technologies: HTML, CSS, SQL Software Development: Android Studio, Intellj IDEA, Eclipse, Net beans
+IDE
+Database: SQLite, MYSQL, Content providers
+
+

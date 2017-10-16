@@ -1,0 +1,62 @@
+<ba>
+Jkjones Dev
+
+Austin, TX - Email me on Indeed: indeed.com/r/Jkjones-Dev/6cad667a5cbf5ebf
+
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer (Intern)
+Byte  -  Austin, TX - August 2015 to Present
+
+Responsibilities
+I work on bug fixes and feature addition to the Android platform of the Byte application. I work as part of a
+very small team to create and maintain a startup app food service with integrated purchasing, geo-fencing,
+and restaurant profiling.
+
+Accomplishments
+I have had the major opportunity to work as a part of a professional team working on a real-time project that
+directly goes out into the hands of hundreds of users daily. 
+
+Skills Used
+During my work I use Java programming and develop within Android Studio for the application. I use git version
+control to coordinate and work with the small team to simultaneously work on multiple portions of the application
+at a time.
+<ed>
+EDUCATION
+
+Pursuing Bachelor's in Computer Science
+University of Texas at Austin  -  Austin, TX
+2014 to 2018
+<sk>
+SKILLS
+
+Java (2 years), Git (1 year), Android (1 year), C (1 year), Linux (2 years), HTML (1 year), CSS (1 year),
+Photoshop (6 years), Indesign (5 years), Illustrator (5 years), Graphic Design (6 years)
+<ba>
+LINKS
+
+http://www.github.com/Jaredk3nt
+
+https://www.behance.net/jaredk3nt
+<ex>
+PUBLICATIONS
+
+CheaterCheater
+https://play.google.com/store/apps/details?id=com.dev.jaredkent.cheatercheater&hl=en
+June 2015
+
+I created CheaterCheater as a simple, clean, and easy to use multipurpose word game helper application for
+Android.
+
+CheaterCheater helps find all word combinations word game hands including on board pieces, solve Scrabble,
+Words With Friends and many other popular word games with this easy to use app! CheaterCheater also
+contains a dictionary look up, so if you're playing a game of Scrabble and someone else plays a word, you
+can immediately check that word on the current dictionary!
+
+CheaterCheater  uses  the  open  source  ENABLE  word  list  to  give  you  the  most  viable  word  game  words
+possible, and unlike many other word game helpers, CheaterCheater does this without any internet connection!
+
+

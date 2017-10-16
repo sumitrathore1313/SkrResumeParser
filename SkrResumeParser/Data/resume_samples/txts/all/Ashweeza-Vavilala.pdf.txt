@@ -1,0 +1,151 @@
+<ba>
+Ashweeza Vavilala
+
+Rocky Hill, CT - Email me on Indeed: indeed.com/r/Ashweeza-Vavilala/afeed1fd2ccbdaa6
+
+<we>
+WORK EXPERIENCE
+
+Android Developer
+United Health Group  -  Rocky Hill, CT - June 2016 to Present
+
+Environment: Android Studio, Android SDK, Logcat, JSON, Java, Junit, ADB, JSON, Agile with TDD, GitHub.
+Responsibilities:
+• Design and build advanced custom UI for the Android platform.
+• Integrated complex overlay screens using ViewPager.
+• Used Services, AsyncTasks and Alert Notification API to implement event reminder feature into the mobile
+app.
+• Involved in working with Restful Web service with JSON.
+• Used GSON Parser to handle parsing operations of JSON data.
+• Implemented Shared preferences to store the profile info.
+• Responsible for design of user interface using various custom layouts, buttons, dialog boxes, alert boxes
+and different form of widgets.
+• Followed AGILE methodology with Test Driven Development for implementing the Application using JIRA
+Tool.
+• Involved in UAT testing by porting the app on multiple devices with various screen sizes.
+
+Android Developer
+Fidelity Investments  -  Covington, KY - August 2015 to March 2016
+
+Covington, Kentucky August 2015 - March 2016
+Environment: Android SDK, Android Studio, Java, SQLite, XML, JSON, Material Design.
+Responsibilities:
+• Design and build advanced applications for the Android platform
+• Collaborate with cross-functional teams to define, design, and ship new features.
+• Work with outside data sources and API's.
+• Responsible for design and implementation of ScrollViews to display and sort watch lists.
+• Implemented AsyncTask to handle calls to API and parse responses received.
+• Implemented Job Scheduler to check for updates depending on requirement.
+• Implemented CardView design in home page.
+• Wrote Unit-tests for robustness, including edge cases, usability, and general reliability.
+• Worked on bug fixing and improving application performance.
+
+Android Developer
+CVS  -  Richardson, TX - August 2014 to March 2015
+
+Environment: Android SDK, Android Studio, Java, SQLite, XML, Expresso, JSON.
+Responsibilities:
+• Implemented CardView design using Material Design principles.
+• Implemented Location Services to show the list of stores near the users' location.
+• Used Shared Preferences to save the membership card details.
+
+• Involved in the design and implementation of the Navigation Drawer Activity.
+• Implemented Animations with scenes and transitions using Transition Manager.
+• Involved in the integration of Barcode Scanner to scan for refill of prescription drugs.
+• Worked on connecting to Restful API and parse the JSON response received.
+• Followed AGILE methodology for implementing the application.
+• Wrote Unit tests using Expresso.
+
+Android Developer
+Osmosys Systems  -  Hyderabad, ANDHRA PRADESH, IN - September 2013 to May 2014
+
+Environment: Android SDK, Eclipse IDE, Android ADT tools, Java, SQLite, XML.
+Responsibilities:
+• Implemented various UI elements including custom dialogs, custom layouts.
+• Used WebViews, ListViews and populated data from SQLite Database using Adapters.
+• Extensively worked with Google APIs to handle location operations.
+• Implemented Google Maps v2 for handling location services using geo- location.
+• Implemented Services to send reminders.
+• Responsible for testing user interface errors and validate fields which take input from user.
+• Involved in extensive manual testing in various devices.
+
+Java Developer
+PrintMind  -  Hyderabad, ANDHRA PRADESH, IN - December 2012 to August 2013
+
+Environment: Eclipse IDE, Java, mySQL, XML, J2EE, Star UML.
+Responsibilities:
+•  Utilized  Java,  Eclipse/  J2EE,  tested  programing  code  &  Applications,  collaborated  with  team  and
+management.
+• Created & maintained a centralized repository of UI components, participated in usability testing & research.
+• Wrote and executed test cases based on written design, as well as based on product knowledge that resulted
+in greatly improving the software. Researched and documented software bugs and created and implemented
+fix.
+• Prepared Unit test cases and reviewing test results.
+• Responsible for investigating the issues, defects, determining problem root cause, formulating corrective
+action recommendations & implementing them.
+• Hands on experience with SQL queries.
+• Created detailed design documents using UML (Use case, Class, Sequence, and Component diagrams).
+<ed>
+EDUCATION
+
+Master of Science in Computer Science
+Texas A & M University
+May 2016
+
+Database Management Systems
+JNTU University -Hyderabad  -  Hyderabad, ANDHRA PRADESH, IN
+May 2013
+<sk>
+SKILLS
+
+Android (4 years), Android SDK (4 years), Java (2 years), testing (2 years), XML (4 years), JSON (4 years)
+<ca>
+CERTIFICATIONS/LICENSES
+
+Android Developer Certification
+April 2017 to Present
+http://bcert.me/svvdbujx
+
+ADDITIONAL INFORMATION
+<sk>
+TECHNICAL SUMMARY:
+• Google Certified Android Developer.
+• 5 years of IT experience with 4+ years of Android application design and development, testing, debugging.
+• Good Understanding of Data Structures and Algorithms, object-oriented programming concepts and usage
+with Java, C++, C.
+• Experience in Android UI toolkit (basic/picker/list views, adapters, dialogs, menus) and Layout Managers.
+Proficient in Android application framework: Activities, Intents, Services, and Content Provider.
+•  Experience  in  developing  Android  enterprise  applications  for  mobiles  and  tablets,  building  multithreaded
+applications using Threads, Handlers and AsyncTask and Debugger (DDMS), Logcat.
+• Experience with multiple data storage techniques using SQLite, Shared Preferences, Content Providers and
+Local Storage.
+•  Developed  Android  Applications  using  Java,  Android  APIs  (Data  Storage,  Connectivity,  Location,
+Notifications, Android SMS Manager) and deployed in Google Play Store.
+• Solid Understanding of Mobile Design Patterns.
+• Extensive understanding of Material Design guidelines and Performance Tuning using Hierarchy Viewer,
+Android Monitors, Heap Viewer and SysTrace.
+• Understanding and experience using web service protocols JSON, HTTP and REST.
+• Experience in writing Unit tests using Expresso.
+• Hands on experience with Android Wear.
+• Familiarity with SDLC, TDD, Agile Methodology-Scrum and GIT.
+• Team player, quick learner, excellent analytical, design and problem solving skills.
+
+TECHNICAL SKILLS
+
+Languages C, C++, Java, JavaScript, SQLite, Oracle, MySQL, XML
+Technologies Android SDK, Java JDK, J2EE, HTML5, CSS3
+Android App
+Mobile Development
+
+Activities, Recycler View, List Views, Adapters, SQLite, Horizontal scrolling, Notification Manager, Contacts,
+Content Provider, Location, Maps, HTTP Client, GSON, JSON based Web Services, Camera API, Facebook
+API.
+
+Debugging and Testing Tools DDMS, Logcat, Junit, Expresso
+IDEs Eclipse, Android Studio
+Web Services JSON, RESTful API
+Version Control Tools GIT
+Applications Microsoft Office
+Project Management Tools JIRA, Rally
+
+

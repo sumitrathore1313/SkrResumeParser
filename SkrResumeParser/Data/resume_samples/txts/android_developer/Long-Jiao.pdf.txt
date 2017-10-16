@@ -1,0 +1,59 @@
+<ba>
+Long Jiao
+
+Android Developer - International Point of Sale LLC
+
+Teaneck, NJ - Email me on Indeed: indeed.com/r/Long-Jiao/fcd59bda8034136d
+<su>
+➢ 3+ years' experience of Android Application, with Google Map API, TesttoSpeech API, Bluetooth Protocol,
+Ormlite etc.
+➢ Solid Understanding of development methodologies like Agile and Waterfall, experienced on Test Driven
+Development.
+➢  Experience  to  communicate  with  bluetooth  devices  such  as  barcode  scanner,  receipt  printer  and  pole
+display.
+➢ Experience of using database applications such as MySQL, PL/SQL, SQLite.
+➢ Experience of communicating between Client and Web Services via HTTP request (REST and SOAP).
+➢ Experience using Git and TFS as source code and version control systems.
+➢ A good team player, problem solver and quick learner. Have strong analytical skills with proficiency in
+debugging, problem solving.
+➢ Self-starter, highly motivated, technically sound, training and mentoring skills in driving development teams
+to
+successful resolution.
+➢ Strong analytical, communication, problem-solving, interpersonal, organizational and team monitoring skills.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+International Point of Sale LLC - May 2013 to Present
+
+Smart 360 POS: LINK ("Ctrl" + Left Click for visiting the link)
+International Point of Sale brings customers the best in POS hardware and software, The project is building
+up a POS
+system working with Android Devices. As the only Android Developer, achieving functions such as loading
+data from database, creating the User Interface, translating bar code into product, verify serial number of debit/
+credit card, connecting
+bluetooth devices such as scanner, printer and sending/getting data from web service etc
+
+Responsibilities:
+• Designed User Interface of POS system. Utilized nested Fragment while selecting a category of products, a
+FragmentDialog as a container of ViewPager, and each page of ViewPager is also a fragment.
+• Appended the Fragments into ViewPager, utilizing RadioButton as pager selector and override the Adapter
+to create each page.
+• Using AsyncTask for processing HTTP request, implement org.json and GSON to translate format between
+JSON Object and JavaBean.
+• Utilized Payment Gateway provided by Mercury. Sending a XML file as request for payment.
+• Achieved Multi-Language by building different value folder such as values-en, values-fr, values-es
+• Utilized front camera as a bar code scanner and implement Zxing API for translating the bar code. Creating
+Barcode or QR Code then converts them to Bitmap for printing.
+• Implement ESC/POS commands for printing Receipt and Barcode via Bluetooth/USB printer.
+• Create tables for managing data and casting Java Bean into SQLite with ORMlite.
+<ed>
+EDUCATION
+
+Master of Science in Electrical and Computer Engineering
+University of Wisconsin  -  Milwaukee, WI
+
+Bachelor of Science in Electrical and Computer Engineering
+Zhengzhou University
+
+

@@ -1,0 +1,80 @@
+Ram Singh
+
+Software developer - Big Tree IT Solution
+
+Noida, Uttar Pradesh - Email me on Indeed: indeed.com/r/Ram-Singh/34434a2e53b6555f
+
+WORK EXPERIENCE
+
+Software developer
+UR Group Solutions  -  New Delhi, Delhi - July 2012 to Present
+
+S.E.O. cum Web developer
+D.R.P.U. Software pvt. Ltd - September 2011 to May 2012
+
+Projects Undertaken:
+1)
+Title: Patient Information System
+Duration: Feb 2013 (Continue .)
+Platform: ASP Dot Net
+Team Size: 01
+Details: This project involves following activities:
+• Used Dot Net Framework 4.0 on front end and SQL SERVER 2008 as back end.
+•. Through this software you can manage all the management system of hospital like whole Patient information,
+doctor information etc. very efficiently.
+Role: Coding and database-handling
+
+2)
+Title: Student Care Plus
+Duration: 3 Months
+Team Size: 02
+Url: http://studentcare.urgsolutions.com
+Details: This project involves following activities:
+• Used Dot Net 3.5 framework on front end and SQL SERVER 2005 as back end.
+• It provides complete e-solution of schools, like data management of school's students, teachers, employee
+etc.
+Role: Coding and database-handling
+
+3)
+Title: UR group solutions
+Duration: 1 Month
+Team Size: 02
+Url: http://urgsolutions.com
+Details: This project involves following activities:
+• Used Dot Net on front end and SQL SERVER 2008 as back end.
+• It's provides complete IT service, It display all services and design templates dynamically.
+4)
+Title: Online Examination system (OES)
+Duration: 1.5 Month
+Team Size: 03
+Details: This project involves following activities:
+
+• Used Dot Net 3.5 framework on front end and SQL SERVER 2005 as back end.
+• Locally hostable, less costive, time saver & secure
+Role: Coding and database-handling
+
+5)
+Title: e-Learning
+Duration: 3 Months
+Team Size: 04
+Details: This project involves following activities:
+• Used Dot Net on front end and SQL SERVER 2005 as back end.
+•  A  new  era  of  learning  and  training  approaches  has  emerged  where  new  educational  Model  have  been
+developed, students could learn independently at any time or location simply by connecting the Net along with
+appropriate system and tools.
+Role: Coding and database-handling
+
+S.E.O. Profile:
+Article Submission, Blog Submission, Link Exchange, classified, CSS, Directory Submission.
+
+EDUCATION
+
+B.Tech in Computer Science and Engineering
+Feroze Gandhi Institute of Engineering  -  Raebareli, UTTAR PRADESH, IN
+2011
+
+SKILLS
+
+C,C#, Dot Net, Sql server
+
+

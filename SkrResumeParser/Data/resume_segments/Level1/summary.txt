@@ -1,0 +1,1313 @@
+Seeking a developer position in an organization where I can utilize my existing skills and knowledge and develop new skills to contribute in the accomplishment of project goals 
+Around 7 years of experience as Software Developer with 4 years on Designing and Development of Android 
+Applications for smartphone and tablet and around 3 years on Java based applicationsVery good understanding of Android Back end and UI guidelinesExpertise in developing apps using SQLite Java XML Google Maps API and GPS Location DataExcellent knowledge and working experience in Android SDK Eclipse IDE 
+ Stack and Android 
+Architecture 
+Focused on synchronous and asynchronous concurrency models background processing with 
+AsyncTasks and Services IPC AIDL Storage and retrieval of structured data fragments and broadcast receiversExpertise in working with public APIs such as Twitter Facebook Google YouTubeExtensively worked on memory leaks push notifications content providers multiple screen support data offline usage accounts and sync on AndroidExperience 
+ BluetootExperience in Architecture Design Development and Implementation Troubleshooting and Debugging 
+Testing of Software ApplicationsWorking knowledge of graphic design audio and video features and handling various kinds of media using 
+Photoshop FlashHave worked extensively on various stages of application development viz collecting requirements and providing guidelines for design creating application architecture implementation that includes various stages in development QA code signing and releasing to MarketHave interacted with customers regularly during development of the mobile applicationsDedicated 
+ player quick learner self starter excellent analytical design and problem solving skillsAlways curious to learn new skill or a new technology 
+Sponsorship required to work in the US years of IT experience with focus on Android Application development and all phases of Software 
+Development Life Cycle including Analysis Design Application Development Testing and Maintenance 
+In depth understanding of Android SDK and experience in developing mobile applications on Android platform building Custom UI using Views ViewGroups Layouts Widgets and graphics that scale based on the screen size using 9 patch images localization testing and publishing the applications to the Android 
+ 
+Experienced in developing applications with sophisticated User Interfaces using XML Layouts Animation 
+Notifications and User Interaction 
+Experience in developing consumer as well as enterprise level mobile apps using Android SDK Froyo Ginger 
+Bread Jelly Bean KitKat and Lollipop 
+Experience in Android UI toolkit basic picker list views adapters dialogs menus and Layout Managers 
+Proficient in Android application framework Activities Intents Services Content Provider 
+Experienced with 
+Android SDK tools Debugger DDMS Device Manager AVD 
+In depth understanding of Android APIs and Frameworks such as Content Providers Intents Broadcast 
+Receivers Media Player Camera Sensors and Location based features 
+Good Knowledge in Activities SQLite and Google Maps integration 
+Experience in RSS Parsing Social Media Integration 
+Experience in Core Java Servlets JSP JavaScript JMS JDBC JNDI Web Services MVC Struts EJB 
+Java Mail XML XSLT JUnit HTML Tag Libraries Custom Tags and Design Patterns 
+Good hand on experience in Eclipse IDE and debugging tools such as ADB DDMS LogCat 
+Extensive experience with C C Java JavaScript XML and SQL 
+Experienced with Agile software development processes with focus on Design and Development methodologies 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+I am an enthusiastic individual with great capability of adjusting in any environment having great interpersonal skills and capability of learning new things in shortest possible time 
+And will remain committed to the institution which appreciates such qualities 
+Proficient Android Developer with over 4 years of experience of building and testing mobile apps 
+Specializing in providing solutions for businesses and private entrepreneurs with apps with thought out features robust code and a clean user experience 
+Authorized to work in the US for any employer 
+Mid Senior level Android Application Developer whit 4 years of experience with Android SDK 
+Developed serveral applications with Android SDK for diverse client of public and private sectors in Mexico 
+City 
+Roles included application design and development 
+Very strong knowledge and work experience with Android SDK Android Architecture using synchronous and asynchronous models process in background with Asynctask Threads and Services and data storage with databases in Sqlite 
+Good experience with Web Services Restful and JSON objects 
+Strong knowledge with Locations services based on Google Maps v2 for Android 
+Solid experience with Device Sensors Android Support Libraries using APIs as Facebook Twitter Foursquare and Parse API along with the Facebook API 
+Excellent implementation of solutions based on Push Notification Services and XMPP protocols 
+Great experience in MVC and Dependency injection models and other developer patterns 
+Very strong knowledge in JSON Parsing for creates models objects 
+Strong experience with Google APIs as Google Maps G Google Analytics Google Translate API and 
+Youtube API 
+Analyst researcher and problem solving developer with the ability to find and deliver solutions always willing to learn new things in every project and improve it 
+Excellent resource management for mobile applications as images colors styles and layouts 
+Experience with application Layout resources for different screen sizes 
+Around 7 Years of experience in analysis design development implementation and testing client server and enterprise applications using Android 
+Extensive experience in Android application development 
+Good understanding in Android OS interactive application development and memory management 
+Proficient with common Android Framework API s Location Camera Notifications Maps 
+Experience in implementing native libraries in application by using Android NDK 
+Experience in using Fragments Activity workflow Action Bar Navigation Menu designs and view controls and Loaders 
+Designed GUI and interfaces with services for mobile applications 
+Asynchronous Programming in Android such as Thread pool Tasks and services Implemented the monetization of apps which has capabilities to do in app purchases 
+Good mobile and web design skills using Activities android HTML 5 Java Script AJAX and XML 
+Good experience in Object Oriented Design OOD analysis OOA modeling OOM based on Unified 
+Modeling Language UML 
+Worked on with AndroidAPI s SMS Content Provider Google Maps API SQLite and WebView 
+Worked on GUI applications using Java SWING and AWT Java Native Interface JNI 
+Experience with source code control management like subversion SVN and GIT good at using the markup languages like JSON and REST 
+Expert in writing client side validations using validation framework Java Script 
+Knowledge in working with audio and video codec s like 3GPP MPEG 4 
+Experienced in programming skills in Java including Plug in Architecture HTML CSS and XML 
+Designing and implementation of User Interfaces and Navigation elements 
+Excellent debugging and problem solving skills with Eclipse IDEA Android Studio and RAD 
+Experience in various methodologies like of SDLC like Agile development and waterfall development 
+Extensive experience in requirement analysis functional analysis excellent conceptual and logical thinking 
+Ability to grasp and master new technologies excellent analytical and problem solving skills 
+Able to take initiative work independently and also as a team player 
+Willing to relocate Anywhere 
+Over 7 years of overall IT experience in software design and development 
+Proficiency in developing and design of mobile and embedded technologies on mobile platform Android version from 23 to 51 and also application development in Android SDK 
+Good exposure in troubleshooting debugging and testing android applications 
+Extensive experience in building mobile applications using Android framework APIs Location Camera 
+Maps 
+Complete mobile life cycle experience from design development to deployment of mobile applications 
+Proficient in working with asynctask threads and services in android 
+Worked on JUnit testing framework and data interchange in Java and few databases like SQLite MySQL 
+Used SCRUM Agile software development method for managing application developments 
+Experience with GIT and Stash to handle large projects 
+Experience in building enterprise mobile applications using existing infrastructure Java J2EE platform 
+Hands on experience in object oriented designing such as Encapsulation abstraction Polymorphism 
+Cohesion and Coupling 
+Experience in design and development of Rich Mobile Applications using JavaScript XML CSS and HTML 
+Experience with profiling tuning and optimizing Java and Android applications 
+Exposure to other mobile platforms like iOS 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Over 7 years of professional IT experience including 4 year s experience in Android application development testing deployment in Consumer and Enterprise Applications 
+Proficient with Java Android SDK version Android 22 to Android 60 Froyo Gingerbread Honeycomb Ice 
+Cream Sandwich Jelly Bean KitKat Lollipop Marshmallow 
+Strong knowledge on object oriented programming and software engineering 
+Expertise in Data Structure Multithreading Collections Exception handling Socket Programming 
+Expertise in developing android applications using Eclipse IDE SQLite Java XML Android SDK and ADT plugin 
+Experience in working with Bluetooth Low Energy Wi Fi and NFC 
+Extensive experience in building mobile applications using Android framework APIs such as Location 
+Camera Animations Maps 
+In depth experience to use Google services Location services and Google Maps 
+Experience in Cross Cutting techniques like Security Operations Management and in app Communications 
+Good experience in Open GL ES Text on OpenGL and Android multi touch 
+Work experience with GIT to handle very large projects and GERRIT to submit changes for the project 
+Experience in design and development of Rich Mobile Applications using JavaScript XML CSS and HTML 
+Hands on experience in using ionic framework to build beautiful and interactive mobile apps using HTML5 and CSS3 
+Good experience in Android Network protocols and Network Security 
+Experience in using SQLite Database for mobile data management SQL SERVER database for web data management 
+Experience on Android UI components such as Text View List View Customized List View Menus Edit boxes Buttons Checkboxes Dialog boxes Alert boxes Action bars and Spinners for various layouts in 
+Application development 
+Experience in using UI designing tool such as Balsamiq and Protoshare to meet the requirements of projects and show the results to client 
+Experience in Graphic designing in Adobe Photoshop MS Visio and Front Page for rich user friendly front end contents 
+Extensive knowledge of MVC architecture and J2EE Design Patterns like Singleton Session Facade 
+Service locator DAO DTO and Business Delegate in the development of web based and distributed 
+Enterprise Applications Solid experience in application development as a Java J2EE developer using 
+WebSphere Application Server and WebSphere Studio Application Developer 
+Expertise in MVC Architecture using Struts Spring with features like the Validation Framework Tiles 
+Framework and Internationalization 
+Solid understanding in Design Patterns MVC Python Algorithms Python Data Structures 
+To secure a challenging and rewarding position as an Android Developer with an established organization that can utilize my skills knowledge and expertise 
+Key Projects Undertaken 
+Project AEN Dubai 
+Android Java Eclipse Json parsing Google map GCM Xml parsing 
+Play store link https playgooglecom store apps details id comalhutaibaendubai 
+Users can login to the respective accounts and can view messages Events and Contact numbers 
+Includes Location of registered members Namaaz timing and Doctors number 
+Application uses Push notification GCM for new Message and Google Map 
+Can view and post new classifieds 
+Project Tabudaat 
+Android Java Eclipse Alarm 
+Play store link https playgooglecom store apps details id comalhutaibtabudaat 
+To keep tab of daily assessment for particular cast in Muslims Bohra 
+Store the daily assessments related to Namaaz Tasbeeh and Zikr 
+Can make reports on the assessment 
+Application uses web services for Login 
+Project Collection 
+Android Java Eclipse Excel CSV 
+Daily collection and payment utility for accounting system 
+Can make Receipts and can send through mail 
+Importing and Exporting of the Outstanding Bills 
+Can see the Opening and Closing Balance 
+Project EYFS 
+Android Java Eclipse Json parsing 
+A simple way to manage the report of the students as part of Early Years Observations 
+Enables teachers to enroll students classes and can capture images and videos of students 
+Can make Monthly and Yearly reports and Post cards and can send to parents 
+Web services can be availed for desktop version application 
+Project RIMS 
+Android Java Eclipse Json parsing GCM 
+This application is for parents to view their children s Results Attendance and Fees can send the feedback of students 
+Parents will get notification when result came 
+Other Applications Apples Zainy StudyNet Tiny Tapps Live Wallpaper 
+Total 7 years of industry experience in developing deploying and supporting Android and Java applications 
+Experience in Agile SCRUM based development process Participated in daily SCRUM meeting and 
+Byweekly Sprint Planning 
+Proficient in Object Oriented Analysis and Design OOAD object oriented design data structures problem solving complexity analysis and debugging 
+Extensively worked on almost every stage of application development right from collecting requirements providing guidelines for design creating application architecture implementation that includes various stages in development QA code signing 
+Experience working with PMO and PO for product development and designing 
+Experience in using Android Studio Android SDK ADT Gradle for development 
+Experience in Android application UI design implementation and development 
+Experience implementing Activities and Fragments for creating user interface 
+Experience in Consuming RESTFul Web services in android and efficient data transfer between servers and devices 
+Good knowledge in using version control system like Github Subversion 
+Extensive experience in using the Design patterns like Singleton Factory and Builder Patterns 
+Experience using various Android tools like Hierarchy Viewer ADB LogCat lint 
+Extensive experience in debugging the application using ADB shell commands Device Monitor Systrace traceview 
+Experience using Google Support Libraries like Support V4 App Compat v7 and Design libraries 
+Experience of Integrating and Using Third party libraries like Retrofit Event Bus GSON ButterKnife OkHttp 
+Volley Picasso GooglePlayServices 
+Experience in using File system storage provided by Android SharedPreferences SQLite Content Providers 
+Good Knowledge on Using NDK creating JNI wrapper classes and Integrating C libraries in Application 
+Experience in Front end web development using HTML CSS and JavaScript 
+Regarded as self motivated and well organized team player 
+Always like to learn new technologies and programming languages 
+Willing to relocate Anywhere 
+Sponsorship required to work in the US 
+Innovation driven IT professional with diverse experience in developing software designing data processing applications and customizing new functionality Proven expertise in translating client requirements to successfully align development results within expectations 
+Accomplished in delivering long term resolutions navigating programming challenges and resolving issues by designing and implementing the latest technologies 
+Successful in following the Software Development Life Cycle SDLC Software Test Life Cycle 
+STLC and defect life cycle management 
+Permanent US resident with a green card 
+Fluent in Russian with strong proficiency in English 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Expertise in developing applications for Android operating system using Android Studio Eclipse IDE SQLite 
+Java Android SDK 23 to 60 and ADT plugin 
+Proficient with common Android framework APIs Email Web View Google Maps Telephony API Camera 
+Contact Manager and developing Android Framework Services using Intent Services 
+Experience in working with SQLite Database Google Maps API GPS Location Data and Push Notifications 
+Experience in Notifications Adapters Content Provider Services XML 
+Experience in developing applications using Third Party APIs such as YouTube Facebook Twitter and 
+Picasso 
+Experience in using Fragments Activity workflow Action Bar Navigation Menu Designs and view controls and Loaders 
+Expertise in Data Structure Multithreading Collections Exception handling 
+Experience in designing UI layouts using Linear Layout Relative Layout Frame Layout Table Layout and using Android Widgets and custom Widgets 
+Designed GUI and interfaces with services for mobile applications Asynchronous Programming in Android such as Threads and Services 
+Undertaken full life cycle of Android Application Development which includes testing on device and emulator 
+Excellent debugging and problem solving skills with Eclipse IDEA Android Studio 
+Hands on Experience in JDBC Servlets and JSP 
+Extensive experience in requirement analysis functional analysis excellent conceptual and logical thinking 
+Strong knowledge of Web Services SOAP RESTFUL 
+Co worked with agile team by scrum experience with GIT and SVN 
+Well versed with complete life cycle development process which includes designing development testing an implementation 
+Self motivated and excellent abilities to learn new languages and other concepts quickly excellent interpersonal skills and abilities to communicate with team players 
+Design and build efficient and user friendly interactions in Android 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Over 71 2 years of android applications development experience for phone and tablets devices 
+Experience in Mobile development using Google Android platforms 
+Expertise in developing application for Android Operating System using Eclipse IDE Java and Android SDK 
+Strong knowledge of Android basic components ie 
+Activity Fragment Service Broadcast Receiver and 
+Content Provider 
+Experience in software engineering and development agile development methodologies and test behavior driven development 
+Extensive experience in building mobile applications using Android framework APIs Sqlite Database 
+Camera Animations Maps 
+Worked with Android adapter views like List view Grid view and Gallery 
+Experience developing in Unix Linux environment 
+Experience in front and back end Application development 
+Proficient in writing Test plans Test cases and Test scripts 
+Experience with an SCRUM Agile RAD software development methodology 
+Experience in building apps which consume REST and SOAP web services using JSON XML parsing 
+Experienced in using a web based application used for managing tests scenarios and defect tracking and management 
+Working experience in Android Connectivity components like Bluetooth Wi Fi and Location Based Services along with Google Maps API v2 
+Involved in different phases of Software Development Life Cycle SDLC requirement gathering analysis 
+Designing Implementation and Testing 
+Excellent conceptual and logical thinking ability to grasp and master new technologies 
+AndroidContractorcom Implementing apps using Material Design Navigation Drawer Fragment Recycler view Multi Threading Threads AsyncTasks Handler and supporting multiple screens devices with 
+Adaptive dynamic UI Flow and Fragment 9 Patch graphics 
+Programming Android Components Android 
+Framework and the interactions Activities Lifecycle Intent implicitly explicitly Services started Bound 
+IntentService communication Broadcast Receiver Content Provider SQLite Preferences Parsecom and JSON data from REST Services Android UI design pattern Java and XML memory and resources management 
+Debugging and Fixing Android Apps Logcat Android Debug Bridge Traceview 
+Willing to relocate 
+Authorized to work in the US for any employer 
+Over 8 years of Software Design and Development Experience and over 5 years in Android based applications with equivalent knowledge in Java development 3 years of experience in Java Applications development and programming languages like C C 
+Over 1 and half year of experience in Web services development and Android SDK 
+Expertise in developing Applications using Android Studio and Eclipse IDE and worked on ADT plug ins of 
+Android like SQLite 
+Expertise in integrating API with SDK of versions from 21 to latest Lollipop 51 
+Proficient in App UI design for both Android Widget using RemoteViews and the app itself using the Material 
+Design which includes RecyclerView GridView NavigationDrawer Scroll Tab Swipe Tab Fragment Dialog 
+Box Animations Vector Drawable ListView and so on 
+Experience in applying System Development Life Cycle SDLC and Object oriented analysis and design 
+OOAD for applications and understanding of business rules 
+Proficient with common Android framework APIs Location Camera Notifications Maps 
+Experience managing apps and Memory Management using Paging and Hash mapping 
+Knowledge of Data Synchronization and Data Manipulation techniques 
+Worked with UX Designers Architects Developers to build enterprise mobile solutions 
+Good understanding of SOAP Web Services XML Parsing and JSON 
+Experience in Web Technologies like HTML5 CSS AngularJS JQuery J2EE 
+Highly proficient in dealing with Threads and Multi threading concepts such as Synchronized 
+Proficient in Bootstrapping with XML based applications 
+Expertise in shaping the project structure using UML diagrams with help of Rational Rose 
+Expert in building Client Server computing with basic TCP and UDP Socket Programming web based n tier architecture Database design and development of applications using J2EE Design Patterns like Singleton 
+Session Facade Factory Pattern and Business Delegate 
+Experience with GIT JIRA Sonar Maven Jenkins tools 
+Had working knowledge on messaging related technologies like GCM SMS MMS XMPP SMTP Skilled in working on Database Schemas with MySQL Oracle 11g and Microsoft Access 
+Working knowledge on Database arranging software like Informatica DataStage 
+Experience in writing and executing unit test cases using JUnit Testing Framework and debugging 
+Knowledge on various deployment processes like Continuous Integration Delivery 
+Experience in using GIT as control of source for most android applications 
+Experience in low energy Bluetooth technology 
+Worked closely with Business Analysts and QA team members to understand requirements design and ensure system meets business and technical objectives 
+Experience working in on off shore models 
+Experience in working automated tests and writing into manual test cases 
+Over 7 years of overall IT experience in software design and development 
+Proficiency in developing and design of mobile and embedded technologies on mobile platform Android version from 23 to 44 and also application development in Android SDK 
+Good exposure in troubleshooting debugging and testing android applications 
+Extensive experience in building mobile applications using Android framework APIs Location Camera 
+Animations Maps 
+Hands on experience using media framework using Android API and skills like multimedia usage video sound and graphics networking 
+Complete mobile life cycle experience from design development to deployment of mobile applications 
+Worked on JUnit and used JSON testing framework and data interchange in Java and few databases like 
+SQLite MySQL 
+Used SCRUM Agile software development method for managing application developments 
+Used Repository Management tool across network operations 
+Worked with GIT to handle very large projects and GERRIT to submit changes for the project 
+Experience in building enterprise mobile applications using existing infrastructure Java J2EE platform 
+Hands on experience in object oriented designing such as Encapsulation abstraction Polymorphism 
+Cohesion and Coupling 
+Experience in design and development of Rich Mobile Applications using JavaScript XML CSS and HTML 
+Solid understanding of Java J2EE architecture object oriented principles and Object oriented analysis design and development for mobile and enterprise applications 
+Experience in version control systems like CVS SVN and application servers like Tomcat 
+Over 7 years of experience as Software Developer with 5 years on Designing and Development of Android 
+Applications for smartphone and tablet and around 2 years on Java based applications 
+Areas of interest include mobile development and databases 
+Very good understanding of Android Back end and UI guidelines 
+Proficient with common Android framework API s 
+Experience in developing Android application using SQLite Java MobileJQuery Eclipse IDE Android Studio 
+Android SDK and ADT plug in 
+Java Programming experience using various mobile development environments including Android SDK 
+Experienced in interfacing mobile applications with back end server using web services based on Java 
+Focused on background processing with AsyncTasks and Services IPC AIDL Storage and retrieval of structured data fragments and broadcast receivers 
+Extensively worked on memory leaks push notifications content providers multiple screen support data offline usage accounts and sync on Android 
+Expertise in building source code troubleshooting build configuration integration issues communicating and resolving source code related issues between various teams of the project 
+Experience in Architecture Design Development and Implementation Troubleshooting and Debugging 
+Testing of Software Applications 
+Extensive experience in dealing with both REST as well as SOAP based web services 
+Experience in porting applications to multiple Android OS versions and multiple form factor based devices like Phones and Tablets 
+In depth knowledge in database development using SQLite SQL Server MySQL andCouchDB 
+Experience with using IDEs Eclipse Android Studio and Visual Studio 
+Strong experience with Object Oriented design and methodologies using Visual Paradigm Visio and UML 
+Studio 
+Experience in Atlassian tools such as JIRA and Confluence to manage and keep track on progress of project 
+Good understanding with Operating Systems like UNIX Windows and Mac OS 
+Skilled with open source version control tools such as SVN and GIT for version tracking and deployment 
+Working knowledge of graphic design audio and video features and handling various kinds of media using 
+Photoshop 
+Test driven development using appuim tool and also java and android instrumentation frameworks 
+Roboelectric and Robotuim 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer years of total IT experience in developing mobile and web applications years of experience in Native Android Application Development 
+Android Developer with a solid understanding of the Android Application framework 
+Expertise in developing Android application using Android Studio Netbeans IDE SQLite JAVA Android 
+SDK and ADT plug in 
+Experienced with Major Social Networking APIs 
+Experienced in Object Oriented programing 
+Experienced in different phases of software development life cycle including designing programming and testing 
+Experienced in working in an Agile environment 
+Experienced in Code merging using GIT 
+Experienced in leading a team of developers on site and off shore 
+Experienced in leading bug triage calls and assigning bugs to respective teams 
+Experienced Developer offers expertise in Mobile Application Development 
+Known as a resourceful team player who excels in uncovering needs providing solutions and handling obstacles while demonstrating the ability to successfully complete projects on time and within budget constraints 
+Willing to relocate to San Francisco Bay Area CA 
+Authorized to work in the US for any employer 
+To be recognized and be responsible in the software development space providing competitive comprehensive and challenging results which aid the software development engineering process yield better products applications and service 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Created user friendly aesthetically pleasing and fully functional applications for Android mobiles 
+Known for writing efficient maintainable and reusable codes 
+Proficient in object oriented design data structures problem solving complexity analysis and debugging 
+Conceived developed and implemented one informative newspaper app in more than 10 languages https playgooglecom store apps details id comtamilnewspapersindia 
+Expert in the interaction between various devices and different versions of Android 
+Regarded as a self motivated and organized team player 
+Skills Summary 
+Willing to relocate to New York NY 
+Authorized to work in the US for any employer 
+Around 7 years of Software Design and Development Experience in Java based applicationsAround 5 years of experience on smartphone and tablet development experience 
+Developed and architected multiple Android applications across versions I have a good understanding of Android Back end and UI guidelinesExtensively worked on almost every stage of application development right from collecting requirements providing guidelines for design creating application architecture implementation that includes various stages in 
+ QA code signing and releasing to MarketVery good understanding of Android Back end and UI guidelinesExpertise in Android App development with Android SDK using Eclipse IDE and Android Studio 
+Experienced with Oracle SQL MYSQL SQLite databases 
+Expertise in working with public APIs such as Twitter Facebook Google YouTube 
+Experience with audio features video features graphics design interactive design and animation 
+Have developed applications in such a way that device adaptability Android device forms and SDK levels is default architecture imperative 
+Expertise in Object Oriented Architecture Design and Programming from design to implementation 
+Experience in architecture design development and implementation of software applications and testing 
+Have hands on experience in complete project life cycle with domain knowledge in Mobile Application 
+Development and Web application development 
+Working knowledge of graphic design and handling various kinds of media using Photoshop Illustrator and 
+DreamweaverHave interacted with customers regularly during development of the mobile applicationsDedicated team player quick learner self starter excellent analytical design and problem solving skillsAbility to coordinate with various team members involved in the project years of diverse experience in mobile software development years of experience 
+ Android application development with Android SDK 
+Complete understanding of System Development Life Cycle SDLC for applications and understanding of business rules highly experienced in Agile or Scrum software development methodology 
+Adept at quickly adapting to new environments new technologies and facing new challenges 
+Hands on experience implementing multi threading in Android using Asynchronous Async task thread and handler and communicating with the UI Thread 
+Understanding of Object Oriented design pattern and successfully implemented the concepts in Android 
+Strived for elegance and simplicity in code while focusing on scalability readability and standards compliance 
+Experienced in Object Oriented Programming concepts and implementation using Java 
+Knowledge of Android app components 
+Good team player good design skills and excellent learning skills 
+Extensive knowledge designing and developing adaptive UI components for Android phones with different screen resolutions 
+Experienced in integrating Google API s and other third party API s such as OkHttp API 
+Experience designing custom UI based on wire frames in xml worked with Activities fragments custom layouts using relative layout linear layout Frame layout Grid Layout Table Layout custom themes list views widgets action bars animation dialogs and notifications 
+Hands on experience debugging an app in android studio 
+Hands on experience creating and consuming REST based web services 
+Hands on experience with parsing JSON data 
+Excellent debugging and problem solving skills 
+Knowledgeable of SVN and code reviews using Github 
+Multitask oriented with strong competitive drive and work ethic to succeed 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer years IT experience entailing 4 years in Android based Mobile Applications and 3 years in Java based applications analysis design development for multiple screen sizes for both android phones tablets 
+Knowledge of handling any new mobile technology for any kind of application development using Java J2EE 
+Servlets JSP XML Eclipse JDBC Web Services AJAX Oracle MySQL SQL HTML CSS 
+Expert in Software Development Life Cycle SDLC of applications design development including SCRUM 
+Agile Waterfall models using Android Software Development Kit SDK V23 50 Gingerbread Lollipop 
+Designed developed responsive web pages with new trends using most recent User Interface UI patterns to be used by browsers at desktop tablets or phones designed GUI interfaces with services for mobile applications 
+Experience in Web Services using SOAP REST FUL API to fetch data for mobile front end and parsing the web response data in both XML JSON format using different parsers 
+Developed personal projects using Phone Gap integrated various third party Open Source APIs like 
+Facebook Twitter YouTube Instagram Google Maps API V2 for custom Android applications 
+Exposure in Android UI components ListView GridView Customized Views Menus in application development implementing native libraries in application using Android NDK 
+Experience in using Fragments Activity workflow Action Bar Navigation Menu designs view controls 
+Loaders and using Storage options in Android like Shared Preferences 
+Proficient with common Android Framework API s Location Camera Notifications Maps with good knowledge of the Android Architecture Android Concurrency and Android Middleware 
+Experience with profiling tuning optimizing Java applications and branching pushing merging codes with remote repository GIT used GitHub in application development 
+Worked on JUnit used JSON testing framework data interchange in Java and SQLite MySQL databases 
+Worked on Bluetooth Audio profiles A2dp AVRCP HFP and Bluetooth stack BlueZ BlueDroid 
+Knowledge of C C Java Multi threading OOPs technologies Open Source Version Control tools SVN 
+GIT for tracking deployment Atlassian tools JIRA Confluence to manage and track project progress 
+Willing to relocate Anywhere 
+I am an enthusiastic individual with great capability of adjusting in any environment having great interpersonal skills and capability of learning new things in shortest possible time 
+And will remain committed to the institution which appreciates such qualities 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+To contribute my effort proactive attitude and positive atmosphere to help improve the Software industry and myself 
+Willing to relocate Anywhere 
+Sponsorship required to work in the US 
+I am fun and energetic I like working in a team I am responsible person and I am very dedicated to my work 
+As you probably guessed from my app I like sports 
+I do workout at home every single day and in the evenings 
+I watch TV shows with my husbanplus years of experience in the field of Android Smartphone and Feature phone development 3 plus years of dedicated experience in Android Application Analysis Design Development Integration deployment and 
+Maintenance Support for Standalone and Client Server based Android Applications 
+Apps published in the Google Play Store 
+Strong knowledge and experience of Android Application development 
+Experience with offline storage threading and performance tuning 
+Experience in monetizing apps using Ad Networks 
+Experience in Google Analytics cloud message APIs and push notifications 
+Experience with RESTful APIs to connect Android applications to backend services 
+Good Experience with third party libraries and APIs 
+Good understanding of material design 
+Familiar with Android versions up to Android 7 
+Worked with various code versioning tools including Git 
+Good work exposure in software development with responsibilities as Software developer Project Leader 
+Team Leader Team Member and Onsite Coordinator 
+Worked at Samsung headquarters South Korea for 1 year for the development coordination with Indian teams for different GSM mobiles phone projects 
+Always Ensured code quality performance and schedule compliance of the assigned module 
+Excellent Android application debugging skills 
+Good experience of team handling and Mentoring new team members 
+Excellent analytical problem solving technical and communication skills 
+Certified Android Developer with Over 7years of IT Experience in Software Development and 4years of 
+Complete Android application Development life cycle analysis design development and testing experience since SDK version 23 Gingerbread to 60 Marshmallow 
+Hands on experience in writing the Mobile applications for various mobile device manufactures like HTC 
+LG Motorola Samsung and platforms such as Android 
+Experienced Mobile Android Developer who designed and developed consumer application for Android mobile devices with extensive user interface development 
+Proficiency in developing and design of mobile and embedded technologies on mobile platform Android with 
+SDK version from 23 to 42 and application development in Android NDK 
+Good understanding in End user requirement analysis Android OS interactive application development and full Software Development Life Cycle SDLC 
+Proficient with common Android Framework API s Email Web View contact manager Camera Notifications 
+Maps 
+Strong working knowledge in Android architecture and experience in Android API s 
+Good experience with object oriented programming analysis and design patterns 
+Good understanding of memory management and data structures 
+Good understanding of Android SDK UI Framework and ADT tools 
+Experience with query languages such as SQL and SQLite 
+Experience with using multi threading technologies such as Handler AsyncTask and Thread 
+Experience in using Storage options in Android like Shared Preferences 
+Knowledge in designing and developing adaptive UI components widget for android phones tablets using 
+Notifications Adapters Content Provider Services XML Parsing SQLite 
+Worked extensively with Eclipse Android Studio Visual Studio and QT 
+Experience of developing android apps for different screen size and resolution 
+Experience of working in mobile teams to design develop and implement new features 
+Experience of working with test teams to fix bugs improve performance and validate the design implementation 
+Experience in web services using markup languages like JSON and REST 
+Experience with consuming APIs and RESTful web services 
+Experience of working in agile environment involving scrum meetings with UI design implementation and testing teams 
+Experience with code repositories such as SVN and GIT 
+Experience with code management tools like GitHub Clear case Beyond Compare familiar with Android location based services 
+Experience in various methodologies like of SDLC like Agile development and waterfall development 
+Excellent working experience with variety of operating systems like Macintosh Windows Ubuntu and Fedora 
+Willingness and ability to learn and adapt to new technologies and languages 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+I am an experienced Mobile Application developer with total 10 years of experience having developed mobile applications for Android Symbian mobile platform for 6 years and also worked on developing mission critical real time application for missile tracking and controller for AKASH Surface to Air 
+ SAM system 
+Experience with Android APIs Services Push Notifications In App Purchases WebView UIWebView 
+HTTP protocols SQLITE3 Content Providers and Code Obfuscation 
+Experience with Web Languages JavaScript HTML 
+Understanding of how to implement concurrent and parallel programming on Android 
+Experience with Agile Development Methodologies worked as scrum master 
+Excellent understanding of Application Life Cycles in Android 
+Understanding and Experience with Build and Deployment Processes for Android Apps 
+Self motivated and a good team player with excellent communication and interpersonal skills 
+Experience with SCM tools Git Gerrit and SVN 
+Demonstrating and leading distribution of tasks and implementation of designs among colleagues to distribute and integrate work accordingly 
+Work with management to talk through design plans distribution of work and time schedules especially when new technologies arrive that the company wants to implement 
+Mentored junior team members 
+Technical Skill 
+Frame Works Android SDK 
+Operating Systems Windows LINUX Lynx RTOS 
+Databases SQL Server SQLITE 
+Native Languages C C C Java 
+Mark up Languages HTML CSS CSS3 
+Web Languages JavasScript 
+Development IDE s Eclipse Android Studio Visual Studio 
+Project Methodologies Agile Scrum 
+Hardware Platforms Debugging Android Emulator 
+Willing to relocate 
+Over 8 plus years of Software Design and Development Experience in Java based applications 
+Over 4 years of experience on smartphone and tablet development experience 
+Developed various Android applications across versions with a good understanding of Android Back end and UIguidelines 
+Experience in web service protocols such as JSON HTTP and XML 
+Expertise in developing apps using SQLite java JavaScript XML and HTML5 
+Extensively worked on memory leaks push notifications content providers multiple screen support data offline usage accounts and sync on Android 
+Have developed applications in such a way that device adaptability Android device forms and SDK levels is default architecture imperative 
+Experience in testing framework Genymotion Espressoand Robotium 
+Experience in Object Oriented Architecture Design and Programming from design to implementation 
+Experience in developing applications using Java J2EE Struts spring and JSP 
+Experience in architecture design development Bootstrap and implementation of software applications and testing 
+Experience in various JAVA J2EE technologies such as J2EE JRE JDBC 30 JSP 12 20 Servlets 
+Json Struts 12 and RESTFUL Web Services 
+Proficient in Android applications development involving User Interface development Shared Preferences 
+Notifications Adapters Content Provider Services XML Parsing SQLite and Telephony Manager HttpClient 
+Google Maps AsyncTasks Libraries 
+Exposure in cloud integration like Google Drive Dropbox with android application 
+Experienced of working on Android platformand customizing it as per requirementsDedicated team player quick learner self starter excellent analytical design and problem solving skillsKnowledge on designed platform abstraction layer PAL over android HAL framework to interface the tightly coupled proprietary platform from native architectureExperience on 
+ HAL customizationKnowledge on Native codeGood exposure in troubleshooting and debugging android applications 
+Hands on experience in deployment publish android application on Google Play market 
+Well versed in developing GUI using Interface design principles for Android mobile and tablet devices 
+Ability to multi task in a complex production environment 
+Ability to work independently and as part of a team in a fast paced environment in order to drive a task through to completion 
+Excellent communication and interpersonal skills 
+Always curious to learn new skill or a new technology 
+Worked withReact Nativeframework on IOS for building native applications 
+Willing to relocate Anywhere 
+Over 8 years of IT experience with 5 years experience in Mobile Applications using Android and experience in analysis design and development on Java Technologies 
+Experienced in different phases of software development life cycle SDLC like designing programming testing and meeting the requirements of the clients 
+Extensive experience in design development and deployment of Android Applications 
+Proficient with Java C Android SDK version Android 15 to Android 7 Gingerbread Honey comb Ice cream sandwich Jellybean Kit Kat Lollipop Marshmallow N and Android NDK 
+Expertise in developing applications for android operating system using Eclipse IDE SQLite Java XML 
+Android SDK and ADT plug in 
+Extensive experience in building mobile applications using Android framework APIs such as Location 
+Camera Animations Maps 
+Experience in developing applications using Social Networking APIs such as Facebook and Twitter 
+Extensively worked with Android SDK and Eclipse IDE along with Android ADT plug in 
+Hands on experience using media framework using Android API and skills like multimedia usage video sound and graphics networking 
+Worked with MOCKEY an fake service manager which helps in running the app when the services are unavailable 
+Also for testing 
+Also worked with the third party library Flow and Mortar frame work 
+Other than fragments 
+Experience on Android UI components such as TextView List View Customized List View Menus Edit boxes Buttons Checkboxes Dialog boxes Alert boxes Action bars and Spinners for various layouts in 
+Application development 
+Expertise in developing applications for android operating system using Eclipse IDE SQLite 36 Java16 
+XML Android SDK 22 and ADT plug in 
+Expertise in Application development in IDE s like Eclipse Android SDK Dreamweaver 
+Experience in parsing the web response data in both XML and JSON format 
+Experience in Developing Applications using Java J2EE Servlets JSP XML Eclipse JDBC Web Services 
+AJAX Oracle MySQL SQL HTML and CSS 
+Experience in using SQLite Database for mobile data management SQL SERVER database for web data management 
+Experience with profiling tuning and optimizing Java applications 
+Experience working with different operating systems like Windows and Linux 
+Good understanding in Testing Mobile applications and bug tracking for the production team fixing 
+Strong at problem solving and understanding new technical concepts quickly and produce meaningful results 
+Self motivated and excellent abilities to learn new languages and other concepts quickly excellent interpersonal skills and abilities to communicate with team players 
+Willing to relocate Anywhere 
+Around two years of experience in Android app development with Android SDK 
+Experience in developing applications for android wear and tab 
+Experience with Bluetooth Low Energy BLE 
+Experience in interacting with RESTful web APIs and JSON 
+Made use of communication between common data between apps over network requests using Retrofit and Volley 
+Worked with GSON and Jackson to parse the JSON 
+Implemented SQLite database Realm SharedPreferences and Content Provider in application data management 
+Experience with LeakCanary in order to find memory leaks optimize and improve the performance 
+Good Knowledge of Material Design including RecyclerView CardView SnackBar 
+FABs Navigation Drawer ToolBar etcExperience of working in Agile methodology 
+Adept at quickly to the new environment new technologies and facing new challenges 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+In depth experience over 7 years in Android application design development testing deployment in both consumer and enterprise based applications 
+Extensively worked on different stages of application development right from collecting the requirements providing guidelines for design creation of application architecture implementation that includes various stages in development code signing and release into the market 
+Profound experience in Software Development Life Cycle Requirements Gathering Project Design 
+Development and maintenance phases 
+Skilled in developing APIs for middle ware Framework modules for mobile platforms using Java 
+Extensively worked with Android SDK Android Studio and Eclipse IDE along with Android ADT plug in 
+Extensive experience in building mobile applications using Android framework APIs such as Location 
+Camera Animations MapsDesigned GUI and interfaces with services for mobile applicationsExperience in using Fragments Activity workflow Action Bar Navigation Menu designs and view controls and Loaders 
+Experience in designing UI layouts using Linear Layout Relative Layout Frame Layout Table Layout and using Android Widgets and custom WidgetsExperience in using Storage options in Android like Shared PreferencesDesigned GUI and interfaces with services for mobile applications Asynchronous Programming in Android such as Thread 
+ Tasks and services 
+Implemented the monetization of apps which has capabilities to do in app purchases 
+Experienced in integrating payments in apps such as PayPal Authorizednet 
+Hands on experience using media framework using Android API and skills like multimedia usage video sound and graphics networking 
+Excellent in troubleshooting and debugging software applications creating executing and documenting test cases for Android app 
+Experience in using SQLite Database Content Providers and Sync Adapters for mobile data management 
+Experience in working with XML parser s RESTful API s and server side technologies like Apache and PHP 
+Solid understanding of interfacing to back end system using XML JSON REST API OAUTH etc 
+Expertise in using Design patterns and object oriented methodologies to design software for mobile phones 
+A valued team member with strong written communication verbal communication skills problem solving skills customer service and interpersonal skills 
+A self driven goal oriented customer focused software professional with proven ability to successfully work in all phases of Software development lifecycle 
+Years of experience of Design Development and integration in Mobile Application Development on Android platform 
+Currently client Samsung Electronics America for 4 years 
+Strong experience in Java Object Oriented concepts Design Patterns Data Structure and Algorithms 
+Worked on Android OS Version Android 15 20 23 30 40 50 
+Expertise in developing android applications using Android studio Eclipse IDE SQLite Linux Android SDK and ADT plugin 
+Excellent knowledge of working in Android SDK and various Android components like Activities Content 
+Providers Services AIDL background processing with Async Tasks Notification Manager Android UI toolkit 
+Fragments Loaders Adapters XML Layouts 
+Experience in using Android Debugging tools like ADB DDMS Lint 
+Used tools to optimize the application like Hierarchy Viewer Trace View Overdraw Debugger 
+Takes care of memory management by scaling of bitmaps unregistering receivers stopping services when not in used etc 
+Have knowledge of consuming REST API s from a cloud based Customer Service Platform and parsing the web response data in both XML and JSON format 
+Understanding of different design patterns used in Android framework like MVC builder singleton Adapter 
+Observer etc 
+Performed testing of the individual modules using Junit framework and Instrumented unit tests 
+Worked on core applications like Email Calendar Contacts 
+Followed SDLC Analysis Design Development Review Testing Scrum Agile Practices in Projects 
+Proficiency in designing application for different Carriers Verizon ATT TMO for different screen sizes 
+Strong experience in Communication with Cross functional globally located teams like Business UX during multiple phases of product delivery 
+Received Star Team Award for delivering quality product with minimal time duration 
+Received Spot Recognition Award for contributing in the project in a very tight schedule 
+Published below apps on Google Play Store 
+Tag It https playgooglecom store apps details id comsvlsamsungtag 
+Easy Bug Report https playgooglecom store apps details id comsamsungmnotakebugreport 
+Sponsorship required to work in the US life cycle like requirements gathering in each phase of software developmyears of Software Design Development and Maintenance of mobile applications using Android SDK and web applications using Java J2EE 
+Experience analysis design development testing deployment and maintenance of Software Applications 
+Strong Knowledge in Waterfall Agile Scrum software development models years of Experience in Design and Development of Android Applications using Android SDK Eclipse IDE 
+Android Studio SQL SQLite Java XML JSON 
+Published Several Android Applications in Google Play Store 
+Tested Several Android Applications using real devices Geny Motion and Android Virtual Device 
+Hands on experience on memory leaks push notifications multiple screen support data offline usage audio features video features graphic design and animation 
+Proficient in Working with different Android frameworks Bluetooth Location Camera Notifications Maps 
+Expertize in Android UI toolkit basic picker list views adapters dialogs menus and Layout Managers 
+Expertize in web service protocols such as JSON HTTP XML and Hybrid app using Phonegap 
+Implemented Several Android Applications using Google Maps API Geocoder API 
+Proficient in Internet Application Programming using technologies like Core Java Struts Spring Web 
+Services Hibernate EJB JSP Servlets JDBC RMI JNDI SOAP 
+Good Exposure with HTTP GET and POST Requests and parsing different types of responses 
+Hands on Experience in developing web based GUI using Java Applet Servlets JSP AJAX JavaScript 
+HTML and CSS3 
+Solid Understanding in Core Java concepts like Collections Multi Threading Socket Programming and 
+Exception handling 
+In depth Knowledge on Android basic components ie 
+Activity Fragment Service Broadcast Receiver and 
+Content Provider 
+Good Exposure in working with Async task Threads and Services in android 
+Experience in localizing the application to support multiple languages 
+Good Knowledge in version control systems like SVN and GIT 
+Knowledge of scripting in UNIX LINUX XML XSLT XML Schema 
+Built different Applications using databases like Oracle SQLite and MySQL 
+Excellent communication analytical and problem solving skills 
+Passionate to learn new skills and technologies 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Recent college graduate with an aim to obtain a position in a challenging environment that utilizes team work and effort to research learn and develop new high tech products 
+Authorized to work in the US for any employer 
+Over 8 years of IT experience as an Application Programmer in the areas of B2B EAI Web and Client 
+Server Applications 
+Over 6 years of experience in Android application development Testing and Deployment in both enterprise and consumer based applications 
+Experienced in all phases of SDLC including Design Documentation Implementation and Testing on 
+Windows and Linux 
+Good programming skills and hands on experience in developing Android enterprise applications for mobiles and tablets using IDE s like Eclipse Android Studio Android SDK and ADT development tools in JAVA environment 
+Proficient with Android SDK version Gingerbread Honey Comb Ice Cream Sandwich Jellybean Kit Kat 
+Lollipop 
+Experience on Android UI components such as TextView ListView Customized ListView Menus Edit boxes 
+Buttons Checkboxes Dialogs Alert boxes Status Notifications Action bars and Spinners for various layouts in Application development 
+Active experience in developing Android Applications using Core Java and Android APIs Data Storage 
+Multimedia Connectivity and Location 
+Working experience in consuming RESTful web services to fetch data for mobile front end and parsing the 
+XML and JSON response using different parsers 
+Proficient in database development and implementation using MySql Experience in writing queries with 
+Oracle 
+Experience in working with the version control CVS SVN GIT Bug tracking tools 
+Experienced in implementing and maintaining cloud services on Microsoft Azure and Amazon Web Services 
+AWS 
+Developed and implemented various Multimedia Applications for the Android 
+Implemented RxJava functionality in android project 
+Working knowledge on developing IOS application using Objective C 
+Experience on consumed API s through retrofit http url and Okhttp 
+Proficient with common Android framework APIs Phone Gap Web View Google Maps Telephony API 
+Camera Contact Manager 
+Excellent debugging and problem solving skills with Eclipse IntelliJIDEA Android Studio and RAD 
+Experience in trouble shooting production issues and Quality Assurance 
+Experienced on the Test Driven Development TDD for the Unit testing by the use of OCUnit Framework 
+Knowledge on TDD for the JUnit Test cases 
+Experienced in dependency injection daggar 20 and Rx java 
+Worked on the POC of video streaming android application development 
+Experienced in Google Cloud Messaging GCM Google Maps API v2 and Google Analytics integration using Mix panel 
+Ecperience on iOS native application development 
+Hands on experience in integrating Social Media Network APIs such as Facebook Twitter YouTube and other open source APIs into Android applications 
+Successfully deployed the app on the Android Marketplace and supported the app for different releases of 
+Android OS 
+Possessing strong analytical skills an excellent team player with good leadership qualities and strong oral and written communication skillsWilling to relocate Anywhere 
+Authorized to work in the US for any employer years of Software Design Development and Maintenance of mobile applications using Android SDK and web applications using Java J2EE 
+Experience in each phase of software development life cycle like requirements gathering analysis design development testing deployment and maintenance of Software Applications 
+Strong Knowledge in Waterfall Agile Scrum software development models years of Experience in Design and Development of Android Applications using Android SDK Eclipse IDE 
+Android Studio SQL SQLite Java XML JSON 
+Published Several Android Applications in Google Play Store 
+Tested Several Android Applications using real devices Geny Motion and Android Virtual Device 
+Hands on experience on memory leaks push notifications multiple screen support data offline usage audio features video features graphic design and animation 
+Proficient in Working with different Android frameworks Bluetooth Location Camera Notifications Maps 
+Expertize in Android UI toolkit basic picker list views adapters dialogs menus and Layout Managers 
+Expertize in web service protocols such as JSON HTTP XML and Hybrid app using Phonegap 
+Implemented Several Android Applications using Google Maps API Geocoder API 
+Proficient in Internet Application Programming using technologies like Core Java Struts Spring Web 
+Services Hibernate EJB JSP Servlets JDBC RMI JNDI SOAP 
+Good Exposure with HTTP GET and POST Requests and parsing different types of responses 
+Hands on Experience in developing web based GUI using Java Applet Servlets JSP AJAX JavaScript 
+HTML and CSS3 
+Solid Understanding in Core Java concepts like Collections Multi Threading Socket Programming and 
+Exception handling 
+In depth Knowledge on Android basic components ie 
+Activity Fragment Service Broadcast Receiver and 
+Content Provider 
+Good Exposure in working with Async task Threads and Services in android 
+Experience in localizing the application to support multiple languages 
+Good Knowledge in version control systems like SVN and GIT 
+Knowledge of scripting in UNIX LINUX XML XSLT XML Schema 
+Built different Applications using databases like Oracle SQLite and MySQL 
+Excellent communication analytical and problem solving skills 
+Passionate to learn new skills and technologies 
+Willing to relocate Anywhere 
+Android Developer with 4 years of experience Software Development Application Maintenance Support 
+Experienced in full cycle mobile applications development application design development testing and delivering including creation Android applications based on similar one for iOS 
+In depth knowledge of analyzing information system needs design and evaluating end user requirements testing and development of mobile applications for phone and tablet devices from scratch 
+Experienced in working with clients business manager and technical team for executing concurrent projects 
+Authorized to work in the US for any employer 
+A motivated and security oriented developer offering 7 years experience in Software Designing implementing and Development Experience in Java based applications 
+Around 4 years of experience on Smartphone and tablet development experience 
+Developed and architected multiple Android applications across versions 
+Experience in working with Android Marshmallow 
+Good understanding of Android Back end and UI guideline 
+Experience integrating with SimplyTapp APIs 
+Expertise in designing implementing and supporting impactful applications developed in diverse collaborative environments for mobile and tablet devices on android platform 
+Expertise in using Design patterns and object oriented methodologies to design software for mobile phones 
+Undertaken full life cycle of Android Application Development which includes testing on device and simulator as well 
+Experience in Androidopensourceproject 
+Experience in web service protocols such as JSON HTTP HTTPS XML and Hybrid app using PhoneGap 
+Experience with mobile Wallet Payment processing very desirable 
+Worked on user friendly and fully functional applications for Android and HTML5 
+Extensively worked on memory leaks push notifications content providers multiple screen support data offline usage accounts and sync on Android 
+Experience in emulators Genymotion and Espresso Robotiumframeworks 
+Experience in software development process Test drivenDevelopment 
+Experience with audio features video features graphics design interactive design and animation 
+Experience in developing app s using Native Code Languages 
+Experience in Network Programming skills in TCP I programming 
+Experience in Testing Framework Manual and automated 
+Experience in using Grade jerkins 
+Knowledge on Dependency injection Dagger square etc 
+Have developed applications in such a way that device adaptability Android device forms and SDK levels is default architecture imperative 
+Good understanding of DynamicWebArchitecture and expertise in developing 
+Expertise in developing applications using Java J2EE Struts Hibernate and JSP 
+Have hands on experience in complete project life cycle with domain knowledge in Mobile Application 
+Development and Web application development 
+Experience on JavaScript and PHP client server side development 
+Experience working with Google Maps APIs In App purchases In App advertising SQLite Decoder API 
+Exposure in cloud integration like Google Drive Dropbox Box with android application 
+Experienced of working on Android platform and customizing it as per requirements 
+Good exposure in troubleshooting and debugging android applications 
+Hands on experience in deployment publish android application on Google Play market 
+Experience with IR92 IR94 standards and video conferencing protocols 
+A valued team member with strong written communication verbal communication skills problem solving skills customer service and interpersonal skills 
+A self driven goal oriented customer focused software professional with proven ability to successfully work in all phases of Software development lifecycleGood communication skills I have interacted with customers regularly during development of the mobile applications 
+Willing to relocate Anywhere 
+Willing to relocate to Chicago IL California Washington State 
+Authorized to work in the US for any employer 
+Software Developer dedicated to teamwork and efficiency Passionate about object oriented design and 
+Android application development years of Software Design Development and Maintenance of mobile applications using Android SDK and web applications using Java J2EE 
+Experience in each phase of software development life cycle like requirements gathering analysis design development testing deployment and maintenance of Software Applications 
+Strong Knowledge in Waterfall Agile Scrum software development models years of Experience in Design and Development of Android Applications using Android SDK Eclipse IDE 
+Android Studio SQL SQLite Java XML JSON 
+Published Several Android Applications in Google Play Store 
+Tested Several Android Applications using real devices Geny Motion and Android Virtual Device 
+Hands on experience on memory leaks push notifications multiple screen support data offline usage audio features video features graphic design and animation 
+Proficient in Working with different Android frameworks Bluetooth Location Camera Notifications Maps 
+Expertize in Android UI toolkit basic picker list views adapters dialogs menus and Layout Managers 
+Expertize in web service protocols such as JSON HTTP XML and Hybrid app using Phonegap 
+Implemented Several Android Applications using Google Maps API Geocoder API 
+Proficient in Internet Application Programming using technologies like Core Java Struts Spring Web 
+Services Hibernate EJB JSP Servlets JDBC RMI JNDI SOAP 
+Good Exposure with HTTP GET and POST Requests and parsing different types of responses 
+Hands on Experience in developing web based GUI using Java Applet Servlets JSP AJAX JavaScript 
+HTML and CSS3 
+Solid Understanding in Core Java concepts like Collections Multi Threading Socket Programming and 
+Exception handling 
+In depth Knowledge on Android basic components ie 
+Activity Fragment Service Broadcast Receiver and 
+Content Provider 
+Good Exposure in working with Async task Threads and Services in android 
+Experience in localizing the application to support multiple languages 
+Good Knowledge in version control systems like SVN and GIT 
+Knowledge of scripting in UNIX LINUX XML XSLT XML Schema 
+Built different Applications using databases like Oracle SQLite and MySQL 
+Excellent communication analytical and problem solving skills 
+Passionate to learn new skills and technologies 
+Willing to relocate Anywhere years of experience in building extremely scalable application with high up times and to excel in technological years of experience in Mobile Application Development using Android Technology 
+Experience in Developing Native Android Applications and Integration 
+Experience in Broadcast Receivers Content Providers 
+Experience in Service Communication 
+Conceptual Knowledge in NDK 
+Expertise in developing applications using Core Java XML JSON Parsing and working experience in 
+Android API s 22 Froyo 23 Gingerbread and above 
+Good integration experience in WebServices SOAP REST Services 
+Working experience in Parsing Techniques like DOM SAX 
+Working experience with SQLite on Android Databases 
+Involved in the design and development of Mobile Applications 
+Involved in Testing of Mobile Apps in Android Emulator ADT Soap UI 
+Extensive hands on experience on Java JDBC Servlets JSP Struts 
+Working experience in Development Environments Like Eclipse IDE Android 
+Studio 
+Good Experience on Version Control using Subversion CVS and PVCS Polytron Version Control System 
+Good knowledge in RDBMS concepts Oracle 11g MS SQL Server 2000 and strong SQL PL SQL query writing skills by using TOAD SQL Developer tools Stored Procedures and Triggers 
+Good knowledge in preparing technical documents MD070 and deployment document MD120 
+Ability to Learn in a fast paced environment and a team person to the core 
+Possess excellent presentation interpersonal skills with a strong desire to achieve specified goals 
+AppreciationReceived appreciation from client Gas South in designing of Gas South Android App 
+Received Shining Star Maverick and Feather on my Cap Awards from Wipro 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Seeking a full time software engineering position 
+Around 7 years of Software Design and Development Experience in Java based applications 
+Extensively worked on every stage of application development right from collecting requirements providing guidelines for design creating application architecture implementation that includes various stages in development QA code signing and releasing to Market 
+Expertise in Android App development with Android SDK using Eclipse IDE and Android Studio 
+Experienced in Agile Development process for diverse requirements 
+Experienced with front end technologies HTML CSS HTML 5 and JavaScript 
+Experienced with web services RESTful and SOAP 
+Experienced with GitHub and other source control management 
+Experienced with Oracle SQL MYSQL SQLite databases 
+Extensively worked on memory leaks push notifications content providers multiple screen support data offline usage accounts and sync on Android 
+Experience with audio features video features graphics design interactive design and animation 
+Have developed applications in such a way that device adaptability Android device forms and SDK levels is default architecture imperative 
+Expertise in Object Oriented Architecture Design and Programming from design to implementation 
+Expertise in developing applications using Java J2EE Struts Spring Hibernate EJB and JSP 
+Experience in architecture design development and implementation of software applications and testing 
+Have hands on experience in complete project life cycle with domain knowledge in Mobile Application 
+Development and Web application development 
+Experienced with Hybrid App development tools such as PhoneGap 
+Experienced in web service protocols such as JSON HTTP and XML 
+Experience on JavaScript and PHP client server side development 
+Knowledge of Objective C for IOS Application development 
+Working knowledge of graphic design and handling various kinds of media using Photoshop Illustrator and 
+Dreamweaver 
+Good communication skills I have interacted with customers regularly during development of the mobile applications 
+Ability to coordinate with various team members involved in the project 
+Experienced Android App Developer passionate about designing and developing applications to deliver best products and user experience collaborating with cross functional teams Product Managers Project Managers and UX designers 
+Industry experience developing Apps utilizing OOP concepts Third party libs Best Practices and Design 
+Patterns 
+Expertise in Java Android Web Services Debugging Defect Management with good Communication and 
+Problem Solving skills 
+Solid understanding of full Mobile and Software Development Life Cycles incorporating Agile and Scrum methodologies 
+Developed and Published iFall app notifying emergency contacts in case of a sudden fall via Message and 
+Phone call 
+Willing to relocate Anywhere 
+Sponsorship required to work in the US 
+Authorized to work in the US for any employer years of experience in the IT field 
+Technology lover that naturally stays up to date on relevant new developments 
+Regularly provide constructive feedback to team members so they can continuously grow individually 
+Experience interacting with RESTful API and data formats like JSON XML 
+Experience with continuous integration tools like Jenkins or Travis CI and automated testing frameworks such as Espresso 
+Knowledge of current literature of pattern recognition clustering and implementations of machine learning 
+Experience with social media web services libraries APIs and SDKs such as Facebook YouTube 
+Instagram Google and Twitter years of experience in all phases of application development working primarily on Web technology Java 
+PrimeFaces JSF as a Developer 
+Certified Android Developer with Over 7years of IT Experience in Software Development and 4years of 
+Complete Android application Development life cycle analysis design development and testing experience since SDK version 23 Gingerbread to 60 Marshmallow 
+Hands on experience in writing the Mobile applications for various mobile device manufactures like HTC 
+LG Motorola Samsung and platforms such as Android 
+Experienced Mobile Android Developer who designed and developed consumer application for Android mobile devices with extensive user interface development 
+Proficiency in developing and design of mobile and embedded technologies on mobile platform Android with 
+SDK version from 23 to 42 and application development in Android NDK 
+Good understanding in End user requirement analysis Android OS interactive application development and full Software Development Life Cycle SDLC 
+Proficient with common Android Framework API s Email Web View contact manager Camera Notifications 
+Maps 
+Strong working knowledge in Android architecture and experience in Android API s 
+Good experience with object oriented programming analysis and design patterns 
+Good understanding of memory management and data structures 
+Good understanding of Android SDK UI Framework and ADT tools 
+Experience with query languages such as SQL and SQLite 
+Experience with Bluetooth Low Energy APIs on Android 
+Experience with using multi threading technologies such as Handler AsyncTask and Thread 
+Developed an Android Dealer Tool for company dealers to assistant with their project management 
+The app provides tools such as live video monitoring lens calculators storage calculators product catalog and project tracking 
+Build responsive application using NodeJs 
+Build responsive application using NodeJs Application compatible with mobile devices and different web platforms and browser 
+Web application development for backend system using AngularJS and Nodejs with cutting edge HTML5 and CSS techniques 
+Experience in using Storage options in Android like Shared Preferences 
+Knowledge in designing and developing adaptive UI components widget for android phones tablets using 
+Notifications Adapters Content Provider Services XML Parsing SQLite 
+Followed the Agile Methodology in which involves with sprint planning daily scrums and weekly Demo meetings 
+Worked on Navigation Drawer to implement menus 
+Implemented ToolBar to add settings on the app 
+Worked extensively with Eclipse Android Studio Visual Studio and QT 
+Experience of developing android apps for different screen size and resolution 
+Experience on designing and implementing Restful interfaces 
+Experience of working in mobile teams to design develop and implement new features 
+Experience of working with test teams to fix bugs improve performance and validate the design implementation 
+Experience in web services using markup languages like JSON and REST 
+Using the Restful Web service for 
+Experience with consuming APIs and RESTful web servicesExperience of working in agile environment involving scrum meetings with UI design implementation and testing teams 
+Experience with code repositories such as SVN and GIT 
+Experience with code management tools like GitHub Clear case Beyond Compare familiar with Android location based services 
+Experience in various methodologies like of SDLC like Agile development and waterfall development 
+Excellent working experience with variety of operating systems like Macintosh Windows Ubuntu and Fedora 
+Willingness and ability to learn and adapt to new technologies and languages 
+Seven plus years of experience as Mobile application developer in the field of Android Java C C and 
+BREW BMP 
+Experience in developing front end applications for Android phones 
+Experience in developing the Bluetooth printer application and Main Menu application for Android phones 
+Extensive knowledge in designing front end applications accessing SQL database application layer protocols and XML 
+Highly experienced in executing unit and sanity test cases for the multimedia component 
+Documented the test cases in a common repository 
+Followed the SDLC methodologies including the iterative method 
+The features assigned were completely coded and tested before each phase 
+Worked in the integration of third party application to main line releases 
+Fixed issues bugs reported in multimedia applications 
+Hands on experience on the tools RSD Lite QPST RadioComm DDTS Test Central 
+Performed integrated development testing unit testing and certification testing for network managed node 
+Developed the shelf and card details using small talk coding standards 
+Performed link creation path creation between two nodes cross connection between the ports 
+Highly capable in handling multiple tasks prioritizing and meeting deadlines 
+Ability to coordinate with various team members involved in the project 
+Quick learner excellent analytical design and problem solving skills years of IT experience in mobile software development web solutions and desktop software development years experience in Android application development including design development 
+Experience in developing Android application using Eclipse IDE SQLite Java JSP XML JSON Android 
+SDK JIRA Stash Jenkins GIT and ADT plug in 
+Understand Object Oriented Design pattern and implemented in Android 
+Worked in Activities Fragments Android Binding Android Framework AsyncTask Intent Services 
+Broadcast Receiver Rest API Location Manager 
+Experience in working with SQLite Database Google Maps API GPS Location Data and Push Notifications 
+Expertise in use of popular public APIs such as Google Facebook YouTube PayPal Kindle and twitter 
+Knowledge of Windows server 2003 Window server 2008 Windows server 2010 Linux Oracle 11g 
+JavaScript 
+Experience using web servers like Apache running on Linux distribution and Windows web server running on windows distribution 
+Experience in using web based application used for managing test and defect tracking using firebug W3C 
+Experience in Messaging Bluetooth and Wifi connectivity with android devices 
+Hands on experience in client server and web based applications 
+Working knowledge of graphic design and handling various kinds of media using Photoshop Illustrator 
+Premiere and flash 
+Experience in the System Development Life Cycle SDLC for applications and understanding of business rules 
+Worked on Scrum and Waterfall years experience of Android Application with Google Map API TesttoSpeech API Bluetooth Protocol 
+Ormlite etc 
+Solid Understanding of development methodologies like Agile and Waterfall experienced on Test Driven 
+Development 
+Experience to communicate with bluetooth devices such as barcode scanner receipt printer and pole display 
+Experience of using database applications such as MySQL PL SQL SQLite 
+Experience of communicating between Client and Web Services via HTTP request REST and SOAP 
+Experience using Git and TFS as source code and version control systems 
+A good team player problem solver and quick learner 
+Have strong analytical skills with proficiency in debugging problem solving 
+Self starter highly motivated technically sound training and mentoring skills in driving development teams to successful resolution 
+Strong analytical communication problem solving interpersonal organizational and team monitoring skills 
+Certified Android Developer with Over 7years of IT Experience in Software Development and 4years of 
+Complete Android application Development life cycle analysis design development and testing experience since SDK version 23 Gingerbread to 60 Marshmallow 
+Hands on experience in writing the Mobile applications for various mobile device manufactures like HTC 
+LG Motorola Samsung and platforms such as Android 
+Experienced Mobile Android Developer who designed and developed consumer application for Android mobile devices with extensive user interface development 
+Proficiency in developing and design of mobile and embedded technologies on mobile platform Android with 
+SDK version from 23 to 42 and application development in Android NDK 
+Good understanding in End user requirement analysis Android OS interactive application development and full Software Development Life Cycle SDLC 
+Proficient with common Android Framework API s Email Web View contact manager Camera Notifications 
+Maps 
+Strong working knowledge in Android architecture and experience in Android API s 
+Good experience with object oriented programming analysis and design patterns 
+Good understanding of memory management and data structures 
+Good understanding of Android SDK UI Framework and ADT tools 
+Experience with query languages such as SQL and SQLite 
+Experience with using multi threading technologies such as Handler AsyncTask and Thread 
+Experience in using Storage options in Android like Shared Preferences 
+Knowledge in designing and developing adaptive UI components widget for android phones tablets using 
+Notifications Adapters Content Provider Services XML Parsing SQLite 
+Worked extensively with Eclipse Android Studio Visual Studio and QT 
+Experience of developing android apps for different screen size and resolution 
+Experience of working in mobile teams to design develop and implement new features 
+Experience of working with test teams to fix bugs improve performance and validate the design implementation 
+Experience in web services using markup languages like JSON and REST 
+Experience with consuming APIs and RESTful web services 
+Experience of working in agile environment involving scrum meetings with UI design implementation and testing teams 
+Experience with code repositories such as SVN and GIT 
+Experience with code management tools like GitHub Clear case Beyond Compare familiar with Android location based services 
+Experience in various methodologies like of SDLC like Agile development and waterfall development 
+Excellent working experience with variety of operating systems like Macintosh Windows Ubuntu and Fedora 
+Willingness and ability to learn and adapt to new technologies and languages 
+Over 5 years experience in mobile application development on Android platform and 1 year in mobile testing with following skills 
+Experience in applying software development processes CMMI and Agile 
+Experience in analyzing requirements 
+Experience in designing and implement Unit test 
+Familiar with most modern mobile technologies 
+Good at teamwork and self organization skill 
+Willing to relocate Anywhere years of experience as Mobile application developer with SDLC and enterprise level mobile and web application development 
+About 3 years of experience in front end applications for Android year of experience in Java application development and 3 years of experience in web development 
+Experience with Agile Methodology Participated in Scrum and Sprint Planning 
+Strong Object Oriented Programming concept Model View Controller design pattern and adept to learning new technologies and environment 
+Extensive knowledge in designing front end applications accessing SQL database application layer protocols and XML 
+Experience in Android application UI design implementation and development 
+Worked with AsyncTask and other tools to implement asynchronous downloads 
+Experience in optimizing for multiple device screen sizes and Android versions 
+Experience in android activities home widgets services broadcast receivers content providers fragments intent and intent filters 
+Experience of common android framework framework APIs Location Camera Notifications Maps and 
+Google APIs Location Manager 
+Highly capable in handling multiple tasks prioritizing and meeting deadlines 
+Quick learner excellent analytical design and problem solving skills 
+Good communication skills 
+Competent motivated and trustworthy employee who values the concepts of work ethics 
+More than 2 year of theoretical and practical experience in Android development 
+Highly organized and results oriented 
+Reliable and dependable high personal standards and attention to details 
+Proven ability to meet deadlines and work under pressure 
+Positive and pro active able to work independently and on a team 
+Willing to relocate Anywhere years of experience in designing and developing high end Enterprise Level Web Mobile applications and embedded hardware to software bridge applicationExtensive experience in Mobile development using Google Android platforExtensively worked on memory leaks push notifications content providers multiple screen support data 
+ usage accounts and sync on AndroiExperience in using Storage Options in android like Shared Preferences and SQLitKnowledge in designing and developing adaptive UI components Fragments Widgets for android phones and tablets Using Notifications Adapters Services XML Parsing JSON ParsinExperience in use of popular public 
+ such as Facebook YouTube Twitter LinkedIn andMixExperience in writing code for Asynchronous Programming in Android such as Thread Pool Handlers 
+Loppers Tasks and ServicesWorked with Activities Fragments Android Binding Adapters Intent Services Broadcast Receiver Location 
+Manager Push NotificatioExtensive experience in dealing with both REST as well as SOAP based web serviceExperience in developing Android application using SQLite Java Mobile JQuery Eclipse IDE Android Studio 
+Android SDK and ADT plug iExperience in Interaction Design UI UX components of android application such as TextView List View 
+Menus Buttons Dialog boxes and Action bars for various layoutIntegrated various third party open source APIs like Facebook Twitter Youtube Instagram and Google Maps 
+API V2 for custom Android applicationProficient in using Material Design with Animations framework like Zooming Flipping and Crossfading ViewExperience in playing and recording Audio Video on demand media content using Media Player Media 
+Recorder Video Views and Surface VieGood experience in Object Oriented Design OOD analysis OOA modeling OOM based on Unified 
+Modeling Language UMLWorked extensively in developing mobile based and advanced web based applications using Java Servlets 
+JSP Struts spring Hibernate JDBC UML HTML XHTML JavaScript JDBC and OraclStrong experience in using Android SDK tools like Hierarchy Viewer TraceView zipalign Draw 9 patch AVD 
+Manager Android shell tools like logcat and Android Platform tools like ADB ADExtensive experience in design development and deployment of multi tier enterprise applications for J2EE platform SOA using Java JDBC Servlets EJB Struts Tiles Tag Libraries Hibernate 30 and XExpertise in developing android applications 
+ IDE s like Eclipse Android Studio Titanium mobile 
+Dreamweaver Visual Studio Xamarin based on client specified implementationA self motivated professional possessing good technical leadership and problem solving skills and proven to be a good team playeExcellent conceptual and logical thinking ability to grasp and master new technologies 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Around 7 years of IT experience in design and development in C C Java based applications years of Android Application development experience 
+Developed and architected multiple Android apps across versions 
+Expertise in developing applications for Android operating system using Android Studio Eclipse IDE SQLite 
+Java Android SDK 23 to 50 and ADT plugin 
+Experience in developing Applications using Java Applet Swing Servlets JSP XML Eclipse JDBC JDK 
+Java Script MySQL and CSS 
+Experience in working with SQLite Database Google Maps API GPS Location Data and Push Notifications 
+Google cloud messaging 
+Experience in enabling BLE functionality for applications Notifications Adapters Content Provider 
+Services XML Parsing and Telephony Manager 
+Experience in developing applications using Third Party APIs such as Twilio YouTube and such as 
+Facebook and Twitter 
+Experience in design and development of Rich Mobile Applications in PhoneGap using HTML5 JavaScript 
+XML CSS 
+Solid understanding of interfacing to back end system using XML JSON REST API SOAP RPC OAUTH etc 
+Expertise in Data Structure Multithreading Collections Exception handling 
+Worked on GUI applications using Java SWING and AWT 
+Solid understanding of Android UI and Design guidelines 
+Experience in designing UI layouts using Linear Layout Relative Layout Frame Layout Table Layout and using Android Widgets and custom Widgets 
+Undertaken full life cycle of Android Application Development which includes testing on device and emulator as well 
+Experience with various testing frameworks like Espresso UI Automator Robotium Appium 
+Experience in various methodologies like SDLC Agile development and waterfall development 
+Experience with source code control management like subversion SVN and GIT 
+Have proficient knowledge and experience with Sensor APIs such as Location Accelerometer gyroscope 
+NFC and more 
+Have worked on IoT devices such as controlling hardware modules via Bluetooth Comm from Android 
+Device 
+Self motivated and excellent abilities to learn new languages and other concepts quickly excellent interpersonal skills and abilities to communicate with team players 
+Over 7 years of experience in the area of software development for mobiles and embedded systems which includes understanding requirement specification working on software design coding testing and maintenance 
+Skilled in developing APIs for middle ware Framework modules for mobile platforms using C and C and 
+Java 
+Experienced of working on Android platform and frameworks and customizing it as per requirements 
+Undertaken full life cycle of Android Application Development which includes testing on device and simulator as well 
+Working on implementation of OMA DM device management protocol for android devices 
+Expertise in using Design patterns and object oriented methodologies to design software for mobile phones 
+Experience of i Phone mobile application development and testing on device and simulator using x code and Objective C 
+Experience of code optimization using tools like Valgrind Bullseye lcov gcov etc 
+Web Development experience using Php Python Java Script CSS3 HTML5 DJango 
+Working Experience of MySQL and JDBC 
+Experience of developing unit test cases in C using C unit test frame work 
+Experience of using version control and bug reporting tools like clear case clear quest svn perforce and git etc 
+Seeking an internship or entry level position in mobile application development in Android Platform where I can utilize my skills and knowledge for organizational development to achieve the goal 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Over 5 Years of Professional Experience in analysis design development customization testing and production support of various enterprise mobile applications in Banking retail 
+Proficient in Android architecture design guidelines and Material Design 
+Experience in using Fragments Activity workflow Action Bar Navigation Menu designs custom views and 
+Loaders 
+Well versed in REST apis and handling back end services Strong Trouble shooting Problem solving 
+Analytical Design Skills 
+Experience in developing mobile apps using modern architectures like MVVM and MVP 
+Developed mobile apps using Bluetooth Bluetooth LE APIs 
+Experience with Reactive RxAndroid and dependency injection Dagger 2 frameworks 
+Implemented various 3rd party libraries that are available in the market for improving the performance of the application 
+Libraries like Picasso GSON Retrofit Buterknife LeakCanary Mixpanel Apptentive 
+Experience in performance optimization of Android applications and exposure to tools such as Trace 
+View Lint and Hierarchy Viewer 
+Experience in integration of Android based mobile applications with Restful web services 
+Developed Mobile Device Management MDM product enabling BYOD for enterprise 
+Participated in design reviews code reviews and functional demos 
+Unit testing code for robustness including edge cases usability and general reliability 
+Collaborated with cross functional teams Product UX UI to define design and ship new features 
+Contributed to architectural design automated testing and continuous integration 
+Proficient in analyzing and translating business requirements to technical requirements and architecture 
+Strong troubleshooting Problem solving Analytical Design Skills 
+Efficient in all phases of the SDLC Agile Methodology including System Testing User Acceptance Testing 
+Prod Support and exposure to Software Quality Assurance process 
+Seeking a job in computer science especially in the areas of software development web development 
+Ready to use academic and work experience to contribute to the success of the organization 
+Willing to relocate to Seattle WA 
+Authorized to work in the US for any employer years of Software Design Development and Maintenance of mobile applications using Android SDK and web applications using Java J2EE 
+Experience in each phase of software development life cycle like requirements gathering analysis design development testing deployment and maintenance of Software Applications 
+Strong Knowledge in Waterfall Agile Scrum software development models years of Experience in Design and Development of Android Applications using Android SDK Eclipse IDE 
+Android Studio SQL SQLite Java XML JSON 
+Published Several Android Applications in Google Play Store 
+Tested Several Android Applications using real devices Geny Motion and Android Virtual Device 
+Hands on experience on memory leaks push notifications multiple screen support data offline usage audio features video features graphic design and animation 
+Proficient in Working with different Android frameworks Bluetooth Location Camera Notifications Maps 
+Expertize in Android UI toolkit basic picker list views adapters dialogs menus and Layout Managers 
+Expertize in web service protocols such as JSON HTTP XML and Hybrid app using Phonegap 
+Implemented Several Android Applications using Google Maps API Geocoder API 
+Proficient in Internet Application Programming using technologies like Core Java Struts Spring Web 
+Services Hibernate EJB JSP Servlets JDBC RMI JNDI SOAP 
+Good Exposure with HTTP GET and POST Requests and parsing different types of responses 
+Hands on Experience in developing web based GUI using Java Applet Servlets JSP AJAX JavaScript 
+HTML and CSS3 
+Solid Understanding in Core Java concepts like Collections Multi Threading Socket Programming and 
+Exception handling 
+In depth Knowledge on Android basic components ie 
+Activity Fragment Service Broadcast Receiver and 
+Content Provider 
+Good Exposure in working with Async task Threads and Services in android 
+Experience in localizing the application to support multiple languages 
+Good Knowledge in version control systems like SVN and GIT 
+Knowledge of scripting in UNIX LINUX XML XSLT XML Schema 
+Built different Applications using databases like Oracle SQLite and MySQL 
+Excellent communication analytical and problem solving skills 
+Passionate to learn new skills and technologies 
+Knowledge in Java and web technologies including Core Java JDBC J2EE Servlets JSP Hibernate 
+HTML JavaScript Multithreading Collection and good understanding of Object Oriented Programming OOP concepts 
+Savvy in UI as well as application development using Eclipse 3x and Android Studio 
+Well experienced in using JavaScript XML HTML and working knowledge of relational DataBase such as 
+Oracle and MySQL 6 
+Experience in developing applications for Apache Tomcat 7x 
+Excellent leadership interpersonal and organizational skills 
+Mastery in working with diverse groups of teams business change management technical team and business Users 
+Strong analytical and problem solving skills 
+Able quickly grasp and analyze new situations and data 
+Solid 
+Documentation and Organization skills 
+Detail Oriented 
+Extremely polished customer interaction and business etiquette 
+Strong relationship building skills based on trust and integrity 
+Authorized to work in the US for any employer 
+Authorized to work in the US for any employer 
+Seeking internship opportunities for Summer 2017 
+Sponsorship required to work in the US years of excellent IT experience with 4 years of Android application development 
+Experienced s in several android platform such as 
+Full software development lifecycle experiences including requirement analysis development testing debugging and support 
+Familiar with MVC design pattern and web services 
+Experience in Agile development methodology practice in unit testing and work with QA to make codes stylized and better 
+Creation of apps with both phone and tablet support 
+Familiar with UI components including GridView ListView ViewPager BaseAdapters Fragments Spinner 
+GoogleMaps 
+Animations of UI components 
+Taking pictures from cameras having them saved asynchronously on external storage 
+Management of data Shared Preferences SQLite internal and external storage 
+Experience in collecting data with hardware sensors such as gyroscope light sensor acceleration sensor tilt detection and orientation sensor etc 
+Explicit intents for interactions among activities sharing data and implicit intent for browsing making phone calls 
+Proficient in JSON parsing 
+Experiences in themoviedborg and Yelp web API JSON parsing 
+Notification and alarm management in Services and via Broadcast Receiver 
+Proficient with ContentProviders for interactions with databases and as a data source for other apps 
+Version control with Git management 
+Good communications skills and cooperation with colleagues and managers 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer years of Software Design Development and Maintenance of applications with 5 years on Development of 
+Android applications and2 years on web applications using Java J2EE 
+Good programming skills and hands on experience in developing Android enterprise applications for mobiles and tablets using IDE s like Eclipse Android Studio Android SDK and ADT development tools in Java environment 
+Strong Knowledge in Waterfall Agile Scrum software development models 
+Solid Understanding in Core Java concepts like Collections Multi Threading Socket Programming and 
+Exception handling 
+Expertise in Web technologies using Core Java J2EE Servlets JSP JDBC Java Beans and Client Server 
+Architecture 
+Worked with stored procedures triggers and schemas of Database Management Systems 
+Proficient in Internet Application Programming using technologies like Struts Spring Web Services 
+Hibernate EJB JDBC RMI JNDI SOAP 
+Experience in Developing Applications using Java Applet Swing Servlets XML Java Script MySQL SQL 
+HTML and CSS 
+Good understanding of modern Interactive design in developing Android applications 
+Proficient with Android SDK version Gingerbread Honey Comb Ice Cream Sandwich Jellybean Kit Kat 
+LolliPop 
+Tested Several Android Applications using real devices GenyMotion and Android Virtual Device 
+Extensive debugging skills and eye to improve code performance identify security risks and spot required validations 
+Skilled in writing and running tests for Android applications using Robotium and Robolectric 
+Proficient with common Androidframework APIs like Services Broadcast Receivers Authentication Location 
+Connectivity VOICE Commands Accelerometer GeoFencing and Camera 
+Hands on experience on memory leaks push notifications multiple screen support data offline usage audio features video features graphic design and animation 
+Hands on experience on Android UI components such as TextView ListView Customized ListView Menus 
+Edit boxes Buttons Checkboxes Dialogs Alert boxes Status Notifications Action bars and Spinners for various layouts in Application development 
+Expertise in use of popular public APIs such as Google Facebook YouTube and Twitter 
+Experience in Android debugging tools such as Monitor DDMS ADB Trace Logcat and Eclipse ADT tools 
+Extensive back end experience in creating structure for databases using the SQLite Database API 
+Worked with simple animation development on SurfaceView familiar with game engine Cocos2d Android 
+Planned and executed detailed manual Gantt charts and fixed duration time is known project plans and creation of detailed activity documents for collaborators 
+Experienced with data persistence private external and on the cloud 
+A self motivated professional possessing good technical leadership and problem solving skills and proven to be a good team player 
+Good team member and passionate about learning new technologies 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Willing to relocate to Seattle WA Boston MA Washington DC 
+Authorized to work in the US for any employer 
+Undergraduate degree in Computer Science 
+Freelance Android Developer for clients in the DFW area 
+Four plus years of experience developing Android mobile applications for Android smart phones and tablets 
+Android zealot 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Over 5 years of experience in IT sector in design development analysis and implementation and for testing high end enterprise level Java Windows and Web based applications 
+This included 3 years of tablet and smartphone development experience which had an Android operating system 
+Proficient with common Android framework API s 
+Extensively worked with Android SDK version and Eclipse IDE while using an Android ADT plug in 
+Excellent knowledge of e commerce health care and the banking domain and was able to incorporate this knowledge in order to implement monetization of apps with capabilities to do in app purchases 
+Experience in using Storage options in Android such as Shared Preferences 
+Sizeable amount of work has been done on memory management push notifications multiple screen support data offline usage content providers and sync on Android 
+Expertize in using Fragments Activity workflow Menu Designs Action Bar Navigation and view controls 
+Good exposure in developing GUI while using Interface design principles for Android tablet and mobile devices 
+Strong skills in creating interfaces with services for mobile applications 
+Good mobile and web designing skills while utilizing Activities Android HTML 5 Java Script and XML 
+Experience in applying web service protocols such as REST SOAP and HTTP 
+Experience in using markup languages in web services such as JSON HTML and XML 
+Worked extensively in developing mobile based and advanced web based applications while utilizing 
+JAVA Servlets JSP HTML XHTML JavaScript and Oracle 
+Expert level skills in SQL and database query optimization techniques 
+Have hands on experience in complete project life cycle with domain knowledge in e learning and web as well as mobile application development 
+Working knowledge of graphic design and handling various kinds of media using Photoshop Illustrator and flash 
+Strong analytical and problem solving skills excellent communication and presentation skills as well as efficient decision making skills and excellent team player 
+Around 7 years of Software Design and Development Experience in Java based applications 
+Around 5 years of experience on smartphone and tablet development experience 
+Developed and architected multiple Android applications across versions I have a good understanding of Android Back end and UI guidelines 
+Extensively worked on almost every stage of application development right from collecting requirements providing guidelines for design creating application architecture implementation that includes various stages in development QA code signing and releasing to Market 
+Expertise in developing apps using SQLite java XML and HTML5 
+Extensively worked on memory leaks push notifications content providers multiple screen support data offline usage accounts and sync on Android 
+Have developed applications in such a way that device adaptability Android device forms and SDK levels is default architecture imperative 
+Expertise in Object Oriented Architecture Design and Programming from design to implementation 
+Expertise in developing applications using Java J2EE Struts spring Hibernate and JSP 
+Experience in architecture design development and implementation of software applications and testing 
+Have hands on experience in complete project life cycle with domain knowledge in Mobile Application 
+Development and Web application development 
+Experience in web service protocols such as JSON HTTP and XML 
+Experience on JavaScript and PHP client server side development 
+Working knowledge of graphic design and handling various kinds of media using Photoshop Illustrator and 
+Dreamweaver 
+Good communication skills I have interacted with customers regularly during development of the mobile applications 
+Have a good understanding of side mobile development factors such as server side interfaces security enterprise enablement analytics data feeds and content management systems 
+Ability to coordinate with various team members involved in the project 
+Quick learner excellent analytical design and problem solving skills 
+Always curious to learn new skill or a new technology years of Software Industry experience in designing developing and testing of applications years of Android Application Development in both enterprise and consumer based applications years of experience in application development using Java and XML 
+Extensive knowledge in software development life cycle and Object oriented analysis and design 
+Strong knowledge in Android Application Development life cycle including design development 
+Experience in working with permissions for Nougat Marshmallow 
+Experienced with third party libraries and APIs 
+Working experience in consuming RESTful web services to fetch data for mobile front end and parsing the 
+XML and JSON response using different parsers 
+Strong knowledge on Android components such as Activity Fragment Services Loader Content Provider 
+Broadcast Receiver 
+Experience with Android SDK 
+Experience with Fragments Intent and Intent Filters 
+Experience on Android UI components such as Text View List View Customized List View Menus Edit boxes Buttons Checkboxes Dialogs Alert boxes Status Notifications Action bars and Spinners for various layouts in Application development 
+Experience in using Storage options in Android like Shared Preferences and SQLite database 
+Experience in migrating List Views and Grid Views to Recycler Views 
+Used Junit for Unit testing and espresso for Instrumental testing 
+Used MVP for the architecture 
+Used GIT as version control and JIRA for bug tracking 
+Active experience in developing Android Applications using Core Java and Android APIs Data Storage 
+Multimedia Connectivity and Location 
+Strong experience with Open Android libraries like Retrofit Butter knife Picasso Glide Dagger 
+Experience developing Android apps using IDE s Eclipse and Android Studio 
+Involved in all stages of the SDLC like designing coding implementation testing and maintenance 
+Worked on Localization with resources 
+Possessing strong analytical skills an excellent team player with good leadership qualities and strong oral and written communication skills 
+Experience in use of popular public APIs such as Google Facebook YouTube and Twitter 
+Experience with Multi Threading using AsyncTaskLoaders and Threads 
+Passionate to learn new skills and technology 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Over 5 years of IT development experience including 4 years of Android Mobile Applications development 
+Expertise in Android core application development deep understanding of Activity Service Broadcast 
+Receiver and Content Provider 
+Expertise in Google Cloud Message GCM FCM and Bluetooth LE technology 
+Very Experienced in Server Client RESTful structure development 
+Experienced in new concepts in latest Android 60 Marshmallow such as Finger Print API Runtime 
+Permission Accessibility etc 
+Flexible in UI design good knowledge of using Fragments Tabs and Recycler View 
+Experienced in Multi thread development skilful in using AsyncTask Intent service handler 
+Good understanding of Design Patterns like MVC MVP MVVM 
+Has knowledge of Android security such as Key Store security in shared preference has experience on security oriented app 
+Master in Push Notifications and Notification Action handle 
+Experience in optimizing for multiple device screen sizes and Android versions 
+Exploring different Google Service APIs 
+Worked with Ad Mob GCM FCM Analytics and Maps in previous project 
+Comfortable to using third party API Worked with Face API s to do face recognition http wwwfacepluspluscom 
+Has experience in social App integration such as Facebook twitter 
+Strong knowledge of SQL JSON HTML5 etc which may need in Android app development 
+Has knowledge of C C as well 
+Willing to relocate Anywhere 
+Authorized to work in the US for any employer 
+Over 3 years of experience in Android Development 
+Experienced Mobile Android Developer who designed and developed commercial consumer applications for Android mobile devices with extensive user interface development 
+Experience in Android UI toolkit and Layout Managers Proficient in Android application framework 
+Experienced with Android SDK tools 
+Proficient in Android applications development involving User Interface development Notifications Adapters 
+Content Provider Services XML Parsing and Telephony Manager 
+Experience in working with SQLite Database Google Maps API GPS Location Data and Push Notifications 
+Expertise in developing applications for android operating system using Eclipse IDE SQLite 36 Java16 
+XML Android SDK 22 and ADT plugin 
+Expertise in unit testing using JUnit 
+Hands on experience in integrating third party API s into Android app viz 
+Gmail Yahoo Microsoft Exchange 
+IMAP accounts Skyedex App 
+Experienced in Bluetooth 
+Well versed with best practices and all phases of software product lifecycle and management 
+Proficient in writing Test plans Test cases and Test scripts 
+Experienced in using a web based application used for managing tests scenarios and defect tracking and management 
+Expertise in building of source code troubleshooting build configuration integration issues communicating and resolving source code related issues between various teams of the project 
+Extensively used tools for logging the bugs defects tracking defects 
+Involved in preparing Documentationto meet the SLAs 
+Experience using Quality Center and QTP as well as experience using open source performance monitoring tools 
+Proactive and dynamic IT professional in Android Development with 4 years of experience producing widely used mobile apps that connect businesses with new customers 
+Demonstrated expertise across complete software development lifecycle SDLC Exceptional analytic technical and problem solving skills Proven ability to work independently and collaborate effectively in teams 
+Track record of delivering world class user experiences 
+Established success in deploying Android applications to Google Play Store and achieving strong ratings 
+Award winning performances in academic and professional settings 
+Three years of experience in Software Web Programming in Java and Android and PHP 
+Involved in the full Software Development Life Cycle from Requirements Gathering to Testing and familiar with 
+Agile software development methodologies as well 
+Experience with developing Android Apps for different API levels API 9 GingerBread API 20 KitKat 
+Expertise in developing application for Android Operating System using Eclipse IDE Android Studio Java 
+Android SDK and ADT plug in 
+Experience in working with Android SMS Manager Location Manager Google Maps APIs and SQLite 
+Database 
+Experience in using SSLSocketFactory class for implementing SSL validations 
+Developed applications utilizing Third Party APIs such as YouTube and Social Networking such as 
+Instagram Facebook and Imgur photo share 
+Experience in using UI design tools such as Balsamiq and Protoshare to meet the requirements of projects and show the results to client 
+Self motivated and excellent abilities to learn new programming language and other concepts quickly 
+Experience in debugging Android applications and fixing bugs in existing applications 
+Excellent interpersonal and communication skills 
+Experience in using SQLite Database for mobile data management 
+Experience in using MYSQL Database for web data management 
+Good understanding and experience of interfacing to back end systems using XML JSON REST API OAUTH etc 
+Experience in handling JSON responses from different web servers 
+Experience in branching pushing and merging codes with remote repository such as Git 
+Experience in Atlassian tools such as JIRA and Confluence to manage and keep track on progress of project 
+Experience in using Atlassian Stash to maintain software version control and peer peer code review 
+
+

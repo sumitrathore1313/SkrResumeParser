@@ -1,0 +1,45 @@
+<ba>
+Natali Gazman
+
+Android developer
+
+Brooklyn, NY - Email me on Indeed: indeed.com/r/Natali-Gazman/26eaded2a807661f
+
+<we>
+WORK EXPERIENCE
+
+Android developer
+Cardo Systems - June 2015 to November 2016
+● Developed new features for Cardo SmartSet the Android application used on phones and tablets.
+● Partnered with artists, QA, and internal developers to maintain best practices.
+● Documented architecture and implementation for internal and external consumption.
+● Managed tasks within Agile framework, cleared Sprinted tasks, and participated in daily stand-ups.
+● Fixed bugs and improved application performance.
+
+Android Developer
+Self Employed - December 2014 to May 2015
+● Developed Women Workout Videos from scratch using Android native framework.
+● Implemented YouTube search API and YouTube Player API for searching and playing videos.
+● Moduled local storage in Shared Preferences for better readability.
+<ed>
+EDUCATION
+
+B.Sc in Computer Science
+Holon Institute of Technology in Israel
+2011 to 2014
+<ed>
+SKILLS
+
+Android (2 years)
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.gazman.workout
+
+ADDITIONAL INFORMATION
+<su>
+I am fun and energetic, I like working in a team, I am responsible person, and I am very dedicated to my work.
+As you probably guessed from my app, I like sports. I do workout at home every single day, and in the evenings
+I watch TV-shows with my husband.
+
+

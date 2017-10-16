@@ -1,0 +1,202 @@
+<ba>
+Pavan Kumar
+
+Android Developer - State Farm
+
+- Email me on Indeed: indeed.com/r/Pavan-Kumar/3db4215bf27b7e93
+<su>
+● Around 7 years of IT experience in design and development in C, C++ & Java based applications.
+● 5 years of Android Application development experience. Developed and architected multiple Android apps
+across versions.
+● Expertise in developing applications for Android operating system using Android Studio, Eclipse IDE, SQLite,
+Java, Android SDK 2.3 to 5.0 and ADT plugin.
+● Experience in developing Applications using Java, Applet, Swing, Servlets, JSP, XML, Eclipse, JDBC, JDK,
+Java Script, MySQL, and CSS.
+● Experience in working with SQLite Database, Google Maps API, GPS Location Data and Push Notifications,
+Google cloud messaging.
+●  Experience  in  enabling  BLE  functionality  for  applications,  Notifications,  Adapters,  Content  Provider,
+Services, XML Parsing and Telephony Manager.
+●  Experience  in  developing  applications  using  Third-Party  APIs  such  as  Twilio,  YouTube  and  such  as
+Facebook and Twitter.
+● Experience in design and development of Rich Mobile Applications in PhoneGap using HTML5, JavaScript,
+XML, CSS.
+● Solid understanding of interfacing to back-end system using XML/JSON, REST API, SOAP, RPC, OAUTH
+etc.
+● Expertise in Data Structure, Multithreading, Collections, Exception handling.
+● Worked on GUI applications using Java SWING and AWT.
+● Solid understanding of Android UI and Design guidelines.
+● Experience in designing UI layouts using Linear Layout, Relative Layout, Frame Layout, Table Layout and
+using Android Widgets and custom Widgets.
+● Undertaken full life cycle of Android Application Development, which includes testing on device and emulator
+as well.
+● Experience with various testing frameworks like Espresso, UI Automator, Robotium, Appium.
+● Experience in various methodologies like SDLC, Agile development and waterfall development.
+● Experience with source code control management like subversion (SVN) and GIT.
+● Have proficient knowledge and experience with Sensor APIs such as Location, Accelerometer, gyroscope,
+NFC and more.
+● Have worked on IoT devices, such as controlling hardware modules via Bluetooth Comm from Android
+Device.
+●  Self-motivated  and  excellent  abilities  to  learn  new  languages  and  other  concepts  quickly,  excellent
+interpersonal skills and abilities to communicate with team players.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+State Farm  -  Bloomington, IL - April 2014 to Present
+
+App Name: Pocket Agent
+
+Project Description: The project was a full-stack MVC that utilized proprietary frameworks to save data, analyze
+it  for  compliance  with  state-level  regulations,  and  format  web  pages  dynamically  to  fit  varying  screen  and
+window sizes.
+
+Link in the Google Play - https://play.google.com/store/apps/details?id=com.statefarm.pocketagent
+
+Responsibilities:
+● Responsible for consuming the REST services, getting JSON response and parsing them to get the required
+information.
+● Involved in requirement gathering and designing of the application.
+● Used Content Provider to access our SQLite Database.
+● Designed and developed server side web services using Spring MVC.
+● Designed and implemented database contract, database helper and provider classes to work with content
+providers.
+● Sync data with SyncAdapter by retrieving data from the server via Retrofit and updating data locally via
+ContentProvider.
+● Used OkHttp for all networking related operations.
+● Triggered Sync service for frequent refreshes whenever the network is available
+● Displayed data in the user interface via Loaders.
+● Integrated location based services using Google Maps API to display locations of the nearest stores.
+● Handling XML data using efficient parsing techniques such as DOM parser.
+● Used GIT-HUB as our project version controller, where used to commit and push the developed, working
+code
+●  Work  closely  with  the  web  application  development  team  to  ensure  proper  integration  between  mobile
+application and web application.
+● Used Crashlytics, while testing the application, so as to verify the proper free-flow working of the application.
+● Worked with the Android SDK, and implemented Android Location Connectivity components.
+
+Environment: Android SDK 4.4, Android Studio, JSON, Jackosn, Gson, REST Web Services, Spring MVC,
+XML, Crashlytics, Retrofit, and GIT-HUB.
+
+Android Developer
+FedEx  -  Memphis, TN - February 2013 to March 2014
+
+App Name: FedEx Mobile
+
+Project  Description:  Application  provides  a  way  to  manage  deliveries,  track  status  of  packages,  find  store
+locations and customize shipments and deliveries.
+
+Link in the Google Play - https://play.google.com/store/apps/details?id=com.fedex.ida.android
+
+Responsibilities:
+● Implemented Fragments on the main screen, On Click of each fragment takes to another tab.
+● Implemented List View, so as to show the different shipments and maps as a form of list.
+● Integrated location based services using Google Maps API to display locations of the nearest stores.
+● Worked closely with the testing team.
+● Worked in an Agile based environment.
+● Collaborated with web services team to implement the backend support.
+● Designed and developed the request and response data to and from database.
+● Implemented SQLite databases to monitor shipments.
+● Implemented customized web view component to load an SWF file and HTML data.
+● Developed automation test suites/framework for functional tests using Robotium for Android mobile devices
+using JUNIT from scratch
+
+● Performed Unit testing on the various modules/functions to ensure that the output is as expected
+● Used JIRA to track issues.
+
+Environment:  Android  SDK,  Eclipse  IDE,  Google  Maps,  AML  and  SQL  Databases,  Junit,  Robotium,  GPS
+Services.
+
+Android Developer
+CVS Care Mark  -  Buffalo Grove, IL - September 2011 to January 2013
+
+App Name: CVS Caremark
+
+Project  Description:  The  CVS/caremark  app  lets  you  refill  or  request  new  mail  service  prescriptions,  track
+order status, view prescription history and more. Features include Refilling mail orders, checking order status,
+checking drug costs and average etc.
+
+Link in the Google Play - https://play.google.com/store/apps/details?id=com.caremark.caremark
+
+Responsibilities:
+● Worked on the user interface and flow pattern of the ATN application.
+● Development of the app to adapt different orientations and multiple resolutions depending upon the quality
+of the device.
+● Integration of third party application to the libraries to cache image data, which improves the performance
+of the application.
+● Integration of Google Map API with the application.
+● Designing and development of the xml layout with Android Map Fragment to view locations on the map.
+● Displayed the deals data in Customized ListView and implemented XML Pull parser class for feeds for
+various sources.
+● Involved in Testing the Mobile application and track the bugs to fix in the production environment.
+
+Environment: Android SDK, Eclipse, Java, XML, Adobe Photoshop
+
+Android Developer
+Dow Chemical Company  -  Midland, MI - November 2010 to August 2011
+
+App Name: Dow Snowglobe
+
+Project  Description:  Dow  Snowglobe  is  an  interactive  snow  globe.  We  can  choose  from  different  scene
+backgrounds and choose your own picture to resize and fit inside of the globe. Application allows you to shake
+or use your finger to swirl the snow around.
+
+Link in the Google Play - https://play.google.com/store/apps/details?id=com.dow.snowglobe
+
+Responsibilities:
+● As a team member, I was involved in the design and implementation of the UI, classes, architecture and
+activities of the mobile application
+● Used Frame Layout to show background images of the app.
+● Involved in implementing Asynctask for the background operations.
+● Developed the app to adapt to different orientations (Landscape/Portrait) and various resolutions (ldpi/mdpi/
+hdpi) based on the device
+● Implemented MotionEvent method to swirl the snow around with a shake.
+● Implemented Touch Event method to swirl the snow around with the use of finger
+
+● Developed analytics for the application so as to keep a track of the app on which device and in which places
+it has been used.
+● Designed and developed the request and response data to and from gallery.
+● Participated in all the phases of SDLC from design, development through testing, porting and support of
+application.
+
+Environment: SDK, Eclipse IDE, Frame Layouts, DDMS console and User Interface Design.
+
+JAVA Developer
+Inforlinx Solutions Private Limited  -  Hyderabad, Andhra Pradesh - June 2008 to October 2010
+
+Description: Inforlinx is an ISO 9001:2008 certified Web & Mobile Application Development Company. They
+help companies manage their IT needs for Web Development Solutions & Internet marketing. The core aim is
+to provide Web based Solutions and e-strategic modules to the people across the globe, with a distinct quality
+and in a cost-effective module for enhancing their business competencies.
+
+Responsibilities:
+● Analyzed the requirements of the client and designed the architecture.
+● General Designs and Detailed Designed were reviewed along with peers.
+● Development of UI screen with HTML and JSP.
+● Work closely with UI/UX teams and backend teams.
+● Implement the UI/UX customizations.
+● Implemented Push notifications to notify user for all crucial information.
+● Involved in unit testing, integration testing and user acceptance testing.
+● Wrote Stored Procedures for MySQL Database.
+● Team coordination for different issues and referrals.
+● Provided Onsite Support after the system went Live.
+● Worked under the UNIX environment.
+
+Environment: Java, Servlets, JSP, EJB, JDBC, MySQL, UNIX, Tomcat.
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.statefarm.pocketagent
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Android OS Android 1.5 to Android 5.1, Android NDK
+Languages Java, C, C++, Objective-C
+Scripting Languages JavaScript, JQuery, Python, R
+Web HTML5, CSS, XML, AJAX, Node JS, Angular JS
+Frameworks Struts, Spring MVC
+Database SQLite, MySQL, Oracle […] DB2, MongoDB
+IDE Android Studio, Eclipse
+
+

@@ -1,0 +1,239 @@
+<ba>
+Mary Yao
+
+Android Developer - Wyndham Hotel Group
+
+New Jersey - Email me on Indeed: indeed.com/r/Mary-Yao/f18eb58feaadf0a4
+
+• Around 6 Years of diverse experience in mobile software development, web solutions and desktop software
+development.
+• Around 5 Years + of experience in Android application development with Android SDK.
+• Understanding Object-Oriented design pattern and successfully implemented the concepts in Android
+• Strived for elegance and simplicity in code while focusing on scalability, readability and standards complicity.
+• Experience in Software Verification and Validation.
+• Expertise in developing, deploying, porting and debugging application for Android mobile development and
+also in web / software development.
+•  Good  knowledge  in  designing  and  developing  adaptive  UI  components,  Widget  for  Android  phones  with
+different screen resolutions.
+•  Experience  in  applying  System  Development  Life  Cycle  (SDLC)  for  applications  and  understanding  of
+business rules.
+• Experienced with reading and writing XML documents.
+• Extensive experience in dealing with both SOAP as well as REST based web services.
+• Hands on experience with Android Unit Testing & used tools like J-UNIT 3 & Robotium.
+• Hands on experience with android geo location services
+• Hands on experience with parsing JSON data.
+• Adept at quickly adapting to new environments, new technologies and facing new challenges.
+• Multitask- oriented with strong competitive drive and work ethic to succeed.
+• Good hands on experience with dealing with OpenGL & Phonegap hybrid app development.
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Wyndham Hotel Group  -  Parsippany, NJ - January 2014 to Present
+
+Description:
+This application is designed to help the managers and administrators in managing the various applications
+within the preview of the group. Customer can search for the availability of rooms based on cost, type, place
+and date through the app. If available, user can make the reservation by registering to the site and by giving
+all the payment details. Once the Payment is approved, confirmation will be sent. The customer can check the
+status of the reservation or cancel the reservation using the app.
+
+Link: https://play.google.com/store/apps/details?id=com.wyndhamhotelgroup.wyndhamrewards&hl=en
+
+Responsibilities:
+• Implemented complex custom layout design for the application.
+• Responsible for integrating Lessons from the Internal Server and made application flexible to update changes
+at any point of time.
+• Implemented application to handle orientations and support different screen sizes.
+• Developed WebPages using XML, 9-patch and integrated them in application.
+• Handled restful web services consumption for fetching content from the Internal Webserver
+• Integrated Facebook feature for easy sign on.
+
+• Integrated Google Map-kit for enabling the locations.
+• Used subversion as version control.
+• Used JUnit for Tesing the App.
+• Involved in developing push notifications using GCM.
+• Consumed REST based WEBServices that returned JSON objects.
+• Parsed XML data using different XML parsers like SAX, DOM and PULLPareser
+
+Environment: Android 2.0/2, Eclipse 3.6, ADT Plug-in, SQLite, XML, Java, Google-Map kit, Subversion, JUnit.
+
+Android Developer
+OneCloud  -  Milpitas, CA - May 2013 to December 2013
+
+Project: Grub Hub Food Delivery
+This is a simple app to order food online. The app integrates the Geographical location to find restaurants
+nearby, and helps to order and pay through the app.
+
+Link: https://play.google.com/store/apps/details?id=com.grubhub.android
+
+Responsibilities:
+• Involved in complete SDLC for all the planning, development, testing to maintenance/code enhancement.
+• Designed and Implemented Views and Layouts for user interaction.
+• Developed the UI layers for activities & implemented Fragments within UI.
+• Used multi-threading to implement parallel processing.
+• Developed and used a location based service to capture the user location.
+• Made a major contribution in brand refactoring the resources of a project to make it more generic and used
+Resource overlays.
+• Consumed REST based web services using JAX-RS with Jersy.
+• Implemented PUSH notification so that the user knows that the order is ready and is being delivered.
+• Implemented fragments.
+• Used Android SDK 4.0.3 and Eclipse IDE for development.
+• Extensively tested alpha releases with JUNIT 3 & Robotium.
+• Involved deploying android app to the Google Play Store.
+• Used GIT for version Repository maintenance.
+
+Environment: Android 2.0/2, Eclipse 3.6, ADT Plug-in, SQLite, XML, Java, Google-Map kit, Subversion, JUnit.
+
+Android Developer
+Novartis  -  East Hanover, NJ - August 2012 to May 2013
+
+Project Name: Baby Tracker
+
+Description:
+Baby Tracker is a great application for parents who want to track their child's growth activity on daily, weekly
+or monthly basis. Growth record of baby consists of weight, height, etc. With this application user can create
+a profile for baby and keep the details about vaccination, medical history, baby growth etc. The app provides
+information including: a month-by-month guide to baby development and behavior; practical advice on baby
+care, doctor visits, colic, and more; ideas for games and activities, no matter how old your baby is; access to
+the message boards so you can get support and ideas from other baby parents.
+
+Responsibilities:
+• Worked on local data storage using SQLite.
+
+• Implement user registration and login, with validation check.
+• Use services to get http connection to the server end, post to and get data from the server.
+• Used 9-patch image tool for good image quality.
+• Used scrolling tabs to show different categories of tips for development milestone, feeding, health and baby
+care.
+• Integrated with email and text messages to share the item list with friends or family members.
+• Enabled camera to take pictures.
+• Worked with data validations for user input.
+• Involved in writing the application logic using ADT plug-in for Android.
+• Involved in unit testing the application.
+• Worked on debugging the application using debugger and DDMS
+• Debugged and tested the application on device.
+
+Environment API 11 - 13: Android 3.0 - Android 3.2 (Honeycomb), API 14 Android 4.0 (Ice Cream Sandwich),
+Java, Eclipse IDE, ADT Plug-in and Android SDK, XML, Java and Android SDK.
+
+Android Application Developer
+Capital One  -  Wilmington, DE - September 2011 to August 2012
+
+Project: Capital One Business Deposits
+
+Capital One Bank's Mobile service for commercial Bank clients. This app can allow to make deposits using
+camera enabled smartphone. Deposit checks from mobile device and credit that on the same day.
+
+Link:https://play.google.com/store/apps/details?id=com.capitalone.checkdeposit&hl=en
+
+Responsibilities:
+• Involved in full life cycle of the application including prototype, design, development, and testing.
+• Developed different features for the application, such as: Conference Calls, Meeting Schedule, System Info,
+Video Stoplight feature, Call Hold feature, Audio calls add-in feature for both embedded devices, Polycom
+Touch Control.
+• Innovative video calls, leader in video conference calls.
+• By enabling calendar, your personal calendar and notification can be shown in the screen. This is linked
+with emails.
+•  Understanding  of  Client-server,  Cloud  computing  service  architecture  and  Internet  Technologies  (e.g.
+HTML5, CSS3, jQuery, XML/XSLT, JSON, HTTP)
+• Refactored the code base to optimize start-up time and memory usage.
+• Integral in internationalizing of the app to support different languages.
+• Key resource for layout and UI work utilizing XML, Views, List View, Menu Item, Activities, Fragments, Frame,
+Animations, Notifications, etc.
+• Simulating for prototype, write Design Document, document Feature Verification Test (FTV).
+
+Environment:
+J2EE, Android SDK, Eclipse 3.7, HTML5, CSS3, JSON, jQuery, XML.
+
+Android Developer
+State Farm Insurance Company  -  Bloomington, IL - October 2010 to August 2011
+
+Description:
+
+State Farm "Pocket Agent" app is aimed towards providing the user information regarding their insurance
+coverage and gives the user roadside assistance in the case of an emergency. It finds an agent, report a claim,
+make a bank deposit, do your banking, and a whole lot more.
+
+Responsibilities:
+• Assisted in designing the User Interface (UI/UX) and overall look and feel of the app.
+• Implemented Fragments to make the app usable on both Smart phone and tablets.
+• Developed the app to adapt to different orientations and various resolutions (Idpi/mdpi/hdpi) based on the
+device.
+• Worked on the "On the Road" section of the app to provide the user information regarding their proximity to
+the closest Locksmith/Tow, Taxi, Rental Car, Gas Station, and Hotel and also to the closest State Farm Agent.
+• Used Google Maps API to develop location based services for the App.
+• Participates and contributes to all phases of the SDLC, including programming, defect correction, unit testing,
+code review and deployment planning
+• Production monitoring and support as needed
+• Provides expertise on mobile current standards and cutting edge technologies and frameworks.
+• Partners closely with non-technical staff to define user requirements.
+• Provides estimates for the work plan.
+• Assists in producing and executes on well-documented technical designs.
+
+Environment: Android SDK 2.2, SQLite 3.6, Eclipse IDE 3.5, Android API's, JDK 1.6, XML, JSON, HTML, CSS,
+GPS service, Log cat, SDLC.
+
+Android Developer
+Tracfone  -  Miami, FL - February 2009 to September 2010
+
+Description:
+The Tracfone My Account allows users to manage all their accounts right from their phone. Users have the
+ability monitor their TracFone balance, history; add new cards, and even my calls through the app.
+
+Responsibilities:
+• As a team member, I was involved in the design and implementation of the UI, classes, architecture and
+activities of the mobile application
+• Used Frame Layout method to show background images of the app.
+• Involved in implementing Async task for the background operations.
+• Developed the app to adapt to different orientations (Landscape/Portrait) and various resolutions (ldpi/mdpi/
+hdpi) based on the device
+• Developed analytics for the application so as to keep a track of the app on which device and in which places
+it has been used.
+• Designed and developed the request and response data to and from gallery.
+• Participated in all the phases of SDLC from design, development through testing, porting and support of
+application.
+• Tested the application on different Android target devices and also debugged the issues that were found
+• Provided subsequent releases, which included feature changes, enhancements and bug fixes.
+
+Android Application Developer
+Magnet Systems  -  Palo Alto, CA - January 2008 to February 2009
+
+Description:
+Magnet Platform for app developers to develop Android apps and Magnet App Store to download Magnet
+specific apps
+
+Responsibilities:
+• Designed and developed the applications like People@Work,
+• Ticketing apps based on Magnet Platform using
+• Eclipse, Android plugin's supporting versions Android 4.0
+• Implemented various UI elements including Fragments, Action Bar and Lists to develop the display screen.
+• Integrated SalesforceController and LinkedInController and retrieved the contacts
+• Implemented Google Cloud Messaging (GCM) using GCM Cloud Connection Server (CCS)
+• Developed webViews using HTML5 and JavaScript on PhoneGap/Cordova
+• Developed Web apps using Bootstrap framework such that the app is compatible across all platforms both
+mobile and desktop
+• Worked in Agile development environment including Scrum methodology
+
+Environment: Android 4.O, HTML5, PhoneGap/Coredova, Google Cloud Messaging, Bootstrap, JavaScript,
+User Interface
+<sk>
+SKILLS
+
+Android SDK, Phone Gap, SQL, HTML, Java
+
+ADDITIONAL INFORMATION
+
+SOFTWARE SKILLS
+
+Languages Java, Objective C, C/C++, JavaScript, PHP, SQL, Action Script 3.0
+Frameworks Android SDK, Java Development Kit (JDK), .NET, C standard Library, jQuery Mobile
+Web Technologies HTML 5, CSS 3, XHTML 1.1, XML 1.8, JavaScript 1.8.5, jQuery, AJAX-RS, Jersey, Apache,
+Tomcat
+Development &Testing Tools J-Unit, TestNG, Robotium, Dreamweaver CS5, Photoshop CS5, MS Office, Open
+Office Suite
+Databases SQLite, SQLite Mobile, MySQL, Oracle 10g.
+IDEs Eclipse, Android ADT, NetBeans, XCode
+
+

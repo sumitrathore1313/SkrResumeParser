@@ -1,0 +1,88 @@
+<ba>
+Nikitha Somaram
+
+Web Developer at New Mexico Highlands University
+
+Las Vegas, NM - Email me on Indeed: indeed.com/r/Nikitha-Somaram/9d7e317e74f17199
+</ba>
+<su>
+✓ Expertise in implementing Object-Oriented technologies, web based Client-Server Architecture, JAVA/J2EE,
+JDBC, JSP, Servlet, Struts Framework, EJB, XML, XAML
+✓ Widely used Oracle 8i/10g, SQL Server […] MySQL.
+✓ Strong experience in data analysis and proficient in writing SQL queries, DDL, PL/SQL, Stored Procedure
+in SQL Server 2005, Oracle.
+✓ Experience in creating forms using Microsoft Infopath 2010/Infopath 2007. Familiar with the MS Office tools.
+✓ Familiar with Eclipse IDE, Netbeans IDE, ANT and Maven build tools.
+✓ Experience in using the Rational Rose, DIA and MS-Visio for designing the Use Cases.
+✓ Created user-friendly GUI interface and Web pages using HTML, CSS, and Java Script.
+✓ Used Java Scripts for all XSL pages for client side validations.
+✓ Knowledge of complete lifecycle (SDLC) of the project involving Design, Development.
+✓ Good Knowledge of Microsoft Silverlight 4.0
+✓ Good communication skills, excellent problem solving capabilities, Curiosity to explore new things.
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+New Mexico Highlands University - August 2011 to Present
+
+Worked on web apps built on J2EE and Oracle Database. Responsible for correcting bugs and adding features
+as needed. Using Drupal and some custom PHP to build websites from scratch. Interacting with and providing
+support to clients on PeopleSoft CRM by keeping track of tickets.
+Mode of Work - Part Time
+
+Graduate Assistant - Department of Computer Science
+New Mexico Highlands University - August 2011 to Present
+
+Position Title - Lab and Network Assistant (Aug '11 - till date)
+Work Experience - Troubleshot various client systems, which are connected in a network that used various
+Internet connections, which are wired as well as wireless. Helping the students in coding through programming
+languages C, C++ and JAVA.
+Mode of Work - Part Time
+
+MU Web Developer
+University of Houston main campus  -  Houston, TX - December 2010 to July 2011
+
+Involved in developing websites using HTML, CSS, Java, JavaScript, Java2EE. Used Java Script for Client
+side validations and developed SQL queries and stored procedures.
+Mode of Work - Part Time
+
+Software Trainee
+HCL Technologies  -  Hyderabad, Andhra Pradesh - July 2010 to December 2010
+
+Program and analyze database and client oriented software's for outsourcing and enterprise
+solutions.
+- Worked on company copyrighted software and development platforms JAVA, ASP. NET, SQL
+- Also worked on web and graphic languages JavaScript, PHP, CSS and HTML.
+</we>
+<ed>
+EDUCATION
+
+MS in Computer Science
+New Mexico highlands University  -  LASVEGAS
+January 2010 to January 2012
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+Computer Skills
+Proficient or familiar with a vast array of programming languages, concepts and technologies, including:
+Web Technologies: JavaScript, PHP, CSS, ASP.NET, HTML, DHTML, XHTML, XML, XSL, XSLT, Web
+Services, WSDL, XSD.
+Computer Languages: C, C++, Java, J2EE, PERL, Servlets and JSP, RUBY, J2ME, Struts Framework, EJB
+Databases: Oracle, Microsoft SQL Server, MySQL
+Designing Tools: Rational Rose, Dia, Magic Draw
+Microsoft Tools: InfoPath, OneNote, Access, Excel, Powerpoint, Word, Microsoft SILVERLIGHT,
+Microsoft EXPRESSION BLEND 4.
+IDEs & Tools: Microsoft Visual Studio, Eclipse, NetBeans, Adobe Dreamweaver,
+Adobe Flash, Flex, Microsoft Visio, SPSS, Microsoft Expression BLEND
+Operating Systems: Windows, Linux, Unix, Mac OS X
+Other tools: Rally, cwiki.
+
+Technologies -(Java, J2EE, JavaScript, DRUPAL, PHP, HTML, CSS)
+
+Technologies - Java, J2EE,
+
+Technologies - Java
+</sk>
+

@@ -1,0 +1,91 @@
+<ba>
+Nikita Patel
+
+Web Developer
+
+Norristown, PA - Email me on Indeed: indeed.com/r/Nikita-Patel/7b850d0a5db99feb
+</ba>
+<su>
+• A competent professional having more than one and half years of working experience in various latest web
+technologies
+• Strong experience in requirement analysis, design and development, unit testing on technologies.
+• Experience in working with on site and offshore based team model, coordinated tasks and activities with
+customer and on site team member in various projects.
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Magna InfoTech Pvt. Ltd  -  Gujarat, IN - June 2015 to December 2016
+
+Responsibilities:
+• Designed the Web application layout and forms using HTML, CSS, and JavaScript.
+• Worked with business analysts to understand their business models and goals and help define requirements,
+content, and features.
+• Converted PSD mockups into pure HTML and CSS pages.
+•  Handled  all  the  client  side  validations,  slide  show,  hide  and  show  controls,  dropdown  menus  and  tab
+navigation using JQUERY.
+• Used JavaScript libraries to create slider and page-turning animations on calendar widgets.
+• Responsible for creating the screens with table less design following W3C standards.
+• Developing of open source projects like Opencart, WordPress, osCommerce, etc.
+• Created Some Module and Extension in Opencart such as Testimonials, Social Activity Posting According
+Your Project, Recent Activity Updated According Activity in Your Project, Extension According created Timer.
+• Environment: HTML, CSS, JavaScript, JQUERY, AJAX, and XML.
+
+Web Developer for City Watch Portal
+Shiva Solutions Pvt. Ltd  -  Gujarat, IN - December 2014 to April 2015
+
+• Tools & Technologies: MS Visual Studio 2008, ASP.net 2010, My SQL 2008
+• Developed a web application which managed city related problem.
+• Worked on four modules such as Admin, User, News and NGO Management.
+• Analyzed the current system and added new configurations.
+• Designing HTML, CSS, JavaScript, Microsoft Picture Manager.
+• Designed forms, layouts, and reports for the application.
+• Designed database for the application.
+• Tested the application and fixed all the bugs that might have occurred.
+
+Application Developer
+Training In Emtici Enginrring Limited  -  Gujarat, IN - December 2012 to January 2013
+
+for Customer Relationship Management (CRM) for Company
+• Tools & Technologies: MS Visual Studio 2005, Vb.net, MS Access.
+• Developed a windows based application which kept the records of all customers and employees.
+• Worked on eight modules such as User Login, Registration, Customers, Products, Point of Sale, Billing,
+Employees, and Reports.
+• Analyzed the current system and added new configurations.
+
+• Designed forms, layouts, and reports for the application.
+• Designed database for the application.
+• Tested the application and fixed all the bugs that might have occurred.
+</we>
+<ed>
+EDUCATION
+
+Masters of Science in Information Technology
+Sardar Patel University
+August 2013 to April 2015
+
+Bachelors of Business Administration in Information Technology Management
+Sardar Patel University
+March 2013
+</ed>
+<sk>
+SKILLS
+
+HTML (1 year), ADOBE PHOTOSHOP (Less than 1 year), C# (Less than 1 year), C++ (Less than 1 year),
+DATABASE MANAGEMENT SYSTEM (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+• Languages: C, C++, C#, Core Java, Visual Basic 6.0
+• Scripting Languages: Java script
+• Operating Systems: MS-Windows XP and later
+• DBMS/RDMS: MS-Access, Oracle 8i, Oracle 9i, My Sql
+• Application: Microsoft Word, Excel, PowerPoint, Outlook
+• Designing Tools: Adobe Photoshop, Macromedia Dreamweaver, Adobe flash cs4
+• Web Technology: PHP, ASP
+• Markup Languages: HTML, DHTML
+• Frameworks: .NET
+</sk>
+

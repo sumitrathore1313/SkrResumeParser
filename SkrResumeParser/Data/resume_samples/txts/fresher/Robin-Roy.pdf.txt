@@ -1,0 +1,27 @@
+<ba>
+Robin Roy
+<su>
+Graduated from computer Science and Engineering having well versed knowledge in
+Testing. I also have a year of experience. I have done training in Manual and Selenium
+testing.
+
+<we>
+WORK EXPERIENCE
+
+fresher
+<ed>
+EDUCATION
+
+b.tech in computer science
+Aurora's engineering college  -  Hyderabad, Andhra Pradesh
+2012 to 2016
+<sk>
+SKILLS
+
+Javascript, java ,mysql,c++,c,html,css, Manual and Automation Testing, (Less than 1 year)
+
+CERTIFICATIONS/LICENSES
+
+Trained in Manual and Selenium Testing
+
+

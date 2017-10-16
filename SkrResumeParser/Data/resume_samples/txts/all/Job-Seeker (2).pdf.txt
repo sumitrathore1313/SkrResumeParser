@@ -1,0 +1,190 @@
+<ba>
+Job Seeker
+
+Android Developer - Lemonaid Health
+
+- Email me on Indeed: indeed.com/r/6d44de710f8e46ca
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Lemonaid Health - January 2016 to Present
+
+Description:
+Currently involved in development of Planned Parenthood Direct. An Android based mobile Application that
+enables women to avail Birth control, UTI and STD based medication, consultation and test kits.
+Android: https://play.google.com/store/apps/details?id=com.ppfa.stdtestca&hl=en
+Responsibilities:
+• Mobile Analytics for tracking App crashes Revenue streams and abandonment rate.
+• Sync/Async REST API Calls to services written in PHP/MySQL.
+• Integration of Native features like Camera, Maps, and Geolocation etc.
+• Implementation of PayPal based Braintree interface to facilitate payments.
+• Adding/Editing payment methods and user details.
+• Push notifications and in-App notifications.
+• Dynamic UI creation based on REST API responses for Questionnaires and content.
+• Ability to make POST Requests to cancel future shipments, Choose delivery type and Auto refill.
+• UI related modifications and screen implementations (responsive).
+• Code review, code upgradation, previous version bug fixes and App deployment in Google stores.
+• Designed native module to use the device capabilities of caching when deployed as an application.
+Environment:Android SDK, Java, MySQL, PHP, Rest Api, JSON, JavaScript, jQuery, SVN, Git.
+
+Driver Utility App
+Food Crave - March 2015 to December 2015
+
+Android/iOSDeveloper
+Description:
+Involved in developing the first version of FoodCrave driver utility app for Android. Taking the advantage of
+user location this was an excellent application to give the driver all the tools needed to perform their work.
+iOS:https://itunes.apple.com/us/app/food-near-u-restaurant-pickup/id687560536?mt=8
+Android: https://play.google.com/store/apps/details?id=com.entmobi.foodcrave&hl=en
+Responsibilities:
+• Created the screens, Fragments and Layouts for the application.
+• Involved in preparing the architecture design of the application. As well as interfaces with the backend.
+• Developed iOS component in java for custom caching of menus and images.
+• Extensively used adapters, GridViews, ListAdapters to display Order listing and Order details using Android
+Animations.
+• Integrated Google Maps and distance API to get directions as well as shown maps.
+• Integrated SSL security for the checkout process. As well as integrated Paypal and virtual merchant API for
+handling the payment.
+• Used SQLite to maintain the caching of the orders to reduce redundant calls.
+• Developed the documentation for the services to be developed and involved in developing and testing those.
+• Integrated google maps to show different orders start and end points as well as route map.
+• Involved in creating a delivery application on iPhone using java and restful JSON services.
+
+Environment:jQuery Mobile, JSON, REST API, HTML5, JQuery, Bootstrap, CSS, JavaScript, Web Services,
+Google Maps.
+
+Android Application Developer
+McKesson Healthmart Survey Appication - July 2014 to February 2015
+
+Description:
+This Application was designed to help the sales person take survey of the healthmart franchise store. The
+sales representative used to fill the forms and come back and upload the responses on the salesforce system.
+There were unnecessary efforts put because Salesforce UI was not compatible with tablets they carried, and
+did not support any offline usage. So a new tablet web application was developed to give a rich interface with
+offline connectivity fix for each sales representative to handle the application.
+Responsibilities:
+• Involved in application architecture design, development and bug fix.
+• Implementation of custom adapters for binding data between external data services and user interface.
+• Implementation of Android BroadcastReceiver and Services to start and trigger application activities without
+User knowledge or intervention especially for pages with images and videos.
+• Collaborated with web services team to implement the backend support.
+• Major work involved using Web services, reading data from the website and Implemented HttpCommunication
+using ksoap Data.
+•  Extensively  used  customlistviews  to  view  information  on  every  screen  and  to  keep  the  uniformity  of  the
+application.
+• Implemented menu based navigation (Context-based, regular and submenus).
+• Implemented view flow for navigation between different screens.
+• Worked with SVN tool to review and submit the code.
+• Helped in publishing the application and handled technical troubleshooting within the environment, including
+system crashes, slow-downs and data recoveries.
+• Used AndroidJUnitFrameworkAPI to prepare test cases.
+Environment: Windows XP, Android, Java 1.6, Android SDK, ADT, Multi-threading, Action bar, Fragments,
+Broadcast Receivers, Adapters, Web Services, ksoap, XML, Eclipse, SVN, XML, Parsing, DOM, HTML.
+
+Android Developer
+MapAlerter - October 2013 to May 2014
+
+Description:
+MapAlerter  is  a  local  authority  alert  service  for  people  living  in  Ireland  who  want  to  receive  important
+notifications  from  their  County  or  City  Council.  Water  Service  Alerts.  Road  Closures  &  Diversion
+Alerts.Community Alerts & Notices.Flood Alerts. Severe Weather WarningsPlanning Application Activity.
+Android:https://play.google.com/store/apps/details?id=com.mapalerter&hl=en
+Responsibilities:
+• Was involved in development and maintenance of the application
+• Extensively used web services to communicate with central servers
+• Involved in the requirement gathering and implementation phase
+• Involved in deployment and documentation phase
+• Involved in the knowledge transfer phase
+• Involved in training and operations
+Environment:Java,  Eclipse  ADT,  Android  Studio,  Restful  Service,  Layouts,  Activity,  Fragments,  Intent,
+services, Broadcast receivers, Multithreading, AsyncTask.
+
+JAVA/J2EE Developer
+Forest Laboratories Inc  -  Cincinnati, OH - September 2012 to August 2013
+
+Description:
+Pharmaceutical  IT  Project  (PITP)  was  developed  to  carry  out  application  programming,  design,  coding,
+debugging,  troubleshooting  and  testing  all  aspects  of  SDLC  for  Forest.  Forest  is  one  of  the  leading
+pharmaceutical companies in US. It develops and delivers pharmaceutical products that address a range of
+health conditions.
+Responsibilities:
+•  Designed  a  system  and  developed  a  framework  using  J2EE  technologies  based  on  MVC  architecture,
+designed and developed UI's using JSP by following MVC architecture.
+• EJB as a middleware in designing and developing a three-tier distributed application.
+• Implemented Home Interface, Remote Interface, and Bean Implementation class.
+• Designed and developed Unit and integration test cases using Junit.
+• Used EJB features effectively- Local interfaces to improve the performance, Abstract persistence schema,
+CMRs.
+• Used Struts web application framework implementation to build the presentation tier.
+•  Wrote  SQLqueries  to  access  data  from  MySQL  database,  implemented  JMS  for  making  asynchronous
+requests, Implemented business logic at server side using Session Bean
+• Implemented JMS for making asynchronous requests
+Environment: Java, J2EE, Servlets, JSP, Struts, EJB, WebLogic, JMX, JDBC, MySQL, XML, Junit, JavaScript,
+XSLT.
+
+Android Developer
+Perception Systems, FaxPro - July 2011 to August 2012
+
+Description:
+Involved  in  development,  enhancement  and  maintenance  of  FaxPro  a  mobile  application  that  converts
+handheld devices to portable
+Fax stations. Also integrates cloud storages like DropBox, Box.net, and Google Drive & SugarSync.
+Android:https://play.google.com/store/apps/details?id=com.perceptionsystem.faxpro
+Responsibilities:
+• UI/UX for building user friendly applications
+• Extensive use of the Android SDK
+• Was responsible for generation of test plans and documentation
+• Development and enhancement of the current application
+• Extensive use of Android studio and the Eclipse ADT
+Environment:Java, Eclipse ADT, Android Studio, Restful Service, Layouts, Activity, Multithreading, AsyncTask
+<ed>
+EDUCATION
+
+Bachelors of Technology in Computer Science
+Osmania University  -  Hyderabad, Andhra Pradesh
+2007 to 2011
+<ba>
+LINKS
+
+https://play.google.com/store/apps/details?id=com.ppfa.stdtestca&hl=en
+<sk>
+ADDITIONAL INFORMATION
+
+SKILLS
+• C/C++/Objective-C • Gradle Build Process and Dependency management
+
+• Java • Maven Build Process and Dependency management
+• Swift • REST/SOAP Web Services
+• HTML/CSS/XML/JavaScript/JQuery/AngularJS • Git/GitHub/SourceTree
+• Node.js (Meteor.js/Express.js) • Databases
+• Native Android • SDK Development
+• Android Studio • Unit and Instrument testing
+
+CORE STRENGHTS
+• Native Android Development Experience.
+• Experience in using third party libraries like ButterKnife, Retrofit, Roboelectric, Dagger2, Picasso, Espresso,
+RX Java etc.
+• Experience with Android Geo-Location services.
+• Knowledge of Android software components, libraries and Gradle build process.
+• Knowledge of Android material design principles.
+•  Experience  with  AsyncTask,  Intent  Services,  Broadcast  Receiver,  Location  Manager,  Push  Notifications,
+Adapters.
+• Familiar with data storage options i.e. Shared Preferences, SQLite, GCM, Realm, Firebase, Internal and
+External storage.
+• Experience in using Google, Facebook, Instagram, YouTube and other popular social media based API's.
+• Experience inDeveloping Custom UI Elements (Example Tab bar, buttons, Custom Table view Cells).
+• Efficient storage of data using File System, Core Data, Realm, Firebase and SQLite.
+• Familiar with UI design implementation using Auto layout, Storyboards and XIB files.
+• Experience in Interface builder, Instruments.
+• Experience with collaborative source control systems like SourceTreeand Git/GitHub.
+• Familiar with SOAP and REST web services.
+• Familiarity with SDK development and library management.
+• Familiar with Unit testing and Instruments testing frameworks like Junit, XCTest, and Robotium etc.
+• Experience in mobile Analytics integration using AppsFlyer, Google Analytics and Aptelignet etc.
+• Experience Using Adhoc testing using Test Flight, HockeyApp etc.
+• Experience in Store App deployment process. (Google)
+• Mobile Analytics using AppsFlyer, HockeyApp, Aptelignet, Google Analytics.
+• Integration and class implementation of Payment gateways i.e. Braintree, Authorize.net
+
+

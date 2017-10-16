@@ -1,0 +1,72 @@
+Naina Goel
+
+Software Engineer - PlanYourTrip India Pvt. Ltd
+
+Noida, Uttar Pradesh - Email me on Indeed: indeed.com/r/Naina-Goel/833918ca6b5bc64f
+
+To work in an organization where I can learn more, develop my interpersonal skills and prove my abilities. My
+aim is to grow with the organization and contribute utmost on my part in the achievement of organizational
+goals and head towards personal growth and development.
+
+WORK EXPERIENCE
+
+Software Engineer
+PlanYourTrip India Pvt. Ltd - September 2011 to Present
+
+2011.
+
+Related Skills
+• Quick learner, able to absorb new technologies and information quickly.
+
+Company Name: PlanYourTrip India Pvt. Ltd.
+
+Plan  Your  Trip  is  a  Luxury  Travel  Company  that  transforms  your  travelling  experiences  into  wonderful
+memories with a touch of spellbound splendor. We specialize in tailoring extravaganza vacations to the most
+exotic destinations of the world.
+
+Project 1
+
+B2B Portal for Tourism
+Environment C#, ASP.NET, ADO.NET, HTML
+Database SQL Server 2008,
+Role Programmer
+Responsibilities Involved in Development, Bug Testing
+Description:  Enterprise  Tour  Planner  is  a  product,  developed  for  tour  operators  which  includes  program
+creation, program cost estimation, sending itineraries, voucher creation, etc. This software is truly scalable. It
+is an essential tool for small, medium and large scale tour operators.
+
+Project 2
+
+Admin Panel
+Environment C#, ASP.NET, LINQ, HTML
+Database SQL Server 2008,
+Role Programmer
+Responsibilities Involved in Development, Bug Testing
+Description:
+Admin Panel, content management system is a product developed for website maintenance which includes
+package insertion, package deletion, package updation, image uploading, authentication.
+
+web developer
+Plan Your Trip india Pvt Ltd  -  Noida, Uttar Pradesh - September 2011 to 2013
+
+EDUCATION
+
+B.tech in Informaion technology
+S.D.Sr.Sec.School  -  Jind, Haryana
+2007 to 2011
+
+SKILLS
+
+web developer
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+DotNet Frameworks .Net 4.0
+Dot Net IDE Visual Studio 2010
+Web Technologies ASP.NET 4.0, HTML, JavaScript.
+Databases SQL Server 2008
+Operating Systems Windows XP/Vista/win 7
+Languages C, C++, Core Java, C#
+
+

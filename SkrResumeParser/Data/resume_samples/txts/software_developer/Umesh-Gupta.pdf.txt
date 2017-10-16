@@ -1,0 +1,151 @@
+Umesh Gupta
+
+Software Developer - webdior solutions (p) Ltd
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/Umesh-Gupta/2a439026febad349
+
+• Dedicated & hardworking individual with B. Tech in Computer Science & Engineering from LDC Institute of
+Technical Studies, Allahabad; determined to carve a successful career in the industry.
+•  Equipped  with  the  knowledge  of  various  software,  sound  understanding  &  skill  of  creating  new  software
+& systems, designing, analysis, testing, database development & coding for modules as per the customer's
+requirements.
+• Understanding of the concepts of Software Application, Web Development and possess knowledge of various
+languages like PHP, CAKE PHP.
+• Well developed communication skills with reputation of unwavering accuracy, credibility & integrity with the
+ability to perform above expectations.
+• Understanding of the concepts of Web services for Android, IOS App Development
+
+WORK EXPERIENCE
+
+Software Developer
+webdior solutions (p) Ltd  -  Gurgaon, Haryana - October 2014 to Present
+
+PROJECT UNDER TAKEN
+Project Url. (http://dnarbazaar.com/) or http://www.awn.pw/recharge
+
+Technology Us: Cake PHP, and Oops, Jquery, Ajax, javascripts
+Database: My SQL
+API: SOAP, Rest Api Integration
+Description: it's a travels and online recharge portal. User can search, book, cancel flight, hotel, and recharge
+Mobile Prepaid, Postpaid, Data card, DTH, manage Wallet etc ..
+
+Project Url. (http://whatsupgurgaon.in/)
+
+Technology Us: Core PHP with Oops, Ajax, Jquery, javascript.
+Database: My SQL
+Description: The whole website provide information of Gurgaon like Dine out, pops, party, Shopping, event etc
+you can search different criteria and add no of offers, table, vanue deal of night club, Water Park etc in admin.
+Create Page information, calendar, Event etc. Google Adds, Rss feed creation integration, sms integration etc.
+
+Project Url. ( http://makenlive.com/)
+
+Technology Us: Core PHP with Oops, Ajax, Jquery, javascript.
+Database: My SQL
+Description: This is Ecommerce project.User can purchase room concepts products with different customize
+look. its show no of combination of room concepts look.
+
+Project Url. (http://propertyandloan.com/)
+
+Technology Us: Core PHP with Oops, Ajax, Javascript.
+Database: My SQL
+
+Description: It's property portal. In this portal user register as a Dealer, Owner, Builder and post property for
+sell, rent, PG with a selected package. User can manage property, manage leads, revert back that leads,
+Search property, contact to dealer, builder, Owner etc
+
+Project Url. ( http://www.dialestate.com/)
+
+Technology Us: Core PHP with Function, Ajax, JavaScript.
+Database: My SQL
+Description:  It's  property  portal.  In  this  project  Dealer  can  post  property  for  sell,  rent,  PG  with  a  selected
+package. telesales search property with different criteria for registered Mobile and send SMS particular dealer
+mobile And also send Bulk SMS to All registered dealer. Also Can Generate report for log-in details, Search
+details, Expiry Dealer Details, Customer Details Etc.SMS OTP Integration, Map Integration.
+
+Project Url. (http://happyconferencing.com/) or (http://awn.pw/hcknowledge/)
+
+Technology Us: Core PHP, and Oops, jquery, Ajax, JavaScript
+Database: My SQL
+Description:  It's  Ecommerce  project.  User  can  purchase  no  of  Speakers  DVD,  Replay,  handbook,  Digital
+Download with different customize look. its show no of combination of room concepts look..
+
+Project Url. ( http://modelsbazaar.com/)
+
+Technology Us: PHP
+Database: My SQL
+Description:  Models,  Photographer  can  register  login  and  search  different  result  according  to  need  send
+request.Post requirement, book model, book portfolio, post your reviews, like models, book models etc
+
+MVC framework Projects (http://awn.pw/scout4camper)
+
+Technology Us: php and Oops, Jquery, Ajax, javascripts
+Framework: Cake PHP
+Database: My SQL
+Description:  It's  a  vehicles  management  user  register.  search  contact  address,  contact  friends,  contacts
+vehicles. ISO and Android App Web services.
+
+MVC framework Projects (http://magicrunners.modelsbazaar.com/)
+
+Technology Us: php and Oops, Jquery, Ajax, javascripts
+Framework: Cake PHP
+Database: My SQL
+Description: Courier management system. Android App Web services.
+
+Summer Training
+Training Centre name: HP Training Centre at IIIT Allahabad
+Project: Student Portal Website
+Platform: ASP.net with C# and MS SQL 2005
+Role: Page Designing, coding, testing
+Team member: 4
+Duration: One month
+
+Description: The Project entitled Student Portal Website provides complete online information to the student
+on their academic information related to exam & assessment, finance details, class schedules and subject
+scheduling for the current semester. It also provides an efficient interface tools to the visitors of the website.
+
+Extra Curricular Accolades
+• Participated in organizing the Technical Fest 'YANTRA' in college.
+• Assigned as a decoration head of cultural programs at School level
+• Participated in the workshop on "Exploiting Java and Web Technologies in the age of Internet "organized by
+the Center of Professional studies, University of Allahabad scheduled from 19 to 21February, 2010.
+
+Achievements
+• Part of the team which was the Winner of Inter Cricket Championship in 2006
+• Athletics champion in School
+
+Web Developer
+Encrypto Soft Pvt Ltd - August 2012 to February 2013
+
+Worked as a Software Developer in Hatch Concepts from February 2013 to October 2014.
+
+EDUCATION
+
+B. Tech in Computer Science & Engineering
+LDC Institute of Technical Studies  -  Allahabad, Uttar Pradesh
+
+K.V.M. Inter College  -  Allahabad, Uttar Pradesh
+
+ADDITIONAL INFORMATION
+
+Software Skill Set
+
+Languages: PHP, CAKE PHP
+Database: MYSQL.
+Web Technologies: Ajax, Javascript
+Operating Systems
+Web Hosting Control Panel
+
+: Win XP, Win 7, Mac
+: CPanel
+
+Desktop FTP Client
+Applications
+CMS
+Payment Gateway Integration
+
+: Filezilla
+: MS - Office […]
+: Word press, Open Cart
+: EBS
+
+

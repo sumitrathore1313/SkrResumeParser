@@ -1,0 +1,163 @@
+<ba>
+Timothy Eden
+
+Message Broker - Modis
+
+- Email me on Indeed: indeed.com/r/Timothy-Eden/279e0b194be5cf81
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Modis  -  Jacksonville, FL - August 2014 to Present
+
+Jacksonville, FL Aug 2014 - present
+
+• Worked on application aircraft parts application for NavAir. The application is a work flow process using MQ,
+Message Broker, Activiti BPM, Google Web Toolkit , Java.
+• Wrote MQ scripts to add queues.
+• Wrote Java Classes in Spring 3.0 environment.
+• Developed web display using Google Web Toolkit
+• Wrote IBM Message Flows for business processes on aircraft parts.
+• Create BPM flows for business processes.
+• Use of Data Object Access Pattern (DAO) for data retrieval from Hibernate.
+• Use of GIT for source control.
+• Use of Jenkins for builds.
+• Use of Oracle PL/SQL to test SQL and create Triggers.
+
+Software Developer
+Bank of America  -  Jacksonville, FL - August 2013 to August 2014
+
+Jacksonville, FL Aug 2013 - Aug 2014
+
+• Worked on Commercial Wire Transfer application team. Developed message flows for both IBM Message
+Broker and Mule ESB, IBM ILog jRule, Activiti BPM and Appian BPM. Worked with HTML5 Canvas to give
+visualization to give application user their location on the Activiti BPM diagrams.
+• Worked on FAST program team that connected to Web Services. Worked on IBM Integration Broker 9.0
+and .Net programming with this application.
+
+Developer
+Winn-Dixie  -  Jacksonville, FL - June 2008 to August 2013
+
+for  integrating  various  Java  code  into  the  Info  Workbrain  time  and  attendance  product  working  in  an
+Agile environment. The integration technologies include JSP, Ajax, JSON, XML and J2EE design patterns.
+Mentor on teaching programmers how to implement .Net web services and solve interoperability problems
+between .Net and Java web service clients. The version of .Net is 3.5 and 4.0 with Telerik controls. The web
+services were completed using Windows Communication Foundation (WCF). Creating client software to call
+RESTful Web Services. Use of Design Patterns for programming
+• SQL tuning on IBM DB2
+• Programming in C# and ASP.NET on various projects.
+• Programming with Java Message Service (JMS) to IBM MQ using REST Web Service and XML parsing for
+System Integration
+• Writing Oracle Hyperion 9.3 Reports
+• Writing SQR reports
+• Writing IBM BPM 7.3 Developer projects
+
+• Writing IBM Datastage (ETL) jobs using TerraData database.
+• Wrote IBM Datastage (ETL) Training manual for beginners
+• Create Software Design Document for all projects
+• Using Info's Workbrain Java Rules Engine
+• Using the IBM BPM Decision Service (the Decision Table portion).
+
+Web Developer
+Caci Inc  -  Jacksonville, FL - November 2002 to May 2008
+
+Administrator for Websphere 4, 5 and 6 in Solaris 8, 9, 10 and Windows
+• Writing SOAP-based Web Services using Java.
+• Public Key Infrastructure (PKI)
+• Development Engineering using Websphere Business Integration Server (Now called Websphere Process
+Server).
+• Use of XSLT and XML for Display of Information on WAWF application.
+•  Performance  Tuning  of  Websphere  Application  Server  in  Enterprise  Environment  (Cluster)  with  200,000
+users in Unix environment.
+• Part of Research Team investigating technology such as Web Portal, IBM Business Enterprise Integration
+tools, Digital Security or any new J2EE technology.
+• Performance Tuning of Java Applications
+• System Architect for Websphere 5 implementation of Wawf Application
+• Any item dealing with Public Key Infrastructure such as XML Digital Signature format.
+•  Worked  on  authentication  of  users  via  login  with  either  software  certificate  or  userid/password  and
+authentication of messages send across the enterprise using the Java Bouncycastle API and Java Security
+API.
+•  Worked  on  encryption  of  data  at  the  database  column  level  in  order  to  meet  Department  of  Defense
+standards.
+• Wrote Java Classes to do Validation and Verification of Digital Signatures on XML software.
+• Wrote Java classes to evaluate PKCS7 objects.
+• Version control system used on project is Visual Source Safe.
+• Wrote Software Implementation Guide for Java Application
+• Setup Clusters and Session Management in Websphere 4 ,5 and 6.1
+• Used Websphere Studio for Integration Development Environment.
+• Wrote Java classes to create XML documents
+• Mentoring Junior Programmers
+• IBM Websphere 5 System Administrator certified
+• Sun Java 1.4 Programmer Certified
+
+ASP Developer and System Architect
+YouNeedaRestaurant.com  -  Jacksonville, FL - January 2002 to May 2005
+
+application in Active Server Pages and ASP.NET, Developed the Server Backup Software using Java Swing
+Components.
+• Work included DBA work, Data Modeling, writing Stored Procedures, coding, and html.
+
+JSP Developer and Server Architect
+Martin & Associates  -  Jacksonville, FL - January 2002 to November 2002
+
+Did server software install and modifications to human resources application using JSP, Jakarta ANT, WinCVS.
+Wrote MSSQL 2000 Stored Procedures and process documentation for application.
+• Wrote Oracle Bulk Data Loading SQL Procedure using Oracle SQL*Loader
+• Wrote MS SQL Stored Procedures
+
+• Installed and maintained Jakarta TomCat 4.0 and 5.0 webserver.
+• Installed Tomcat 6.0 in cluster configuration
+• Tomcat 6.0 working with LDAP
+• Updated Web application using JSP, Ajax, and Dojo
+
+Java Developer
+Computer Horizons  -  Jacksonville, FL - January 2001 to December 2001
+
+Developed Java Servlets, Java Beans, and JSP applications for Citibank's C2it.com product
+• Unix environment
+• Version control system was Clear Case.
+
+Java Developer
+Extreme Style, Inc  -  Jacksonville, FL - August 2000 to January 2001
+
+Develops Java Servlets, Java Beans, and JSP applications.
+
+Web Engineer
+Integration.com  -  Jacksonville, FL - January 2000 to July 2000
+
+Developed Active Server Page applications.
+
+Senior Technical Analyst
+Nations Bank/Bank of America  -  Jacksonville, FL - September 1997 to January 2000
+
+Developed Java applets, applications, and servlets.
+• Developed Java Applications using Java Swing Components
+• Developed Active Server Page applications.
+• Developed e-Commerce applications.
+• Developed PDF applications.
+
+Senior Technical Analyst
+Barnett Technologies  -  Jacksonville, FL - May 1997 to September 1997
+
+Developed Marketing Application using DB2 and ASP
+• Developed PowerBuilder 5.0 Intranet application.
+• Developed Essbase application.
+
+Engineer II
+Jacksonville Electric Authority  -  Jacksonville, FL - September 1984 to May 1997
+
+Repaired and upgraded desktop computers.
+• Wrote programs in PowerBuilder 3.0, 4.0, and 5.0 for client/server and stand-alone
+environments using the class library Powerframe.
+• Wrote help files for PowerBuilder applications using RoboHelp.
+• Created relational tables using Erwin/ERX.
+</we>
+<ed>
+EDUCATION
+
+BS in Electrical Engineering
+Auburn University
+1984
+</ed>
+

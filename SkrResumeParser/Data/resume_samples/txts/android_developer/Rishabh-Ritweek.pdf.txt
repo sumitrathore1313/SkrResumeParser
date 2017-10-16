@@ -1,0 +1,92 @@
+<ba>
+Rishabh Ritweek
+
+Mumbai, Maharashtra - Email me on Indeed: indeed.com/r/Rishabh-Ritweek/681a9fa2529a9784
+<su>
+To contribute my effort, proactive attitude, and positive atmosphere to help improve the Software industry and
+myself.
+Willing to relocate: Anywhere
+<we>
+WORK EXPERIENCE
+
+Android developer
+Harlalka services pvt. Ltd.  -  Bangalore, Karnataka - March 2016 to Present
+
+Responsibilities
+Android App development along with testing
+
+Accomplishments
+Made two Apps i.e. chkdin social Network and Medical U I app
+Chkdin link:- https://play.google.com/store/apps/details?id=com.chkdin&hl=en
+
+Skills Used
+Android Programming
+
+Android Developer
+Creo It Pvt. Ltd.  -  Bangalore, Karnataka - November 2015 to February 2016
+
+working  as  an  android  applications  developer,responsible  for  design,implementation  and  testing....  done
+Investtech android app for a norway based client.
+link:-https://play.google.com/store/apps/details?id=com.investtech.investtechapp&hl=en
+<ed>
+EDUCATION
+
+B.E. in computer science
+Siddaganga Institute of Technology  -  Tumkur, Karnataka
+2011 to 2015
+<sk>
+SKILLS
+
+c,c++,java,python,PHP,Javascript,HTML,CSS,Pygame,android (Less than 1 year)
+<ca>
+CERTIFICATIONS/LICENSES
+
+Cyber Security Expert
+September 2012 to September 2012
+Understanding the basics of cyber attacks and protection against them organized by Lucideus in association
+with Technocracy, IIT Delhi.
+
+Cloud Computing
+November 2012 to December 2012
+Basics of cloud computing under IBM carrer education program.
+
+GROUPS
+
+Decoders programming club recognized by IEEE
+September 2012 to August 2015
+It is a programming club in Siddaganga Institute Of Technology where i was the member and co-founder,
+
+PATENTS
+
+Information feedster (#CHE/3989/2014)
+November 2014
+Its a search engine that provides u actual websites in search results rather than link of the search results..
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+• Languages: C, C++, Java, python,android
+• Web Technologies:HTML, PHP, Javascript
+• Databases: MySql
+• Operating System: Linux and Unix
+
+Elective courses
+• Adhoc wireless Networks
+• Data science
+• Distributed operating systems
+• Cyber Security
+Projects And Patents:
+• Informaton Feedster-provisional patent granted-Final patent under pending
+• Address Book:A Personal place to store ur important addresses and to retrieve it efficiently (using java swings
+and sql)
+• Database design for college Hostel Management system
+
+• design of a basic vi-editor with features like underline, highlight for linux platform using C.
+
+Responsiblities
+
+• Team Leader, Developer, Web Master and Member for Decoders ( A programming club recognized by IEEE)
+
+• Member of IEEE-From september 2012 to september 2013.
+
+

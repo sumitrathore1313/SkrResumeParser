@@ -1,0 +1,187 @@
+<ba>
+Silphy Joseph
+
+Web Developer - Eton Bioscience
+
+San Diego, CA - Email me on Indeed: indeed.com/r/Silphy-Joseph/1a1852ad4862f88d
+
+</ba>
+<we>
+
+WORK EXPERIENCE
+
+Web Developer
+Eton Bioscience - June 2017 to Present
+
+Freelancer
+- December 2015 to March 2017
+
+•  Analyzed  business  requirements,  participated  in  technical  design,  development  and  testing  of  various
+modules assigned.
+• Designed and implemented the User Interface using HTML5, CSS3, JavaScript, JSP, AJAX and MySQL.
+• Implemented latest HTML5 and CSS3 features like creating various effects, Graphical dashboard
+• Created modules for Employees login to view their attendance.
+• Used various features in AngularJS like data binding, routing, custom filters, custom directives to meet various
+customized requirements.
+• Used the http services in AngularJS to make API calls and exchange data in JSON.
+• Developed cross-browser/platform HTML5, CSS3, and JavaScript to match design specs for complex page
+layouts while adhering to code standards.
+• Used JavaScript DOM manipulation and JavaScript event to generate the data result in UI.
+•  Involved  in  Dynamic  form  generation,  Auto  completion  of  forms,  and  user-validation  functionalities  using
+AJAX.
+
+Environment:  HTML5,  CSS3,  JavaScript,  jQuery,  Angular.js,  Responsive  Design,  Bootstrap,  REST  web
+services AJAX, SVN, Web services, XML, Windows.
+
+Freelancer
+Front-end - May 2015 to March 2017
+
+Freelancer | USA
+AngularJS - May 2015 to October 2015
+
+• Developed a Single Page Application (SPA) with Angular.js for School Management System.
+• Used various features in AngularJS like data binding, routing, custom filters, custom directives to meet various
+customized requirements.
+• Extensively used jQuery, AJAX and DOM manipulation to create interactive web applications like message
+posting and auto complete form validations
+• Developed UI for transportation module that helps students, management and drivers equally with a mobile-
+app.
+• Designed and implemented the User Interface using HTML5, CSS3, JavaScript, AJAX and MySQL.
+• Implemented latest HTML5 and CSS3 features like creating various effects, shadings, 2D/3D animations,
+shapes, handling multimedia files and many others.
+• Debugged the application using Firebug to traverse the documents and manipulated the Nodes using DOM
+and DOM Functions using Firefox and IE Developer Tool bar for IE.
+• Coding pages with best Search Engine Optimization (SEO) techniques
+• Actively involved in providing the technical support of the application by troubleshooting and resolving the
+issues.
+• Maintained cross browser compatibility and implemented responsive features using Twitter Bootstrap.
+
+Environment:  HTML5,  CSS3,  JavaScript,  jQuery,  Angular.js,  Responsive  Design,  Bootstrap,  REST  web
+services AJAX, SVN, Web services, XML, Windows.
+
+UI Developer
+ANZ OPERATIONS AND TECHNOLOGY PVT Ltd - July 2014 to January 2015
+
+HCL Technologies Limited
+
+• Coordinated with systems partners to finalize designs and confirm requirements.
+• Developed work-flow charts and diagrams to ensure production team compliance with client deadlines.
+• Have worked as a single UI person along with the Java back-end team and incorporated UI codes with Java
+calls.
+• Developed modules like Dashboards and reports using single page application Angular.js.
+• Developed modules in angular to Export reports to excel.
+• Created Dynamic Wireframes, HTML Wireframes, Dynamic Screenshots and Sitemaps.
+• Converted the mock-ups into hand-written HTML, CSS (2/3), XHTML, JavaScript, JQuery, XML
+• Used JavaScript DOM manipulation and JavaScript event to generate the data result in UI.
+• Developed modules for Grid Integration, lazy-loading, exporting data to excel.
+
+Environment:  Agile,  HTML5,  CSS3,  JavaScript,  jQuery,  Angular.js,  underscore.js,  Require.js,  Responsive
+Design, Bootstrap, REST web services AJAX, SVN, Web services, XML, Windows.
+
+Front-end/UI Developer
+Front-end - August 2012 to January 2015
+
+Front End Engineer
+Yahoo Software Development - August 2012 to January 2015
+
+HCL Technologies Limited
+
+• Module creation for YWA Implementation on the global and legacy stack of autos property. Implemented new
+YWA Renderer for rendering YWA script to the page using PHP.
+
+• Write maintainable, scalable, responsive, and cross-browser code and were part of developing mobile version
+of Yahoo Autos. Developed RWD with media query and 12-colo flexible grid layout of bootstrap.
+• Updated and streamlined existing code to improve site performance.
+• Consistently met deadlines and requirements for all production work orders.
+• Provided continued maintenance and development of bug fixes and patch sets for existing web applications.
+• Have worked on Ext JavaScript library like YUI.
+
+Environment:  Agile,  HTML5,  CSS3,  YUI,  JavaScript,  jQuery,  Responsive  Design,  Bootstrap,  REST  web
+services AJAX, SVN, Web services, XML, Windows, PHP
+
+Senior Front End Engineer
+HCL Technologies Limited - October 2013 to July 2014
+
+• Developed modules with Backbone.js and have used JavaScript libraries like require.js, underscore.js.
+• Generated reports and displayed those in dashboard with Grid system.
+• Mentor for juniors.
+• Utilized various jQuery plug-in to build Rich Internet Application (RIA) to make it look more intuitive.
+• Wrote support documentation and provided training to internal and external users.
+• Worked closely with QA team to understand the reported defects and fix them.
+• Developed RWD with media query and 12-colo flexible grid layout of bootstrap.
+• Converted the mock-ups into hand-written HTML, CSS (2/3), JavaScript, JQuery
+
+Environment: Agile, HTML5, CSS3, JavaScript, jQuery, Backbone.js, underscore.js, Require.js, Responsive
+Design, Bootstrap, REST web services AJAX, SVN, Web services, XML, Windows.
+
+Software Engineer
+Exalt Integral Solutions Pvt. Ltd - October 2011 to July 2012
+
+Software Engineer
+Dizla - October 2011 to July 2012
+
+Exalt Integral Solutions Pvt. Ltd
+• Developed Truck tracking / bidding application with PHP/MySQL and initiated API calls for Android app.
+• Have worked as a Single UI developer for the web development.
+• Worked on Design, UI, wire-framing, HTML, CSS, jQuery, JSP, accessibility, and optimization.
+• Consistently met deadlines and requirements for all production work orders.
+• Developed D3 charts and diagrams for the dashboard.
+• Have experience in creating mock up pages as per the client requirement and developing those into fully
+functional modules.
+• Part of Database Designing
+• Integrated Google map API within the application.
+• Provided documentation on start-up, shut down and first level troubleshooting of processes to help desk staff.
+
+Environment: PHP, MySQL, HTML4/5, CSS2/3, JavaScript, jQuery, AJAX, SVN, Web services, XML, Windows
+
+Web Developer
+Logical Steps Interactive Solutions Pvt. Ltd - August 2009 to October 2011
+
+Web developer
+Zimmerman Company - August 2009 to October 2011
+
+Logical Steps Interactive Solutions Pvt. Ltd
+
+• Analysis the requirement given by the client.
+• Design the database in MYSQL & Developed fully functioned modules in PHP.
+• Customized jQuery Uploadify to upload file and to store assets within Amazon's AWS S3 file-storage service.
+• Developed the wizard form and hierarchical modules in CodeIgniter framework using PHP backend.
+• Created graphical dashboards and generated reports for the application.
+• Performed analysis and UI design of the components and continuously upgrading them to global standards.
+• Extensively worked with making calls to APIs to fetch the data from the backend as JSON response and
+parse it on the UI for DOM/CSS Manipulation.
+• Unit Testing.
+
+Environment: PHP, MySQL, HTML4/5, CSS2/3, JavaScript, jQuery, AJAX, SVN, Web services, XML, Windows
+</we>
+<ed>
+EDUCATION
+
+B. Tech in Electronics and Communication in Electronics and Communication
+MG University India
+2009
+</ed>
+<sk>
+SKILLS
+
+AJAX (7 years), JavaScript (7 years), jQuery (7 years), web services (7 years), XML (7 years)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Web Technologies - JavaScript (OOPs), HTML4/5, CSS2/3, Responsive Web Design, AJAX, XML, JSON
+JavaScript Library - JQuery, YUI
+JavaScript MVC Frame Work - Backbone.js, Angular.js
+Server Side Scripting - PHP
+PHP MVC Frame Work - Codeigniter
+Database - MySQL
+Web Services - REST
+Web servers - Apache, Tomcat-7, and S3 Bucket
+IDE's & Tool - PHPMyadmin, xampp-control, Eclipse IDE, Dreamweaver, Firebug, Developer Tools, JSfiddle,
+V I Editor, Notepad++
+
+Operating Systems - MS Windows 2K/XP/7 and Linux (Ubuntu)
+Methodologies -Agile, Waterfall Model
+</sk>
+

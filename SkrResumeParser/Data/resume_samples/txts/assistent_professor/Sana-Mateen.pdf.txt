@@ -1,0 +1,87 @@
+Sana Mateen
+
+Hyderabad, Andhra Pradesh - Email me on Indeed: indeed.com/r/Sana-Mateen/67eba77c26f70ca3
+
+Seeking an entry level position in Information Technology where my skills and knowledge will be utilized.
+
+WORK EXPERIENCE
+
+Assistant Professor
+BHOJ REDDY ENGINEERING COLLEGE FOR WOMEN  -  Hyderabad, Andhra Pradesh - June 2016 to
+Present
+
+I  have  taught  SCRIPTING  LANGUAGES  in  BHOJ  REDDY  WOMENS  ENGINEERING  COLLEGE  for  one
+semester.
+PROJECT PROFILE
+Title: Secure and Efficient Privacy
+Preserving Mechanism for Micro-Data
+Client side script: JQuery
+Server side script: JavaServerPages
+Web server: Tomcat 8.0
+Integrated Development Environment: NetBeans 8.1
+Platform: Windows 8
+Description:
+This project aims at providing individual privacy for patient records available online in a surveillance portal. It
+also facilitates citizens to be aware of a disease outbreak and guides them on what preventive measures and
+antibiotics to be taken in order for disease prevention. Entire patient record is uploaded by hospital which is
+anonymized by the admin of the portal and later on it is made public so that epidemiologist can suggest the
+preventive measures and decision on isolating the place if number of affected person exceeds certain limit.
+ACADEMIC ACHEIVEMENTS:
+The paper entitled "SECURE AND EFFICIENT PRIVACY PRESERVING MECHANISM FOR MICRODATA"
+has been published in International Journal of Scientific Engineering and Technology Research.
+
+EDUCATION
+
+M.Tech in Computer Science
+Shadan Women's College of Engineering and Technology
+2015
+
+B.Tech in Information Technology
+Shadan Women's College of Engineering and Technology
+2012
+
+Mathematics, Physics & Chemistry
+Sri Vani Junior College
+2008
+
+SSC
+Oxford High School
+2006
+
+SKILLS
+
+Html (1 year), Css (2 years), Javascript (2 years), JSP (2 years), MYSQL (1 year), Photoshop (2 years),
+Servlet (2 years), Perl (Less than 1 year), Python (Less than 1 year), PHP (1 year), Sql (1 year)
+
+PUBLICATIONS
+
+SECURE AND EFFICIENT PRIVACY PRESERVING MECHANISM FOR MICRO DATA
+http://ijsetr.com/uploads/213654IJSETR5018-573.pdf
+June 2015
+:  Access  control  mechanisms  protect  sensitive  information  from  unauthorized  users.  However,  sharing  of
+sensitive
+information  might  lead  to  identity  disclosure.  A  Privacy  Protection  Module  (PPM)  uses  suppression  and
+generalization of
+relational data to anonymize and satisfy privacy requirements, e.g., k-anonymity and l-diversity, against identity
+and attribute
+disclosure. In this paper, we propose an accuracy-constrained privacy-preserving access control framework
+where in the access
+control policies define selection predicates available to roles while the privacy requirement is to satisfy the k-
+anonymity or ldiversity.
+An additional constraint that needs to be satisfied by the PPM is the imprecision bound for each selection
+predicate.
+Although several algorithms have been proposed for anonymizing the data, to the best of our knowledge, the
+problem of
+satisfying the accuracy constraints for multiple roles has not been studied before.
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+Operating System: Windows
+Programming: C, Core Java
+Database: MYSQL, SQL-SERVER
+Web Designing: HTML, CSS, JavaScript, PHP, PERL, PYTHON, JSP,
+Servlets
+Others: MS Office, Adobe Photoshop
+
+

@@ -1,0 +1,67 @@
+<ba>
+Fash faran
+
+Android Developer
+
+Boston, MA - Email me on Indeed: indeed.com/r/Fash-f/0b2a0370b55e68c8
+<we>
+WORK EXPERIENCE
+
+Android Developer
+- December 2014 to May 2015
+
+This app easily manages the users' SmartPass account, linked to their credit card, debit card or bank account.
+Responsibilities:
+• Implement a whole new version of UI/UX layouts for homescreen. The main UI panel is made by Actionbar,
+Activity, Fragments and Tabs. Various UI components are used such as Popup Dialog, ViewPager, Button,
+TextView, ImageView, Gallery, ListView, GridView and CardView.
+• Add call back methods to manage fragments -users add and hide categories according to this functionality.
+Implement button animation and 3-D cubic viewpager transformer when users scroll horizontally and vertically.
+Title gallery scrolls together with fragments.
+• Implement adapters for different kinds of layouts, such as card list view, grid view and carousal view.
+
+Environment: API 20: Android 5.0 (Lollipop), Eclipse IDE, ADT Plug-in and Android SDK, XML, Java, Google
+play service library,
+
+Android Developer
+SecLib, NotificationEnabler - May 2014 to December 2014
+
+Explore  Beverly  Hills  helps  local  residents  and  visitors  in  Beverly  Hills  to  find  great  places  to  eat,  drink,
+do  business,  and  have  fun  in  one  of  the  world's  most  iconic  cities.  Users  can  filter  places  by  categories
+including hotels, retail stores, restaurants, city facilities, parking lots and more; sort filtered or searched results
+alphabetically, by date of event or by distance.
+Responsibilities:
+•  Created  UI  including  Navigation  Layout,  ListView,  ImageView,  TextView,  SearchView,  ScrollView  and
+MapView.
+• Used Asynctask for Web service to get the data related Hotels, Restaurants, Parking lots and Shopping
+places.
+• Parse JSON objects obtained from the server side and show contents on the app.
+• Used third party library such as JSOUP to parse HTML code and show as Text Views, Image Views and
+List Views.
+• Designed attractive Flash Banner for both tablet and phone versions.
+• Use Google Map API to identify locations, add markers and find directions on the map.
+• Sort lists of places according to their distances, dates or alphabetical order by defining my own comparators.
+
+Environment: API 19: Android 4.4(KitKat), JSOUP, JSON, Eclipse, ADT, Android SDK, XML, Java, Google
+map API, Robotium.
+
+Developer
+IOS - December 2012 to April 2014
+
+Application allows users to meet new people, who are nearby within a range (range able to be set to a max of
+1 mile) and to be able to chat with each other using WiFi connectivity.Executed map functionality using MapKit
+and CoreLocation frameworks through data coming from web services.
+
+Responsibilities:
+• Created and implemented overall layout design and color scheme of the web site using XHTML and CSS.
+Created detailed wire frames & process flows.
+• Interacted with system analyst to understand business requirement before translating into non-functional
+HTML pages.
+• Implemented user interface guidelines and standards throughout the development and maintenance of the
+website using DHTML, HTML, CSS, JavaScript, and jQuery.
+• Designed, created and implemented custom Interwoven Team Site modifications to fully automate activities
+such as publishing, deploying, and updating online content (HTML, JavaScript).
+
+Environment: HTML, CSS, JavaScript, jQuery, AJAX, Usability Testing, Agile methodology, Eclipse
+
+

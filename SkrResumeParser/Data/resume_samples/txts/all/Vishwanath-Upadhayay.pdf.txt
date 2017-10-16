@@ -1,0 +1,79 @@
+<ba>
+Vishwanath Upadhayay
+
+Android Developer - PowerCast Corporation
+
+Pittsburgh, PA - Email me on Indeed: indeed.com/r/Vishwanath-Upadhayay/82621e35f89ef80f
+<su>
+• Experienced Android App Developer passionate about designing and developing applications to deliver best
+products and user experience
+collaborating with cross-functional teams, Product Managers, Project Managers and UX designers
+• Industry experience developing Apps utilizing OOP concepts, Third party libs, Best Practices and Design
+Patterns
+• Expertise in Java, Android, Web Services, Debugging, Defect Management with good Communication and
+Problem Solving skills
+• Solid understanding of full Mobile and Software Development Life Cycles incorporating Agile and Scrum
+methodologies
+• Developed and Published iFall app notifying emergency contacts in case of a sudden fall via Message and
+Phone call
+Willing to relocate: Anywhere
+Sponsorship required to work in the US
+<we>
+WORK EXPERIENCE
+
+Android Developer
+PowerCast Corporation  -  Pittsburgh, PA - April 2017 to Present
+
+• Developing app from scratch to communicate with Vikaura devices utilizing BLE APIs
+• Implemented Image zoom, rotation and preview features as per screen requirements
+• Implementing Beacon searching, pairing and data transfers with optimal performance
+
+Android Developer
+Samsung Electronics  -  Noida, Uttar Pradesh - July 2012 to July 2015
+
+• Developed solutions and features for native Android apps and widgets utilizing latest APIs
+• Designed interactive UIs with Material Design for all screen sizes improving User Experience
+• Utilized Agile/Scrum to define, develop and implement user stories in short sprint cycles
+• Consumed RESTful web services integrating App UI features with back-end services
+• Integrated Best practices in Development, Debugging and Unit Testing to resolve SDLC defects
+• Optimized source code by identifying Memory leaks, Root cause analysis and Refactoring
+• Leveraged third party APIs to implement advance features, enhance efficiency and productivity
+• Mentored and trained new hires in App designing, SDLC and Project Life Cycle Management
+
+Samsung Electronics - January 2014 to June 2014
+
+• Conceptualized abstract idea to help elderly people and track their location in case of emergency
+• Utilized inbuilt Accelerometer sensor to detect sudden jerk movements based on threshold value
+• Incorporated Messaging, Telephony and GPS services to notify registered social contacts
+<ed>
+EDUCATION
+
+Master of Science in Management Information Systems
+University of Illinois  -  Chicago, IL
+December 2016
+
+Bachelor of Technology in Computer Science Engineering
+National Institute of Technology  -  Srinagar, Jammu and Kashmir
+June 2012
+<sk>
+SKILLS
+
+Android (3 years), Design Patterns (Less than 1 year), Eclipse (Less than 1 year), UI (3 years), USER
+INTERFACE (3 years)
+<ba>
+LINKS
+
+https://github.com/bigbang613
+
+https://www.linkedin.com/in/vish0689
+
+ADDITIONAL INFORMATION
+<sk>
+SKILLS
+• Java, Android, Android Studio, Eclipse, REST, XML, JSON, SOAP, OOP, OOD, LeakCanary, Retrofit, Volley,
+OkHttp, Espresso, Mockito,
+RxAndroid,  RxJava,  Dagger,  Agile,  Scrum,  Design  Patterns,  GIT,  Gradle,  SQLite,  MySQL,  HTML,  PLM,
+Samsung Print, UI Automator, Unit
+tests, Junit, RoboElectric, Appium, Integration tests, Perforce, Jenkins, Hudson
+
+

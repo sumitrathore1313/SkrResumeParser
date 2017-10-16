@@ -1,0 +1,131 @@
+<ba>
+Rony Abraham
+
+Developer - GotNerds
+
+East Hanover, NJ - Email me on Indeed: indeed.com/r/Rony-Abraham/d83bc89179e84dfe
+<su>
+•  Knowledge  in  Java  and  web  technologies  including  Core  Java,  JDBC,  J2EE,  Servlets,  JSP,  Hibernate,
+HTML, JavaScript, Multithreading Collection and good understanding of Object Oriented Programming (OOP)
+concepts
+• Savvy in UI, as well as application development using Eclipse 3.x and Android Studio.
+• Well-experienced in using JavaScript, XML, HTML and working knowledge of relational DataBase such as
+Oracle and MySQL 6 . Experience in developing applications for Apache Tomcat 7.x
+• Excellent leadership, interpersonal and organizational skills
+•  Mastery  in  working  with  diverse  groups  of  teams  (business,  change  management,  technical  team,  and
+business Users)
+• Strong analytical and problem solving skills. Able quickly grasp and analyze new situations and data. Solid
+Documentation and Organization skills. Detail Oriented
+• Extremely polished customer interaction and business etiquette. Strong relationship building skills based on
+trust and integrity
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+GotNerds - January 2014 to Present
+
+Duration January 2014 Present
+Role Android Developer
+
+Responsibilities:
+● Development of Java classes for API calls and JSON parsing
+● Use Quickblox as the backend for storage and retrieval of data.
+● Running android application in emulator and android phones for code debugging.
+
+2) Project Name: HCKD?
+
+Android Developer
+GotNerds - 2014 to December 2014
+
+A simple, easy to use app, released for Android that allows you to check whether or not your
+email account has been compromising. Once you've typed in your email, HCKD? Will tell you whether or not
+your email has been activated by someone other than you. It will tell you how
+many times you've been hacked, when you've been hacked and possibly even why you've been
+hacked.
+
+Responsibilities:
+• Writing and executing the Java code in Android Studio tool.
+• Development of Java classes to fetch data from API and parse JSON objects.
+• Development of Android screens to display the data from API.
+• Build and managed tables in Kinvey for data storage.
+• Running android application in emulator and android phones for code debugging
+
+• Testing the application and generating release apk file.
+• Uploading of application in Google play.
+
+3) Project Name:JSON Parsing
+
+Android Developer
+GotNerds - August 2014 to September 2014
+
+Responsibilities:
+• Writing and executing the Java code in Android Studio tool.
+• Development of Java classes to fetch data from API and parse JSON objects.
+• Build and managed tables in Kinvey for data storage.
+• Running android application in emulator and android phones for code debugging
+
+4) Project: GasOline
+
+Android Developer
+Gas Agencies - January 2014 to June 2014
+
+Gasoline is an application developed on Android for online gas booking that makes our service
+more available for everyday person. The main highlight of our project is that, it shows the and area for the
+user to post their complaints and feedback.
+
+Responsibilities:
+• Conceptualized, designed, developed and deployed mobile applications.
+• Developed update patches, modules and components.
+• Wrote technical specifications and maintained all reports pertaining to application
+development process
+• Use Quickblox as the backend for storage and retrieval of data.
+• Communicated effectively with stakeholders to manage expectations
+
+Environment: Java, Android Studio, Html, Java Script, Quickblox.
+
+5) Project Name: Bidgad
+
+Developer
+Highronics - August 2013 to December 2013
+
+Bidgad is an online bidding system. The bidding will be monitored by an administrator.
+The system provides users the facility to buy the items from anywhere in the world. The
+customer can visit the site and can bid any of the items. The firm puts up the item for sale and user have to
+make maximum number of click to win. The interested client should
+register and then the bidding process takes place. It will increase the number of people
+involved. There are facilities to search among items based on categories.
+
+Responsibilities:
+• Involved in development of Requirement Specification.
+• Involved in the High Level Design.
+• Participated in the Detailed Design of different modules.
+• Participated in web page designs and implemented them using JSP, HTML & JavaScript.
+• Used JavaScript in validating different web pages.
+
+• Utilized Subversion as a version control system and for code management. Developed the application on
+Tomcat Application Server.
+• Performed unit testing
+
+Environment: Java, J2EE, JSP, Servlet, JavaScript, HTML, MySQL, Tomcat
+<ed>
+EDUCATION
+
+Bachelor's in Computer Science Engineering
+Mahatma Gandhi University
+2014
+
+ADDITIONAL INFORMATION
+
+Technical Skill Set
+
+Operating Systems: Windows, Linux, Android ( Mobile OS)
+Languages: Java, C, C++, HTML, XML, CSS, JavaScript
+Databases: MySQL, PL/SQL, MS Access
+Tools: Android Studio, Eclipse
+Android Backend Kinvey, Quickblox
+PROJECT DETAILS
+
+1) Current Project: Law On Demand
+
+

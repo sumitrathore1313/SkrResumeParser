@@ -1,0 +1,58 @@
+Aradhana Kumari
+
+Software Engineer - NEC(SevyaIT Payroll)
+
+Noida, Uttar Pradesh - Email me on Indeed: indeed.com/r/Aradhana-Kumari/86724e0c1b55e845
+
+* 3+ years of experience in developing web applications using ASP.Net, last compnay was NEC.
+* Worked on projects using Microsoft ASP.Net 4.0, SQL server 2008, Ajax, JavaScript, Linq, and Web Services,
+HTML, CSS and MVC 5.0.
+
+WORK EXPERIENCE
+
+Software Engineer
+NEC - February 2015 to April 2016
+
+Responsibilities:
+
+* Managing Database (Normalization, SQL injection, Store procedure, triggers, Database Design)
+* Coding, review, bug fixing of existing product.
+* Modifying 2-tier architecture into n-tier architecture.
+* Code standardization and internationalization of existing project.
+
+Jr. Web Developer
+Oxient Technologies - May 2012 to November 2013
+
+Responsibilities:
+
+* Use of 2-tiers and n-tier Architecture for developing websites.
+* Use of Client Side and Server Side Validation Controls to validate the application.
+* Designing and developing complex SQL queries, Stored Procedures and Views.
+
+Web Developer
+Xtesia Noida Sector - 1973 to 1973
+
+Duration: November 22 2013 - January 31 2015
+Responsibilities:
+
+* Integrate knowledge of business and customer requirements into design.
+* Coding for development, maintenance, and functionality updates
+* Working with C#, SQl, and related development tools.
+* Testing new and existing applications.
+* Interacting with client to understand requirement and timely resolve for any issue.
+
+EDUCATION
+
+Calling and Role Management System
+Program in school
+November 2013 to March 2014
+
+B.Tech in Information Technology
+Lovely Professional University Punjab
+2012
+
+Dealer Management System
+Senior Secondary School  -  Bihar Sharif, Bihar
+2008
+
+

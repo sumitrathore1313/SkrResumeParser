@@ -1,0 +1,90 @@
+<ba>
+John Park
+
+Full Stack Web Developer
+
+Lorton, VA - Email me on Indeed: indeed.com/r/John-Park/80170bb9f008c7e0
+</ba>
+<su>
+Full Stack Web Developer looking to add maximum impact to your agile development team. Learns quickly
+and works incredibly well in a team, but also has the initiative and resourcefulness to find solutions on my own.
+Would love to schedule a time to learn more about your company. Let's chat!
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+General Assembly  -  Washington, DC - 2015 to 2016
+
+Created a crowdsourced Ruby on Rails app that pairs travelers with users offering lodging for a fee. Integrated
+full CRUD functionality.
+* Designed and developed a crowdsourced Ruby on Rails web app that matches pet owners with pet sitters.
+Styled with Bootstrap.
+* Formulated and coded a crowdsourced AngularJS app that pairs small jobs with other app users for an
+agreed upon fee through messaging.
+* First project included a memory game using HTML, CSS, and jQuery.
+* Served as a project manager, gathering requirements and ensuring each project was delivered on time, and
+exceeded expectations.
+
+Sales Operations Manager
+mPortal Inc  -  McLean, VA - 2014 to 2015
+
+Increased revenues by improving overall operations, including the development of sales meetings to discuss
+new business opportunities, customer retention strategies and ways to excel at client relations.
+* Managed and maintained detailed sales forecast reports in Salesforce for corporate usage.
+*  Increased  leads  by  proactively  researching  and  qualifying  opportunities  for  the  Strategic  Accounts
+department.
+
+Sales Executive
+Vocus Inc  -  Beltsville, MD - 2010 to 2013
+
+*  Promoted  twice  in  only  2  years  due  to  outstanding  performance  -  exceeded  quota  by  >  150%  in  6  of  9
+quarters.
+* Played a key role in the creation of an internal promotion process and mentorship program for new
+executives.
+</we>
+<ed>
+EDUCATION
+
+Immersive Course Study in Modern Web Development Technologies
+General Assembly  -  Washington, DC
+2015 to 2016
+
+Bachelor of Science in Business Administration
+Strayer University  -  Washington, DC
+</ed>
+<sk>
+SKILLS
+
+Web Development (Less than 1 year), Business Development (1 year), Sales (4 years), Salesforce (4 years)
+</sk>
+<ba>
+LINKS
+
+http://WWW.GITHUB.COM/JOHNWPARK
+
+http://WWW.LINKEDIN.COM/IN/JWPARK417
+
+http://github.com/JohnWPark
+
+http://johnwpark.github.io/
+
+ADDITIONAL INFORMATION
+</ba>
+<sk>
+CORE COMPETENCIES
+
+* Application Programming * Website Development * Project Management
+* Software Design/Development * Mentor/Trainer * Database Design
+* Requirements Gathering * Graphical Programming * Troubleshooting
+* Coding * Agile/Waterfall Methodologies * Communication
+
+TECHNICAL SKILLS
+Front End: HTML, CSS, SASS, JavaScript, jQuery, AJAX, AngularJS
+
+Back End: Ruby, Rails, Node.js, Express, SQL, NoSQL, MongoDB, Mongoose, ActiveRecord
+
+Other: Firebase, Ionic, Git, GitHub, Heroku, CLI, Microsoft Office, Google for Work
+</sk>
+

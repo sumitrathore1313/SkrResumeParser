@@ -1,0 +1,170 @@
+<ba>
+Son Le
+
+- Email me on Indeed: indeed.com/r/Son-Le/a4e081b534ad5821
+<su>
+• Expertise in developing applications for Android operating system using Android Studio, Eclipse IDE, SQLite,
+Java, Android SDK 2.3 to 6.0 and ADT plugin.
+• Proficient with common Android framework APIs (Email, Web View, Google Maps, Telephony API, Camera,
+Contact Manager) and developing Android Framework Services using Intent, Services
+• Experience in working with SQLite Database, Google Maps API, GPS Location Data and Push Notifications.
+• Experience in Notifications, Adapters, Content Provider, Services, XML.
+•  Experience  in  developing  applications  using  Third-Party  APIs  such  as  YouTube,  Facebook,  Twitter  and
+Picasso.
+• Experience in using Fragments, Activity workflow, Action Bar Navigation, Menu Designs and view controls,
+and Loaders.
+• Expertise in Data Structure, Multithreading, Collections, Exception handling.
+• Experience in designing UI layouts using Linear Layout, Relative Layout, Frame Layout, Table Layout and
+using Android Widgets and custom Widgets.
+• Designed GUI and interfaces with services for mobile applications, Asynchronous Programming in Android
+(such as Threads and Services).
+• Undertaken full life cycle of Android Application Development, which includes testing on device and emulator.
+• Excellent debugging and problem-solving skills with Eclipse, IDEA, Android Studio.
+• Hands on Experience in JDBC, Servlets and JSP.
+• Extensive experience in requirement analysis, functional analysis, excellent conceptual and logical thinking.
+• Strong knowledge of Web Services (SOAP, RESTFUL).
+• Co-worked with agile team by scrum, experience with GIT and SVN.
+• Well versed with complete life cycle development process which includes designing, development, testing
+an implementation.
+•  Self-motivated  and  excellent  abilities  to  learn  new  languages  and  other  concepts  quickly,  excellent
+interpersonal skills and abilities to communicate with team players.
+• Design and build efficient and user-friendly interactions in Android.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+UCanCook - 2016 to 2016
+
+Android application that helps user who love cooking to share their cooking recipes, add and create reminder
+for shopping list, create and save recipes.
+Responsibilities:
+• Analysis flows and designing the application.
+• Working with different layouts and latest Android SDK.
+• Optimum use of system resources such as memory, battery.
+• Working with remote data using REST, JSON, third-party libraries (YouTube data API, Volleyball, Picasso,
+RTEditor).
+• Including Material design for Android 6.0 support (using RecyclerView, CardView).
+• Working on testing the application using Monkey Runner and Espresso testing framework.
+Environment: Android 5.1 API level 22, Android Studio, JSON, REST Web Services, YouTube Data API.
+
+Java Developer
+Pizza Hut Australia - October 2013 to March 2015
+
+E-commerce website for Pizza Hut corporation in Australia which allows consumer to find location and order
+pizza online.
+Responsibilities:
+• Developing functions for searching, purchasing pizza online.
+• Created UI screens using HTML, JavaScript, JQuery and CSS.
+• Writing technical document.
+• Developed PL/SQL Packages, Procedures, Triggers, Cursors and Functions according to the requirement
+•  Created  stored  procedures  in  Oracle  database  to  eliminate  dynamic  SQL  statements  used  in  advice
+application and made appropriate changes to the application to call these stored procedures
+• Worked on SQL queries, SQL Tuning, PL/SQL Tuning & Performance Tuning
+• Implemented logging using log4j
+• Done the unit testing and system Integration testing.
+• Involved in the defect tracking, fixing and enhancements.
+
+Android Developer
+Decapic - 2013 to 2013
+
+Android application, which was published in Japanese Google Play Store. This app allows user to view a
+huge number of images returning from Google Image Search Engine by defined keywords in the system or by
+entering by user. In addition to this, user also can save images to photo gallery.
+Responsibilities:
+
+• Manipulating JSON results from Google search engine and display on application.
+• Implementing design for app.
+• Developing all features (share, save to gallery, user feedback)
+• Managing version control using Github.
+Environment: Android 4.4 API level 20, Eclipse IDE, JSON, REST Web Services
+
+Android Developer
+Math-Test - 2013 to 2013
+
+Android application, which is a small calculation game for children, has some difficulties level.
+Responsibilities:
+
+• Building algorithm for game.
+• Implementing design for app.
+• Testing and fixing bugs.
+• Managing version control using Github.
+Environment: Android 4.4 API level 20, Eclipse IDE.
+
+Android Developer
+Othello - 2013 to 2013
+
+Android application which is a strategy board game for two players, played on an 8×8 unchecked board.
+Responsibilities:
+
+• Building algorithm for game.
+• Implementing design for app.
+• Testing and fixing bugs.
+• Managing version control using Github.
+
+Environment: Android 4.4 API level 20, Eclipse IDE.
+Diff-Find 2013
+Android application, which allows player find differences of images in many countries.
+Responsibilities:
+
+• Develop game rules and analyze screen flows.
+• Implementing design for app.
+• Testing and fixing bugs.
+• Managing version control using Github.
+Environment: Android 4.4 API level 20, Eclipse IDE.
+<ed>
+EDUCATION
+
+Postgraduate Diploma in Engineering Management
+University of California-Riverside  -  Riverside, CA
+2015 to 2016
+
+Bachelor in Information Systems
+Latrobe University  -  Melbourne VIC
+2009 to 2012
+<sk>
+SKILLS
+
+Java (7 years), JSON (5 years), XML (5 years), Javascript (5 years), PHP (4 years), Oracle (4 years),
+MySQL (5 years), Web Services (3 years), Android (3 years), SQL (5 years), HTML (5 years), Spring (3
+years), C (2 years), Wordpress (2 years), Joomla (2 years), Jsp (3 years), Angular JS (3 years), C++ (3
+years), CSS3 (3 years)
+<ba>
+LINKS
+
+http://www.linkedin.com/in/son-le-406058108
+<ca>
+AWARDS
+
+Excellence in Object Oriented Programming Fundamentals
+December 2009
+
+Excellence in Intermediate Object Oriented Programming
+May 2010
+
+CERTIFICATIONS/LICENSES
+
+Postgraduate Certificate in Management
+December 2015 to Present
+
+ADDITIONAL INFORMATION
+<sk>
+Technical Skills:
+Programming language Java, PHP, C#, C, C++, SQL, XML, HMTL, JSP, C#.NET.
+
+Web Technologies Struts, Hibernate, Spring, JPA, Joomla, WordPress, HTML, DHTML, XML, XSD, XSLT,
+JavaScript, CSS, Web Services, JSON, AngularJS
+Database SQL server, MySQL, PostgresSQL, SQLite, Oracle
+IDE/Tools Eclipse, Android Studio, NetBeans, JUnit, Github, JIRA
+Operating systems MacOS, Window, Linux, Android OS
+Others Servers Web Logic Application servers, Oracle Application server, Apache Tomcat.
+
+Soft skills
+• Well communication in team.
+• Problem solving.
+• Task-oriented.
+• Working under high pressure.
+• Time management.
+
+

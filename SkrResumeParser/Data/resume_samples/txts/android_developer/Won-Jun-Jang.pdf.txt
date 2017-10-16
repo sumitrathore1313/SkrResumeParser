@@ -1,0 +1,40 @@
+<ba>
+Won Jun Jang
+
+Ithaca, NY - Email me on Indeed: indeed.com/r/Won-Jun-Jang/b39aafb171338ccf
+<su>
+Seeking a full time software engineering position
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Cornell University  -  Ithaca, NY - February 2013 to Present
+
+Designed, developed, and tested an Android application to maintain daily rhythms of patients suffering from
+bipolar disorder.
+Applied machine learning techniques to interpret user data for clinicians.
+Designed a REST API for data exchange between the server and smartphone devices.
+Achieved first place at the Heritage Open mHealth Challenge ($100,000 Prize).
+<ed>
+EDUCATION
+
+Master of Engineering in Computer Science
+Cornell University
+2012 to 2013
+
+Bachelor of Science in Computer Science
+University of Illinois at Urbana  -  Urbana-Champaign, IL
+August 2008 to May 2012
+<sk>
+SKILLS
+
+Languages: C/C++(Good), Java(Good), Matlab(Intermediate), Python(Beginner) Frameworks and Libraries:
+Eclipse, Visual Studio, OpenGL, OpenCV, Android SDK, Intel TBB, Unity 3D
+
+ADDITIONAL INFORMATION
+
+HIGHLIGHTS OF QUALIFICATIONS
+Languages: C/C++(Good), Java(Good), Matlab(Intermediate), Python(Beginner)
+Frameworks and Libraries: Eclipse, Visual Studio, OpenGL, OpenCV, Android SDK, Intel TBB, Unity 3D
+
+

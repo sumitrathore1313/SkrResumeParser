@@ -1,0 +1,89 @@
+Purnananda Behera
+
+MCA with around 4 years of exp in C#, Asp.Net, WCF,..
+
+Ghaziabad, Uttar Pradesh - Email me on Indeed: indeed.com/r/Purnananda-Behera/d2506643e8433931
+
+I intend to work in a challenging atmosphere where I get opportunity to learn and develop my technical skills
+and make best use of it for the growth of organization and establishing myself.
+
+WORK EXPERIENCE
+
+Software Engineer
+CSDC Systems Inc.  -  Noida, Uttar Pradesh - August 2012 to Present
+
+Responsibilities
+Working with Product Development team using .Net technology.
+
+Skills Used
+C#.Net, MVVM, PRISM, ASP.NET, Javascript, Ajax, Jquery, WCF, Web Services, Twitter Bootstrap, WPF,
+Ms Sql, Oracle.
+
+Software Developer
+Tatwa Technolgy Ltd.  -  Bhubaneshwar, Orissa - June 2011 to August 2012
+
+Responsibilities
+Responsible to design develop web/window application with .Net technology.
+
+Skills Used
+C#, ASP.NET, Javascript, Ajax, Jquery, WCF, Web Services,Sql Server.
+
+Web Developer
+CAS Technolgies Inc.  -  Bhubaneshwar, Orissa - June 2010 to June 2011
+
+Responsibilities
+Responsible to design develop web application with .Net technology.
+
+Skills Used
+C#, ASP.NET, Javascript, CSS, Ajax, Jquery, Sql Server.
+
+EDUCATION
+
+M.C.A. in Computer Software
+Punjab Technical University, Punjab  -  Bhubaneshwar, Orissa
+2007 to 2010
+
+BA
+Sambalpur University  -  Sambalpur, Orissa
+2004 to 2007
+
+10+2 in Economics
+C.J.College  -  Borda, Orissa
+2002 to 2004
+
+HSC
+B.P. High School  -  Digsira, Orissa
+1999 to 2002
+
+SKILLS
+
+C#, ASP.NET, WPF, WCF, MVVM, Twitter Bootstrap, Sql Server, Oracle
+
+LINKS
+
+http://www.linkedin.com/pub/purnananda-behera/27/4b2/448
+
+AWARDS
+
+Awarded as best Software Developer in Tatwa Technologies Ltd for 2011.
+February 2012
+Awarded as best Software Developer in Tatwa Technologies Ltd for 2011.
+
+ADDITIONAL INFORMATION
+
+Technical:
+Core skills: .NET 4.0, C#, LINQ, SQL, XML, XAML, MVC, MVVM, PRISM, OOP.
+Web Development: ASP.NET, HTML, CSS, Javascript, Ajax, Jquery, WCF, Web Services, Twitter Bootstrap,
+IIS 7.0.
+Windows Development: WPF, WinForms, Window Service.
+Databases: Ms SQL/T-SQL, Ms Access, Oracle.
+IDE, Tools: Visual Studio […] Crystal Report 9, Nlog, NUnit, MS Visio.
+
+Functional:
+Software Development Life Cycle (SDLC)
+❖  Gathering  requirement  specifications  for  application  development;  knowledge  of  database  design  &
+development.
+❖ Executing software development systems in organisation.
+❖ Handling product support, development, troubleshooting and debugging of the applications.
+
+

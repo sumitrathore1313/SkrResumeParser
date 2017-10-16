@@ -1,0 +1,180 @@
+<ba>
+Gunnard Engebreth
+
+Developer
+
+Madison, WI - Email me on Indeed: indeed.com/r/Gunnard-Engebreth/fa33fb047c00cea0
+</ba>
+<su>
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Developer
+Dci-Design  -  Syosset, NY - August 2016 to Present
+
+I was tasked with developing a plan to take the current infrastructure based in perl and creating an API for
+a RESTful web service. I also created and maintained hotel splash pages for internet access and business
+meetings. I mainly worked on live servers and mysql databases to accomplish this.
+
+Senior Web Developer
+Blend IMC  -  Madison, WI - August 2015 to September 2016
+
+I was involved in onboarding new clients and facilitate their needs in terms of the best technology to fit their
+needs. Maintaing and updateing current client websites and associated technologies (AWS, RDP, Linode). I
+have developed standard approaches for commonly used solutions for the team.
+
+Developer
+Givesmart US. Inc  -  Atlanta, GA - 2014 to July 2015
+
+The responsibilities are continual maintenance and development of current web applications as well as new
+features. This involves third-party APIs and working with other team members from the UK. I have Developed
+web applications using PHP, CSS, HTML, Javascript/JQuery for responsive environments.
+
+Remote support specialist
+IBM  -  Atlanta, GA - 2011 to 2013
+
+IBM
+
+We support all of North America's Mid-range storage and Netapp servers. Heavy SAN/Networking knowledge
+is utilized as well as Linux skills. Strong customer service is highly leaned on, as we are speaking directly
+to customers sometimes. I offered both over the phone support as well as remote access to directly resolve
+the situation. We analyzed logs and watch details for minute changes that could be the sign of a failure. I am
+trained on all IBM DS4k Series as well as XIV high end storage and Netapp.
+
+Web Developer
+North Point Ministries  -  Atlanta, GA - 2009 to 2011
+
+Ga
+North Point Ministries
+
+50% of my time is dedicated to web support tickets. Anything from changing a word on a page to requesting
+a database change to php, javascript, css troubleshooting. Requires an intimate knowledge of linux, server
+structure  and  keeping  up  on  current  web  technologies.  The  other  50%  is  spent  on  special  or  re-occuring
+projects. We have monthly and yearly updates to specific ministries (yearly registration events and monthly
+content changes). This requires cms knowledge (wordpress, Expression Engine) as well as php, jsp, css,
+javascript programming capabilities. This also requires Mysql and Mssql experience.
+
+Every project that I worked with I used SEO (alt tags, meta tags, properly named links, relevant keywords
+within the content) to ensure proper placement in google searches.
+
+Web Developer
+Engauge Interactive Media  -  Atlanta, GA - 2009 to 2009
+
+Ga
+Engauge Interactive Media
+
+Upgraded curtomer's site from joomla 1.5 to joomla 2.0. 6 month contract
+
+Senior Web Developer
+Pure Web Development  -  Atlanta, GA - 2008 to 2009
+
+Pure Web Development
+
+Lead  Web  Developer  of  custom  Joomla  installations  and  templates.  Mainly  dealing  with  Joomla  but  also
+developing custom solutions with PHP, MySQL to fit the customers need.
+
+This environment allowed me to develop and manage several large-scale websites for organizations such as
+churches, non-profits, insurance agents, talk radio djs, and celebrity golfers. Every project that I worked with I
+used SEO (alt tags, meta tags, properly named links, relevant keywords within the content) to ensure proper
+placement in google searches.
+
+PHP Developer / Sysadmin / Tech Support
+Outerbounds Technologies  -  Atlanta, GA - 2006 to 2008
+
+Ga
+Outerbounds Technologies
+
+Lead developer of web-based auto-provisioning system for custom website development.
+Lead Joomla Module / Template / Component developer.
+
+Built a series of Ubuntu web servers with LAMP installed.
+I managed an Exchange server for 500+ users.
+
+Java Programmer
+Monumental Interactive  -  Atlanta, GA - 2005 to 2005
+
+2005) - Atlanta, Ga
+Monumental Interactive (www.monumental-i.com)
+
+Developed Large-Scale content management systems for companies allowing for total client control with a
+user-friendly GUI.
+
+Developer
+www.silverpop.com  -  Atlanta, GA - 1999 to 2001
+
+Atlanta, Ga
+Silverpop (www.silverpop.com)
+
+Maintained, Updated and Developed email tracking software utilizing Perl, MySQL and Sendmail to manage
+and organize several email campaigns with in various companies and organizations and to monitor corporate
+communication capacities.
+
+Designed  and  developed  a  web  application  for  viewing  and  maintaining  email  campaign  with  in  the
+aforementioned project.
+
+Provided ongoing customer service support through campaign customization to meet client specifications and
+expectations.
+
+Founded  Application  Security  Department  with  an  emphasis  on  evaluating  current  builds  of  software  for
+exploits.
+
+Maintained system order for Red hat Linux, SunOS, Windows NT systems for over 40 Linux clusters worldwide
+as well as the in-house farm of over 30 machines as the System Administrator.
+
+Researched and developed prototypes for new technologies to be introduced to our customers including video
+in email as well as customized Flash greeting cards.
+
+Developed front and back-end specifications for secure chat client as well as a windows GUI.
+
+Wrote  white-papers  to  evaluate,  critique,  suggest  modifications  on  the  state  of  both  network  security  and
+application security.
+
+Chosen as a delegate to attend the security conference H.O.P.E. 2 for research and development in New York.
+
+System Administrator / Webmaster
+www.silverpop.com  -  Atlanta, GA - 1999 to 2000
+
+24/7 Coffee Atlanta, Ga,
+
+Responsible for the creation of a company-wide network using Redhat Linux to facilitate communications of
+data, web, and email servers.
+
+Installed and maintained Apache web server and designed company website.
+</we>
+<ed>
+EDUCATION
+
+B.A. in Film and Video
+Georgia State University
+
+ADDITIONAL INFORMATION
+</ed>
+<su>
+I am a dedicated and dynamic web professional with both a track record and experience in all aspects of
+web application development. I am more than programmer. I am a dreamer with a thurst for knowledge and
+problem solving. I specialize in using current and new technologies to optimize workflow. I am as comfortable in
+Photoshop as I am in command line mySql. I feel that a full understanding of how pieces of the stack influence
+each other improves the use of the technology at hand.
+
+I have over 15 years of development experience. These years have taught me how to view the challenges that
+may come with product development. I have worked with both large and small teams, in office and remote. I
+understand that managing expectations is key to success.
+</su>
+<sk>
+Skills:
+15 Years
+LAMP - (Linux, Apache, MySql, PHP)
+Perl, Shell Scripting
+Linux (red hat, slakware, debian, suse, Bastille, gentoo, yellow dog, Ubuntu)
+
+10 years
+Javascript, jQuery, CSS, PSD to HTML conversion
+
+Technologies:
+Joomla,  Drupal,  Wordpress,  Jira,  C,  Java,  RSS/Atom,  Python,  Ruby,  VB/Delphi,  SasS,Sendmail,  Apache,
+Ftpd,  nmap,  dns,  bind,version  control  systems  (svn,  git),Computer  security,  encryption,  Packet  sniffing/
+spoofing, Application testing, sql-injection, XSS, google adsense, google analytics, SEO
+</sk>
+

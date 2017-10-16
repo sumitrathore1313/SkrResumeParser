@@ -1,0 +1,163 @@
+Arun Singh
+
+Software Developer - MMI Online Limited
+
+Delhi, Delhi - Email me on Indeed: indeed.com/r/Arun-Singh/fceca9a6a227abb6
+
+•  An  accomplished  Software  Engineer  Specializing  in  Object-Oriented  Design  and  Analysis  with  an
+experience in the full life cycle of the software development process including needs analysis, requirements
+gathering, application architecture and design, database design, application development, testing, deployment,
+documentation, application support and maintenance.
+
+• Approx. 4 years of experience in the design and development of Web Applications, Online Communities/
+Portals, Web-based Enterprise software & Productivity Apps (SaaS/On premise) with high-volume scalable
+architectures.
+
+• Skills in designing and creating high end Ajax-driven web 2.0 applications with PHP/MySQL, HTML/CSS,
+JQuery/AJAX and XML.
+
+• Currently working as a Software Developer in MMI Online Limited (A Jagran Prakashan Limited)
+
+Professional Summary:
+• Object Oriented PHP Developer (PHP5)
+• MySQL, CakePHP framework, Zend Framework, MVC, Subversion toolset
+• Approx. 4 years of LAMP development experience
+• 6 Month certification course in DOTNET technology from Sun InfoTech Solution, Lucknow.
+• Proficient working on Client/Server and Web applications.
+• Good Communication and Interpersonal skills.
+
+WORK EXPERIENCE
+
+Software Developer
+MMI Online Limited - February 2014 to Present
+
+Software Developer
+MMIOnline Ltd - February 2014 to Present
+
+Project title: Myjosh
+URL: http://myjosh.jagranjosh.com
+Front End: Zend framework
+Back End: MYSQL
+
+Job  Description:  Worked  as  Lead  Developer  for  Myjosh,  the  sub  products  of  Jagranjosh.  Myjosh  is  web
+based social networking application using socialengine open source tool. Myjosh provides a engagement b/
+w students and respective content of jagranjosh.
+Responsibilities: Socialengine customization and code optimization for real time traffic. Integrate web services
+for real time migration b/w Myjosh and jagranjosh.
+
+Project Title: Find-it333
+
+Software Engineer
+Kellton Tech Solutions Limited - May 2013 to January 2014
+
+Programmer
+Maxis - May 2013 to January 2014
+
+Team Size: 15
+Skill Used: Cakephp and Mysql
+Project Details: It's a kind of yellow page application which will
+provide you detail information about any type of search article. User
+can search his article (like nearby restaurant, bike or car showroom,
+cinema hall etc.) via mobile phone or web.
+Role: Programmer
+Role Description: My role is to develop a Framework management system for Find-it333 which will provide
+data to the different platforms
+(like iPhone, Android, WAP and web) .FMS will be used by a call centre
+team to validate and enter data for different Companies.
+
+Project Name: RDI.
+URL: http://www.realdatainsights.com
+Front End: cake PHP
+Back End: MYSQL
+Description: Real Data Insights is a web Application which contains the records of New York agencies. User
+can search their query about several agencies.
+Role: coding and design database.
+Team Size: 4 Members.
+
+Project Name:
+URL: www.sitecompli.com
+Front End: cake PHP
+Back End: MYSQL
+Description:: SiteCompli Application keeps New York City's leading agencies records such as new violations,
+complaints, inspections, fines, hearings, jobs, permits and more across the various city agencies with ongoing
+alerts and analysis.
+Team Size: 6 Members
+
+Project Name: Application Monitoring Utility (AMU)
+Front End: cake PHP
+Back End: MYSQL
+Description: The purpose of the SiteCompli Application Monitoring Utility (AMU) is to provide a systematic
+framework for monitoring the SiteCompli application software to ensure that it's functioning properly.
+Team Size: 4 Members.
+
+Project Name: Priceveille.
+Front End: PHP
+Database: MySql
+Role: Database Design, maintenance and coding.
+Description: The goal of Price-Veille is to collect data from e-commerce websites.
+The different parts of Price-Veille are:
+1) A robot which crawls selected parts of websites.
+2) A Database which stored parameters to crawl websites.
+3) Data collected by the robot.
+4) End-users' data.
+
+5) A web interface, which presents collected data to our customers.
+6) Provides to robot's maintainers, a minimal set of information about what happened during crawl of websites.
+Team Size: 10 Members.
+
+Project Name: Forward Advertisement
+Front End: PHP
+Back End: MYSQL
+Role: Database Design and Coding.
+Description: forwardadds.com is a advertisement site. Purpose for this site is for advertising the advertisement
+of different client.
+
+Project Name: Microcell Systems
+Client: Microcell Systems Pvt. Ltd
+URL: http://www.microcellsystems.net
+Front End: PHP
+Back End: MYSQL
+Role: Database Design and Coding.
+
+Academic Project
+Project Name: Interactive Voice Response System
+Technology: .Net
+Language: C#,
+Database: MS SQL Server 2005
+Role: Team Leader-System Study, Database Design, Classes, User Controls, implementation.
+Description: This project is being developed as part of final year B.Tech course. This is a Windows Application
+for a college automation purpose .In this User will get the Result or Attendance information of a Student with
+help of their roll number. User can be a parent, student and their colleagues. User will have heard the recent
+information depending upon their choice by just providing the roll number of a desired student.
+Administrators have the right to perform operations (such as add, modify, view, selection of voice, voice rate
+and voice volumes) on student, attendance, mark sheet and IVRS modules.
+
+Associate Software Engineer
+Icreon Communications Pvt. Ltd - September 2011 to May 2013
+
+Web Developer
+Microcell Systems Pvt. Ltd - August 2010 to August 2011
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+Integral University Lucknow  -  Lucknow, Uttar Pradesh
+June 2010
+
+CBSE
+H.A.L School Lucknow  -  Lucknow, Uttar Pradesh
+June 2005
+
+CBSE
+H.A.L School Lucknow  -  Lucknow, Uttar Pradesh
+June 2003
+
+ADDITIONAL INFORMATION
+
+• Technologies: PHP WITH MYSQL.
+• Framework: cake PHP, Zend Framework, .NET.
+• Tools: SVN, Netbeans, UltraEdit, CodeSniffer.
+• Databases: SQL Server, MySQL, MS Access.
+• Operating System: Linux ubuntu 12.0+, Windows.
+
+

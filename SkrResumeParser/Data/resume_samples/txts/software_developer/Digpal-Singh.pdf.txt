@@ -1,0 +1,125 @@
+Digpal Singh
+
+Software Developer - Aimteck Solutions FZE
+
+Ghaziabad, Uttar Pradesh - Email me on Indeed: indeed.com/r/Digpal-Singh/8de40794834a0e75
+
+• Since Aug 2012, have 4.5+ years plus of extensive hands on experience of web application development.
+• An experienced team lead and team player with excellent communication and interpersonal skills who has
+the ability to work independently under pressure.
+• Currently working as Software Developer at Aimteck Solutions FZE.
+• Masters in 2010 from the University of Agra, UP, India.
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Software Developer
+Aimteck Solutions FZE  -  Noida, Uttar Pradesh - March 2017 to Present
+
+Warranty  and  Contract  Management,  Quotes  and  Invoices,  Field  Service  Staff
+Management
+Rapid soft Systems Inc  -  Kanpur, Uttar Pradesh - 2005 to Present
+
+www.rapidsoftsystems.com), a NJ/US registered C-Corporation. Products have been operational since 2005.
+Company is a member of NJ Technology Council.
+
+Features:
+➢ Advanced Job Scheduling, Work Order Management, Parts and Asset Management
+➢ Warranty and Contract Management, Quotes and Invoices, Field Service Staff Management
+➢ Time Sheets Management, Product and Customer Service History
+Work Force Tracker, A Comprehensive Solution To Track, Manage, and Monitor Field Employees
+Technology:
+Cakephp 2.x, Ajax, Jquery, Bootstrap, REST APIs for Android/IPhone App
+
+Details:
+Field Force Tracker is a product of Rapid soft Systems Inc. (www.rapidsoftsystems.com), a NJ/US registered
+C-Corporation. Products have been operational since 2005. Company is a member of NJ Technology Council.
+Work Force service operation has helped customers:
+• Increase productivity by: 25-40%
+• Decrease average-time-to-repair by: 15-30%
+Features:
+
+➢ Location Tracking With Geo-Fencing
+➢ Task Management & Job Scheduling
+➢ Timesheet Management
+➢ Employees & Work Group Management
+➢ Messages & Group Notifications
+➢ Custom Reports, Analytic & Data Export
+
+Payroll Software India, Online Payroll Software - APYL Software & Systems Ltd
+Technology:
+
+CakePHP 1.3, MySQL, Jquery, Linux, Paypal Payment Gateway
+Details:
+Hr2Payroll is an online payroll software by APYL Software and Systems Ltd. It serves 26000 businesses in
+100 countries, manages their 2 million emails and business data daily, works 24x7x365 days.
+Features: Hr2Payroll Offerings
+➢ Company Setup, Employee Management, Store Employee Documents, Shift Management
+➢ Import/Export Module, Individual Staff Login Facility, Operator Access with Privilege
+➢ All Tax Related and PF, ESI forms.
+
+➢ Hr2payroll Versions:
+
+• Cloud Version -Signup and begin using Payroll Software on APYL Cloud Servers.
+• Lan Version - Signup, download and install on your office computer system.
+• Free Version - Signup and begin using Payroll Software on APYL Cloud Servers.
+NNSCINDIA
+Technology:
+• Codeigniter, MySQL, Jquery, Citrus Payment Gateway
+Details:
+NNSC 2016 is India's Biggest Network Security Championship with workshop series jointly being organized
+by  Entrepreneurship  Cell-IIT  Kanpur  an  organization  of  IIT  Kanpur  that  aims  at  manifesting  the  latent
+entrepreneurial  spirit  of  the  young  students  in  partnership  with  Network  Bullstudy  Pvt  Ltd  and  Redmap
+eLearning Solution LLP.
+• Customer Login
+• User Login
+• Admin login
+http://nnscindia.com
+
+Some Project List
+• http://amnascloset.ae - OpenCart
+• http://kngtllc.com/ - OpnCart
+• http://soulartists.net/v2/ - Cakephp 3.x
+• http://blackliondubai.com/ - Wordpress
+• http://mlareportcard.com/ - Wordpress
+• http://kisankhabar.com - Wordpress
+• http://ateliercba.com- Codeigniter
+• http://hireindians.co - Codeigniter
+• http://hyacinthguy.net - Codeigniter
+
+Web Developer
+Mobisoft Technologies Div. Of Rapidsoft Systems Inc  -  Noida, Uttar Pradesh - December 2015 to March
+2017
+
+PHP Developer
+Hireindians Infotech Pvt. Ltd  -  Noida, Uttar Pradesh - August 2012 to December 2015
+
+EDUCATION
+
+Computer Science
+Agra University  -  Agra, Uttar Pradesh
+
+SKILLS
+
+Ajax (4 years), Android (1 year), Bootstrap (4 years), Jquery (4 years), MySQL (4 years)
+
+ADDITIONAL INFORMATION
+
+Skills
+Languages/Web Services
+HTML5, CSS3, PHP, JavaScript, JSON, SQL/MySQL, XML/RSS, UNIX Command Line, Git (Command Line
+& GUI), Web services for Android and iOS Apps
+
+Frameworks/Libraries Cakephp 2/3, Croogo, Codeigniter, jQuery, LESS CSS, Ajax, Bootstrap
+APIs
+Facebook API, YouTube API, Flickr API, Twitter API, MailChimp API, Custom API Creation, Google Maps API,
+Google Chart Tools API, Google Web Fonts API, Intuit QuickBooks accounting software API
+
+e-Commerce Plateforms/APIs WP e-Commerce, OpenCart
+Payment Gateways PayPal, Citrus, PayU Money, CCAvenue
+CMS/Eommerce Plateforms WordPress, OpenCart
+Additional  Plateforms  Google  Analytics,  Google  Apps,  Google  AdWords  &  AdSense,  Google  App  Engine,
+FeedBurner
+Server/Administration Skills Apache, WHMCS, cPanel
+
+

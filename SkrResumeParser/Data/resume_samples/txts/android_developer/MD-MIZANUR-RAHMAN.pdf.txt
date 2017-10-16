@@ -1,0 +1,140 @@
+<ba>
+MD MIZANUR RAHMAN
+
+Android Developer
+
+Largo, FL - Email me on Indeed: indeed.com/r/MD-MIZANUR-RAHMAN/10e62d33991d08a7
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Bank of America  -  Charlotte, NC - February 2016 to August 2016
+
+Participate in every aspect of ACM feature development lifecycle. Analyze and troubleshoot issues and defects
+in functionalities and performance. Identify technical obstacles early and work closely with team to find creative
+solutions.  Taking  ownership  and  doing  whatever  it  takes  to  deliver  results.  Improve  quality  with  the  latest
+industry trends in mobile technology.
+Select Projects:
+
+•  This  is  an  Android  native  application.  I  work  with  ACM  module  which  supports  all  kinds  of  Alerts  and
+Schedules. Using SOAP APIs application communicates with backend server. For example, if customer wants
+to disable notification service, send request from application using SOAP APIs to disable notification for specific
+user. (https://play.google.com/store/apps/details?id=com.infonow.bofa)
+
+Android Developer
+Verizon Wireless  -  Basking Ridge, NJ - July 2015 to January 2016
+
+Design  and  code  from  specifications,  analyzes,  evaluates,  tests,  debugs,  documents,  and  implements
+complex Android; Uses coding methods in Android to initiate or enhance program execution and functionality;
+Participate in the evaluation, recommendation, and selection of software solutions.
+Select Projects:
+
+•  Setup  Wizard  android  native  application  for  PCO  configuration  of  different  kind  of  SIM.  This  is  a  root
+application for all kind of Verizon devices. When new user will turn on the device this application will run and
+force user to setup his profile base on user type like postpaid or prepaid.
+
+• Push Notification without GCM. I integrated push Notification using AWS SNS API for this native application.
+(https://play.google.com/store/apps/details?id=com.verizon.messaging.vzmsgs&hl=en)
+
+Senior Android Developer
+ASIAN INFORMATION TECHNOLOGY LTD  -  Dhaka - 2012 to 2014
+
+Designed  and  implemented  front-ends  and  UI  for  Android  apps  and  web  services  (Using  RabbitMQ  and
+Java. RabbitMQ provides messaging protocol within sender and receiver. In order to communicate between
+Customer and Driver application we used JVM and RabbitMQ for building web services). Coded back-ends.
+Drew route paths for GPS apps with Google Maps Location Service and Google Maps v2 Library. Prepared
+test cases for functional and unit testing.
+
+Select Projects:
+• Created mobile applications for cab ride booking, navigation, and payment, Cabiapp and Unicab; customers
+can book and track real-time and future journeys with drivers, as well as invite friends along for transportation
+
+(https://play.google.com/store/apps/details?id=com.bdcabz.customer.app)
+(https://play.google.com/store/apps/details?id=com.bdcabs.driver.app)
+
+• FM radio live streaming application. Playing FM 92.4 in Bangladesh and sending sms to radio station. (https://
+play.google.com/store/apps/details?id=radio.nep.make).
+
+• This is a taxi calling application for Limozin Taxi.
+(https://play.google.com/store/apps/details?id=com.ibcr.avonz.starride.passenger)
+
+• Event management application which creates and manage events for users.
+(https://play.google.com/store/apps/details?id=com.tasacom.dfwmsdc.app)
+
+• Love Horoscope is a social media application. we can invite friends, chatting and daily, weekly, monthly love
+calculation.
+(https://play.google.com/store/apps/details?id=com.cellmedia.love)
+
+Invented  social  media  app  specifically 
+
+• 
+each  others' 
+id=com.aitl.everconnected&hl=en).
+
+locations,  EverConnected  Family  Tracker 
+
+for 
+
+family  members 
+
+to  share  messages  and 
+
+track
+(https://play.google.com/store/apps/details?
+
+•  Homeschool  Teacher's  Lounge  application  allows  us  to  connect  with  different  Homeschool  Teachers,
+post  pictures,  share  stories,  and  more.  The  News  page  gives  you  real-time  streaming  news  from  the  top
+Homeschool blogs in the world.
+(https://play.google.com/store/apps/details?id=com.app316.homeschoollounge.app)
+
+Technologies  used:  Java,  Android  SDK,  Android  ADT,  Google  Maps,  NetBeans  for  PHP,  XAMPP  for
+Webserver
+<ed>
+EDUCATION
+
+Master of Science in Computer Science
+Maharishi University of Management  -  Fairfield, IA
+
+Bachelor of Science in Computer Science
+Mawlana Bhashani Science & Technology University
+
+ADDITIONAL INFORMATION
+<sk>
+AREAS OF STRENGTH
+
+Android Application Development • Web Services • Database Design • Data Structure • Algorithms • Project
+Management • Software Lifecycle Development • Design Patterns • Requirement Analysis • Front- & Back-End
+Design • Testing • Troubleshooting • Debugging • Social Media Integration • Location Services Integration
+
+CORE SKILLS
+
+• Highly experienced in full lifecycle development of the application, from planning, requirements gathering,
+development, testing
+• Designed and Developed web services using RESTful and SOAP which implemented majority social media
+APIs like Twitter, Facebook and Google+
+
+• Designed Up-to-date UI Layouts, implemented Action Bar, Fragment, Widget, Swipe Views, etc. using the
+Android SDK and real Android Device
+• Extensive knowledge in Activity Lifecycles, Intent, Bundle, Fragment, Permissions, Process Lifecycles
+• Hands on experience in background Services, Multimedia, Map Locations, Shared Preference, GPS, Sensor
+systems and transferring data from one device to another
+• Used Multi Threading to handle the long running operations that need to be performed at the background
+asynchronously.
+• Performed unit testing with JUnit and determining the application functionality
+• Experienced in GitHub for version control and source code management
+
+TECHNICAL COMPETENCIES
+
+Languages: Android • Java • J2EE
+Web: JSP • JSF • PHP • REST APIs • RabbitMQ • SOAP • AWS SNS •JSON • XML• CSS3 • HTML5 • JavaScript
+• Ajax • jQuery APIs
+Tools: Android Studio • Eclipse • NetBeans • Google Map API • GitHub • Android UI • GPS • Sensor and Map
+services • JUnit • SDK Manager • Mksdcard • AVD Manager • Android Emulator • Device Monitor • Android
+Debug Bridge(ADB) • Dalvik Debug Monitor Server(DDMS) • SQLite 3 • LOGCAT • OpenGL • ADT Plugins
+• Virtual Box
+Databases: Oracle • MySQL • SQLite
+Platforms: Windows • Linux
+SDLC: Agile-Scrum, Waterfall
+Design patterns: Observer • Command • Iterator • Strategy • State • Façade • Factory • Singleton
+
+

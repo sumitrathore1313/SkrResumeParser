@@ -1,0 +1,67 @@
+<ba>
+Bradley Blanski
+
+Web Developer - Odin Art and Collectibles
+
+Princeton, MN - Email me on Indeed: indeed.com/r/Bradley-Blanski/58b329d5bba8c90a
+
+Search Engine Optimization
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Odin Art and Collectibles - November 2003 to Present
+
+Company Name: Odin Art and Collectibles
+
+I  create,  update,  and  maintain  site  pages  for  odinartcollectables.com,  using  CSS,  HTML,  JavaScript,
+and  XML/XSL,  Visual  Studio  2010,  MS  Expression  Web.  Produce  high  rankings  with  SEO  Strategies,
+web  mastering  of  web  analytics,  website  optimization,  publishing,  photo  editing,  HTML,  CSS,  XML,
+Google Analytics, repair of computer infrastructure, debugging code, debugging computer soft, debugging
+computer  performance,  and  customer  support.  LinkedIn  profile:  http://www.linkedin.com/profile/view?
+id=60602871&trk=nav_responsive_tab_profile
+
+Freelance SEO Variable Dates and Times
+Company Name: E-Solutions and various companies.
+</we>
+<ca>
+ACTIVITIES & AWARDS
+Volunteer at Princeton Middle School and Elementary School
+Helped  generate  a  fund  raising  event:  Princeton  Hometown  Team  against  the  Harlem  Ambassador's  in
+basketball
+Received CRC Outstanding Achievement in Chemistry 1991
+Received Petty Experience 2005.
+</ca>
+<sk>
+Skills
+Adobe Flash
+Corel Paint
+Shop Pro
+MS Office Professional 2010
+Access
+Excel
+VS Ultimate
+
+CSS 3.0
+HTML/XHTML
+JavaScript
+SQL
+XML/XSL
+Visual Basic
+
+MySQL
+Windows Vista/XP
+</sk>
+<ed>
+EDUCATION
+
+mathematics
+U of MN
+August 2011 to Present
+
+Chemical Engineering
+Graduate School University
+August 1988 to December 2001
+</ed>
+

@@ -1,0 +1,137 @@
+<ba>
+Olyad Regassa
+
+Minneapolis, MN - Email me on Indeed: indeed.com/r/Olyad-Regassa/b74a6bdc58cb5b4c
+</ba>
+<su>
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+WEB DEVELOPER
+Freelance  -  Minneapolis, MN - September 2015 to Present
+
+Responsibilities:
+
+• Technologies included: Ruby on Rails, HTML, CSS, JavaScript, Bootstrap, Heroku, Command Line, Git,
+Github and Sublime Text
+• Testing app: Test-Driven Development
+• Projects included: Currently working on Alpha Blog; a blog app, a Shopping System app and Waligalte; an
+app where Sunday school kids can meet during the week 
+• Continuosly learning online: MySQL, Javascript, Ruby on rails,HTML & CSS to inhance my apps and skills 
+
+Skills Used:
+
+• Technologies included: Ruby on Rails, HTML, CSS, JavaScript, Bootstrap, MySQL, Heroku
+
+BUSINESS ANALYST
+Fairview Health Services  -  Minneapolis, MN - August 2016 to October 2016
+
+• Using Service Now application to analyse and resolve over 10 different client issues per day 
+• Using Epic health application modules Cadnece and Prelude, to do builds like creating new departements
+and QA the build before deploying work 
+• Writing and rewriting of over 30 pages requirement documentation for my team so proper patterns are taken
+when building features for fairview clients 
+• Writing logics using properties, operations and values so that patient schedules go to proper work queues
+and sending dynamic mass letters to patients
+
+BUSINESS ANALYST
+Data Recognition Corporation  -  Brooklyn Park, MN - June 2016 to August 2016
+
+• Gathering agile change control requirements to create Excel export of quarterly reports to retailers
+• Building mockups using excel and Google inspect, Microsoft paint to make modifications in code, making it
+easier for developers to understand
+• Working with Developers, a Sr. BA and QA’s to convert retailer data files updates from manual to automate
+the process 
+• Gathering required fields and mapping the fields in the existing API to feed and call data from vendor
+
+MORTGAGE PAYMENT ADVISOR
+Wells Fargo  -  Minneapolis, MN - October 2014 to July 2015
+
+Responsibilities:
+
+• Counseled 50 plus delinquent customers a day on refinancing, loan modification and loss mitigation payment
+options if unable to make long term mortgage payments 
+
+• Negotiated on a repayment plan with customers who have 5 or more delinquent payments, to keep them
+current and avoid foreclosure 
+•  Achieved  over  90%  quality  assurance  audit  scores  every  month  by  acting  on  company  policies  and
+compliance 
+• Recovered over 80% of all debts appointed every month by providing win-win compromises with customers 
+
+Skills Used:
+
+Word, Excel
+
+ORGANIZATION DEVELOPMENT CONSULTANT INTERN
+University of Minnesota  -  Minneapolis, MN - January 2014 to August 2014
+
+Accomplishments
+• Interviewed supervisors; transcribe and code data; do an initial analysis to find links in data 
+• Conducted a literature review and write up results for future research purposes 
+• Implemented the Plan, Do, Study and Act (PDSA) method to complete a project
+• Reported the results of new employee orientation survey for additional screening
+• Conducted an extensive research regarding leadership development
+
+EXTERNAL CONSULTANT
+Ra’ey Youth Soccer Organization  -  Minneapolis, MN - January 2013 to June 2013
+
+Accomplishments
+• Implemented the five level model Entry, Connection, Assessment, Communication and Recommendation to
+get an understanding of the organization issues. 
+• Surveyed and linked key summary details of meetings with organization founder and committee members
+for problem recognition purposes 
+• Advised the organization on the pros and cons of building a stadium in Ethiopia 
+• Gave a presentation on the feasibility of building a stadium considering risk analysis, project cost estimation,
+time estimation etc. 
+• Advised the organization on cost-effective and efficient ways to stabilize the organization and move in a
+positive direction
+
+LOAN DOCUMENT QUALITY ASSURANCE ASSOCIATE
+Minneapolis, MN  -  Minneapolis, MN - May 2012 to August 2012
+
+Responsibilities:
+
+• Performed system changes of incorrect data collection that are unrecognized by the computer system to
+avoid lender to investor relationship conflict
+• Executed manual and internal computer software reviews of hundreds of recordable documents per day to
+ensure precision
+• Slashed productivity time by auditing 15 more loan documents hourly with 100% efficiency than expected
+amount
+• Applied Excel and Access to verify all the documents are within our possession and to standard by using
+client IDs
+
+Skills Used:
+
+Word, Excel, Access
+</we>
+<ed>
+EDUCATION
+
+BA in Human Resource Development
+University of Minnesota-Twin Cities  -  Minneapolis, MN
+2014
+</ed>
+<sk>
+SKILLS
+
+Command Line, Git, Github, Sublime Text, Heroku, Debugging Code, Debugging Rails Apps, Loops,
+Hashes, Blocks, Ruby, Rails, Ruby Models, Static Pages, HTML, CSS, CRUD, Testing Users, User
+Authorization, Authorization, Associations, Validating, (1 year)
+</sk>
+<ba>
+LINKS
+
+https://waligaltie.herokuapp.com/
+
+https://www.linkedin.com/in/olyad-regassa-432aa560
+</ba>
+<ca>
+CERTIFICATIONS/LICENSES
+
+In recognition of Leadership Communication
+February 2010 to Present
+Certificate, University of Minnesota, in recognition of Leadership Communication
+</ca>
+

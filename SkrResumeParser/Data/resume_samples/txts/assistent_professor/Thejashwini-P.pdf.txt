@@ -1,0 +1,72 @@
+Thejashwini P
+
+Vidyaranya Puram, Karnataka - Email me on Indeed: indeed.com/r/Thejashwini-P/15d41811da9e6c38
+
+With the main objective being towards satisfaction, both for myself and the company, I strive to work towards
+the high standards of loyalty and dedication which has been consistent throughout, thereby making work a
+pleasure and uplift of the organization.
+Willing to relocate to: Mysore, Karnataka - Bangalore, Karnataka
+
+WORK EXPERIENCE
+
+Assistant Professor (CS)
+S College of Arts, Commerce and Science  -  Mysore, Karnataka - February 2016 to Present
+
+6  months  of  experience  as  an  Assistant  Professor  (CS)  in  JSS  College  of  Arts,  Commerce  and  Science,
+B.N.Road, Mysore. - Currently Working in the Same Institution.
+
+Project Title: Airlines Ticket Swapping System.
+Language used: C#.
+Team Size: Individual.
+Duration: 6 Months
+Description: The airline swapping system project is an implementation of a general "Reserved" Airline ticketing
+application which helps the passengers to search the availability of various airline tickets. The project covers the
+feature of swapping of "Reserved" air tickets, re-registration of the user, modifying the details of the passenger
+and flight information by the administration.
+Project Title: Simulation of Leaky Bucket Algorithm on .NET Technology.
+Language used: C#
+Team Size: 4
+Duration: 6 Months
+Description:  Simulation  of  leaky  bucket  algorithm  is  a  windows  application  developed  to  avoid  congestion
+control .The existing system has the traffic shaping and in the existing system while transferring the data from
+sender to receiver there may be loss of data so the leaky bucket algorithm monitor and congestion can be
+avoided. It is nothing other than single server queuing system with constant service time. Leaky bucket consist
+of a finite queue.
+
+EDUCATION
+
+M.Sc. in Computer Science
+J.S.S. COLLEGE of Arts  -  Mysore, Karnataka
+2016
+
+B.Sc. in Computer Science in EMCs
+SDM COLLEGE  -  Mysore, Karnataka
+2014
+
+JSS Women's College  -  Mysore, Karnataka
+2011
+
+SKILLS
+
+Manual Testing (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Skill Set:
+Languages: C, HTML, CSS
+
+Manual Testing:
+• Very good knowledge of software development life cycle (SDLC)
+• Good knowledge of white box testing and black box testing.
+• Smoke testing on critical or basic feature of an application.
+• Functional testing on each and every component of an application.
+• Integration testing based on business transaction scenarios.
+• System testing whether end feature is working or not.
+• Ad-hoc testing and Regression testing.
+• Usability testing whether application is user friendliness or not.
+• Acceptance testing, Performance testing.
+• Good knowledge of software test life cycle (STLC)
+SQL:
+Having Knowledge in writing SQL queries like: SELECT, UPDATE, INSERT, DELETE.
+
+

@@ -1,0 +1,87 @@
+<ba>
+Sam Smith
+
+San Francisco, CA - Email me on Indeed: indeed.com/r/Sam-Smith/df2b3ef19521d8c4
+</ba>
+<su>
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Mopi16 - May 2015 to January 2016
+
+Writing HTML, CSS, and Javascript for custom learning
+MOPI16 management systems
+MAY 2015 - PRESENT
+Working remotely and managing task with Mopi16 team via Trello
+Managing both readability and usability of content created
+
+Web Instructor
+Laurus College  -  Santa Maria, CA - July 2015 to September 2015
+
+Responsibilities
+Instructed  an  online  classroom  teaching  web  portfolio  production.  Lectured  on  design  and  programming.
+Focused  on  Twitter  Bootstrap,  color,  layout,  and  web  development  technologies.  Evaluated  students
+assignments, projects, quizzes, and final.
+
+Accomplishments
+Helped students achieve their full potential. Peer reviewed other instructors materials and lectures. Advised
+faculty on what classes to add or remove from the current list.
+
+Skills Used
+I used communication skills with both students and other instructors. Along with CSS, HTML, Twitter Bootstrap,
+Javascript, PHP, and MYSQL.
+
+Web Designer
+Carmel Jewish Film Festival - May 2014 to April 2015
+
+Creating new content, pages, and navigation
+MAY 2014 - APRIL 2015
+● SEO optimization and web validation
+● Creating contact forms and connecting with ticket sales websites
+● Promotional designs including flyers and personalized emails
+
+Teaching Assistant (TA)
+California State University Monterey Bay - January 2014 to March 2015
+
+Tutoring students in a variety of subjects ranging from PHP,
+UNIVERSITY, MONTEREY BAY
+JANUARY 2014 - MARCH 2015 mySQL, Javascript, Twitter Bootstrap, and Drupal
+Weekly meetings with fellow TAs and instructors
+</we>
+<ed>
+EDUCATION
+
+Bachelor of Science in Communication Design
+California State Monterey Bay  -  Seaside, CA
+2012 to 2015
+
+AS in Computer Science
+CABRILLO COLLEGE  -  Aptos, CA
+June 2012
+</ed>
+<ba>
+LINKS
+
+http://samdunkdesigns.com/
+
+https://www.linkedin.com/in/samdunk
+</ba>
+<sk>
+ADDITIONAL INFORMATION
+
+Skills
+
+ILLUSTRATOR CSS
+
+INDESIGN JAVASCRIPT
+
+DRUPAL PHP
+
+HTML 5 MYSQL
+
+BOOTSTRAP UI / UX
+</sk>
+

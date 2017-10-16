@@ -1,0 +1,249 @@
+<ba>
+hemanth android
+
+Android Developer - Harman International
+
+Novi, MI - Email me on Indeed: indeed.com/r/hemanth-android/8161258e9ecaefd2
+<su>
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Harman International  -  Novi, MI - February 2017 to Present
+
+Description:
+HARMAN  designs  and  engineers  connected  products  and  solutions  for  automakers,  consumers,  and
+enterprises  worldwide,  including  connected  car  systems  and  connected  services.  Project  Freedom  is  a
+personalized  Home  Launcher  application  designed  for  car  infotainment  system  is  a  complete  range  of
+connected safety offerings that help drivers keep their eyes on the road and hands on the wheel and is being
+developed on Android platform.
+Responsibilities:
+• Worked with Android Studio and the latest Android SDK.
+• Worked on UI design and designed layouts for various screens.
+• Worked with UX designers to improve and implement the proper view component.
+• Worked on integration of third party API's like Microsoft Cortana and AHA radio into the application.
+• Worked on integration of Telenav SDK for navigation using this application.
+• Used Microsoft Cortana Api's as personal assistant application to interact with the HMI based on speech to
+text and text to speech concepts.
+• Responsible for design of UI using various custom layouts, buttons and different form of widgets.
+• For displaying background images of the app used Frame Layout.
+• Involved in implementing Asynchronous tasks for the background operations.
+• Developed the app to adapt to different orientations and various resolutions based on the device.
+• Implemented the functionalities behind the UI screens using Fragment concepts.
+• Worked on android vector asset studio to convert to SVG files.
+• Accessed external databases for our application by using JSON for web service calls.
+• Implemented Services to communicate with the Server, consumed the JSON payload and populated into
+UI views.
+• For ensuring best UI performances we used Asynchronous tasks for handling long term operations.
+• Used Material design using Card View, Recycle View and classic principles of good design.
+• Got rid of out of memory exceptions with the help of LeakCanary library.
+• Object Oriented Programming (OOPS) Concepts were immensely used for modeling.
+• Used GIT for code repository and maintaining current and historical versions of the source code.
+• Worked on debugging the application using adb Logcat.
+• Test and error logging on different versions and devices of android.
+• Worked with efficient and effective utilization of SDLC methodologies for iterative/agile environment.
+• Collaborated with the team members for testing the application on different target devices and also debugged
+the  issues  using  Android  provided  tools  like  Trace  view  and  view  hierarchy  from  DDMS  for  optimization
+purposes.
+• Actively involved in meetings and team building events.
+Environment: Android SDK 7.0,Android Studio2.2,Java,Json,XML,Logcat,DDMS,Multithreading,Git.
+
+Sr. Android Developer
+Lowes  -  Mooresville, NC - January 2016 to January 2017
+
+Link: https://play.google.com/store/apps/details?id=com.lowes.android&hl=en Description:
+Lowe's  Inc  mobile  application  is  a  generic  m-commerce  application,  helps  user  to  shop  online  in  various
+categories and helps the users to find their appropriate product. This application has a smart search, used to
+add product on their shopping cart and quick list. User can pay bill from their android devices and they can
+find the nearest store location based on their current position, they can also find the product location within
+the store.
+Responsibilities:
+• Worked with Android Studio and the latest Android SDK in developing an enterprise level mobile application.
+• Worked with HTTP requests, JSON and GSON formatting to parse the data.
+• Design screens using MVC pattern for the application with Android Studio IDE.
+• Worked with GCM in implementing the PUSH notifications.
+• Utilize experience scaling systems and cloud technology to support services in the mobile environment.
+• Used Material design using Card View, Recycle View and classic principles of good design with innovation.
+• Consumed Web Services (RESTFUL) from third party for send the emails in bulk. This service is used to
+send the emails to the customers in bulk as a part of Batch process.
+• Worked on different third party libraries like, butterknife for dependency injection, volley and retrofit networking
+library, picasso to download images.
+• Worked on UI related features such as Action Bar, Dialogs, Toasts.
+• Involved in understanding the interactions of all phases of application development life cycle.
+• Implementing Broadcast Receivers for Android.
+• Implemented UI/UX layouts for home screen.
+• Used array adapters for different kind of layouts.
+• Implemented layouts for List View, Image View and Scroll Views.
+• Created views for Date &Time pickers, List view adapters and image buttons.
+• Involved in designing of Flash banner for both tablet and phone versions.
+• Used SQLite database to store all the Data.
+• Used Intents to capture and upload images in Android Studio
+• Worked on Android Marshmallow runtime permission.
+• Used Third party JAVA API for barcode generators and scanner.
+• Used GIT for version control of code for distributed revision control.
+• Followed a complete AGILE methodology with Daily Stand up calls with the offshore team every day and
+updating on JIRA.
+• Extensively used Agile Methodologies.
+• Actively involved in meetings and team building events.
+
+Environment: Android SDK 6.0, Android Studio2.0, GSON, REST Web Services, Java, SQLite, JSON, XML,
+DDMS, Logcat, JIRA, GIT, Jenkins.
+
+Android Developer
+BCBSNC  -  Durham, NC - November 2014 to December 2015
+
+Link: https://play.google.com/store/apps/details?id=com.bcbsnc.healthnav
+Description:
+Blue Connect Mobile and Student Blue Connect Mobile helps you connect with personalized dashboard that
+helps to take control of your health care. It is easier to get the health plan information, find a doctor or emergency
+care center or Blue Cross and Blue Shield provider on the go anytime anywhere.
+Responsibilities:
+• Creating skeleton application UI & implementing fragments using Android SDK.
+
+• Client Server Communication using REST API, JSON parsing to retrieve data from database.
+• Worked on MVC patterns for the app.
+• Strictly follow Activity Life Cycle with keep in mind Process Service Life Cycle.
+• Implemented Notification, Shared Preferences.
+• Creating Intents (explicit, implicit), Multi-threading.
+• Creating Linear, Relative and Table layout.
+• Consuming RESTful web services using JAX-RS with Jersy.
+• Used the Bluetooth APIs to connect and communicate with another Android Mobile.
+• Implementing Surface view, Date picker, Time picker.
+• Defining elements like Gallery, Gridview, Listview, Tabwidget, and Webview.
+• Dealt with Map Activity, Itemized Overlay, Map Controller, Location Manager, Location Listener.
+• Used Github for version control.
+• Participated in large production environments building enterprise class software development following Agile
+Processes.
+• Performed Code analysis and review, requirements gathering and analysis, and software risk analysis
+•  Used  AsyncTask,  Handler,  Threads,  Service,  and  IntentService  in  order  to  implement  multi-threaded
+applications.
+• Implemented SQLite database, Shared Preferences in application data management.
+
+Environment: JAVA, Eclipse3.6 (Helios), 4.3(Kepler), Android 4.2, 4.3(Jelly Bean) and Android 4.4 (Kit Kat),
+Kernel, SQLite, JDO, Google App Engine Java SDK,XML, GPU, ADT.
+
+Android Developer
+Verizon  -  Dallas, TX - November 2012 to October 2014
+
+Link: https://play.google.com/store/apps/details?id=com.vzw.hss.myverizon
+Description:
+The My Verizon Mobile app enhances your store shopping experience. Save time by taking control of your
+wireless  account  with  the  My  Verizon  Mobile  App.  Use  the  My  Verizon  Mobile  app  to  get  instant  account
+information and manage your services from your Smartphone and Tablet.
+Responsibilities:
+• Designed and Implemented Views and Layouts for User Interaction.
+• Developed the UI layers for Activities and implemented Fragments within UI.
+• Used Multi-threading to implement parallel processing.
+•  Worked  in  Agile  environment  and  participate  in  different  phases  of  the  project  cycle  like  design  and
+development.
+• REST web service interaction utilizing OAUTH authentication and JSON.
+• Implemented OAuth along with JWT tokens using Firebase for secure authentication and communication.
+• Implemented Web API to use OAuth2.0 with JWT (JSON Web Tokens) to secure the Web API Service Layer.
+• Extensively tested alpha releases with JUNIT 3.
+• Worked closely with another mobile app developer, leading the other platform development.
+• Used Android SDK 4.3 (Software Development Kit), Eclipse IDE (Integrated Development Environment),
+Dalvik  Debug  Monitor  Server,  Android  Virtual  Device,  and  Android  Debug  Bridge  for  development  and
+debugging tool.
+•  Tested  the  application  on  different  android  target  devices  and  also  debugged  the  issues  using  android
+provided tools like Traceview and view hierarchy from DDMS for optimization purposes.
+• Worked with PHP, MySQL and SQLite.
+• Used design pattern like singleton and adapter.
+• Used version control SVN and GIT.
+• Programmed using JavaScript for web page validations.
+
+• Integrated location based services using Google Maps API to display locations of the nearest stores.
+• Involved in writing application logic in Eclipse using ADT plug-in for Android.
+• Experience in understanding the scripts written using XML.
+• Worked on debugging the application using Log cat, DDMS.
+Environment: Android SDK 4.3, Java 1.6,JWT, SQLite 3.0, Eclipse IDE 3.6, ADT Plugin, SVN, GIT, REST,
+Google Maps API.
+
+Android Developer
+Athena Technologies  -  Hyderabad, ANDHRA PRADESH, IN - March 2011 to October 2012
+
+Link: https://play.google.com/store/apps/details?id=com.platys.learnect_mobile&hl=en Description:
+It  is  an  e-learning  with  social  networking  project  for  students  and  teachers.  Using  this  users  can  read  the
+e-books, do the assessment, make a friends, join the communities, share the images and videos, record a
+lecture, send the messages and lot more.
+Responsibilities:
+•  Actively  participated  in  information  gathering  and  creating  a  storyboard  for  the  entire  application  and
+generating wireframes.
+• Delivered a proof of concept prototype to the client for the initial application design along with other team
+members
+• Contributed to the UI design and flow of the application using Buttons, edit boxes, check boxes, dialog boxes
+and spinners for various layouts
+• Displayed data in a structured way by using the web services (RESTful) to retrieve data in JSON format
+• Implemented SQLite database to keep track of user choices and display locations based on user preferences.
+• Used SVN as the version control tool for developing the project.
+• Performed Manual, Functional, Integration and User Acceptance testing.
+• Testing of the application in Android Emulator and few Android based mobile phones.
+• Developed Custom Application Widgets.
+• Implemented the Google maps with forward and reverse geo-coding.
+• Used custom List Fragment using a subclasses Base Adapter for styled List View items, tying items to an-
+other fragment by passing index values from click listeners.
+
+Environment: Android SDK, Eclipse, Java, SQLite, JSON, Google Maps, SVN.
+
+Java Developer
+Infotech Technologies  -  Hyderabad, ANDHRA PRADESH, IN - June 2009 to February 2011
+
+Description:
+Enterprise data integration project helps to see a holistic view of the corporate risk, exposure, clients, anti-
+money laundering activities, assets, etc. Daily, weekly and monthly views supporting various enterprise needs
+were delivered.
+Responsibilities:
+● Involved in development of Order Management, Product Management and pricing modules.
+● Participated in system design and prepared UML diagrams and Class diagrams for DTO objects and actions.
+● Designed and developed Hibernate Mapping files and configuring hibernate.
+● Configured and maintained the Spring Application Framework's IOC container.
+● Spring Application Context was used to inject the core java pojos into application.
+● Generating Hibernate mapping files and domains using tables.
+● Implemented the MVC architecture using Struts framework.
+● IBM MQ Series is used as JMS Server.
+● Creating the message from the uploaded information and transaction data and sending this information
+using SOAP.
+
+● Storing the SOAP messages received in the JMS Queue of WebSphereMQ (MQ Series).
+● Listening the WebSphereMQ through message driven beans and processing the queue messages.
+● Developed custom JSP tags for Pricing, Order Management, Product Management modules.
+● Wrote script for AJAX implementations in the website.
+● Performed XML Transformations from value objects to XML and from xml to HTML data.
+● Designed and developed views, controller and model components implementing Struts Framework.
+● Used CVS as version controller.
+● Performed unit testing using Junit.
+● Developed the Logging framework using log4j.
+● Implemented Design patterns for recurring problems.
+● Developed Web Services, which are published on to the Websphere application server.
+
+Environment: J2EE, Java/JDK, JSP, Servlets, Spring, JavaBeans, Hibernate, Struts, AJAX, XML, DOM, HTML/
+DHTML, JavaScript, Oracle 10g, WebSphere, SOAP, UNIX, RAD, WIN CVS,JUnit, log4j.
+<ed>
+EDUCATION
+
+Technology
+JNTU University  -  Hyderabad, ANDHRA PRADESH, IN
+<sk>
+SKILLS
+
+Android (6 years), Android SDK. (6 years), Java (8 years), JSON (6 years), XML (6 years)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Technologies  Android  SDK,  NDK,J2EE,  Springs  2.0.x/2.5x,Hibernate,  MFC,  ATL,  STL,  Web  Services,
+JavaBeans, Java script, JSP,Eclipse.
+Build Tool Ant, Maven, Gradle.
+Servers JBOSS, Apache Tomcat, Web logic, Web Sphere.
+CI tools Jenkins.
+SCM Tools SVN and GIT
+Web Technologies HTML5, JavaScript, CSS, XML,UML,Weblogic6
+Operating Systems Windows XP/Vista/7, Linux, Android, Mac OS, Windows (2000/XP Professional, Windows
+7, Windows 8), Ubuntu, Fedora, Macintosh.
+Framework STRUTS, spring, Junit, AJAX, JDK.
+Database System Mysql, Sqlite, Oracle, DB2.
+Others Amazon Web Services (AWS), jQuery, JSON, REST-full Web services, SOAP
+
+

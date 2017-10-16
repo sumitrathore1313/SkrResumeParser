@@ -1,0 +1,70 @@
+PUBLICATIONS
+
+Nawras and nobles washbasins
+https://play.google.com/store/apps/details?id=sa.app101.maghaslalnobla
+2016
+
+Ihsan Taif volunteering
+https://play.google.com/store/apps/details?id=sa.app101.volunteer
+2015
+
+Onaizah Organization
+https://play.google.com/store/apps/details?id=sa.app101.onaiza
+
+ISCA
+https://play.google.com/store/apps/details?id=com.isca.slidemenu
+2015
+
+Saraf
+https://play.google.com/store/apps/details?id=sa.app101.app101.sraf
+
+Sawa3ed
+https://play.google.com/store/apps/details?id=sa.app101.sawa3ed
+
+MIS School
+https://play.google.com/store/apps/details?id=sa.app101.mis
+
+Mahger Nursery
+https://play.google.com/store/apps/details?id=com.nurseryelmahgers
+2015
+
+Buy&Sale
+https://play.google.com/store/apps/details?id=com.buyandsales
+
+PUBLICATIONS
+
+Load Board
+https://play.google.com/store/apps/details?id=com.dat.fm.carrier
+December 2016
+A transportation management system app for both Brokers and Owner Operators. Uses newest UI elements
+to create a modern look and feel.
+
+Fish Tracker
+https://play.google.com/store/apps/details?id=com.kodingwithkyle.kyle.fishtracker
+May 2016
+Creates a memorable record of the users angling experiece. Persists details of fish caught locally and remote.
+
+PUBLICATIONS
+
+CheaterCheater
+https://play.google.com/store/apps/details?id=com.dev.jaredkent.cheatercheater&hl=en
+June 2015
+
+I created CheaterCheater as a simple, clean, and easy to use multipurpose word game helper application for
+Android.
+
+CheaterCheater helps find all word combinations word game hands including on board pieces, solve Scrabble,
+Words With Friends and many other popular word games with this easy to use app! CheaterCheater also
+contains a dictionary look up, so if you're playing a game of Scrabble and someone else plays a word, you
+can immediately check that word on the current dictionary!
+
+CheaterCheater  uses  the  open  source  ENABLE  word  list  to  give  you  the  most  viable  word  game  words
+possible, and unlike many other word game helpers, CheaterCheater does this without any internet connection!
+
+Feature Application in Play Store
+All Deal: All Deal let user discover great promotions in Cambodia such as favorite coffee shop, restaurant, spa
+and massage, and other fun activities. Get the coupons with just a few click.
+Play Store: https://play.google.com/store/apps/details?id=com.abitech.AllDeal&hl=en
+Chatime Cambodia: The easiest way to find a Chatime outlet, collect points, promotion, outlet locators and get
+in touch with social media channel Facebook, Instagram and YouTube to explore daily activities from Chatime.
+Play Store: https://play.google.com/store/apps/details?id=com.khsoftengineer.chatime&hl=en

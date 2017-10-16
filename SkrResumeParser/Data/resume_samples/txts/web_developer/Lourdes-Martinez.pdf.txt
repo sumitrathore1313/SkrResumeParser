@@ -1,0 +1,79 @@
+<ba>
+Lourdes Martinez
+
+Web Developer
+
+Miami, FL - Email me on Indeed: indeed.com/r/Lourdes-Martinez/8b8926fa95196f62
+</ba>
+<su>
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Soltein S.A  -  Quito, Provincia de Pichincha - January 2016 to July 2016
+
+* Computer system that allows managing the Panamanian DHI Global Medical Group Clinic
+* Algorithms for localization of Odoo to Ecuador's accounting module
+Technologies: Odoo8, Python, OpenObject, PostgreSQL, OpenERP
+
+Software Developer
+Latin American Software Corporation S.A. CORLASOSA - August 2015 to January 2016
+
+Computer system that allows managing the container terminal company TERCON
+Technologies: NET Framework 4.5, Microsoft Visual Studio 2012, C#, Oracle, Telerik Extensions for Web
+Form, Asp .Net, PLSQL, HTML5
+* Reports for the communications services company Claro
+Technologies: Eclipse, Java, Oracle, Jasper Report, PLSQL
+
+Web Developer
+National Software Company DESOFT  -  Havana - January 2014 to July 2015
+
+* Computer system that allows managing information from the Central Criminal Records Registry
+* Computer system that allows managing information from the Civil Registry
+* Computer system that allows managing information from MINREX (Ministry of Foreign Affairs)
+Technologies: OpenERP, Python, OpenObject, PostgreSQL
+
+Software Developer, Intern
+Central Institute of Digital Research ICID  -  Havana - June 2011 to December 2013
+
+Application  that  enables  real-time  visualization  of  the  ECG  signal.  Communicating  with  multi-channel
+acquisition module signals using Bluetooth technology
+Technologies: NET Framework 3.5, Microsoft Visual Studio 2008, C#
+* Client application that communicates with OPC data servers (OLE for Process Control) to be included as a
+supplement to Microsoft Office Excel
+Technologies: Automation Interface, .NET Framework 4.0, Microsoft Visual Studio 2010, C#, Microsoft Office
+Excel 2010, Visual Studio Tools to Microsoft Office
+* Real-time system that enables detailed analysis of resting electrocardiogram (ECG) and presents the trend of
+parameters over time. The system provides several tools that help the specialist in the detection and monitoring
+of heart disease
+Technologies:  .NET  Framework  4.0,  Microsoft  Visual  Studio  2010,  C#,  SQL  Server  Compact,  Telerik
+Extensions for Window Form, Telerik Extensions for Reporting
+</we>
+<ed>
+EDUCATION
+
+B.S.E. in Computer Science
+University of Havana
+September 2008 to December 2013
+</ed>
+<sk>
+SKILLS
+
+C# (7 years), SQL (5 years), .NET (7 years), Java (1 year), Python (3 years), HTML (2 years), Database
+Development (3 years), OpenERP (3 years), Odoo (2 years), XML (3 years), PostgresSQL (3 years),
+Telerick Web Controls (3 years), Telerick Window Control (3 years), Telerick Reporting (3 years), Asp.Net (2
+years), HTML 5 (1 year), Bootstrap (1 year), Git (3 years), Github (3 years), Jasper Report (1 year), PLSQL
+(1 year), Oracle (1 year), Visual Studio (7 years), CSS (1 year), RML (3 years), ADO .NET (4 years), LINQ
+(4 years), OOP (7 years)
+</sk>
+<ex>
+PUBLICATIONS
+
+"ECG Study: A tool for the diagnosis of cardiovascular disease"
+2015
+Cuban Journal of Medical Informatics
+</ex>
+

@@ -1,0 +1,150 @@
+<ba>
+Radhika Ciripuram
+
+Web Developer - ONE Gas
+
+- Email me on Indeed: indeed.com/r/Radhika-Ciripuram/f30880102a33c7e1
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+ONE Gas - November 2015 to Present
+
+ONE Gas provides natural gas distribution services to more than 2 million customers in Oklahoma, Kansas
+and Texas. It serves residential, commercial, industrial, transportation and wholesale customers in all three
+states. Customer representatives use an internal application to serve its customers. This application needed
+a redesign.
+
+Responsibilities:
+
+• Converted PSD's provided by the design team to HTML templates.
+• Created graphics including icons and logos using Adobe Photoshop.
+• Used jQuery UI and jQuery plugins to achieve the functionality requested by the client.
+• Coordinated various web pages with appropriate links and multimedia elements in collaboration with design
+team members.
+• Updated web style sheets and pages on a regular basis and as required.
+• Performed validation of completed pages including the debugging and testing of code.
+• Integrated web pages into JSP with Java as the backend.
+• Provided support in fixing all the production issues.
+
+Environment: HTML/HTML5, CSS/CSS3, JavaScript, jQuery, jQueryUI, Bootstrap, Ajax, JSON, Java, Adobe
+Photoshop, Sublime, Eclipse
+
+Production Support Analyst
+J.P. Morgan Chase - May 2016 to December 2016
+
+Direct  to  Dealer  Application  (D2D)  provides  an  integrated  car  buying  &  ownership  experience  to  chase
+customers including upgrade of lending infrastructures, integration with vendor for car selection & guaranteed
+dealer pricing. A sequential approach will balance the delivery of functionality and benefits with execution risk
+and Seurat timing. It is currently live in 46 states.
+
+Responsibilities:
+• Primary analyst for 'Direct to Dealer' application.
+• Triage the production issues and involve various teams based on the priority of the issue.
+• Logging, prioritizing and resolving incidents and track them against various SLAs.
+• Use Splunk and Dynatrace to write queries to find out the customer impact and prioritize the issues based
+on the requirements from the line of business.
+• Handle the UI related tickets by debugging the HTML, CSS & Javascript code.
+• Daily monitoring the high impact issues and preparing a report.
+• Creating JIRA tickets for the issues found with steps to reproduce it and screenshots related to it.
+• Provide support during releases by validating the changes.
+• Manage and support high-availability 24/7 production systems with an on call rotation.
+• Attend routine knowledge transfer sessions conducted by different team.
+
+Environment: Splunk, Dynatrace, JIRA, Confluence, HTML/HTML5, CSS/CSS3, JavaScript, Ajax, JSON
+
+Freelance
+- August 2011 to November 2015
+
+Client: ILEAD Library Marketing (http://www.ileadlibrarymarketing.org/)
+
+Responsibilities:
+• Created page mockups using Adobe Photoshop.
+• Designed graphics for the website using Adobe Photoshop.
+• Used Wordpress to create the website so that the client can use the admin console to update the site content
+in future.
+• Created a custom Wordpress theme for the website.
+• Used Bootstrap library to make the website responsive.
+• Provided documentation to the client on how to use Wordpress admin interface.
+
+Environment: Wordpress, HTML5, CSS3, Bootstrap, PHP, Javascript, jQuery, Sublime Text, MySQL, Adobe
+Photoshop
+
+Client: Busa Technologies Inc. (http://busatech.com)
+
+Responsibilities:
+• Created page mockups using Balsamiq and Adobe Photoshop.
+• Designed graphics for the website using Adobe Photoshop.
+• Used Wordpress to create the website so that the client can use the admin console to update the site content
+in future.
+• Created a custom Wordpress theme for the website.
+• Used media queries to make the website responsive.
+• Used jQuery and jQuery plugins to achieve the functionality requested by the client on the home page.
+• Tested the website in different browsers to make sure it appears correctly in all of them.
+
+Environment: Wordpress, HTML5, CSS3, Responsive Design, PHP, Javascript, jQuery, Sublime Text, MySQL,
+Balsamiq, Adobe Photoshop
+
+Client: Roots and Wings Intl. (http://www.rootsandwingsintl.org)
+
+Responsibilities:
+• Created web page mockups and graphics for the website using Adobe Photoshop.
+• Designed web pages using Adobe Dreamweaver.
+• Used jQuery and jQuery UI to make the pages dynamic.
+• Created a blog for the website using Wordpress.
+• Created email templates for monthly newsletter.
+• Tested the website in different browsers to make sure it appears correctly in all of them.
+• Responsible for maintaining the website and fixing the bugs found.
+
+Environment:  HTML,  CSS,  Javascript,  jQuery,  jQuery  UI,  Wordpress,  PHP,  Adobe  Dreamweaver,  Adobe
+Photoshop
+
+Web (UI) Developer
+Webfosys Inc  -  Bangalore, Karnataka - June 2008 to August 2010
+
+Involved  in  multiple  projects  like  e-Commerce,  Social  Networking  Site,  WordPress  Blogs,  Service  Based
+Websites (with payment gateways) and many more.
+
+Responsibilities:
+• Involved in developing Front End Programming for Web applications in JavaScript, PHP & MySQL.
+• Managed application state using server and client-based State Management options.
+• Designed and Developed front-end UI/UX using HTML, CSS, JAVASCRIPT, JQUERY.
+• Involved in all SDLC phases Analysis, Design, Development, Testing and Deployment.
+• Worked with Internal Clients for business objectives, project scope and the requirements of the project.
+• Designed Responsive Web pages using Media Queries.
+• Safe Migration of Websites from one hosting to other without loss of data and affecting the SERPs.
+• Designed CSS based web pages which were cross-browser compatible.
+• Created screens with table-less designs meeting W3C standards.
+• Developed JavaScript library for rendering domain-specific layout XML to web.
+• Enhanced user experience by designing new web features.
+
+• Implemented XML parsing code for different application.
+•  Worked  closely  with  Business  Analysts  in  understanding  the  technical  requirements  of  each  project  and
+prepared the use cases for different functionalities and designs.
+• Implemented custom validation controls for various forms with help of JavaScript validation controls.
+• Involved in full software development lifecycle. Designing, coding, testing, debugging and support.
+•  Using  Google  analytics  reports  optimized  the  page  load  time  for  the  pages  that  had  heavy  traffic  and
+improvised those pages using CSS and fixed the issues for the pages with low traffic and high load time.
+• Acted as Head of Traffic Generation and Brand Building (Digital Marketing) team.
+• Participated in numerous creative brainstorm sessions with strategists, storyboards, design specifications,
+and screen layouts that were shared with Designers and other team members
+
+Environment: HTML, XML, CSS, AJAX, JavaScript, jQuery, PHP & MySQL, CMS, and Adobe Photoshop.
+</we>
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills:
+UI Web Technologies: HTML4/ 5, XHTML, XML, XSLT, JavaScript, AJAX, JQuery, JSON, PHP & MySQL.
+Java, MV* Framework AngularJS, Bootstrap, HandlebarsJS
+IDE,  Editors:  Eclipse  IDE,  Notepad++,  Sublime  Editor,  Adobe  Photoshop,  Microsoft  Visual  Studio  Web
+Platform
+Web/App  Servers:  Apache  Tomcat  7.0,  HTTP  Web  Server,  Experience  with  Many  Online  Webhosting
+Platforms (Shared, Dedicated, VPS).
+Database: MySQL, MS-Access, SQL […] PL/SQL.
+Browser: All (IE, Firefox, Opera, Chrome, Safari)
+
+Specialties: PHP & WordPress Developer.
+</sk>
+

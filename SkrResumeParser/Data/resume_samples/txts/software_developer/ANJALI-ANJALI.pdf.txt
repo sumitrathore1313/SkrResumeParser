@@ -1,0 +1,95 @@
+ANJALI ANJALI
+
+Dot net developer {Experience 2.8 years with ASP.NET 3.5, C#, ADO.NET, SQL […]
+Web Services, Javascript, HTML, XML}
+
+New Delhi, Delhi - Email me on Indeed: indeed.com/r/ANJALI-ANJALI/03eff13f425b8c9d
+
+WORK EXPERIENCE
+
+Software Developer
+Client LSG - April 2012 to Present
+
+UK based Company)
+• Technology: Used ASP.Net, C#, Visual Studio 2010, SQL Server 2008, SSIS.
+• Duration: April 2012- till date
+• Role: Software Developer Team size: 12
+• Desciption: An Asp.net web site using MVC architecture with extensive use of Interface, WCF, WS, RabbitMQ,
+Ajax etc.LSG is a UK based Insurance company which needs to atomize it customer policy and their claim
+including other features.
+
+Project at Sirez Infosystems. Pvt. Ltd.
+URL: http://www.crizal.in/
+• Team Size: 1 Project Manager, 1 Team Lead, 2 Developer, 1 Designer, 1 Testing Executive
+• Role: DB design and development.
+• Technologies/Tools: Asp.net with C#, Java script, ADO.net, SQL Server 2008.
+URL: http://www.netambit.com/
+• Team Size: 1 Project Manager, 1 Team Lead, 2 Developer, 1 Designer, 1 Testing Executive
+• Role: DB design and development.
+• Technologies/Tools: Asp.net with C#, Java script, ADO.net, SQL Server 2008.
+URL: http://www.womenonclouds.com/
+• Team Size: 1 Project Manager, 1 Team Lead, 2 Developer, 1 Designer, 1 Testing Executive
+• Role: DB design and development.
+• Technologies/Tools: Asp.net with C#, Java script, ADO.net, SQL Server 2008.
+URL: http://www.campredstone.in/
+• Team Size: 1 Project Manager, 1 Team Lead, 2 Developer, 1 Designer, 1 Testing Executive
+• Role: DB design and development.
+• Technologies/Tools: Asp.net with C#, Java script, ADO.net, SQL Server 2008.
+URL: http://www.billionheartsbeating.com/
+• Team Size: 1 Project Manager, 1 Team Lead, 2 Developer, 1 Designer, 1 Testing Executive
+• Role: DB design and development.
+• Technologies/Tools: Asp.net with C#, Java script, ADO.net, SQL Server 2008.
+
+Web Developer
+Gyan Systems Ltd  -  New Delhi, Delhi - October 2011 to Present
+
+Responsible for Designing and developing user interface using C#, Asp.net 3.5 using HTML controls.
+- Responsible for Designing and developing the database structure (SQL Server 2008) this involves creation
+of stored procedures with US based SQL standard etc.
+
+Jr. Web developer
+Gyan Systems  -  New Delhi, Delhi - October 2011 to Present
+
+-I am working here as a Web Developer
+-Responsible for Designing and developing user interface using C# ,Asp.net 3.5 using HTML controls.
+- Responsible for Designing and developing the database structure (SQL Server 2008) this involves creation
+of stored procedures with US based SQL standard etc.
+
+Web Developer
+Sirez Infosystems Pvt. Ltd  -  New Delhi, Delhi - February 2010 to October 2011
+
+New Delhi (1 Feb 2010 - 2 Oct 2011)
+(1 year- 8 months)
+-I have worked here as a Web Developer.
+-Responsible for Designing and developing user interface using C#, Asp.net 3.5.
+-Responsible for Designing and developing the database structure (SQL Server 2005) this involves creation
+of tables and stored procedures.
+
+*Bharat Software Technology worked as a .net Tranee (3 Months)
+
+PROJECT PORTFOLIO:
+1. Project at Gyan Systems.
+URL: http://www.unidial.co.uk
+• Team Size: 1 Project Manager, 1 Team Lead, 4 Developer, 1 Designer, 1 Testing Executive
+• Role: DB design and development.
+• Technologies/Tools: Asp.net with C#, Java script, ADO.net, SQL Server 2008.
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+- .Net Technologies: Asp.Net 3.5, ADO.NET.
+- Languages: C# .Net.
+- Web Technologies: HTML, DHTML, XML, CSS, JavaScript, Ajax, WCF.
+- RDBMS: Microsoft SQL […]
+- Development Tools: Visual Studio .Net […]
+- Package: MS-Office 2007/02 complete package.
+- Operating System: Windows Vista, Windows […] MS DOS.
+
+PROFESSIONAL QUALIFICATION
+
+1. Pursuing MBA (4th sem) in IT from SMU since Nov. 2010.
+2. Completed GNIIT (Software Engineering) from NIIT South Extn. Center Delhi.
+3. Completed Advanced Diploma in Software Engineering (2year) from NIIT.
+
+

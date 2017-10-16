@@ -1,0 +1,233 @@
+<ba>
+Job Seeker
+
+Austin, TX - Email me on Indeed: indeed.com/r/3dbeb82eaa35e6f3
+<su>
+• Seven plus years of experience as Mobile application developer in the field of Android/Java, C/C++ and
+BREW/BMP.
+• Experience in developing front end applications for Android phones.
+• Experience in developing the Bluetooth printer application and Main Menu application for Android phones.
+•  Extensive  knowledge  in  designing  front  end  applications,  accessing  SQL  database,  application  layer
+protocols, and XML.
+• Highly experienced in executing unit and sanity test cases for the multimedia component.
+• Documented the test cases in a common repository.
+• Followed the SDLC methodologies including the iterative method. The features assigned were completely
+coded and tested before each phase.
+• Worked in the integration of third party application to main line releases.
+• Fixed issues/bugs reported in multimedia applications.
+• Hands on experience on the tools RSD Lite, QPST, RadioComm, DDTS, Test Central.
+• Performed integrated development testing, unit testing, and certification testing for network managed node.
+• Developed the shelf and card details using small talk coding standards
+• Performed link creation & path creation between two nodes, cross connection between the ports.
+• Highly capable in handling multiple tasks, prioritizing, and meeting deadlines.
+• Ability to coordinate with various team members involved in the project.
+• Quick learner, excellent analytical, design and problem solving skills.
+<we>
+WORK EXPERIENCE
+
+Android Developer
+- August 2013 to Present
+
+Project Description: This application provides customers anywhere and anytime access to updates on the
+status of their shipments. Customers can retrieve up to date in formation. This app is designed with supply-
+chain and logistics conscious for business customers.
+
+Responsibilities:
+• Worked extensively with Java, Android Touch frameworks and third party API including Java mail API.
+• Involved in entire software development process for all assigned android application development projects:
+requirement specification, design, implementation, testing and maintenance.
+• Used Jira, TortoiseSVN, and Zubhium to track tickets and manage the development
+• Analyzed the requirements of the main menu features that can be supported in Android phones
+• Wrote personal code library, which comprised of all commonly used functions and features such as: sharing
+content also includes push notification and application tracking and rating functions.
+• Worked with Instruments tools extensively at the end of development cycle to minimize memory leaks and
+assure overall application stability.
+• Used Android features such as, LoaderManager, Content Provider, Resolver, Observer, Default Receiver,
+Broadcast Receiver, Android Service, Handler, AsyncTask
+• Used various design patterns to manage code and data efficiently
+• Created numerous helper classes that can be used throughout the classes.
+• Created and used numerous 9 patch images to improve UI quality
+• Dynamically compressed the images to the size and quality needed for corresponding screen size
+
+• Implemented numerous customized views including surface view for graphic effects
+• Used REST webservices to communicate with the server.
+• Utilized external libraries such as, Acra, C2DM, GCM, Paypal, QR code scanner, Facebook, Google APIs,
+Google Analytics, Zubhium, and Twitter
+• Designed main menu screens and controls using containers and widgets.
+• Developed the UI screens which met the UI requirements compliance.
+• Used Eclipse for development, debugging, coding and deployment of the applications
+• Used Photoshop CS5, Firework CS5, and Illustrator CS5 frequently for editing images, altering photos, and
+customizing look and feel of client's applications.
+• Performed functionality testing and sanity testing.
+
+Environment: Android 2.0/2, Eclipse 3.6, ADT Plug-in, SQLite, XML, Java, Google-Map kit, Subversion, JUnit
+
+Android Developer
+- June 2011 to July 2013
+
+Project Description: Incorporate new functionalities to modify existing banking application which supported
+Customer/Account  relationship,  Loan  Account  profile,  Transaction  and  Account  Management  and  Funds
+Transfer functions. Customer can perform operations on all their account types. The customer by selecting
+each account can pay bills for respective account and transfer funds from one account to another account
+
+Responsibilities
+• Analyzed the project features, designed the application architecture and database, and implemented server
+back end.
+• Designed UI including themes, icons, colors, and backgrounds using Photoshops
+• Collected and constructed numerous vehicle specification information.
+• Extensively utilized AsyncTask, Thread, handler, services to provide smooth UI experience.
+• Implemented auto-sync feature to allow users use the app completely offline and to synchronize the app data
+with the cloud when the network becomes available.
+• Participated in designing the system architecture
+• Implemented handling user account data in C++
+• Participated in constructing the specification documents including Unified Modeling Language diagrams: Use
+Cases, System Features, Data Flow Diagram, Class Diagram, Functional and Non-Functional Requirements,
+State Transition Models
+• Participated in constructing automated unit testing, performing usability testing on UI, ad hoc testing based
+on test and fault models
+• Integrated Support Library to make the app compatible from API 1.6 up to 4.0.4
+• Integrated with web service and mobile device to share information with each other
+• Integrated with different Android versions
+• Debugged and tested the application on different android devices.
+
+Environment:  Android  SDK,  Android  DDMS,  adb  command,  Eclipse,  Java,  C#,  web  service,  HTML,  XML,
+Windows and MS SQL server.
+
+Android Developer
+- February 2010 to May 2011
+
+Project Description: This application is designed to help the managers and administrators in managing the
+various applications within the preview of the group. Customer can search for the availability of rooms based
+on cost, type, place and date through the app. If available, user can make the reservation by registering to
+
+the site and by giving all the payment details. Once the Payment is approved, confirmation will be sent. The
+customer can check the status of the reservation or cancel the reservation using the app.
+
+Responsibilities:
+• Implemented complex custom layout design for the application.
+• Responsible for integrating Lessons from the Internal Server and made application flexible to update changes
+at any point of time.
+• Implemented application to handle orientations and support different screen sizes.
+• Developed WebPages using XML, 9-patch and integrated them in application.
+• Handled restful web services consumption for fetching content from the Internal Webserver
+• Integrated Facebook feature for easy sign on.
+• Integrated Google Map-kit for enabling the locations.
+• Used subversion as version control.
+• Used JUnit for Tesing the App.
+• Struts Architecture implementation using Java Beans and Servlets in conjunction with JSP and XHTML to
+develop user Interface for administrative and user interaction screens.
+• Client-side validations were done using JavaScript.
+• Built and accessed the database using Hibernate with Oracle 10g.
+• Developed JavaBeans with Hibernate for necessary transactions like fetching the required data, updating
+the customer information.
+• Used HQL and Criteria API for database related functions.
+• Used JavaScript and Dojo for creating interactive user interfaces.
+
+Environment: Android 2.0/2, Eclipse 3.6, ADT Plug-in, SQLite, XML, Java, Google-Map kit, Subversion, JUnit.
+
+Java / Android Developer
+Claims Management - December 2008 to January 2010
+
+Project  Description:  Cuna  mutual  group  in  WI,  offering  full  range  of  insurance  products  and  financial
+services  for  family  and  financial  security.  Having  many  java  based  applications,  involved  currently  in  ZAP
+(Zonal Administration and Profile), and Claims Management, a purely android based application. Involved in
+Maintaining, support for the applications.
+
+Responsibilities:
+• Involved in requirement gathering, UI design and development
+• Integrated location based services using Google Maps API to display locations of the nearest hospital or
+urgent health care provider
+• Handling XML data using efficient parsing techniques such as DOM parser
+Used SQLite to save user healthcare preferences, insurance information and optional medication history to
+refine the search.
+• Used a two Step Authentication process to the application.
+• Integrated the app with maps for locating nearest pharmacies.
+• Used Location Services like GPS to find user zip code for better search result.
+• Creating and implementing classes for the interactions with the SQLite database.
+• Creating and implementing custom views and adapters for the need of the different application features.
+• Applied Style/Theme for good better UI.
+• Optimized and did the QA of the application before and after deployment.
+• Day to day communication with client and rest of the team.
+• Implemented the search feature based on location and first three numbers on the users insurance ID card.
+
+• Used Android features such as, LoaderManager, Content Provider, Resolver, Observer, Default Receiver,
+Broadcast Receiver, Android Service, Handler, AsyncTask
+• Used Android content providers for implementing features like sending E-mails, SMS, etc. from the app and
+designed GUIs for these applications
+• Worked closely with the testing team
+
+Environment: J2EE 5, Java 1.6, JSP 2.0, Servlets 2.5, EJB 3.0, JDBC 2.0, WebLogic Server, Eclipse 3.6,
+Hibernate 3.0
+
+Java Developer
+- April 2007 to November 2008
+
+Project Description: The Apollo Path Links system is a patient-centered, process-oriented, Web-host or self-
+host information system that allows you to streamline your business processes by choosing from integrated
+modules that facilitate clinical, financial, and enterprise management. You can start with a few applications
+and add others as required, or implement the entire system for a total solution.
+
+Responsibilities:
+• Analyzed Object Oriented Design and presented with UML Sequence, Class Diagrams.
+•  Developed  Admission  &  Census  module,  which  monitors  a  wide  range  of  detailed  information  for  each
+resident upon pre-admission or admission to your facility.
+• Developed Care Plans module, which provides a comprehensive library of problems, goals and approaches.
+You have the option of tailoring (adding, deleting, or editing problems, goals and approaches) these libraries
+and the disciplines you will use for your care plans.
+•  Developed  General  Ledger  module,  which  streamlines  analysis,  reporting  and  recording  of  accounting
+information.  General  Ledger  automatically  integrates  with  a  powerful  spreadsheet  solution  for  budgeting,
+comparative analysis and tracking facility information for flexible reporting.
+• Developed UI using HTML, JavaScript, and JSP, and developed Business Logic and Interfacing components
+using Business Objects, XML, and JDBC.
+• Designed user-interface and checking validations using JavaScript.
+• Managed connectivity using JDBC for querying/inserting & data management including triggers and stored
+procedures.
+• Developed components using Java multithreading concept.
+• Developed various EJBs (session and entity beans) for handling business logic and data manipulations from
+database.
+• Involved in design of JSP's and Servlets for navigation among the modules.
+• Designed cascading style sheets and XSLT and XML part of Order entry
+• Module & Product Search Module and did client side validations with java script.
+• Hosted the application on WebSphere.
+
+Environment: J2EE, Java/JDK, JMS, PL/SQL, JDBC, JSP, Servlets, JavaScript, EJB, JNDI, JavaBeans, XML,
+XSLT, MySql, RAD, HTML/ DHTML, UML, JavaScript.
+
+Java Developer
+- October 2006 to March 2007
+
+Description: HTC Global Services Inc., is an IT solutions provider, focusing on providing business value to our
+clients through Information Technology (IT) and Business Process Outsourcing (BPO) services and solutions.
+
+Responsibilities:
+
+• Worked on coding in java, jsp, JavaScript for coding in Leave Management System, Productivity Tracking
+System, Employee Information System and Resource Allocation System
+• Worked on database design, handling queries and stored procedures.
+• Worked on system design and analysis, made use cases for design and class diagrams using Rational Rose.
+•  Involved  in  screen  designs,  SRS  (Software  Requirement  Specification)  and  documentation  of  screens.
+Handled the testing of our parts through SQA tool for bug rectifications.
+• Analysis & design of GUI framework classes using Java, Swing, XML, XSL.
+• Designed and Implemented the J2EE Based Struts Framework.
+• Designed and developed prototypes for multiple modules using Struts framework.
+• Designed the web application using Struts, EJB and JSP.
+• Designed and implemented a generic parser framework using SAX/DOM parser to parse XML messages of
+vendor account from Legacy system.
+• Worked with JSP, JavaScript, XML
+• Developed style sheet to map data from XML to HTML output.
+• Used JDBC for Oracle Database connectivity.
+• Extensively used UMLto model the business rules from the legacy system
+<sk>
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Operating System Windows 7, Vista XP, Mac OSX, Android
+Languages JAVA, C, XML, HTML5, Python, JSON
+Development Tools Eclipse Ganymede Kepler, Netbeans 5.x, Github
+Databases SQL, SQLite
+Frameworks Struts1.1 2.0, Hibernate3.0 Spring2.0x
+Design Tools Dreamweaver, Illustrator, Photoshop, Flash
+Webservers Tomcat 6.0, Apache HTTP Server, IIS Webserver
+
+

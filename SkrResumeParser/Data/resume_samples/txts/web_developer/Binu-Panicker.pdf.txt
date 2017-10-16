@@ -1,0 +1,70 @@
+<ba>
+Binu Panicker
+
+Frontend Web Developer
+
+Sienna Plantation, TX - Email me on Indeed: indeed.com/r/Binu-Panicker/502eae70dc3cbcaf
+
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Your Property Manager  -  Houston, TX - August 2016 to Present
+
+Real  Estate  application  integreted  with  Zillow  API  and  MLS  search.  Engineered  innovative  micro-location
+marketing ioT prototype using the Tessel 2 - iBeacon for real estate. Created responsive design for company
+client-side dashboard for property management using best practices. Technologies used to build: HTML5,
+CSS, Javascript, ReactJs, Nodejs, Hapi and Webpack.
+
+Web Developer
+Nava Landscaping  -  Houston, TX - May 2016 to July 2016
+
+Application using the Rachio API for landscaping company. Designed solution for landscape management
+application  to  assist  in  real-time  monitoring  of  client’s  irrigation  systems.  Designed  solution  for  fast-paced
+enviornment,  boosted  efficiency  and  tested  real-time  adjustments  during  changing  weather  conditions.
+Technologies used to build: HTML, CSS, Javascript, Expressjs, Gulp, Sass and Babel.
+
+Web Developer
+Fast Fuel  -  Houston, TX - February 2016 to April 2016
+
+Engineered an on-demand fuel delivery and fleet management application. Designed application architecture
+using oAuth2 and the Dash Chassis API to show user data on dashboard. Branded FastFuel-ODB2 Bluetooth
+device to connect with application for scheduling of fuel delivery and introduced additional revenue streams
+for company. Technologies used to build: HTML, CSS, Javascript, ExpressJs, NodeJs, and Jade.
+</we>
+<ed>
+EDUCATION
+
+Udacity Nanodegree in Front-End Web Developer
+Udacity  -  San Francisco, CA
+2015 to 2015
+
+Bachelor's Science in Business Administration/Molecular Biology
+Houston Baptist University  -  Houston, TX
+2000 to 2004
+</ed>
+<sk>
+SKILLS
+
+Html5, Javascript, CSS3, User Interface Design
+</sk>
+<ba>
+LINKS
+
+https://behance.net/bpanicker13
+
+https://binupanicker.com
+
+https://github.com/bpanicker13
+</ba>
+<ex>
+GROUPS
+
+NodeJS Houston
+June 2015 to Present
+Everything Node.js and Javascript.
+</ex>
+

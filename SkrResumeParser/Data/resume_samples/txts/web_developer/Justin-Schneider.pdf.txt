@@ -1,0 +1,60 @@
+<ba>
+Justin Schneider
+
+Web Developer - andCulture
+
+Camp Hill, PA - Email me on Indeed: indeed.com/r/Justin-Schneider/6be9cfdbed31877b
+</ba>
+<su>
+Multi-faceted developer with experience in front-end, middleware, and back-end development
+using a wide range of technologies. Strong supporting and interpersonal skills.
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+andCulture  -  Harrisburg, PA - April 2013 to September 2014
+
+Programmer
+Computer Aid, Inc  -  Harrisburg, PA - January 2013 to March 2013
+
+Web Developer
+Pavone Advertising  -  Harrisburg, PA - January 2012 to January 2013
+
+Student Worker - Virtual Campus
+Harrisburg Area Community College  -  Harrisburg, PA - June 2011 to December 2011
+
+Infantry Rifleman / Team Leader
+PA Army National Guard  -  Fort Indiantown Gap, PA - January 2005 to January 2011
+</we>
+<ed>
+EDUCATION
+
+Associate in Web Development
+Harrisburg Area Community College  -  Harrisburg, PA
+December 2011
+</ed>
+<sk>
+SKILLS
+
+HTML5, CSS3, SASS, LESS, Javascript, JQuery, PHP, MySQL, WordPress, Mobile / Responsive
+Frameworks, Git, Linux, Apache, C#, VB.NET, REST, SOAP, Ruby on Rails, Object Oriented Programming,
+oAuth, iOS and Android app development, Unity3D, Xamarin
+</sk>
+<ex>
+MILITARY SERVICE
+
+Service Country: US
+Branch: Army National Guard
+Rank: E4
+January 2005 to January 2011
+Infantry Rifleman / Team Leader
+
+Commendations:
+ARCOM, Meritorious Service, Honorable Discharge
+</ex>
+ADDITIONAL INFORMATION
+<ba>
+Portfolio and work examples at www.justinschneider.com
+</ba>
+

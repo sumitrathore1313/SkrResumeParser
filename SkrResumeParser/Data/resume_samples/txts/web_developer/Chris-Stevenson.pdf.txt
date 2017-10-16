@@ -1,0 +1,117 @@
+<ba>
+Chris Stevenson
+
+Web Developer
+
+Seattle, WA - Email me on Indeed: indeed.com/r/Chris-Stevenson/84f369e12ceb2ae3
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+ESPN Digital Media  -  Seattle, WA - 2008 to 2013
+
+Customer Experience
+Web Development in Commerce, Digital Marketing, ESPN Insider, ESPN Fantasy Games and ESPN Mobile.
+• Lead Developer ESPN Commerce system
+* Migration of 500k+ customers to new platform while maintaining active subscriptions.
+* Development of new commerce workflow integrated with espn.com login credentials.
+* Extended workflow to include purchases on mobile devices.
+•  Developed  and  supported  a  variety  of  successful  multi-channel  marketing  campaigns,  sweepstakes  and
+promotions in support of digital subscription acquisition.
+• Built a self-service email publishing system for producers allowing for daily email deployment.
+• Lead Developer for the ESPYS website
+• Extended online voting to mobile and social media platforms.
+• Integrated live video stream of red carpet coverage.
+• Lead Developer for College GameDay Basketball and Football
+• Created an area for user-generated content from fans.
+
+Technical Consultant/Analyst
+Home Box Office (HBO)  -  New York, NY - 2006 to 2008
+
+Provided technical expertise for the newly formed AOL/HBO comedy website venture.
+• Designed and created content publishing workflow for video and interactive assets. Established an Asset
+Management System for both content creation and archiving.
+• Developed code creation tools for deploying video and interactive content on the venture's frequently updated
+site.
+
+Technical management of HBO's Bill Maher show exclusive web segment titled "OverTime".
+•  Technical  production  for  the  Bill  Maher  live  video  stream  that  aired  exclusively  online  after  the  linear
+broadcast.
+
+Senior Technical Producer
+Home Box Office (HBO)  -  New York, NY - 2000 to 2006
+
+Managed Web-based applications for HBO.com. Developed and maintained Content Management solutions
+in support of HBO's business development and new media platforms.
+• Created and maintained websites in support of original programming for Home Box Office.
+•  Programmed  a  data-driven  screensaver  application  the  uses  Actionscript,  XML  integration  and  Flash's
+Shared Object. Over 500k+ individual downloads.
+• Supported and advised on various marketing campaigns and procedures that resulted in over 1.5+ million
+unique subscriber acquisitions.
+• Served as technical producer for the HBO Band of Brother's website.
+
+Content Engineer
+
+News Digital Media (NewsCorp)  -  New York, NY - 1999 to 2000
+
+Performed  advanced  applications  programming  using  Vignette  Story  Server  with  database  interaction  to
+harvest news wire stories from various feeds including the Associated Press, Reuters and Weather data.
+• Conceived and designed overall data and meta-data schema for both textual news wire stories and their
+accompanying photo assets.
+•  Streamlined  process  in  which  web  content  editors  create,  enhance,  deploy,  archive  and  associate  news
+stories.
+
+Non-Commissioned officer
+United States Marine Corps - 1990 to 1994
+
+Decorations include Combat Action Ribbon, Kuwait Liberation Medal, Good Conduct Medal.
+</we>
+<ed>
+EDUCATION
+
+Geography/Computer Cartography
+Hunter College, City University Of New York  -  New York, NY
+1994 to 1996
+</ed>
+<sk>
+SKILLS
+
+Web Development, User Experience, Content Management, Subscriber Acquisition, Digital Marketing,
+Social Media, Ecommerce, Web Analytics
+</sk>
+<ba>
+LINKS
+
+http://linkd.in/12dqUc7
+</ba>
+<ex>
+MILITARY SERVICE
+
+Service Country: US
+Branch: United States Marine Corps
+Rank: Corporal E-4
+April 1990 to April 1994
+Mortar Platoon, Weapons Company, Marine Corps Infantry
+As a forward observer, provided indirect fire support in support of rifle platoons, companies and battalions.
+
+Commendations:
+Decorations include Combat Action Ribbon, Kuwait Liberation Medal, Good Conduct Medal.
+
+ADDITIONAL INFORMATION
+
+Digital Media Professional with extensive Web Development experience in the areas of Content Management,
+Content Development, and Multiplatform Deployment. Expertise in implementing digital solutions that elevate
+brand image, highlight content and maximize revenues. Characterized throughout employment as a dedicated
+team  member  with  versatility  to  resolve  multifaceted  issues,  possessing  the  ability  to  apply  complex
+technologies that translate business needs into practical applications. 
+</ex>
+<sk>
+Technical Skills
+
+Languages: HTML, PHP, CSS, Javascript, JQuery, AJAX, XML, JSON
+Production Tools: Adobe Creative Suite, Vingette, Interwoven TeamSite, Wordpress, Content Editor, Coda
+2, TextPad
+Project Tools: MS Office Suite, Atlassian JIRA, Adobe SiteCatalyst, Perforce, Google Analytics
+</k>
+

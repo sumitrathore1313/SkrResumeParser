@@ -1,0 +1,71 @@
+<ba>
+Scott Archer
+
+Ashburn, VA - Email me on Indeed: indeed.com/r/Scott-Archer/f84c7b5f9018a1a7
+</ba>
+<su>
+A web developer who makes use of standard web technologies to build complex, scalable web applications
+and hybrid mobile applications. Has worked on projects both as an individual and as a team member, aiming
+to generate various solutions in the modern web and mobile space. While having a strong core in fundamental
+web programming languages and utilities, strives to understand more frameworks and tools in order to expand
+the possibilities of a given project. Takes charge to understand the full stack of technology used in a given
+development environment.
+Authorized to work in the US for any employer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Longview International Technology Solutions, Inc  -  Reston, VA - July 2014 to Present
+●  Provides  support  to  Scrum  team  as  a  web  and  mobile  application  developer  utilizing  front-end  web
+technologies  and  utilities,  primarily  including:  JavaScript/jQuery,  Backbone.js,  Marionette.js,  Require.js,
+HTML5, CSS3 (SASS/SCSS).
+● Builds and structures public-facing, 508 compliant applications for both desktop (web) and mobile devices.
+Accomplished using an MVC pattern to structure and create front-end app functionality that communicates
+with a RESTful backend, by implementing features of the UI according to wireframe specifications, making
+design choices, implementing responsive features, creating functionality to collect, manipulate, and display
+data, utilizing Apache Tomcat server, MySQL, Node.js, MongoDB, and using utilities such as Git, Bower, Grunt,
+Gradle, and npm to handle build and workflow processes.
+●  Works  with  a  team  of  developers  along  with  a  Product  Owner  and  Scrum  Master  in  a  strictly  Agile
+environment. Accomplished by interacting with the team on a constant basis in a collaborative environment,
+leveraging JIRA to manage and organize sprints, and conducting demos to the client.
+● Member of company DevOps team, acting to configure and maintain a program-wide Continuous Integration
+pipeline for all teams.
+
+Web Developer
+Independent Work  -  Ashburn, VA - March 2014 to Present
+●  Worked  independently  as  a  learning  developer  to  complete  portfolio  projects  utilizing  common  web
+technologies such as JavaScript/jQuery, HTML5, CSS3.
+● Built a portfolio website utilizing common web technologies to serve as a hub for links to other work, share
+personal details pertaining to web development, and to share points of contact.
+● Built a single-page design website utilizing common web technologies and responsive web design.
+●  Created  a  PhoneGap  hybrid  application,  originally  utilizing  common  web  technologies,  jQuery  Mobile,
+and PhoneGap, but has since been totally rebuilt as a Backbone.Marionette single page application utilizing
+PhoneGap, Browserify for modularization, SCSS, and Watchify for the build process.
+● Currently collaborating with other individuals and also as a member of the NOVA MEAN organization to
+leverage the MEAN stack (MongoDB, Express, AngularJS, Node.js) in order to create robust web and hybrid
+mobile applications.
+</we>
+<ed>
+EDUCATION
+
+BA in Philosophy
+
+George Mason University
+<sk>
+SKILLS
+
+HTML5, CSS3, JavaScript, jQuery, jQuery Mobile, Cordova, PhoneGap, Responsive Design, MV*,
+Backbone.js, Marionette.js, AngularJS, Node.js, Express, MongoDB, SASS, Unix, Continuous Integration,
+Require.js, Browserify, Bower, npm, Git, Gradle, Grunt, Gulp, Java, Agile, Scrum.
+</sk>
+<ba>
+LINKS
+
+http://sjarcher.com
+
+https://github.com/Scott41
+
+</ba>
+
+

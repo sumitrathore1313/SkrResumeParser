@@ -1,0 +1,60 @@
+<ba>
+Aarthi Arun
+
+Android Developer
+
+Vernon Hills, IL - Email me on Indeed: indeed.com/r/Aarthi-Arun/ff76a5ec0764f4a6
+<su>
+Recent college graduate with an aim to obtain a position in a challenging environment that utilizes team work
+and effort to research, learn and develop new high-tech products.
+Authorized to work in the US for any employer
+<we>
+WORK EXPERIENCE
+
+Android Developer
+Tensor Infotech  -  Chennai, Tamil Nadu - November 2015 to April 2016
+
+- Chennai, India
+• Developed an android app to book hotel rooms within a certain radius.
+• Learnt to link apps with google maps using API key.
+• Worked with Android studio (V2.0.1), PHP and SQLite.
+• Project was developed from scratch including basic system architecture, database designs and User Interface
+
+Internship
+VLSA Global Services  -  Chennai, Tamil Nadu - April 2015 to May 2015
+
+- Chennai, India
+• Learnt about Java technology using Netbeans (V8.0.1) and Mysql (Sql yog V12.0.2).
+• Trained in linking databases and retrieving records using SQL querying.
+<ed>
+EDUCATION
+
+Loyola College Of Arts and Science  -  Chennai, Tamil Nadu
+2016
+
+Master's in Computer Science
+Kumararani Meena Muthiah College Of Arts and Science  -  Chennai, Tamil Nadu
+2014
+
+Bachelor's in Computer Science
+Vanavani Matriculation Higher Secondary School  -  Chennai, Tamil Nadu
+2010
+<sk>
+SKILLS
+
+Android (1 year), SQL (2 years), HTML (Less than 1 year), Java (2 years)
+
+ADDITIONAL INFORMATION
+
+Skills
+
+• Good in Java, HTML, C++ and Python.
+• Proficient in Oracle, SQL/MYSQL, PHP and Android studio
+• Can work with Netbeans.
+
+• Excellent interpersonal skills.
+• Analytical thinker and quick learner.
+• Capable of organizing, managing and Working with teams efficiently.
+• Always prepared to try something new.
+
+

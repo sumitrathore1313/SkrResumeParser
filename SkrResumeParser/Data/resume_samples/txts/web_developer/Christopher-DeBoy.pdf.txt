@@ -1,0 +1,49 @@
+<ba>
+Christopher DeBoy
+
+Web Developer - TimeDoctor.org
+
+- Email me on Indeed: indeed.com/r/Christopher-DeBoy/794d4e1be0e1c698
+</ba>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+TimeDoctor.org - 2013 to Present
+
+Winters Mill High School
+Math, Science, and Technology, Class of 2009
+</we>
+<ed>
+EDUCATION
+
+Associates in Simulation and Digital Entertainment
+Carroll Community College
+2012
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+Skills
+Created a new Wordpress theme for the ioquake3
+website from scratch Programming
+C++, Python, Lua, Flash/ActionScript 3,
+Canvas/JavaScript
+
+Contact Hardware
+Here's how to get ahold of me. Certified in Computer Repair.
+
+Phone Web Development
+[…] HTML(5), JavaScript, CSS(3), Wordpress theme
+development
+Email
+cdeboy@frenchfriesandapplesauce.com Linux
+Ubuntu, POSIX CLI Usage, SSH, GIT, FTP
+
+3D Modeling and Animation
+Blender3D - modeling, 3DS Max - modeling & animation
+
+Graphic Design
+Raster - The Gimp & Photoshop, Vector - Inkscape & Illustrator
+</sk>
+

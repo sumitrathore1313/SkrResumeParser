@@ -1,0 +1,179 @@
+<ba>
+Prakash Uppu
+
+Sr. UI Developer - Lucidus Solutions - MD
+
+Falls Church, VA - Email me on Indeed: indeed.com/r/Prakash-Uppu/3704cbb6bbeea9b1
+</ba>
+
+<we>
+WORK EXPERIENCE
+
+Sr. UI Developer
+Lucidus Solutions - MD - October 2015 to Present
+
+RESPONSIBILITIES:
+➢  Worked  on  front  end  pages  that  were  developed  in  a  professional  manner  using  HTML5,  CSS/CSS3,
+JAVASCRIPT, ANGULAR, JQUERY, BOOTSTRAP, NODE.JS.
+➢  Core  technology  stack  used  in  projects  are:  HTML5,  CSS/CSS3,  JAVASCRIPT,  ANGULAR,  JQUERY,
+BOOTSTRAP, NODE.JS, BACKBONE.JS, REACT.JS, BOWER, JASMINE.
+➢ Created wireframes, storyboards, user flows, and documentation and site maps to effectively communicate
+design ideas. Uses multiple UI UX tools and software to complete tasks.
+➢ Applied visual effects, event handling, and document manipulation using the Angular.js
+library.
+➢ Used AngularJS to create maintainable and testable single page application and Implemented 2-way data
+binding and used ng-filters across the applications.
+➢ Developing custom HTML elements using angular Js directives.
+➢ Developed controllers, view/partials and directives for application.
+➢ Widely resolved angular scope issues.
+➢ Developed Angular factories, and used angular promise API for making asynchronies calls
+➢ Used AngularJS to implement rich functionality in various pages: form validation, CRUD grid, search, sort,
+pagination, multi-selection, tags-input, advanced directives, unit tests authentication, server-side proxy, unit
+tests, cloud integration, slide pages, users switch etc.
+➢ Used GitHub as the distribution version control system.
+➢ Used Bugzilla as the bug tracking system to track and maintain the history of bugs/issues on everyday basis
+➢ Developed and implemented user interfaces as per latest W3C standards.
+➢ Developed client side validation code using JavaScript and JQUERY.
+➢ Creating cross-browser compatible and standards-compliant CSS-based page layouts.
+➢ Involved in fixing Front-End issues with the layouts.
+➢ Actively used XML (documents and transformations) for creating templates with dynamic data from XML file.
+➢ Extensively used/modified JQUERY to perform AJAX calls for creating interactive web pages on JSON
+response.
+➢ Worked with backend developers to convert HTML/CSS non-functional pages into dynamic JSP pages.
+➢ Developed cross-browser pages using CSS, HTML, DHTML, and JavaScript
+➢ Co-ordinate with QA for testing, Production releases, Application deployment and integration.
+➢ Designed applications that execute on various browsers such as Internet Explorer, Mozilla Firefox, Google
+Chrome, and Opera using various debugging tools like Firebugs/IE Developer Tools.
+
+Environment: HTML 4/5, CSS2/3, JavaScript, JQUERY, AJAX, JSON, XML, JSP, Eclipse, Window XP, Angular
+UI, bootstrap, AngularJS, node.js, Express.js, bower, J2EE, Mongo DB.
+
+Sr. UI Developer
+Parexel Waltham MD - January 2015 to September 2015
+
+Responsibilities:
+➢  Development  the  whole  application  module  using  front-end  frame  works  such  as  JavaScript,  jQuery,
+AngularJS, React.JS.
+➢  Experience  in  AngularJS  directives  that  allow  the  developer  to  specify  custom  and  reusable  HTML-
+like  elements,  attributes  that  define  data  bindings,  the  behavior  of  presentation  components  and  DOM
+manipulation.
+➢ Used AngularJS framework where data from backend is stored in model and populated it into UI.
+
+➢ Designed web pages and used applications that meet business and user goals through a positive user
+experience.
+➢ Used jQuery plugins for Drag-and-Drop, Widgets, Menus, User Interface and Forms.
+➢ Handled Payments and transactions, Credit Card/Bank Account Validations on the Client side.
+➢ Designed the Web application layout and forms using HTML, CSS, and JavaScript.
+➢  Handled  all  the  client  side  validations,  slide  show,  hide  and  show  controls,  dropdown  menus  and  tab
+navigation using JQUERY.
+➢ Responsible for transforming design mock-ups to W3C standards compliant HTML pages using HTML,
+XHTML, CSS.
+➢ Wrote code to fetch data from Web services using JQUERY AJAX via JSON response and updating the
+HTML pages.
+➢ Extensively used HTML5 for audio and video playback.
+➢ Used Mongo DB along with Node.js, as a database to store JSON.
+➢ Used JavaScript libraries to create slider and page-turning animations on calendar widgets.
+➢ Used JQuery for creating various widgets, data manipulation, data traversing, form validations, create the
+content on the fly depend on the user request, implementing Ajax features for the application.
+➢ Involved in Writing jQuery based Ajax Requests using jQuery. Get (URL, data, callback, type) or jQuery,
+Ajax (options) and jQuery. Post (URL, data, callback, type)
+➢ Responsible for creating the screens with table less design following W3C standards.
+➢ Involved debugging and solving cross-browser compatibility problems.
+
+Environment: HTML, XHTML, CSS, JavaScript, JQUERY, AJAX, XML, JSON, and Eclipse, MySQL, Window
+XP, Angular UI, bootstrap, AngularJS, node.js, Backbone.js, bower, J2EE, JSON, Mongo DB.
+
+Sr. UI Developer
+Kapardhi Soft Tech PVT LTD - February 2013 to September 2014
+
+Responsibilities:
+➢ Designed and Developed User Interactive (UI) of Web pages with the help of HTML, CSS3, CSS, JavaScript,
+AngularJs, JQuery, LESS, Bootstrap and AJAX.
+➢ Used Backbone.js, JQuery.js and Underscore.js scripts to make UI more attractive.
+➢ Used Web Services like REST and SOAP for transmission of large blocks of XML data over HTTP.
+➢ Developed certain features of the application functionality i.e. CRUD (Create, read, update, delete) features
+using Backbone.js, Require.js and Responsive Web Design.
+➢ Worked on Google map functionality using Angular.js and JQuery UI.
+➢ Worked with business analysts to understand their business models and goals and help define strategy,
+content, and features.
+➢ Involved in extensive HTML coding.
+➢ Interacted with clients to understand their existing applications and design the site according to their system
+requirements.
+➢ Developing responsive web pages for all resolution devices.
+➢ Developed ecommerce shopping cart and checkout functionality that requires complex rules and logic and
+integration with backend systems.
+➢ Developed data insertion forms and validated them using JavaScript.
+➢ Participated in day-to-day meeting, status meeting, strong reporting and effective communication with project
+manager and developers.
+➢ Participated in bug thrashing sessions to discuss and resolve bugs with developers
+➢ Preparing the documentation for the entire process for the future reference.
+➢ Designed graphics, buttons, logos and flash animation for the website. Used Ajax, JSON with jQuery for
+request data and response processing.
+
+Environment: HTML, CSS, JavaScript, MySQL and Window XP, Angular UI, jQuery, bootstrap, AJAX, JSON,
+AngularJS, node.js, Backbone.js, bower, J2EE, JSON, Mongo DB.
+
+UI Developer
+Kush Info Systems Pvt. Ltd  -  Hyderabad, Andhra Pradesh - September 2011 to December 2012
+
+RESPONSIBILITIES:
+➢ Responsible for Design and development of Web pages using HTML, CSS, JAVASCRIPT, JQUERY, AJAX,
+JSON, Angular Js.
+➢ Used Angular UI to develop the page level components and customized (Angular directives, filters, routing
+concepts, services& factories) the out of box directives for additional functionalities
+➢ Used jQuery Events to manipulate the elements depends on the user interactions (like. Ready (), hover (),
+bind (), click (), key press () .)
+➢ Used JQuery Plugins validation, drag and drop and more exceptionally.
+➢ Implemented AJAX to speed up web application.
+➢ Used jQuery extensively for event handling, DOM manipulation and cross-browser compatibility.
+➢  Developed  mobile  cross-browser  web  application  for  real-time  location  sharing  utilizing  AngularJS,
+JavaScript API.
+➢ Developed Date Time Picker using Object Oriented JavaScript extensively.
+➢ Used AJAX module to handle RESTful calls to enable communication between view
+components and servers.
+
+ENVIRONMENT: HTML, CSS, JavaScript, MySQL and Window XP, Angular UI, jQuery, bootstrap, AJAX,
+JSON, AngularJS, node.js, Backbone.js, bower, J2EE, JSON, Mongo DB.
+
+Web/UI Developer
+Sigma Hospitals - November 2009 to June 2011
+
+RESPONSIBILITIES:
+➢ Created and optimized graphic prototype websites and applications interfaces using HTML and CSS.
+➢ Developed web pages using HTML, JavaScript, DOM, JSON, JQuery and AJAX.
+➢ Developed Single page application.
+➢ Involved in the implementation of open- source web application frameworks like
+Bootstrap, JavaScript, JQuery.
+➢ Developed page layouts, navigation and presented designs and concepts to the clients and the management
+to review.
+➢ Developed Object Oriented JavaScript code and responsible for client side validations using JQuery.
+➢ Created responsive web design using boot strap.
+➢ Managed code with unit tests and GitHub.
+➢ Working knowledge on Table less and Table Based HTML coding.
+➢  Ability  to  work  in  groups  as  well  as  independently  with  minimal  supervision.  Responsible  for  modifying
+applications according to the Client's requirement.
+➢ Fixed Bugs and problems in web sites for design, CSS, HTML
+
+Environment:  HTML,  CSS,  JavaScript,  MySQL  and  Window  XP,  jQuery,  bootstrap,  AJAX,  JSON,  node.js,
+Backbone.js, bower, Web Services, WebLogic 10.x.
+</we>
+<ed>
+EDUCATION
+
+Bachelor
+
+JNTU  -  Hyderabad, Andhra Pradesh
+</ed>
+<sk>
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+Web technologies HTML5, CSS, JQuery, Json, XML, Angular JS, NodeJS, Express Js. Bootstrap, JavaScript.
+Operating systems Windows (vista/9x) Mac OS x, Unix. Linux: Red hat EL v 4.x,
+Web Editors Dreamweaver, Notepad++, NetBeans, Visual studio, Sublime Text Editor, Eclipse, Brackets.
+Methodologies Agile, Scrum, UML, Design Patterns.
+Browsers IE6, 7 & 8, Firefox, Opera, Chrome 4, Safari 5.
+Graphic Tools Adobe Photoshop.
+Debugging Tools Firebug, Chrome Developer Tools, IE Developer Tools.
+</sk>
+

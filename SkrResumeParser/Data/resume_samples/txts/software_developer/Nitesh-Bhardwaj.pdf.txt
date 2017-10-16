@@ -1,0 +1,58 @@
+Nitesh Bhardwaj
+
+Delhi, Delhi - Email me on Indeed: indeed.com/r/Nitesh-Bhardwaj/d0430a8d86d12ccc
+
+Willing to relocate to: Noida, Uttar Pradesh - Gurgaon, Haryana - Delhi, Delhi
+
+WORK EXPERIENCE
+
+Software Engineer (Developer)
+CLICKTABLE TECHNOLOGIES  -  Noida, Uttar Pradesh - February 2017 to July 2017
+
+- Build RESTful API using Node.js and Express
+- Translating designs and wireframes into high quality code
+
+Web Developer
+Kormoan Design Services  -  Delhi, Delhi - October 2014 to December 2016
+
+- Developing and maintaining the front end and server side functionality of websites.
+- Optimizing web assets for optimal speed and performance
+
+LIVE Projects
+M.CLICKTALE.COM ( Progressive Web App)
+OSMO.IN
+PROFESSIONAL24X7.COM
+PRINGLE.IN
+LINOLINENS.COM
+KORMOANENERGY.COM
+BLUEMOUNTRO.COM
+KORMOAN.IN
+
+EDUCATION
+
+MCA
+IGNOU  -  Delhi, Delhi
+June 2012 to June 2015
+
+BCA
+IGNOU  -  Delhi, Delhi
+June 2009 to June 2012
+
+SKILLS
+
+Node.js (2 years), Mongodb (2 years), Mongoose (1 year), React.js (2 years), Javascript (3 years), Jquery (3
+years), Css (3 years), Sass, Less (2 years), Polymer 1.0 (1 year), Redux (1 year), Html5 (3 years)
+
+ADDITIONAL INFORMATION
+
+- Thorough understanding of React.js and its core principles
+- Experience with Server side implementation of javascript-Node.js
+- Experience with NoSql database MongoDB
+
+- Familiarity with newer specifications of EcmaScript
+- Familiarity with RESTful APIs
+- Knowledge of modern authorization mechanisms, such as JSON Web Token
+- Familiarity with modern front-end build pipelines and tools
+- Experience with common front-end development tools such as Webpack, Gulp, NPM, etc
+
+

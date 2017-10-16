@@ -1,0 +1,83 @@
+S. Bhuvana
+
+Assistant Professor - Sriram Engineering College
+
+Chennai, Tamil Nadu - Email me on Indeed: indeed.com/r/S-Bhuvana/08ef571f93e34de0
+
+To achieve a responsible position, that gives me scope to apply my knowledge and skills in the advanced
+technologies and be part of a team that dynamically works towards success and growth of the organization.
+
+WORK EXPERIENCE
+
+Assistant Professor
+Sriram Engineering College  -  Chennai, Tamil Nadu - October 2013 to Present
+
+for 31/2 years.
+
+• Worked in "Alpha College of Engineering" as a Lecturer for 1 sem
+
+• Worked in "Sri Balaji Chockalingam Engineering College" as a Lecturer for 21/2 years.
+
+• Worked in "Adhiparasakthi College of Engineering" as a Lecturer for 1 sem.
+
+• Worked in "Spider Logix Pvt Ltd-Chennai" as a Programmer & Tester for 1 year.
+
+Event Coordinator
+Merrit track association  -  Chennai, Tamil Nadu - June 2005 to June 2006
+
+Worked as event coordinator in "Merrit track association"
+
+EDUCATION
+
+M.Tech in Computer Science
+MGR University
+2006 to 2008
+
+B.E in Computer Science & Engineering
+Madras University  -  Chennai, Tamil Nadu
+2000 to 2004
+
+Hr.Secondary
+1999 to 2000
+
+PERFORMANCE
+
+AWARDS
+
+Obtained Oracle Certification Associate for Oracle
+April 2003
+
+ADDITIONAL INFORMATION
+
+SOFTWARE SKILLS:
+
+Languages C, C++, C#, VB, VB.NET, JAVA, PL/SQL
+Web Technologies Html, ASP, ASP.NET, XML, Vb Script & Java Script
+Office utilities MS-Word, Power Point, Excel, MS-Access
+Databases Oracle 9i
+Operating Systems MS-DOS & Windows 2000/NT, Linux
+Software Testing Manual Testing, Win Runner, Load Runner & Test Director
+
+PROJECT:
+Topic: Implementation of TCP-PR Protocol
+Tools: Java 1.5
+Description: Project is mainly aimed creating a Protocol similar to TCP but has higher
+throughput than TCP.
+OTHER PROJECTS:
+1. Topic: Design of Cross Assembler 8085
+Tools: C Language
+Description:  Running  8085  Assembly  Program  in  any  Pentium  Processor  &  generating  Opcodes  for  8085
+Assembly Program. Pass I & Pass II are modules are
+used to implement this assembler.
+
+2. Topic: Spam Control in Mail Server
+Tools: Client (Windows) ->Vb.Net, Server (Linux) ->Mail Server
+Description: Project is mainly aimed at Controlling SPAM mails & monitoring the
+Mails at the Client side. Controlling the Bulk mails implies to stop the incoming of my
+Untreated mails. SMTP & POP3 Protocol's can do this by using this Junk
+Mails can be controlled in LAN level Mail Server.
+CERTIFIED COURSE:
+• Obtained "ORACLE CORPORATION CERTIFICATE (OCA) " for Oracle.
+• Obtained "SOFTWARE TESTING TOOLS CERTIFICATE" in "Navo InfoTech Pvt Ltd-Chennai"
+
+

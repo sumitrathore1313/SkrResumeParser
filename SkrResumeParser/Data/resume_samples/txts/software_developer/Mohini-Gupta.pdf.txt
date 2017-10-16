@@ -1,0 +1,63 @@
+Mohini Gupta
+
+Software Developer - Evon Technologies
+
+Noida, Uttar Pradesh - Email me on Indeed: indeed.com/r/Mohini-Gupta/64f616de9fd4e284
+
+➢ 6 months industrial training in C-DAC, Noida as a web developer.
+➢ Knowledge of SQL.
+➢ Enhances own knowledge through understanding business trends and objectives.
+➢ Knowledge of Windows operating system.
+➢ Knowledge of Apache Tomcat server, WAMP server.
+➢ Knowledge of Eclipse 5.0, Notepad++ software applications.
+➢ Knowledge of industry and business principles.
+➢ Manages multiple assignments and processes.
+➢ Knowledge of manual testing.
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Software Developer
+Evon Technologies - 2015 to Present
+
+Currently working as a software developer, designing templates as per clients requirements using HTML, CSS,
+Bootstrap and Jquery, Integrating the HTML code into the MVC framework (cakephp) . Also, creating web
+API's for apps and custom admin panels for projects using Cakephp and MySQL.
+
+PHP Developer
+- October 2013 to February 2014
+
+Web Developer
+CDAC  -  Noida, Uttar Pradesh - January 2013 to July 2013
+
+Sapmetrices Consulting Ltd.
+Worked on project using PHP language, handling database using MySQL. Designing templates as per client
+requirements using HTML, CSS and Bootstrap for responsive websites. On time delivery of the project.
+
+Jan 2013 - July 2013
+
+Web Developer
+CDAC - Noida
+During this period, I have worked as a web developer, I have extensively used PHP, CSS, HTML, JavaScript to
+implement new features, customise user interface according to customer needs for online registration module
+in e-PPS. Responsibilities: Customization of user interface according to customer specification. Testing and
+bugs reporting. Responsible for delivery of assigned work, under a module or team lead supervision.
+
+EDUCATION
+
+MCA
+G.B. Pant University of Agriculture and Technology.
+
+BCA
+C.C.S. University  -  Meerut, Uttar Pradesh
+
+SKILLS
+
+API (Less than 1 year), Eclipse (Less than 1 year), Testing (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+➢ Software Applications - Eclipse 5.0, Notepad++, SublimeText
+➢ API Testing Tool - Postman, Swagger
+
+

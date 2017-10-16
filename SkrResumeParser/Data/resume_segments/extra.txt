@@ -1,0 +1,21 @@
+PUBLICATIONS
+Data Sharing: Ensure Accountability Distribution in the Cloud
+http://www.ijert.org/view.php?id=7938&title=data-sharing-ensure-accountability-distribution-in-the-cloud
+February 2014
+Cloud  computing  is  highly  emerging  technology  of  the  21st  century.  Cloud  enables  the  user  to  store  the data also the data can be processed on any of the machine which user does not know. 
+While enjoying the convenience brought by these new technologies of cloud computing, users fear of losing the hold on their data.
+A thorough research is needed for detective controls in the area of accountability and logging, where in some privacy protection techniques concentrate on preventive controls. 
+We proposed a system that sub-urbanized information accountability framework to keep track of user’s data in cloud. 
+We chose object-centered approach to highlight the security purpose by enclosing our logging mechanism together with user’s data along with policies. 
+The proposed system will also take care of the JAR file by converting it into nebulous code which will add the further layer of security to the architecture. 
+We ensure accountability gets distributed and providing more reliable and secure system.
+
+MILITARY SERVICE
+Service Country: US
+Branch: USN
+Rank: E7
+October 1996 to July 2016
+Managed a department of 45 Sailors whose responsibilities were the release of weapon systems. 
+Directly responsible for the operating and maintenance of the Tomahawk Weapon System. 
+While on active duty created a web based collaboration tool used for Tomahawk missile employment that the Navy quickly adapted saving
+millions in development costs. Maintained three different Command websites and social media presence.

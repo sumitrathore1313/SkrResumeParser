@@ -1,0 +1,95 @@
+<ba>
+SAGAR MITRA
+
+Software Engineer at Ika Systems
+
+Boston, MA - Email me on Indeed: indeed.com/r/SAGAR-MITRA/e8cebf2699be198e
+</ba>
+<su>
+Seeking a challenging career as a Web Developer
+</su>
+<we>
+WORK EXPERIENCE
+
+Web Developer
+Frost Miller Group  -  Bethesda, MD - April 2011 to Present
+
+Web development using PHP, HTML, CSS, Javascript, jQuery, Ajax , json
+
+Web design using Photoshop, Adobe fireworks
+
+Experience with Joomla, Drupal and Wordpress
+
+Expertise with responsive web development
+
+Software Engineer
+REI Systems - October 2010 to March 2011
+
+• Worked as software engineer writing code in PHP, Drupal for developing and maintaining federal websites
+such as data.gov which have received several awards.
+• Worked on bug tracking and reporting in JIRA
+• Developed test cases, carried out QA analysis of the websites.
+
+Software Developer
+Hodgson Consulting - June 2010 to September 2010
+
+• Worked as a software developer on certain projects using .NET, VB.NET, C#, PHP, HTML, CSS, Javascript,
+Ektron CMS, SVN, VBScript / classic ASP., MySQL and shopping cart applications like znode multifront.
+•  Handled  development  and  maintenance  of  several  large  scale  web  applications  including  Insurance
+marketing Center (http://www.imctr.com), Clarke College (http://www.clarke.edu/), The Alban Institute (http://
+www.alban.org/) among several others.
+
+Web Developer
+DCS Congressional - June 2009 to June 2010
+
+• Worked on developing / testing / QA for websites for congressional candidates using Drupal CMS, PHP,
+Javascript, CSS, HTML, DHTML, Dreamweaver, Fireworks, Actionscript, Flash, Photoshop, Flash.
+• Developed / tested several websites for major congressional candidates like Nancy Pelosi
+
+4. Software / Web Developer intern -American Technology Services
+
+web developer
+DCS Congressional - June 2009 to December 2009
+
+for  designing  and  maintaining  websites  using  Ektron  CMS  on  the,  .  net  framework(3.5),  for  American
+Technology Services using VB.NET, ASP.NET, SQL Server 2005, 2008, ADO.NET, LINQ, Javascript and C#
+for the ASPET website. (http://www.aspet.org/), PHP, MySQL
+• Worked on classic ASP for online meeting scheduler.
+
+Software Developer
+Geometric Software Solutions  -  Mumbai, Maharashtra - May 2006 to July 2007
+
+• Worked as software developer writing code in ASP. NET C#, Java at Geometric Software solutions, Mumbai,
+India.
+• Helped in website design using Service oriented Architecture (MVC) concepts on the, . NET Framework(2.0
+and 3.5) ASP. NET, C#, VB.NET, SQL Server 2005, 2008, TSQL, ADO.NET, MySQL, PHP, Ajax, Oracle. Also
+helped test and review the website for usability features and designed user interfaces.
+</we>
+<ed>
+EDUCATION
+
+Graduate Certificate in Information Engineering
+George Mason University  -  Fairfax, VA
+December 2009
+
+BS in developing and maintaining websites / software applications
+University of Mumbai  -  Mumbai, Maharashtra
+June 2007
+</ed>
+<sk>
+SKILLS
+
+asp.net, c#, HTML, css, javascript, jquery, ajax, java
+
+ADDITIONAL INFORMATION
+
+Computer Skills:
+• Hardware: PC, Linux (basic), command line functions
+• Operating Systems: Windows […] MS- DOS
+•  Software  Technologies  /  Languages:  HTML,  CSS,  Javascript,  PHP,  .NET  Framework(ASP.NET,  C#,
+VB.NET), Java, XML, AJAX, Java, J2EE, JSP
+• Databases: Oracle 10g, MS Access, MySQL, SQL Server, T-SQL
+•  Software:  Drupal,  Joomla,  Eclipse,  Microsoft  SQL  Server,  Visual  Studio,  Dreamweaver,  Photoshop,
+Illustrator, Putty, SSH, SQL Server […] MySQL, TSQ, Zend Framework, Ektron CMS, Selenium
+</sk>
+

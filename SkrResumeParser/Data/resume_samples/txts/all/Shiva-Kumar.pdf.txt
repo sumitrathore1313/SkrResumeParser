@@ -1,0 +1,225 @@
+<ba>
+Shiva Kumar
+
+Sr Web/UI Developer - World Fuel
+
+Chicago, IL - Email me on Indeed: indeed.com/r/Shiva-Kumar/8cdc63f79b1b758f
+</ba>
+<we>
+WORK EXPERIENCE
+
+Sr Web/UI Developer
+World Fuel  -  Miami, FL - April 2015 to Present
+
+Responsibilities:
+
+• Involved in AGILE Methodology process which includes bi-weekly sprint and daily scrum to discuss the design
+and work progress.
+• Redesigned the complete website using HTML5, Angular JS, CSS3, JavaScript and jQuery.
+• Implemented login page using HTML5/4, CSS3/2, jQuery, AJAX and JSON.
+• Created Responsive Layouts for multiple devices and platforms.
+• Using advanced level of JQUERY, DOM, AJAX, JavaScript, CSS and pure CSS layouts.
+• Registration & Edit User Profile for all FTN sites.
+• Git management - Learned how to manage an application with Git commands from the terminal, xcode,
+eclipse, and Android Studio.
+• Implemented form validations across the site using JQuery and JavaScript.
+• Extensive experience of Object Oriented JavaScript design pattern and JavaScript MVC Patterns Preferably
+Angular JS for building UI Widgets and Application logic.
+• Complete data base designing for both android and iPhone.
+• Used JQUERY plug-ins to implement features as a light box, galleria, sliders and other intuitive features.
+• Created forms to collect and validate data from the user in HTML and JavaScript.
+• Created components like Grid, Panels, Toolbars, button and Combo-box etc.
+• Designed the application framework, selects the software and hardware platforms and determines the site
+navigation.
+• Developed HTML, JSP, DAO, DTO, Business Logic Classes, Action and Form classes, Java Scripts and
+SQLs for database access.
+• Using Angular JS created custom directives for data manipulations and to display data in company standard
+format in UI.
+• Developed plugins to seamlessly integrate plugins with internal Redux data flow.
+• Used Angular JS for data-binding, and Node JS for back-end support with APIs.
+• Created Angular components like controllers, services, directives and forms to collect different user data and
+implemented form validation in AngularJS.
+• Responsible for both front and back end full stack development in PHP, JavaScript, HTML, and CSS while
+utilizing popular CMS' such as Drupal and WordPress.
+• Front-End. Accomplished more than 80% of the main pages using html5, CSS3, JSP. Handling secondary
+requests in jQuery Ajax Call to achieve comfortable user experience. Extending jQuery library, such as Select2
+and file Upload, to improve usability and functionality.
+• Used $http with AngularJS interceptors to make sure the requests were valid and used ui-router to handle
+nested views and avoid page redirection.
+• Used Node JS to implement and deliver customer-facing solutions.
+• Used AngularJS for unit testing UI code.
+• Worked with Soap UI to create advanced Performance Tests very quickly and run Automated Functional
+Tests.
+• Implemented responsive web design using media queries and bootstrap.
+• Writing responsive code using bootstrap classes and media queries.
+• Worked one-on-on e with client to develop layout, color scheme and layout and implemented it into a final
+interface design with the HTML5/CSS3, Bootstrap and JavaScript.
+• Analyzed code and fixed bugs.
+• Worked on the UI Framework like JS, Bootstrap, D3.js, Handlebar, Grunt etc
+• Use JS framework such as AngularJS (for data driven apps) and Backbone.js (for heavy DOM manipulation).
+• Integrated the Java code (API) in JSP Pages.
+• Debug the application using Firebug to traverse the documents and manipulated the Nodes using DOM and
+DOM Functions using Firefox and IE Developer Tool bar for IE.
+• Involved in developing HTML and JavaScript for client side presentation and, data validation on the client
+side with in the forms.
+
+• Involved in writing SQL Queries, Stored Procedures.
+•  Worked  with  GIT  version  control,  vagrant  environment  using  node.js,  Gulp  for  compiling,  and  the  JIRA
+ticketing system.
+• Used tracking tools as JIRA for bug tracking.
+Environment:HTML5, CSS3, JavaScript, JQuery, YUI, Adobe Photoshop, Adobe Dreamweaver, Angular.js,
+Require.js, Backbone.js, node.js, Ext.js, Redux, Responsive Design, Mobile Apps (IOS, Android), Ext.js, D3.js,
+AJAX, DOJO, DOM, Firebug, SOAP, Web services, XML, XSLT, TDD, Oracle, Windows.
+
+UI Developer
+GE Health Care  -  Milwaukee, WI - March 2014 to March 2015
+
+Responsibilities:
+• Worked on the website from start to finish to give it a new look using HTML5/CSS/JavaScript.
+• Built the Responsive UI screen for create new customer process, Create bill to and ship to screens, customer
+search results page, customer dashboard page using HTML 5, CSS 3 and twitter Bootstrap.
+• Involved in write application level code to interact with APIs, Web Services using AJAX, JSON and hence
+building type ahead feature for zip code, city and county look up using jQuery, Ajax and jQuery UI.
+• Developed page layouts, navigation, animation buttons and icons.
+• Involved in the creation of interface to manage user menu and Bulk update of Attributes using angular.js,
+node.js, Backbone.js, Require.js, EXTJS and jQuery.
+• Created UI designs using Web 2.0 standards
+• Responsible for creating the screens with table-less designs meeting W3C standards.
+• Designed dynamic and browser compatible pages using HTML5/HTML, DHTML, CSS 3.0 and JavaScript.
+• Initially worked on applications built using BackboneJS.
+• Involved in extensive HTML5 coding.
+• Built the UI part of address verification service where users can select or ignore recommended address using
+jQuery Ajax and bootstrap model.
+• Developed CSS styles to maintain the uniformity of all the screens throughout the application and positioning
+of screen objects.
+• Responsible to store and retrieve user entered data to HTML 5 session storage hence give user feature of
+running several sessions at one time.
+• Knowledge on implementing directives and scope values using AngularJS for an existing webpage.
+• Created Cross-Browser compatible and standards-compliant CSS-base page layouts.
+• Used AngularJS framework for building web-apps and is highly efficient with PHP framework as well as using
+Restful services
+•  Migrated  content  from  existing  website  to  a  new,  database  driven  website,  utilized  in  house  Content
+Management System.
+• Maintained and manipulated databases for XML parsing for applications in MYSQL.
+• Used Visual Source Safe (VSS) as the Code Management tool.
+• Designed Cross-Browser Compatible Page Layouts using the CSS
+• Built the I frame Layout for Customer Dashboard Page for Ship to and Contact tabs using bootstrap tabbing
+and jQuery, also mapped java objects in ship to and contact JSP and hence give user an ability to select ship
+to and select contact for that customer for current order or create ship to or create contact from customer
+dashboard page.
+• Typical Front end tasks using Sass.
+• REACT JS integration to make info page modular.
+• Thorough MVC Application Design and Build with REACT JS.
+• Strong skill of writing Gulp files to automate the development environment.
+• Creating websites that are user-friendly and mobile applications using the responsive Web Design.
+
+Environment: HTML5, Backbone JS, CSS3, AJAX, DHTML, JSON, REST, MVC, REACTJS, JavaScript, JSP,
+Agile, AJAX, MS Excel, JQuery, Bootstrap, Mongo DB, JIRS, SASS, Gulp, SVN, LESS, WD.
+
+UI Developer
+TDS Telecom  -  Chicago, IL - May 2013 to February 2014
+
+Responsibilities:
+•  Involved  in  various  phases  of  Systems  Development  Life  Cycle  (SDLC)  including  systems  design,
+development, integration, and testing.
+• Involved in planning process of iterations under the Agile Scrum methodology.
+• Collaborated with the offshore team to relay the requirements and ensure on time delivery.
+• Created business specifications as well as class diagrams for enrollment module.
+• Developed Front-end Application using JSP, HTML and JavaScript.
+• Implemented responsive design using Twitter Bootstrap and custom media queries.
+• Designed UI with in object oriented JavaScript framework, AngularJS.
+• Created responsive layouts for multiple devices and platforms using Bootstrap.
+•  Implemented  business  logic  based  on  user  selection  using  jQuery,  AngularJS  and  for  all  client  side  UI
+validation.
+• Implemented directives and scope values using AngularJS for an existing webpage.
+• Implemented routing and SPA application using AngularJS.
+• Used AngularJS $http service to communicate with Restful web services and JSON data.
+• Implemented modular design and worked with declarative bindings in AngularJS.
+• Designed and implemented a dynamic image rendering web service which is consumed by JSP, JQuery,
+JavaScript, and AngularJS.
+• Implemented data visualization using Highcharts.
+• Deployed the static web content in Dev, Stage and UAT environments using web publisher.
+• Exposed business functionality to external systems (Interoperable clients) using Web Services.
+• Developed the website as per guidelines of criterion to compatible with WCAG 508 Compliance.
+• Developed test cases and unit tests for functionality testing using NVDA Reader, JARS.
+• Used JIRA for tracking the work assigned, organizing issues and following team activity.
+• Developed and integrated the application using Sublime Text and used SVN for version control.
+• Used Ant for the build process and deployed to tomcat Server.
+Environment:HTML, CSS3, JavaScript, jQuery, AngularJS, RequireJS, Bootstrap, MS Access, Adobe Flash,
+MS Office, IE, Firefox, Chrome.
+
+UI Developer
+Chicago, IL - January 2011 to April 2013
+
+Responsibilities:
+• Working in custom created framework created extensively using JavaScript MVC and writing code that is
+modular and reusable.
+• Worked on HTML5 mobile UI frameworks like Ionic let you create cross platform hybrid mobile apps with
+native look and feel by using the technology mobile UI frame works.
+• Worked on NodeJS cross-platform runtime environment for developing server-side Web applications.
+• Created Single page application using AngularJS bean validator framework and Directives, Controllers and
+Services by using AngularJS.
+• Worked on web applications using JavaScript, HTML5, CSS
+•  Responsible  in  implementation  of  the  presentation  layer  for  the  application  using  HTML5,  CSS3,
+JAVASCRIPT.
+• Worked on JavaScript and the JQuery framework and built pages using JavaScript, JQuery, CSS3, HTML5.
+• Worked on the SOA, WSDL, XML, Schema, RESTful, Apache Axis2, consumed third party web services.
+
+• Responsive Web Design (RWD) & Mobile Web Development using the latest HTML 5, CSS3, Compass,
+Sass & JQuery.
+• Writing components that hold model data and call back functions for the actions triggered from view.
+• Involved in designing front-end screens using Java script, JSP, AJAX, HTML5, CSS3 and DHTML
+• Writing controllers that are responsible for transferring control between components, routing and rendering
+views.
+• Specially working with AJAX data consisting of JSON responses, parsing the same and presenting on the
+UI layer.
+• Implemented various Validation Controls for form validation and implemented custom validation controls with
+JavaScript validation controls.
+•  Making  pages  that  are  cross-browser  compatible  and  Well  versed  using  JavaScript  and  jQuery  for
+manipulating the mark-up and data operations using jQuery and AJAX.
+• Worked in line with Analysts and Content team to identify correct keys and content • Used Twitter Bootstrap
+show  and  hide  classes  for  different  and  grid  classes  to  create  RWD  and  Used  Agile  methodology  for  the
+software development.
+• Making pages comply to Accessibility requirements (ADA) for physically challenged and all who uses the
+website.
+• As a scrum team member worked on agile stories, trouble shooting issues and fixing defects.
+Environment: HTML5, CSS3, AJAX, JavaScript, jQuery, CQ5, Bootstrap, Blue JS, Blue UI, RequireJs
+
+UI/UX Developer
+Axis Bank  -  Hyderabad, ANDHRA PRADESH, IN - July 2008 to December 2010
+
+Responsibilities:
+• Worked with CSS Background, CSS Layouts, CSS positioning, CSS text, CSS border, CSS margin, CSS
+padding, CSS table, Pseudo classes, Pseudo elements and CSS behaviors in CSS.
+• Responsive design approach using HTML and CSS to support device integration
+• Rapidly prototyped interface designs in hand-coded validating, standards-compliant, and semantically rich
+code and be aware of cross-browser compatibility and bugs.
+• Developed application for different browsers and fixed bugs for browser compatibility.
+• Interacted and worked with cross-functional teams
+• Created and optimized graphic prototype websites and applications interfaces using HTML and CSS.
+• Involved in writing application level code to interact with APIs, Web Services using AJAX, JSON and XML.
+• Implemented and designed user interface for web based customer application.
+• Designed business applications using web technologies like HTML, XHTML, and CSS based on the W3C
+standards.
+• Developed data formatted web applications and deploy the script using client side scripting using JavaScript.
+Environment: HTML, CSS, JavaScript, JQUERY, AJAX, JSON, XML, PHP, Bootstrap, Agile, MAC OS, SVN.
+</we>
+<sk>
+SKILLS
+
+bootstrap. (8 years), JavaScript (8 years), jQuery. (8 years), JSON. (8 years), UI (8 years)
+
+ADDITIONAL INFORMATION
+
+Technical skills:
+UI Web Technologies:
+HTML4/ 5, XHTML, XML, XSLT, JavaScript, AJAX, JQuery, JSON, MySQL, CSS2/3, Redux, MV* Frameworks
+like AngularJS, NodeJS & BackboneJS, Bootstrap.
+
+IDE, Editors: Eclipse IDE, Notepad++, Adobe Dreamweaver, Aptana, Microsoft FrontPage.
+Web/App  Servers:  Apache  Tomcat  7.0,  HTTP  Web  Server,  Experience  with  Many  Online  Webhosting
+Platforms (Shared, Dedicated, VPS).
+Database: Oracle9x/10x, MS-Access, SQL […] PL/SQL.
+Browser: All (IE, Firefox, Opera, Chrome, Safari)
+</sk>
+
