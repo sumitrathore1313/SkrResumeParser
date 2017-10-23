@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 SkrResumeParser/Data/resume_segments/Test/
+.idea
 __pycache__/
 *.py[cod]
 *$py.class
