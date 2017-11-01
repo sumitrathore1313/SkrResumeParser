@@ -1,11 +1,11 @@
-from DataPreprocessing.Vocab import Vocab
+from SkrResumeParser.DataPreprocessing.Vocab import Vocab
 import io
 import numpy as np
 import cPickle as pic
 
 class GloveWordVector():
 
-    def __init__(self, path, dir=True, dimension=100, glove_file_path=False, save_model_path=False,
+    def __init__(self, path, dir=True, dimension=50, glove_file_path=False, save_model_path=False,
                  glove_vocab_file_path=False):
         if dir:
             self.dir_path = path

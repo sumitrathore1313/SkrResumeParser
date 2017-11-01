@@ -1,6 +1,6 @@
-from VectorProcessing.GloveWordVector import GloveWordVector
-from DataPreprocessing.Vocab import get_lexicon
-from DataPreprocessing.create_gram_data import get_data
+from SkrResumeParser.VectorProcessing.GloveWordVector import GloveWordVector
+from SkrResumeParser.DataPreprocessing.Vocab import get_lexicon
+from SkrResumeParser.DataPreprocessing.create_gram_data import get_data
 import os
 import cPickle as pic
 import io
@@ -9,7 +9,7 @@ from sklearn.preprocessing import OneHotEncoder
 
 class GramGloveSentenceVector():
 
-    def __init__(self, path, training = True, dimension = 100, glove_file_path = False, save_word2vec_path = False,
+    def __init__(self, path, training = True, dimension = 50, glove_file_path = False, save_word2vec_path = False,
                  save_model_path = False, glove_vocab_file_path = False):
         """
         this class used to create sentence vector

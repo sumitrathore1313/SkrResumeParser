@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fedff3c-81e2-4fda-8f6a-52723ca6af03" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SkrResumeParser/Documentation/3GramLstmGlove.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SkrResumeParser/Documentation/Registraion.ipynb" afterPath="$PROJECT_DIR$/SkrResumeParser/Documentation/Registraion.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SkrResumeParser/Data/resume_segments/Level0/all.txt" afterPath="$PROJECT_DIR$/SkrResumeParser/Data/resume_segments/Level0/all.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SkrResumeParser/Documentation/3GramCharacterQuantization.ipynb" afterPath="$PROJECT_DIR$/SkrResumeParser/Documentation/3GramCharacterQuantization.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SkrResumeParser/Documentation/Classifier_test.ipynb" afterPath="$PROJECT_DIR$/SkrResumeParser/Documentation/Classifier_test.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SkrResumeParser/Documentation/Test1.ipynb" afterPath="$PROJECT_DIR$/SkrResumeParser/Documentation/Test1.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SkrResumeParser/Test/execute.py" afterPath="$PROJECT_DIR$/SkrResumeParser/Test/execute.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GloveSentenceVector.py" afterPath="$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GloveSentenceVector.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GloveWordVector.py" afterPath="$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GloveWordVector.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GramGloveSentenceVector.py" afterPath="$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GramGloveSentenceVector.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/resume_parser$resume_parser.coverage" NAME="resume_parser Coverage Results" MODIFIED="1508753777853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/resume_parser$resume_parser.coverage" NAME="resume_parser Coverage Results" MODIFIED="1509374188855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/resume_parser$execute.coverage" NAME="execute Coverage Results" MODIFIED="1508701939511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SkrResumeParser/Test" />
   </component>
   <component name="DatabaseView">
@@ -34,12 +39,24 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="all.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SkrResumeParser/Data/resume_segments/Level0/all.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="34968" column="4" lean-forward="true" selection-start-line="34968" selection-start-column="4" selection-end-line="34968" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -52,11 +69,21 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/SkrResumeParser/Documentation/Test3.ipynb" />
         <option value="$PROJECT_DIR$/SkrResumeParser/Documentation/Test2.ipynb" />
-        <option value="$PROJECT_DIR$/SkrResumeParser/Test/execute.py" />
-        <option value="$PROJECT_DIR$/SkrResumeParser/Documentation/Test1.ipynb" />
         <option value="$PROJECT_DIR$/SkrResumeParser/Documentation/CharacterQuantization.ipynb" />
         <option value="$PROJECT_DIR$/SkrResumeParser/Documentation/Classifier_test.ipynb" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/Documentation/ResumeSegmnet.ipynb" />
         <option value="$PROJECT_DIR$/SkrResumeParser/Documentation/Registraion.ipynb" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/Documentation/3GramLstmGlove.ipynb" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/Test/execute.py" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GloveWordVector.py" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GramGloveSentenceVector.py" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/VectorProcessing/__init__.py" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GloveSentenceVector.py" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/Documentation/3GramCharacterQuantization.ipynb" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/Data/resume_segments/Test/sample.txt" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/DataPreprocessing/create_gram_data.py" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/Data/resume_segments/Level0/all.txt" />
+        <option value="$PROJECT_DIR$/SkrResumeParser/Documentation/Test1.ipynb" />
       </list>
     </option>
   </component>
@@ -88,8 +115,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,7 +154,29 @@
               <item name="resume_parser" type="b2602c69:ProjectViewProjectNode" />
               <item name="resume_parser" type="462c0819:PsiDirectoryNode" />
               <item name="SkrResumeParser" type="462c0819:PsiDirectoryNode" />
-              <item name="Documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="resume_segments" type="462c0819:PsiDirectoryNode" />
+              <item name="Level1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resume_parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resume_parser" type="462c0819:PsiDirectoryNode" />
+              <item name="SkrResumeParser" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="resume_segments" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resume_parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resume_parser" type="462c0819:PsiDirectoryNode" />
+              <item name="SkrResumeParser" type="462c0819:PsiDirectoryNode" />
+              <item name="DataPreprocessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resume_parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resume_parser" type="462c0819:PsiDirectoryNode" />
+              <item name="SkrResumeParser" type="462c0819:PsiDirectoryNode" />
+              <item name="VectorProcessing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,17 +265,17 @@
   <component name="ToolWindowManager">
     <frame x="67" y="32" width="1853" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19151312" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2043551" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961518" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837528" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837528" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837528" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961518" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -249,13 +298,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GramGloveSentenceVector.py">
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Test/execute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/3GramCharacterQuantization.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/DataPreprocessing/Vocab.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#60#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Data/resume_segments/Level0/all.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GramGloveSentenceVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -270,7 +348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -309,13 +386,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SkrResumeParser/DataPreprocessing/Vocab.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SkrResumeParser/DataPreprocessing/create_segments.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -330,45 +400,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GloveSentenceVector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="61" column="54" lean-forward="true" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/Test3.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/Test2.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Test/execute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/Classifier_test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/Test1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="6" />
         </state>
       </provider>
     </entry>
@@ -379,24 +414,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SkrResumeParser/DataPreprocessing/create_gram_data.py">
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/Planning">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2310">
-          <caret line="106" column="30" lean-forward="true" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GramGloveSentenceVector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="92" column="66" lean-forward="false" selection-start-line="92" selection-start-column="66" selection-end-line="92" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#60#0" expanded="false" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/Test3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/3GramCharacterQuantization.ipynb">
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/ResumeSegmnet.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -410,10 +442,132 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/Classifier_test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/3GramLstmGlove.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GloveWordVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#57#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GloveSentenceVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/VectorProcessing/GramGloveSentenceVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#76#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/3GramCharacterQuantization.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/DataPreprocessing/create_gram_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Data/resume_segments/Level0/projects.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="109" lean-forward="true" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Data/resume_segments/Level0/certificates.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="316" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Documentation/Test1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Data/resume_segments/Level0/education.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2014" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Data/resume_segments/Test/sample.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/DataPreprocessing/Vocab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/VectorProcessing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkrResumeParser/Test/execute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SkrResumeParser/Data/resume_segments/Level0/all.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-99116">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="34968" column="4" lean-forward="true" selection-start-line="34968" selection-start-column="4" selection-end-line="34968" selection-end-column="4" />
           <folding />
         </state>
       </provider>

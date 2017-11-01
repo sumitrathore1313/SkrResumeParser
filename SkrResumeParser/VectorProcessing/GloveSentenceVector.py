@@ -1,5 +1,5 @@
-from VectorProcessing.GloveWordVector import GloveWordVector
-from DataPreprocessing.Vocab import get_lexicon
+from SkrResumeParser.VectorProcessing.GloveWordVector import GloveWordVector
+from SkrResumeParser.DataPreprocessing.Vocab import get_lexicon
 import os
 import cPickle as pic
 import io
